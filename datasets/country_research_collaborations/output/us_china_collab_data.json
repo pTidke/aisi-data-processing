@@ -1,0 +1,347 @@
+[
+  {
+    "year": 2015,
+    "field": "Artificial intelligence",
+    "num_articles": 1842
+  },
+  {
+    "year": 2015,
+    "field": "Chip design and fabrication",
+    "num_articles": 614
+  },
+  {
+    "year": 2015,
+    "field": "Computer vision",
+    "num_articles": 826
+  },
+  {
+    "year": 2015,
+    "field": "Cybersecurity",
+    "num_articles": 333
+  },
+  {
+    "year": 2015,
+    "field": "Natural language processing",
+    "num_articles": 161
+  },
+  {
+    "year": 2015,
+    "field": "Robotics",
+    "num_articles": 212
+  },
+  {
+    "year": 2016,
+    "field": "Artificial intelligence",
+    "num_articles": 2244
+  },
+  {
+    "year": 2016,
+    "field": "Chip design and fabrication",
+    "num_articles": 774
+  },
+  {
+    "year": 2016,
+    "field": "Computer vision",
+    "num_articles": 971
+  },
+  {
+    "year": 2016,
+    "field": "Cybersecurity",
+    "num_articles": 456
+  },
+  {
+    "year": 2016,
+    "field": "Large language models",
+    "num_articles": 29
+  },
+  {
+    "year": 2016,
+    "field": "Natural language processing",
+    "num_articles": 199
+  },
+  {
+    "year": 2016,
+    "field": "Robotics",
+    "num_articles": 245
+  },
+  {
+    "year": 2017,
+    "field": "AI safety",
+    "num_articles": 52
+  },
+  {
+    "year": 2017,
+    "field": "Artificial intelligence",
+    "num_articles": 2841
+  },
+  {
+    "year": 2017,
+    "field": "Chip design and fabrication",
+    "num_articles": 872
+  },
+  {
+    "year": 2017,
+    "field": "Computer vision",
+    "num_articles": 1210
+  },
+  {
+    "year": 2017,
+    "field": "Cybersecurity",
+    "num_articles": 557
+  },
+  {
+    "year": 2017,
+    "field": "Large language models",
+    "num_articles": 59
+  },
+  {
+    "year": 2017,
+    "field": "Natural language processing",
+    "num_articles": 205
+  },
+  {
+    "year": 2017,
+    "field": "Robotics",
+    "num_articles": 289
+  },
+  {
+    "year": 2018,
+    "field": "AI safety",
+    "num_articles": 98
+  },
+  {
+    "year": 2018,
+    "field": "Artificial intelligence",
+    "num_articles": 3913
+  },
+  {
+    "year": 2018,
+    "field": "Chip design and fabrication",
+    "num_articles": 953
+  },
+  {
+    "year": 2018,
+    "field": "Computer vision",
+    "num_articles": 1629
+  },
+  {
+    "year": 2018,
+    "field": "Cybersecurity",
+    "num_articles": 696
+  },
+  {
+    "year": 2018,
+    "field": "Large language models",
+    "num_articles": 132
+  },
+  {
+    "year": 2018,
+    "field": "Natural language processing",
+    "num_articles": 292
+  },
+  {
+    "year": 2018,
+    "field": "Robotics",
+    "num_articles": 407
+  },
+  {
+    "year": 2019,
+    "field": "AI safety",
+    "num_articles": 135
+  },
+  {
+    "year": 2019,
+    "field": "Artificial intelligence",
+    "num_articles": 5217
+  },
+  {
+    "year": 2019,
+    "field": "Chip design and fabrication",
+    "num_articles": 1076
+  },
+  {
+    "year": 2019,
+    "field": "Computer vision",
+    "num_articles": 2061
+  },
+  {
+    "year": 2019,
+    "field": "Cybersecurity",
+    "num_articles": 758
+  },
+  {
+    "year": 2019,
+    "field": "Large language models",
+    "num_articles": 257
+  },
+  {
+    "year": 2019,
+    "field": "Natural language processing",
+    "num_articles": 428
+  },
+  {
+    "year": 2019,
+    "field": "Robotics",
+    "num_articles": 493
+  },
+  {
+    "year": 2020,
+    "field": "AI safety",
+    "num_articles": 200
+  },
+  {
+    "year": 2020,
+    "field": "Artificial intelligence",
+    "num_articles": 6151
+  },
+  {
+    "year": 2020,
+    "field": "Chip design and fabrication",
+    "num_articles": 1020
+  },
+  {
+    "year": 2020,
+    "field": "Computer vision",
+    "num_articles": 2324
+  },
+  {
+    "year": 2020,
+    "field": "Cybersecurity",
+    "num_articles": 888
+  },
+  {
+    "year": 2020,
+    "field": "Large language models",
+    "num_articles": 446
+  },
+  {
+    "year": 2020,
+    "field": "Natural language processing",
+    "num_articles": 532
+  },
+  {
+    "year": 2020,
+    "field": "Robotics",
+    "num_articles": 536
+  },
+  {
+    "year": 2021,
+    "field": "AI safety",
+    "num_articles": 210
+  },
+  {
+    "year": 2021,
+    "field": "Artificial intelligence",
+    "num_articles": 6435
+  },
+  {
+    "year": 2021,
+    "field": "Chip design and fabrication",
+    "num_articles": 889
+  },
+  {
+    "year": 2021,
+    "field": "Computer vision",
+    "num_articles": 2456
+  },
+  {
+    "year": 2021,
+    "field": "Cybersecurity",
+    "num_articles": 799
+  },
+  {
+    "year": 2021,
+    "field": "Large language models",
+    "num_articles": 634
+  },
+  {
+    "year": 2021,
+    "field": "Natural language processing",
+    "num_articles": 602
+  },
+  {
+    "year": 2021,
+    "field": "Robotics",
+    "num_articles": 521
+  },
+  {
+    "year": 2022,
+    "field": "AI safety",
+    "num_articles": 166
+  },
+  {
+    "year": 2022,
+    "field": "Artificial intelligence",
+    "num_articles": 5665
+  },
+  {
+    "year": 2022,
+    "field": "Chip design and fabrication",
+    "num_articles": 746
+  },
+  {
+    "year": 2022,
+    "field": "Computer vision",
+    "num_articles": 2089
+  },
+  {
+    "year": 2022,
+    "field": "Cybersecurity",
+    "num_articles": 675
+  },
+  {
+    "year": 2022,
+    "field": "Large language models",
+    "num_articles": 617
+  },
+  {
+    "year": 2022,
+    "field": "Natural language processing",
+    "num_articles": 500
+  },
+  {
+    "year": 2022,
+    "field": "Robotics",
+    "num_articles": 556
+  },
+  {
+    "year": 2023,
+    "field": "AI safety",
+    "num_articles": 216
+  },
+  {
+    "year": 2023,
+    "field": "Artificial intelligence",
+    "num_articles": 6183
+  },
+  {
+    "year": 2023,
+    "field": "Chip design and fabrication",
+    "num_articles": 721
+  },
+  {
+    "year": 2023,
+    "field": "Computer vision",
+    "num_articles": 2189
+  },
+  {
+    "year": 2023,
+    "field": "Cybersecurity",
+    "num_articles": 723
+  },
+  {
+    "year": 2023,
+    "field": "Large language models",
+    "num_articles": 929
+  },
+  {
+    "year": 2023,
+    "field": "Natural language processing",
+    "num_articles": 624
+  },
+  {
+    "year": 2023,
+    "field": "Robotics",
+    "num_articles": 545
+  }
+]

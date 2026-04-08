@@ -1,0 +1,181 @@
+country1,country2,field,year,num_articles,complete
+China,Australia,AI safety,2025,74,False
+China,Australia,AI safety,2021,61,True
+China,Australia,AI safety,2023,85,True
+China,Australia,AI safety,2020,52,True
+China,Australia,AI safety,2022,49,True
+China,Australia,AI safety,2024,130,False
+China,Australia,AI safety,2019,33,True
+China,Australia,AI safety,2018,28,True
+Singapore,Australia,AI safety,2024,29,False
+United States,Australia,AI safety,2025,25,False
+United States,Australia,AI safety,2020,42,True
+United States,Australia,AI safety,2024,49,False
+United States,Australia,AI safety,2021,46,True
+United States,Australia,AI safety,2023,41,True
+United States,Australia,AI safety,2022,32,True
+China,Canada,AI safety,2024,44,False
+China,Canada,AI safety,2023,36,True
+China,Canada,AI safety,2021,27,True
+United States,Canada,AI safety,2020,67,True
+United States,Canada,AI safety,2019,49,True
+United States,Canada,AI safety,2018,37,True
+United States,Canada,AI safety,2023,89,True
+United States,Canada,AI safety,2025,40,False
+United States,Canada,AI safety,2021,78,True
+United States,Canada,AI safety,2024,69,False
+United States,Canada,AI safety,2022,58,True
+Australia,China,AI safety,2019,33,True
+Australia,China,AI safety,2020,52,True
+Australia,China,AI safety,2022,49,True
+Australia,China,AI safety,2025,74,False
+Australia,China,AI safety,2021,61,True
+Australia,China,AI safety,2018,28,True
+Australia,China,AI safety,2023,85,True
+Australia,China,AI safety,2024,130,False
+Canada,China,AI safety,2021,27,True
+Canada,China,AI safety,2024,44,False
+Canada,China,AI safety,2023,36,True
+Germany,China,AI safety,2024,47,False
+Japan,China,AI safety,2024,46,False
+Singapore,China,AI safety,2025,87,False
+Singapore,China,AI safety,2022,40,True
+Singapore,China,AI safety,2021,48,True
+Singapore,China,AI safety,2020,42,True
+Singapore,China,AI safety,2023,78,True
+Singapore,China,AI safety,2019,25,True
+Singapore,China,AI safety,2024,137,False
+United Kingdom,China,AI safety,2020,40,True
+United Kingdom,China,AI safety,2023,80,True
+United Kingdom,China,AI safety,2022,40,True
+United Kingdom,China,AI safety,2024,96,False
+United Kingdom,China,AI safety,2019,28,True
+United Kingdom,China,AI safety,2021,42,True
+United Kingdom,China,AI safety,2025,71,False
+United States,China,AI safety,2025,156,False
+United States,China,AI safety,2021,210,True
+United States,China,AI safety,2019,135,True
+United States,China,AI safety,2023,216,True
+United States,China,AI safety,2022,166,True
+United States,China,AI safety,2017,52,True
+United States,China,AI safety,2020,200,True
+United States,China,AI safety,2018,98,True
+United States,China,AI safety,2024,307,False
+United Kingdom,France,AI safety,2024,26,False
+United Kingdom,France,AI safety,2023,26,True
+United States,France,AI safety,2024,32,False
+United States,France,AI safety,2023,25,True
+United States,France,AI safety,2021,25,True
+China,Germany,AI safety,2024,47,False
+Italy,Germany,AI safety,2023,27,True
+Netherlands,Germany,AI safety,2023,38,True
+Netherlands,Germany,AI safety,2024,25,False
+United Kingdom,Germany,AI safety,2021,39,True
+United Kingdom,Germany,AI safety,2024,33,False
+United Kingdom,Germany,AI safety,2020,38,True
+United Kingdom,Germany,AI safety,2023,36,True
+United Kingdom,Germany,AI safety,2022,32,True
+United States,Germany,AI safety,2023,71,True
+United States,Germany,AI safety,2025,31,False
+United States,Germany,AI safety,2022,63,True
+United States,Germany,AI safety,2024,63,False
+United States,Germany,AI safety,2020,79,True
+United States,Germany,AI safety,2019,44,True
+United States,Germany,AI safety,2021,71,True
+United States,Germany,AI safety,2018,42,True
+United States,India,AI safety,2025,49,False
+United States,India,AI safety,2022,31,True
+United States,India,AI safety,2023,42,True
+United States,India,AI safety,2021,32,True
+United States,India,AI safety,2024,92,False
+United States,India,AI safety,2020,39,True
+United States,Israel,AI safety,2020,46,True
+United States,Israel,AI safety,2021,44,True
+United States,Israel,AI safety,2019,37,True
+Germany,Italy,AI safety,2023,27,True
+United Kingdom,Italy,AI safety,2024,25,False
+United Kingdom,Italy,AI safety,2023,26,True
+United Kingdom,Italy,AI safety,2021,25,True
+United States,Italy,AI safety,2023,28,True
+United States,Italy,AI safety,2024,29,False
+United States,Italy,AI safety,2021,25,True
+China,Japan,AI safety,2024,46,False
+United States,Japan,AI safety,2021,29,True
+United States,Japan,AI safety,2022,27,True
+United States,Japan,AI safety,2023,29,True
+Germany,Netherlands,AI safety,2023,38,True
+Germany,Netherlands,AI safety,2024,25,False
+United States,Netherlands,AI safety,2024,27,False
+Australia,Singapore,AI safety,2024,29,False
+China,Singapore,AI safety,2025,87,False
+China,Singapore,AI safety,2021,48,True
+China,Singapore,AI safety,2024,137,False
+China,Singapore,AI safety,2023,78,True
+China,Singapore,AI safety,2019,25,True
+China,Singapore,AI safety,2020,42,True
+China,Singapore,AI safety,2022,40,True
+United States,Singapore,AI safety,2024,47,False
+United States,Singapore,AI safety,2019,30,True
+United States,Singapore,AI safety,2023,31,True
+United States,Singapore,AI safety,2021,30,True
+United States,Singapore,AI safety,2020,28,True
+United States,South Korea,AI safety,2022,28,True
+United States,South Korea,AI safety,2025,26,False
+United States,South Korea,AI safety,2020,28,True
+United States,South Korea,AI safety,2024,44,False
+United States,South Korea,AI safety,2023,37,True
+United States,Switzerland,AI safety,2024,27,False
+United States,Switzerland,AI safety,2021,30,True
+United States,Switzerland,AI safety,2020,36,True
+China,United Kingdom,AI safety,2019,28,True
+China,United Kingdom,AI safety,2023,80,True
+China,United Kingdom,AI safety,2025,71,False
+China,United Kingdom,AI safety,2021,42,True
+China,United Kingdom,AI safety,2022,40,True
+China,United Kingdom,AI safety,2024,96,False
+China,United Kingdom,AI safety,2020,40,True
+France,United Kingdom,AI safety,2024,26,False
+France,United Kingdom,AI safety,2023,26,True
+Germany,United Kingdom,AI safety,2020,38,True
+Germany,United Kingdom,AI safety,2023,36,True
+Germany,United Kingdom,AI safety,2021,39,True
+Germany,United Kingdom,AI safety,2022,32,True
+Germany,United Kingdom,AI safety,2024,33,False
+Italy,United Kingdom,AI safety,2023,26,True
+Italy,United Kingdom,AI safety,2024,25,False
+Italy,United Kingdom,AI safety,2021,25,True
+United States,United Kingdom,AI safety,2024,97,False
+United States,United Kingdom,AI safety,2016,30,True
+United States,United Kingdom,AI safety,2022,79,True
+United States,United Kingdom,AI safety,2017,35,True
+United States,United Kingdom,AI safety,2018,52,True
+United States,United Kingdom,AI safety,2021,113,True
+United States,United Kingdom,AI safety,2020,99,True
+United States,United Kingdom,AI safety,2023,112,True
+United States,United Kingdom,AI safety,2019,74,True
+United States,United Kingdom,AI safety,2025,58,False
+Australia,United States,AI safety,2024,49,False
+Australia,United States,AI safety,2025,25,False
+Australia,United States,AI safety,2020,42,True
+Australia,United States,AI safety,2021,46,True
+Australia,United States,AI safety,2022,32,True
+Australia,United States,AI safety,2023,41,True
+Canada,United States,AI safety,2019,49,True
+Canada,United States,AI safety,2022,58,True
+Canada,United States,AI safety,2018,37,True
+Canada,United States,AI safety,2024,69,False
+Canada,United States,AI safety,2023,89,True
+Canada,United States,AI safety,2025,40,False
+Canada,United States,AI safety,2021,78,True
+Canada,United States,AI safety,2020,67,True
+China,United States,AI safety,2020,200,True
+China,United States,AI safety,2017,52,True
+China,United States,AI safety,2025,156,False
+China,United States,AI safety,2021,210,True
+China,United States,AI safety,2024,307,False
+China,United States,AI safety,2018,98,True
+China,United States,AI safety,2019,135,True
+China,United States,AI safety,2022,166,True
+China,United States,AI safety,2023,216,True
+France,United States,AI safety,2021,25,True
+France,United States,AI safety,2023,25,True

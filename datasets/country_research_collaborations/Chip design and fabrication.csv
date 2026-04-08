@@ -1,0 +1,2418 @@
+country1,country2,field,year,num_articles,complete
+Canada,Australia,Chip design and fabrication,2021,26,True
+Canada,Australia,Chip design and fabrication,2020,37,True
+Canada,Australia,Chip design and fabrication,2019,38,True
+Canada,Australia,Chip design and fabrication,2018,25,True
+Canada,Australia,Chip design and fabrication,2023,33,True
+China,Australia,Chip design and fabrication,2025,143,False
+China,Australia,Chip design and fabrication,2015,44,True
+China,Australia,Chip design and fabrication,2023,156,True
+China,Australia,Chip design and fabrication,2017,86,True
+China,Australia,Chip design and fabrication,2020,178,True
+China,Australia,Chip design and fabrication,2016,73,True
+China,Australia,Chip design and fabrication,2024,198,False
+China,Australia,Chip design and fabrication,2019,176,True
+China,Australia,Chip design and fabrication,2022,188,True
+China,Australia,Chip design and fabrication,2021,153,True
+China,Australia,Chip design and fabrication,2018,132,True
+Germany,Australia,Chip design and fabrication,2023,41,True
+Germany,Australia,Chip design and fabrication,2016,25,True
+Germany,Australia,Chip design and fabrication,2022,36,True
+Germany,Australia,Chip design and fabrication,2019,26,True
+Germany,Australia,Chip design and fabrication,2021,26,True
+Germany,Australia,Chip design and fabrication,2018,28,True
+Germany,Australia,Chip design and fabrication,2020,33,True
+Germany,Australia,Chip design and fabrication,2024,31,False
+India,Australia,Chip design and fabrication,2021,26,True
+India,Australia,Chip design and fabrication,2023,27,True
+India,Australia,Chip design and fabrication,2024,25,False
+India,Australia,Chip design and fabrication,2022,30,True
+Japan,Australia,Chip design and fabrication,2018,25,True
+Japan,Australia,Chip design and fabrication,2019,28,True
+Japan,Australia,Chip design and fabrication,2023,35,True
+Japan,Australia,Chip design and fabrication,2020,40,True
+Russia,Australia,Chip design and fabrication,2019,29,True
+United Kingdom,Australia,Chip design and fabrication,2017,29,True
+United Kingdom,Australia,Chip design and fabrication,2021,54,True
+United Kingdom,Australia,Chip design and fabrication,2019,32,True
+United Kingdom,Australia,Chip design and fabrication,2024,40,False
+United Kingdom,Australia,Chip design and fabrication,2023,39,True
+United Kingdom,Australia,Chip design and fabrication,2022,41,True
+United Kingdom,Australia,Chip design and fabrication,2020,34,True
+United Kingdom,Australia,Chip design and fabrication,2016,37,True
+United Kingdom,Australia,Chip design and fabrication,2025,30,False
+United Kingdom,Australia,Chip design and fabrication,2018,42,True
+United States,Australia,Chip design and fabrication,2018,67,True
+United States,Australia,Chip design and fabrication,2025,34,False
+United States,Australia,Chip design and fabrication,2020,75,True
+United States,Australia,Chip design and fabrication,2016,60,True
+United States,Australia,Chip design and fabrication,2021,79,True
+United States,Australia,Chip design and fabrication,2015,50,True
+United States,Australia,Chip design and fabrication,2019,75,True
+United States,Australia,Chip design and fabrication,2024,67,False
+United States,Australia,Chip design and fabrication,2023,57,True
+United States,Australia,Chip design and fabrication,2017,67,True
+United States,Australia,Chip design and fabrication,2022,76,True
+Belgium,Austria,Chip design and fabrication,2024,27,False
+Belgium,Austria,Chip design and fabrication,2020,27,True
+France,Austria,Chip design and fabrication,2024,30,False
+France,Austria,Chip design and fabrication,2016,26,True
+Germany,Austria,Chip design and fabrication,2024,84,False
+Germany,Austria,Chip design and fabrication,2020,82,True
+Germany,Austria,Chip design and fabrication,2018,69,True
+Germany,Austria,Chip design and fabrication,2023,83,True
+Germany,Austria,Chip design and fabrication,2021,65,True
+Germany,Austria,Chip design and fabrication,2016,63,True
+Germany,Austria,Chip design and fabrication,2017,67,True
+Germany,Austria,Chip design and fabrication,2015,47,True
+Germany,Austria,Chip design and fabrication,2019,66,True
+Germany,Austria,Chip design and fabrication,2022,86,True
+Germany,Austria,Chip design and fabrication,2025,37,False
+Italy,Austria,Chip design and fabrication,2018,36,True
+Italy,Austria,Chip design and fabrication,2021,40,True
+Italy,Austria,Chip design and fabrication,2023,46,True
+Italy,Austria,Chip design and fabrication,2022,42,True
+Italy,Austria,Chip design and fabrication,2020,40,True
+Italy,Austria,Chip design and fabrication,2019,36,True
+Italy,Austria,Chip design and fabrication,2024,43,False
+United Kingdom,Austria,Chip design and fabrication,2023,31,True
+United Kingdom,Austria,Chip design and fabrication,2022,36,True
+United Kingdom,Austria,Chip design and fabrication,2021,36,True
+United Kingdom,Austria,Chip design and fabrication,2020,31,True
+United Kingdom,Austria,Chip design and fabrication,2018,25,True
+United Kingdom,Austria,Chip design and fabrication,2019,30,True
+United States,Austria,Chip design and fabrication,2015,33,True
+United States,Austria,Chip design and fabrication,2024,30,False
+United States,Austria,Chip design and fabrication,2019,33,True
+United States,Austria,Chip design and fabrication,2021,44,True
+United States,Austria,Chip design and fabrication,2020,48,True
+United States,Austria,Chip design and fabrication,2023,47,True
+United States,Austria,Chip design and fabrication,2022,35,True
+United States,Austria,Chip design and fabrication,2017,44,True
+United States,Austria,Chip design and fabrication,2018,41,True
+United States,Bangladesh,Chip design and fabrication,2024,31,False
+Russia,Belarus,Chip design and fabrication,2019,25,True
+Austria,Belgium,Chip design and fabrication,2020,27,True
+Austria,Belgium,Chip design and fabrication,2024,27,False
+Brazil,Belgium,Chip design and fabrication,2016,34,True
+Brazil,Belgium,Chip design and fabrication,2015,34,True
+China,Belgium,Chip design and fabrication,2017,33,True
+China,Belgium,Chip design and fabrication,2021,47,True
+China,Belgium,Chip design and fabrication,2016,33,True
+China,Belgium,Chip design and fabrication,2024,26,False
+China,Belgium,Chip design and fabrication,2015,28,True
+China,Belgium,Chip design and fabrication,2018,36,True
+China,Belgium,Chip design and fabrication,2022,48,True
+China,Belgium,Chip design and fabrication,2020,39,True
+China,Belgium,Chip design and fabrication,2025,32,False
+China,Belgium,Chip design and fabrication,2019,40,True
+China,Belgium,Chip design and fabrication,2023,38,True
+France,Belgium,Chip design and fabrication,2023,44,True
+France,Belgium,Chip design and fabrication,2022,50,True
+France,Belgium,Chip design and fabrication,2015,50,True
+France,Belgium,Chip design and fabrication,2016,44,True
+France,Belgium,Chip design and fabrication,2021,43,True
+France,Belgium,Chip design and fabrication,2018,58,True
+France,Belgium,Chip design and fabrication,2019,50,True
+France,Belgium,Chip design and fabrication,2017,51,True
+France,Belgium,Chip design and fabrication,2024,57,False
+France,Belgium,Chip design and fabrication,2020,63,True
+Germany,Belgium,Chip design and fabrication,2022,61,True
+Germany,Belgium,Chip design and fabrication,2020,56,True
+Germany,Belgium,Chip design and fabrication,2017,70,True
+Germany,Belgium,Chip design and fabrication,2016,47,True
+Germany,Belgium,Chip design and fabrication,2023,67,True
+Germany,Belgium,Chip design and fabrication,2025,25,False
+Germany,Belgium,Chip design and fabrication,2018,66,True
+Germany,Belgium,Chip design and fabrication,2019,55,True
+Germany,Belgium,Chip design and fabrication,2024,58,False
+Germany,Belgium,Chip design and fabrication,2021,71,True
+Germany,Belgium,Chip design and fabrication,2015,44,True
+Italy,Belgium,Chip design and fabrication,2023,38,True
+Italy,Belgium,Chip design and fabrication,2017,48,True
+Italy,Belgium,Chip design and fabrication,2018,39,True
+Italy,Belgium,Chip design and fabrication,2022,37,True
+Italy,Belgium,Chip design and fabrication,2019,36,True
+Italy,Belgium,Chip design and fabrication,2024,29,False
+Italy,Belgium,Chip design and fabrication,2015,38,True
+Italy,Belgium,Chip design and fabrication,2021,43,True
+Italy,Belgium,Chip design and fabrication,2020,40,True
+Italy,Belgium,Chip design and fabrication,2016,41,True
+Japan,Belgium,Chip design and fabrication,2020,35,True
+Japan,Belgium,Chip design and fabrication,2016,29,True
+Japan,Belgium,Chip design and fabrication,2024,39,False
+Japan,Belgium,Chip design and fabrication,2018,48,True
+Japan,Belgium,Chip design and fabrication,2023,38,True
+Japan,Belgium,Chip design and fabrication,2021,35,True
+Japan,Belgium,Chip design and fabrication,2022,27,True
+Japan,Belgium,Chip design and fabrication,2017,29,True
+Japan,Belgium,Chip design and fabrication,2015,52,True
+Japan,Belgium,Chip design and fabrication,2019,44,True
+Netherlands,Belgium,Chip design and fabrication,2024,45,False
+Netherlands,Belgium,Chip design and fabrication,2015,50,True
+Netherlands,Belgium,Chip design and fabrication,2019,78,True
+Netherlands,Belgium,Chip design and fabrication,2016,34,True
+Netherlands,Belgium,Chip design and fabrication,2018,62,True
+Netherlands,Belgium,Chip design and fabrication,2017,58,True
+Netherlands,Belgium,Chip design and fabrication,2020,63,True
+Netherlands,Belgium,Chip design and fabrication,2023,48,True
+Netherlands,Belgium,Chip design and fabrication,2021,57,True
+Netherlands,Belgium,Chip design and fabrication,2022,34,True
+Switzerland,Belgium,Chip design and fabrication,2024,30,False
+Switzerland,Belgium,Chip design and fabrication,2021,41,True
+Switzerland,Belgium,Chip design and fabrication,2018,29,True
+Switzerland,Belgium,Chip design and fabrication,2019,29,True
+Switzerland,Belgium,Chip design and fabrication,2023,32,True
+Switzerland,Belgium,Chip design and fabrication,2020,30,True
+United Kingdom,Belgium,Chip design and fabrication,2017,37,True
+United Kingdom,Belgium,Chip design and fabrication,2019,34,True
+United Kingdom,Belgium,Chip design and fabrication,2021,26,True
+United Kingdom,Belgium,Chip design and fabrication,2018,37,True
+United Kingdom,Belgium,Chip design and fabrication,2015,36,True
+United Kingdom,Belgium,Chip design and fabrication,2016,26,True
+United Kingdom,Belgium,Chip design and fabrication,2023,29,True
+United States,Belgium,Chip design and fabrication,2023,103,True
+United States,Belgium,Chip design and fabrication,2021,90,True
+United States,Belgium,Chip design and fabrication,2016,103,True
+United States,Belgium,Chip design and fabrication,2020,86,True
+United States,Belgium,Chip design and fabrication,2018,118,True
+United States,Belgium,Chip design and fabrication,2025,36,False
+United States,Belgium,Chip design and fabrication,2024,79,False
+United States,Belgium,Chip design and fabrication,2019,101,True
+United States,Belgium,Chip design and fabrication,2022,98,True
+United States,Belgium,Chip design and fabrication,2017,96,True
+United States,Belgium,Chip design and fabrication,2015,105,True
+Belgium,Brazil,Chip design and fabrication,2015,34,True
+Belgium,Brazil,Chip design and fabrication,2016,34,True
+France,Brazil,Chip design and fabrication,2017,31,True
+France,Brazil,Chip design and fabrication,2022,29,True
+France,Brazil,Chip design and fabrication,2020,27,True
+France,Brazil,Chip design and fabrication,2023,31,True
+France,Brazil,Chip design and fabrication,2016,29,True
+France,Brazil,Chip design and fabrication,2021,31,True
+France,Brazil,Chip design and fabrication,2018,34,True
+France,Brazil,Chip design and fabrication,2024,31,False
+France,Brazil,Chip design and fabrication,2015,31,True
+France,Brazil,Chip design and fabrication,2019,34,True
+Germany,Brazil,Chip design and fabrication,2021,26,True
+Germany,Brazil,Chip design and fabrication,2020,32,True
+United States,Brazil,Chip design and fabrication,2015,45,True
+United States,Brazil,Chip design and fabrication,2019,29,True
+United States,Brazil,Chip design and fabrication,2022,26,True
+United States,Brazil,Chip design and fabrication,2018,43,True
+United States,Brazil,Chip design and fabrication,2016,32,True
+United States,Brazil,Chip design and fabrication,2017,30,True
+United States,Brazil,Chip design and fabrication,2020,41,True
+United States,Brazil,Chip design and fabrication,2023,25,True
+United States,Brazil,Chip design and fabrication,2021,33,True
+Australia,Canada,Chip design and fabrication,2019,38,True
+Australia,Canada,Chip design and fabrication,2020,37,True
+Australia,Canada,Chip design and fabrication,2021,26,True
+Australia,Canada,Chip design and fabrication,2023,33,True
+Australia,Canada,Chip design and fabrication,2018,25,True
+China,Canada,Chip design and fabrication,2019,154,True
+China,Canada,Chip design and fabrication,2025,98,False
+China,Canada,Chip design and fabrication,2016,111,True
+China,Canada,Chip design and fabrication,2024,168,False
+China,Canada,Chip design and fabrication,2018,132,True
+China,Canada,Chip design and fabrication,2017,101,True
+China,Canada,Chip design and fabrication,2021,169,True
+China,Canada,Chip design and fabrication,2023,169,True
+China,Canada,Chip design and fabrication,2022,159,True
+China,Canada,Chip design and fabrication,2015,91,True
+China,Canada,Chip design and fabrication,2020,190,True
+Egypt,Canada,Chip design and fabrication,2019,28,True
+France,Canada,Chip design and fabrication,2015,61,True
+France,Canada,Chip design and fabrication,2020,62,True
+France,Canada,Chip design and fabrication,2021,66,True
+France,Canada,Chip design and fabrication,2022,59,True
+France,Canada,Chip design and fabrication,2024,49,False
+France,Canada,Chip design and fabrication,2019,69,True
+France,Canada,Chip design and fabrication,2016,72,True
+France,Canada,Chip design and fabrication,2017,53,True
+France,Canada,Chip design and fabrication,2023,66,True
+France,Canada,Chip design and fabrication,2018,71,True
+Germany,Canada,Chip design and fabrication,2020,42,True
+Germany,Canada,Chip design and fabrication,2017,33,True
+Germany,Canada,Chip design and fabrication,2023,53,True
+Germany,Canada,Chip design and fabrication,2024,40,False
+Germany,Canada,Chip design and fabrication,2015,25,True
+Germany,Canada,Chip design and fabrication,2016,28,True
+Germany,Canada,Chip design and fabrication,2019,33,True
+Germany,Canada,Chip design and fabrication,2022,37,True
+Germany,Canada,Chip design and fabrication,2021,50,True
+India,Canada,Chip design and fabrication,2023,27,True
+India,Canada,Chip design and fabrication,2024,31,False
+India,Canada,Chip design and fabrication,2021,27,True
+India,Canada,Chip design and fabrication,2022,30,True
+Iran,Canada,Chip design and fabrication,2015,30,True
+Iran,Canada,Chip design and fabrication,2018,25,True
+Iran,Canada,Chip design and fabrication,2023,25,True
+Iran,Canada,Chip design and fabrication,2017,27,True
+Iran,Canada,Chip design and fabrication,2022,29,True
+Iran,Canada,Chip design and fabrication,2021,34,True
+Iran,Canada,Chip design and fabrication,2019,29,True
+Iran,Canada,Chip design and fabrication,2024,32,False
+Iran,Canada,Chip design and fabrication,2020,51,True
+Italy,Canada,Chip design and fabrication,2019,27,True
+Japan,Canada,Chip design and fabrication,2023,27,True
+Japan,Canada,Chip design and fabrication,2019,29,True
+Japan,Canada,Chip design and fabrication,2018,27,True
+Japan,Canada,Chip design and fabrication,2020,25,True
+Romania,Canada,Chip design and fabrication,2018,42,True
+Romania,Canada,Chip design and fabrication,2021,44,True
+Romania,Canada,Chip design and fabrication,2019,46,True
+Romania,Canada,Chip design and fabrication,2020,43,True
+Romania,Canada,Chip design and fabrication,2016,40,True
+Spain,Canada,Chip design and fabrication,2023,30,True
+Spain,Canada,Chip design and fabrication,2018,25,True
+Spain,Canada,Chip design and fabrication,2021,31,True
+Spain,Canada,Chip design and fabrication,2016,25,True
+Spain,Canada,Chip design and fabrication,2024,30,False
+Spain,Canada,Chip design and fabrication,2019,26,True
+United Kingdom,Canada,Chip design and fabrication,2024,40,False
+United Kingdom,Canada,Chip design and fabrication,2019,44,True
+United Kingdom,Canada,Chip design and fabrication,2023,45,True
+United Kingdom,Canada,Chip design and fabrication,2018,35,True
+United Kingdom,Canada,Chip design and fabrication,2022,37,True
+United Kingdom,Canada,Chip design and fabrication,2021,36,True
+United Kingdom,Canada,Chip design and fabrication,2015,31,True
+United Kingdom,Canada,Chip design and fabrication,2017,31,True
+United Kingdom,Canada,Chip design and fabrication,2016,36,True
+United Kingdom,Canada,Chip design and fabrication,2020,45,True
+United States,Canada,Chip design and fabrication,2024,152,False
+United States,Canada,Chip design and fabrication,2020,185,True
+United States,Canada,Chip design and fabrication,2018,184,True
+United States,Canada,Chip design and fabrication,2016,190,True
+United States,Canada,Chip design and fabrication,2017,189,True
+United States,Canada,Chip design and fabrication,2022,164,True
+United States,Canada,Chip design and fabrication,2023,153,True
+United States,Canada,Chip design and fabrication,2021,154,True
+United States,Canada,Chip design and fabrication,2019,178,True
+United States,Canada,Chip design and fabrication,2025,62,False
+United States,Canada,Chip design and fabrication,2015,145,True
+Australia,China,Chip design and fabrication,2021,153,True
+Australia,China,Chip design and fabrication,2023,156,True
+Australia,China,Chip design and fabrication,2025,143,False
+Australia,China,Chip design and fabrication,2015,44,True
+Australia,China,Chip design and fabrication,2019,176,True
+Australia,China,Chip design and fabrication,2017,86,True
+Australia,China,Chip design and fabrication,2020,178,True
+Australia,China,Chip design and fabrication,2016,73,True
+Australia,China,Chip design and fabrication,2024,198,False
+Australia,China,Chip design and fabrication,2022,188,True
+Australia,China,Chip design and fabrication,2018,132,True
+Belgium,China,Chip design and fabrication,2016,33,True
+Belgium,China,Chip design and fabrication,2020,39,True
+Belgium,China,Chip design and fabrication,2024,26,False
+Belgium,China,Chip design and fabrication,2018,36,True
+Belgium,China,Chip design and fabrication,2023,38,True
+Belgium,China,Chip design and fabrication,2021,47,True
+Belgium,China,Chip design and fabrication,2015,28,True
+Belgium,China,Chip design and fabrication,2025,32,False
+Belgium,China,Chip design and fabrication,2017,33,True
+Belgium,China,Chip design and fabrication,2022,48,True
+Belgium,China,Chip design and fabrication,2019,40,True
+Canada,China,Chip design and fabrication,2019,154,True
+Canada,China,Chip design and fabrication,2020,190,True
+Canada,China,Chip design and fabrication,2022,159,True
+Canada,China,Chip design and fabrication,2017,101,True
+Canada,China,Chip design and fabrication,2023,169,True
+Canada,China,Chip design and fabrication,2021,169,True
+Canada,China,Chip design and fabrication,2018,132,True
+Canada,China,Chip design and fabrication,2024,168,False
+Canada,China,Chip design and fabrication,2025,98,False
+Canada,China,Chip design and fabrication,2016,111,True
+Canada,China,Chip design and fabrication,2015,91,True
+Denmark,China,Chip design and fabrication,2020,34,True
+Denmark,China,Chip design and fabrication,2018,31,True
+Denmark,China,Chip design and fabrication,2024,41,False
+Denmark,China,Chip design and fabrication,2017,27,True
+Denmark,China,Chip design and fabrication,2023,47,True
+Denmark,China,Chip design and fabrication,2022,48,True
+Denmark,China,Chip design and fabrication,2021,44,True
+Denmark,China,Chip design and fabrication,2016,28,True
+Denmark,China,Chip design and fabrication,2019,37,True
+France,China,Chip design and fabrication,2021,97,True
+France,China,Chip design and fabrication,2015,86,True
+France,China,Chip design and fabrication,2017,68,True
+France,China,Chip design and fabrication,2023,93,True
+France,China,Chip design and fabrication,2016,81,True
+France,China,Chip design and fabrication,2025,59,False
+France,China,Chip design and fabrication,2022,98,True
+France,China,Chip design and fabrication,2024,92,False
+France,China,Chip design and fabrication,2019,115,True
+France,China,Chip design and fabrication,2020,99,True
+France,China,Chip design and fabrication,2018,104,True
+Germany,China,Chip design and fabrication,2017,92,True
+Germany,China,Chip design and fabrication,2025,105,False
+Germany,China,Chip design and fabrication,2024,171,False
+Germany,China,Chip design and fabrication,2021,140,True
+Germany,China,Chip design and fabrication,2018,108,True
+Germany,China,Chip design and fabrication,2019,122,True
+Germany,China,Chip design and fabrication,2016,85,True
+Germany,China,Chip design and fabrication,2020,122,True
+Germany,China,Chip design and fabrication,2015,53,True
+Germany,China,Chip design and fabrication,2023,142,True
+Germany,China,Chip design and fabrication,2022,163,True
+India,China,Chip design and fabrication,2019,46,True
+India,China,Chip design and fabrication,2018,26,True
+India,China,Chip design and fabrication,2024,54,False
+India,China,Chip design and fabrication,2022,52,True
+India,China,Chip design and fabrication,2021,62,True
+India,China,Chip design and fabrication,2023,43,True
+India,China,Chip design and fabrication,2020,45,True
+India,China,Chip design and fabrication,2025,25,False
+Ireland,China,Chip design and fabrication,2024,29,False
+Ireland,China,Chip design and fabrication,2023,27,True
+Ireland,China,Chip design and fabrication,2020,32,True
+Ireland,China,Chip design and fabrication,2019,29,True
+Ireland,China,Chip design and fabrication,2022,26,True
+Ireland,China,Chip design and fabrication,2021,29,True
+Italy,China,Chip design and fabrication,2016,48,True
+Italy,China,Chip design and fabrication,2025,58,False
+Italy,China,Chip design and fabrication,2024,74,False
+Italy,China,Chip design and fabrication,2021,57,True
+Italy,China,Chip design and fabrication,2019,61,True
+Italy,China,Chip design and fabrication,2018,49,True
+Italy,China,Chip design and fabrication,2017,36,True
+Italy,China,Chip design and fabrication,2022,54,True
+Italy,China,Chip design and fabrication,2023,70,True
+Italy,China,Chip design and fabrication,2020,40,True
+Japan,China,Chip design and fabrication,2017,117,True
+Japan,China,Chip design and fabrication,2025,153,False
+Japan,China,Chip design and fabrication,2016,128,True
+Japan,China,Chip design and fabrication,2019,154,True
+Japan,China,Chip design and fabrication,2018,146,True
+Japan,China,Chip design and fabrication,2024,183,False
+Japan,China,Chip design and fabrication,2015,108,True
+Japan,China,Chip design and fabrication,2021,186,True
+Japan,China,Chip design and fabrication,2022,197,True
+Japan,China,Chip design and fabrication,2020,167,True
+Japan,China,Chip design and fabrication,2023,182,True
+Malaysia,China,Chip design and fabrication,2024,45,False
+Malaysia,China,Chip design and fabrication,2023,34,True
+Netherlands,China,Chip design and fabrication,2020,62,True
+Netherlands,China,Chip design and fabrication,2019,47,True
+Netherlands,China,Chip design and fabrication,2022,84,True
+Netherlands,China,Chip design and fabrication,2024,80,False
+Netherlands,China,Chip design and fabrication,2018,36,True
+Netherlands,China,Chip design and fabrication,2016,38,True
+Netherlands,China,Chip design and fabrication,2023,108,True
+Netherlands,China,Chip design and fabrication,2017,29,True
+Netherlands,China,Chip design and fabrication,2021,85,True
+Netherlands,China,Chip design and fabrication,2025,49,False
+Pakistan,China,Chip design and fabrication,2022,29,True
+Pakistan,China,Chip design and fabrication,2019,36,True
+Pakistan,China,Chip design and fabrication,2021,26,True
+Pakistan,China,Chip design and fabrication,2023,29,True
+Pakistan,China,Chip design and fabrication,2020,28,True
+Pakistan,China,Chip design and fabrication,2024,39,False
+Portugal,China,Chip design and fabrication,2023,26,True
+Portugal,China,Chip design and fabrication,2019,31,True
+Portugal,China,Chip design and fabrication,2021,45,True
+Portugal,China,Chip design and fabrication,2016,32,True
+Portugal,China,Chip design and fabrication,2024,25,False
+Portugal,China,Chip design and fabrication,2017,40,True
+Portugal,China,Chip design and fabrication,2020,49,True
+Russia,China,Chip design and fabrication,2022,39,True
+Russia,China,Chip design and fabrication,2023,37,True
+Russia,China,Chip design and fabrication,2018,26,True
+Russia,China,Chip design and fabrication,2019,60,True
+Russia,China,Chip design and fabrication,2024,34,False
+Russia,China,Chip design and fabrication,2020,36,True
+Saudi Arabia,China,Chip design and fabrication,2022,63,True
+Saudi Arabia,China,Chip design and fabrication,2020,33,True
+Saudi Arabia,China,Chip design and fabrication,2024,74,False
+Saudi Arabia,China,Chip design and fabrication,2021,50,True
+Saudi Arabia,China,Chip design and fabrication,2023,54,True
+Saudi Arabia,China,Chip design and fabrication,2025,46,False
+Saudi Arabia,China,Chip design and fabrication,2019,38,True
+Saudi Arabia,China,Chip design and fabrication,2018,36,True
+Singapore,China,Chip design and fabrication,2023,258,True
+Singapore,China,Chip design and fabrication,2025,275,False
+Singapore,China,Chip design and fabrication,2016,153,True
+Singapore,China,Chip design and fabrication,2019,228,True
+Singapore,China,Chip design and fabrication,2017,182,True
+Singapore,China,Chip design and fabrication,2018,228,True
+Singapore,China,Chip design and fabrication,2024,379,False
+Singapore,China,Chip design and fabrication,2015,155,True
+Singapore,China,Chip design and fabrication,2021,235,True
+Singapore,China,Chip design and fabrication,2022,246,True
+Singapore,China,Chip design and fabrication,2020,212,True
+South Korea,China,Chip design and fabrication,2023,88,True
+South Korea,China,Chip design and fabrication,2025,95,False
+South Korea,China,Chip design and fabrication,2017,74,True
+South Korea,China,Chip design and fabrication,2016,63,True
+South Korea,China,Chip design and fabrication,2019,81,True
+South Korea,China,Chip design and fabrication,2024,109,False
+South Korea,China,Chip design and fabrication,2021,75,True
+South Korea,China,Chip design and fabrication,2018,78,True
+South Korea,China,Chip design and fabrication,2020,76,True
+South Korea,China,Chip design and fabrication,2015,56,True
+South Korea,China,Chip design and fabrication,2022,92,True
+Spain,China,Chip design and fabrication,2023,54,True
+Spain,China,Chip design and fabrication,2018,36,True
+Spain,China,Chip design and fabrication,2020,44,True
+Spain,China,Chip design and fabrication,2024,41,False
+Spain,China,Chip design and fabrication,2021,44,True
+Spain,China,Chip design and fabrication,2017,34,True
+Spain,China,Chip design and fabrication,2019,39,True
+Spain,China,Chip design and fabrication,2022,40,True
+Sweden,China,Chip design and fabrication,2025,45,False
+Sweden,China,Chip design and fabrication,2018,71,True
+Sweden,China,Chip design and fabrication,2020,65,True
+Sweden,China,Chip design and fabrication,2019,48,True
+Sweden,China,Chip design and fabrication,2022,52,True
+Sweden,China,Chip design and fabrication,2021,53,True
+Sweden,China,Chip design and fabrication,2015,45,True
+Sweden,China,Chip design and fabrication,2024,71,False
+Sweden,China,Chip design and fabrication,2017,52,True
+Sweden,China,Chip design and fabrication,2016,51,True
+Sweden,China,Chip design and fabrication,2023,62,True
+Switzerland,China,Chip design and fabrication,2024,51,False
+Switzerland,China,Chip design and fabrication,2020,44,True
+Switzerland,China,Chip design and fabrication,2021,37,True
+Switzerland,China,Chip design and fabrication,2023,46,True
+Switzerland,China,Chip design and fabrication,2022,47,True
+Switzerland,China,Chip design and fabrication,2017,29,True
+Switzerland,China,Chip design and fabrication,2016,38,True
+Switzerland,China,Chip design and fabrication,2025,31,False
+Taiwan,China,Chip design and fabrication,2022,179,True
+Taiwan,China,Chip design and fabrication,2023,179,True
+Taiwan,China,Chip design and fabrication,2020,222,True
+Taiwan,China,Chip design and fabrication,2024,171,False
+Taiwan,China,Chip design and fabrication,2025,106,False
+Taiwan,China,Chip design and fabrication,2017,149,True
+Taiwan,China,Chip design and fabrication,2021,195,True
+Taiwan,China,Chip design and fabrication,2019,169,True
+Taiwan,China,Chip design and fabrication,2015,122,True
+Taiwan,China,Chip design and fabrication,2018,160,True
+Taiwan,China,Chip design and fabrication,2016,140,True
+United Arab Emirates,China,Chip design and fabrication,2024,35,False
+United Kingdom,China,Chip design and fabrication,2019,331,True
+United Kingdom,China,Chip design and fabrication,2021,358,True
+United Kingdom,China,Chip design and fabrication,2023,367,True
+United Kingdom,China,Chip design and fabrication,2022,353,True
+United Kingdom,China,Chip design and fabrication,2015,152,True
+United Kingdom,China,Chip design and fabrication,2017,230,True
+United Kingdom,China,Chip design and fabrication,2020,315,True
+United Kingdom,China,Chip design and fabrication,2018,267,True
+United Kingdom,China,Chip design and fabrication,2016,213,True
+United Kingdom,China,Chip design and fabrication,2025,306,False
+United Kingdom,China,Chip design and fabrication,2024,399,False
+United States,China,Chip design and fabrication,2017,872,True
+United States,China,Chip design and fabrication,2022,746,True
+United States,China,Chip design and fabrication,2024,716,False
+United States,China,Chip design and fabrication,2015,614,True
+United States,China,Chip design and fabrication,2023,721,True
+United States,China,Chip design and fabrication,2016,774,True
+United States,China,Chip design and fabrication,2020,1020,True
+United States,China,Chip design and fabrication,2021,889,True
+United States,China,Chip design and fabrication,2019,1076,True
+United States,China,Chip design and fabrication,2018,953,True
+United States,China,Chip design and fabrication,2025,449,False
+China,Denmark,Chip design and fabrication,2018,31,True
+China,Denmark,Chip design and fabrication,2021,44,True
+China,Denmark,Chip design and fabrication,2022,48,True
+China,Denmark,Chip design and fabrication,2017,27,True
+China,Denmark,Chip design and fabrication,2020,34,True
+China,Denmark,Chip design and fabrication,2023,47,True
+China,Denmark,Chip design and fabrication,2016,28,True
+China,Denmark,Chip design and fabrication,2024,41,False
+China,Denmark,Chip design and fabrication,2019,37,True
+Germany,Denmark,Chip design and fabrication,2020,26,True
+Germany,Denmark,Chip design and fabrication,2023,27,True
+Germany,Denmark,Chip design and fabrication,2024,29,False
+Germany,Denmark,Chip design and fabrication,2017,28,True
+United States,Denmark,Chip design and fabrication,2016,25,True
+United States,Denmark,Chip design and fabrication,2015,28,True
+United States,Denmark,Chip design and fabrication,2023,33,True
+United States,Denmark,Chip design and fabrication,2017,27,True
+United States,Denmark,Chip design and fabrication,2018,29,True
+United States,Denmark,Chip design and fabrication,2022,29,True
+United States,Denmark,Chip design and fabrication,2021,28,True
+United States,Denmark,Chip design and fabrication,2024,33,False
+Canada,Egypt,Chip design and fabrication,2019,28,True
+Saudi Arabia,Egypt,Chip design and fabrication,2025,26,False
+Saudi Arabia,Egypt,Chip design and fabrication,2020,28,True
+Saudi Arabia,Egypt,Chip design and fabrication,2023,37,True
+Saudi Arabia,Egypt,Chip design and fabrication,2021,40,True
+Saudi Arabia,Egypt,Chip design and fabrication,2024,31,False
+Saudi Arabia,Egypt,Chip design and fabrication,2022,31,True
+United States,Egypt,Chip design and fabrication,2022,25,True
+United States,Egypt,Chip design and fabrication,2017,26,True
+United States,Egypt,Chip design and fabrication,2023,25,True
+United States,Egypt,Chip design and fabrication,2020,26,True
+United States,Egypt,Chip design and fabrication,2016,41,True
+United States,Egypt,Chip design and fabrication,2015,42,True
+United States,Egypt,Chip design and fabrication,2019,25,True
+France,Finland,Chip design and fabrication,2017,25,True
+Germany,Finland,Chip design and fabrication,2015,25,True
+Germany,Finland,Chip design and fabrication,2019,25,True
+Germany,Finland,Chip design and fabrication,2020,25,True
+Germany,Finland,Chip design and fabrication,2017,32,True
+Germany,Finland,Chip design and fabrication,2023,30,True
+Germany,Finland,Chip design and fabrication,2024,25,False
+United Kingdom,Finland,Chip design and fabrication,2019,32,True
+United Kingdom,Finland,Chip design and fabrication,2017,25,True
+United States,Finland,Chip design and fabrication,2021,26,True
+United States,Finland,Chip design and fabrication,2020,29,True
+United States,Finland,Chip design and fabrication,2015,35,True
+United States,Finland,Chip design and fabrication,2019,26,True
+United States,Finland,Chip design and fabrication,2022,27,True
+United States,Finland,Chip design and fabrication,2017,43,True
+United States,Finland,Chip design and fabrication,2018,30,True
+United States,Finland,Chip design and fabrication,2016,42,True
+Austria,France,Chip design and fabrication,2024,30,False
+Austria,France,Chip design and fabrication,2016,26,True
+Belgium,France,Chip design and fabrication,2018,58,True
+Belgium,France,Chip design and fabrication,2021,43,True
+Belgium,France,Chip design and fabrication,2020,63,True
+Belgium,France,Chip design and fabrication,2022,50,True
+Belgium,France,Chip design and fabrication,2024,57,False
+Belgium,France,Chip design and fabrication,2019,50,True
+Belgium,France,Chip design and fabrication,2017,51,True
+Belgium,France,Chip design and fabrication,2016,44,True
+Belgium,France,Chip design and fabrication,2023,44,True
+Belgium,France,Chip design and fabrication,2015,50,True
+Brazil,France,Chip design and fabrication,2015,31,True
+Brazil,France,Chip design and fabrication,2021,31,True
+Brazil,France,Chip design and fabrication,2017,31,True
+Brazil,France,Chip design and fabrication,2024,31,False
+Brazil,France,Chip design and fabrication,2018,34,True
+Brazil,France,Chip design and fabrication,2023,31,True
+Brazil,France,Chip design and fabrication,2016,29,True
+Brazil,France,Chip design and fabrication,2020,27,True
+Brazil,France,Chip design and fabrication,2022,29,True
+Brazil,France,Chip design and fabrication,2019,34,True
+Canada,France,Chip design and fabrication,2020,62,True
+Canada,France,Chip design and fabrication,2018,71,True
+Canada,France,Chip design and fabrication,2019,69,True
+Canada,France,Chip design and fabrication,2023,66,True
+Canada,France,Chip design and fabrication,2017,53,True
+Canada,France,Chip design and fabrication,2022,59,True
+Canada,France,Chip design and fabrication,2015,61,True
+Canada,France,Chip design and fabrication,2024,49,False
+Canada,France,Chip design and fabrication,2016,72,True
+Canada,France,Chip design and fabrication,2021,66,True
+China,France,Chip design and fabrication,2022,98,True
+China,France,Chip design and fabrication,2020,99,True
+China,France,Chip design and fabrication,2015,86,True
+China,France,Chip design and fabrication,2025,59,False
+China,France,Chip design and fabrication,2017,68,True
+China,France,Chip design and fabrication,2023,93,True
+China,France,Chip design and fabrication,2016,81,True
+China,France,Chip design and fabrication,2018,104,True
+China,France,Chip design and fabrication,2024,92,False
+China,France,Chip design and fabrication,2021,97,True
+China,France,Chip design and fabrication,2019,115,True
+Finland,France,Chip design and fabrication,2017,25,True
+Germany,France,Chip design and fabrication,2018,125,True
+Germany,France,Chip design and fabrication,2024,118,False
+Germany,France,Chip design and fabrication,2022,125,True
+Germany,France,Chip design and fabrication,2016,123,True
+Germany,France,Chip design and fabrication,2025,57,False
+Germany,France,Chip design and fabrication,2021,99,True
+Germany,France,Chip design and fabrication,2017,116,True
+Germany,France,Chip design and fabrication,2020,150,True
+Germany,France,Chip design and fabrication,2019,129,True
+Germany,France,Chip design and fabrication,2023,122,True
+Germany,France,Chip design and fabrication,2015,109,True
+Greece,France,Chip design and fabrication,2015,28,True
+India,France,Chip design and fabrication,2024,27,False
+India,France,Chip design and fabrication,2022,36,True
+India,France,Chip design and fabrication,2021,30,True
+India,France,Chip design and fabrication,2020,38,True
+Italy,France,Chip design and fabrication,2019,115,True
+Italy,France,Chip design and fabrication,2018,111,True
+Italy,France,Chip design and fabrication,2016,123,True
+Italy,France,Chip design and fabrication,2020,104,True
+Italy,France,Chip design and fabrication,2021,112,True
+Italy,France,Chip design and fabrication,2015,87,True
+Italy,France,Chip design and fabrication,2022,105,True
+Italy,France,Chip design and fabrication,2017,98,True
+Italy,France,Chip design and fabrication,2024,89,False
+Italy,France,Chip design and fabrication,2025,54,False
+Italy,France,Chip design and fabrication,2023,106,True
+Japan,France,Chip design and fabrication,2015,40,True
+Japan,France,Chip design and fabrication,2021,40,True
+Japan,France,Chip design and fabrication,2023,46,True
+Japan,France,Chip design and fabrication,2019,52,True
+Japan,France,Chip design and fabrication,2020,63,True
+Japan,France,Chip design and fabrication,2024,44,False
+Japan,France,Chip design and fabrication,2016,44,True
+Japan,France,Chip design and fabrication,2017,35,True
+Japan,France,Chip design and fabrication,2022,47,True
+Japan,France,Chip design and fabrication,2018,55,True
+Japan,France,Chip design and fabrication,2025,25,False
+Morocco,France,Chip design and fabrication,2020,26,True
+Morocco,France,Chip design and fabrication,2019,25,True
+Netherlands,France,Chip design and fabrication,2020,40,True
+Netherlands,France,Chip design and fabrication,2015,44,True
+Netherlands,France,Chip design and fabrication,2017,38,True
+Netherlands,France,Chip design and fabrication,2021,41,True
+Netherlands,France,Chip design and fabrication,2022,34,True
+Netherlands,France,Chip design and fabrication,2018,46,True
+Netherlands,France,Chip design and fabrication,2023,50,True
+Netherlands,France,Chip design and fabrication,2019,47,True
+Netherlands,France,Chip design and fabrication,2024,43,False
+Netherlands,France,Chip design and fabrication,2016,48,True
+Romania,France,Chip design and fabrication,2016,28,True
+Russia,France,Chip design and fabrication,2020,27,True
+Russia,France,Chip design and fabrication,2018,35,True
+Russia,France,Chip design and fabrication,2016,25,True
+Russia,France,Chip design and fabrication,2019,26,True
+Russia,France,Chip design and fabrication,2017,32,True
+Russia,France,Chip design and fabrication,2021,31,True
+Singapore,France,Chip design and fabrication,2022,28,True
+Singapore,France,Chip design and fabrication,2019,31,True
+Singapore,France,Chip design and fabrication,2024,33,False
+Singapore,France,Chip design and fabrication,2021,29,True
+Singapore,France,Chip design and fabrication,2017,26,True
+Singapore,France,Chip design and fabrication,2020,28,True
+Singapore,France,Chip design and fabrication,2023,37,True
+South Korea,France,Chip design and fabrication,2020,27,True
+Spain,France,Chip design and fabrication,2015,69,True
+Spain,France,Chip design and fabrication,2020,83,True
+Spain,France,Chip design and fabrication,2023,87,True
+Spain,France,Chip design and fabrication,2017,78,True
+Spain,France,Chip design and fabrication,2018,80,True
+Spain,France,Chip design and fabrication,2022,55,True
+Spain,France,Chip design and fabrication,2019,77,True
+Spain,France,Chip design and fabrication,2021,79,True
+Spain,France,Chip design and fabrication,2024,66,False
+Spain,France,Chip design and fabrication,2025,30,False
+Spain,France,Chip design and fabrication,2016,85,True
+Switzerland,France,Chip design and fabrication,2023,65,True
+Switzerland,France,Chip design and fabrication,2022,58,True
+Switzerland,France,Chip design and fabrication,2018,71,True
+Switzerland,France,Chip design and fabrication,2017,66,True
+Switzerland,France,Chip design and fabrication,2016,73,True
+Switzerland,France,Chip design and fabrication,2019,67,True
+Switzerland,France,Chip design and fabrication,2020,61,True
+Switzerland,France,Chip design and fabrication,2024,52,False
+Switzerland,France,Chip design and fabrication,2021,57,True
+Switzerland,France,Chip design and fabrication,2025,29,False
+Switzerland,France,Chip design and fabrication,2015,86,True
+Tunisia,France,Chip design and fabrication,2019,29,True
+Tunisia,France,Chip design and fabrication,2015,34,True
+Tunisia,France,Chip design and fabrication,2016,31,True
+Tunisia,France,Chip design and fabrication,2017,29,True
+Tunisia,France,Chip design and fabrication,2018,32,True
+United Kingdom,France,Chip design and fabrication,2019,93,True
+United Kingdom,France,Chip design and fabrication,2021,70,True
+United Kingdom,France,Chip design and fabrication,2017,90,True
+United Kingdom,France,Chip design and fabrication,2020,95,True
+United Kingdom,France,Chip design and fabrication,2023,64,True
+United Kingdom,France,Chip design and fabrication,2024,77,False
+United Kingdom,France,Chip design and fabrication,2025,32,False
+United Kingdom,France,Chip design and fabrication,2016,82,True
+United Kingdom,France,Chip design and fabrication,2015,76,True
+United Kingdom,France,Chip design and fabrication,2018,78,True
+United Kingdom,France,Chip design and fabrication,2022,77,True
+United States,France,Chip design and fabrication,2023,136,True
+United States,France,Chip design and fabrication,2015,191,True
+United States,France,Chip design and fabrication,2020,166,True
+United States,France,Chip design and fabrication,2019,139,True
+United States,France,Chip design and fabrication,2018,165,True
+United States,France,Chip design and fabrication,2022,129,True
+United States,France,Chip design and fabrication,2024,119,False
+United States,France,Chip design and fabrication,2025,54,False
+United States,France,Chip design and fabrication,2016,196,True
+United States,France,Chip design and fabrication,2021,174,True
+United States,France,Chip design and fabrication,2017,161,True
+Australia,Germany,Chip design and fabrication,2024,31,False
+Australia,Germany,Chip design and fabrication,2018,28,True
+Australia,Germany,Chip design and fabrication,2020,33,True
+Australia,Germany,Chip design and fabrication,2021,26,True
+Australia,Germany,Chip design and fabrication,2023,41,True
+Australia,Germany,Chip design and fabrication,2016,25,True
+Australia,Germany,Chip design and fabrication,2022,36,True
+Australia,Germany,Chip design and fabrication,2019,26,True
+Austria,Germany,Chip design and fabrication,2018,69,True
+Austria,Germany,Chip design and fabrication,2022,86,True
+Austria,Germany,Chip design and fabrication,2024,84,False
+Austria,Germany,Chip design and fabrication,2023,83,True
+Austria,Germany,Chip design and fabrication,2025,37,False
+Austria,Germany,Chip design and fabrication,2019,66,True
+Austria,Germany,Chip design and fabrication,2021,65,True
+Austria,Germany,Chip design and fabrication,2017,67,True
+Austria,Germany,Chip design and fabrication,2015,47,True
+Austria,Germany,Chip design and fabrication,2020,82,True
+Austria,Germany,Chip design and fabrication,2016,63,True
+Belgium,Germany,Chip design and fabrication,2016,47,True
+Belgium,Germany,Chip design and fabrication,2017,70,True
+Belgium,Germany,Chip design and fabrication,2024,58,False
+Belgium,Germany,Chip design and fabrication,2022,61,True
+Belgium,Germany,Chip design and fabrication,2023,67,True
+Belgium,Germany,Chip design and fabrication,2020,56,True
+Belgium,Germany,Chip design and fabrication,2015,44,True
+Belgium,Germany,Chip design and fabrication,2019,55,True
+Belgium,Germany,Chip design and fabrication,2018,66,True
+Belgium,Germany,Chip design and fabrication,2021,71,True
+Belgium,Germany,Chip design and fabrication,2025,25,False
+Brazil,Germany,Chip design and fabrication,2021,26,True
+Brazil,Germany,Chip design and fabrication,2020,32,True
+Canada,Germany,Chip design and fabrication,2016,28,True
+Canada,Germany,Chip design and fabrication,2017,33,True
+Canada,Germany,Chip design and fabrication,2020,42,True
+Canada,Germany,Chip design and fabrication,2023,53,True
+Canada,Germany,Chip design and fabrication,2022,37,True
+Canada,Germany,Chip design and fabrication,2019,33,True
+Canada,Germany,Chip design and fabrication,2024,40,False
+Canada,Germany,Chip design and fabrication,2015,25,True
+Canada,Germany,Chip design and fabrication,2021,50,True
+China,Germany,Chip design and fabrication,2020,122,True
+China,Germany,Chip design and fabrication,2017,92,True
+China,Germany,Chip design and fabrication,2022,163,True
+China,Germany,Chip design and fabrication,2019,122,True
+China,Germany,Chip design and fabrication,2016,85,True
+China,Germany,Chip design and fabrication,2023,142,True
+China,Germany,Chip design and fabrication,2021,140,True
+China,Germany,Chip design and fabrication,2024,171,False
+China,Germany,Chip design and fabrication,2015,53,True
+China,Germany,Chip design and fabrication,2025,105,False
+China,Germany,Chip design and fabrication,2018,108,True
+Denmark,Germany,Chip design and fabrication,2024,29,False
+Denmark,Germany,Chip design and fabrication,2020,26,True
+Denmark,Germany,Chip design and fabrication,2017,28,True
+Denmark,Germany,Chip design and fabrication,2023,27,True
+Finland,Germany,Chip design and fabrication,2020,25,True
+Finland,Germany,Chip design and fabrication,2024,25,False
+Finland,Germany,Chip design and fabrication,2023,30,True
+Finland,Germany,Chip design and fabrication,2017,32,True
+Finland,Germany,Chip design and fabrication,2015,25,True
+Finland,Germany,Chip design and fabrication,2019,25,True
+France,Germany,Chip design and fabrication,2019,129,True
+France,Germany,Chip design and fabrication,2020,150,True
+France,Germany,Chip design and fabrication,2024,118,False
+France,Germany,Chip design and fabrication,2025,57,False
+France,Germany,Chip design and fabrication,2023,122,True
+France,Germany,Chip design and fabrication,2016,123,True
+France,Germany,Chip design and fabrication,2018,125,True
+France,Germany,Chip design and fabrication,2021,99,True
+France,Germany,Chip design and fabrication,2017,116,True
+France,Germany,Chip design and fabrication,2022,125,True
+France,Germany,Chip design and fabrication,2015,109,True
+Greece,Germany,Chip design and fabrication,2023,31,True
+Greece,Germany,Chip design and fabrication,2024,34,False
+India,Germany,Chip design and fabrication,2023,71,True
+India,Germany,Chip design and fabrication,2022,47,True
+India,Germany,Chip design and fabrication,2019,35,True
+India,Germany,Chip design and fabrication,2018,29,True
+India,Germany,Chip design and fabrication,2020,44,True
+India,Germany,Chip design and fabrication,2016,34,True
+India,Germany,Chip design and fabrication,2021,44,True
+India,Germany,Chip design and fabrication,2024,71,False
+India,Germany,Chip design and fabrication,2025,37,False
+Israel,Germany,Chip design and fabrication,2017,25,True
+Italy,Germany,Chip design and fabrication,2015,99,True
+Italy,Germany,Chip design and fabrication,2017,107,True
+Italy,Germany,Chip design and fabrication,2022,144,True
+Italy,Germany,Chip design and fabrication,2018,121,True
+Italy,Germany,Chip design and fabrication,2020,116,True
+Italy,Germany,Chip design and fabrication,2023,147,True
+Italy,Germany,Chip design and fabrication,2021,125,True
+Italy,Germany,Chip design and fabrication,2025,75,False
+Italy,Germany,Chip design and fabrication,2016,104,True
+Italy,Germany,Chip design and fabrication,2024,133,False
+Italy,Germany,Chip design and fabrication,2019,145,True
+Japan,Germany,Chip design and fabrication,2022,65,True
+Japan,Germany,Chip design and fabrication,2024,67,False
+Japan,Germany,Chip design and fabrication,2021,50,True
+Japan,Germany,Chip design and fabrication,2015,63,True
+Japan,Germany,Chip design and fabrication,2020,82,True
+Japan,Germany,Chip design and fabrication,2018,68,True
+Japan,Germany,Chip design and fabrication,2019,67,True
+Japan,Germany,Chip design and fabrication,2025,31,False
+Japan,Germany,Chip design and fabrication,2016,65,True
+Japan,Germany,Chip design and fabrication,2023,63,True
+Japan,Germany,Chip design and fabrication,2017,51,True
+Netherlands,Germany,Chip design and fabrication,2022,85,True
+Netherlands,Germany,Chip design and fabrication,2016,59,True
+Netherlands,Germany,Chip design and fabrication,2025,39,False
+Netherlands,Germany,Chip design and fabrication,2015,49,True
+Netherlands,Germany,Chip design and fabrication,2020,69,True
+Netherlands,Germany,Chip design and fabrication,2024,96,False
+Netherlands,Germany,Chip design and fabrication,2017,65,True
+Netherlands,Germany,Chip design and fabrication,2018,63,True
+Netherlands,Germany,Chip design and fabrication,2023,103,True
+Netherlands,Germany,Chip design and fabrication,2019,78,True
+Netherlands,Germany,Chip design and fabrication,2021,112,True
+Poland,Germany,Chip design and fabrication,2019,40,True
+Poland,Germany,Chip design and fabrication,2023,27,True
+Poland,Germany,Chip design and fabrication,2016,38,True
+Poland,Germany,Chip design and fabrication,2021,26,True
+Poland,Germany,Chip design and fabrication,2018,36,True
+Poland,Germany,Chip design and fabrication,2017,29,True
+Poland,Germany,Chip design and fabrication,2020,43,True
+Poland,Germany,Chip design and fabrication,2022,38,True
+Poland,Germany,Chip design and fabrication,2015,28,True
+Russia,Germany,Chip design and fabrication,2017,54,True
+Russia,Germany,Chip design and fabrication,2015,47,True
+Russia,Germany,Chip design and fabrication,2020,69,True
+Russia,Germany,Chip design and fabrication,2021,43,True
+Russia,Germany,Chip design and fabrication,2018,46,True
+Russia,Germany,Chip design and fabrication,2016,39,True
+Russia,Germany,Chip design and fabrication,2022,33,True
+Russia,Germany,Chip design and fabrication,2019,55,True
+Singapore,Germany,Chip design and fabrication,2023,31,True
+Singapore,Germany,Chip design and fabrication,2024,32,False
+Singapore,Germany,Chip design and fabrication,2016,28,True
+Singapore,Germany,Chip design and fabrication,2020,29,True
+Singapore,Germany,Chip design and fabrication,2018,25,True
+South Korea,Germany,Chip design and fabrication,2022,33,True
+South Korea,Germany,Chip design and fabrication,2018,25,True
+South Korea,Germany,Chip design and fabrication,2016,28,True
+South Korea,Germany,Chip design and fabrication,2019,41,True
+South Korea,Germany,Chip design and fabrication,2021,32,True
+South Korea,Germany,Chip design and fabrication,2017,35,True
+South Korea,Germany,Chip design and fabrication,2023,35,True
+South Korea,Germany,Chip design and fabrication,2020,32,True
+South Korea,Germany,Chip design and fabrication,2024,27,False
+Spain,Germany,Chip design and fabrication,2019,97,True
+Spain,Germany,Chip design and fabrication,2017,62,True
+Spain,Germany,Chip design and fabrication,2018,98,True
+Spain,Germany,Chip design and fabrication,2015,62,True
+Spain,Germany,Chip design and fabrication,2021,105,True
+Spain,Germany,Chip design and fabrication,2020,93,True
+Spain,Germany,Chip design and fabrication,2023,82,True
+Spain,Germany,Chip design and fabrication,2016,67,True
+Spain,Germany,Chip design and fabrication,2022,85,True
+Spain,Germany,Chip design and fabrication,2025,39,False
+Spain,Germany,Chip design and fabrication,2024,73,False
+Sweden,Germany,Chip design and fabrication,2020,41,True
+Sweden,Germany,Chip design and fabrication,2018,30,True
+Sweden,Germany,Chip design and fabrication,2015,40,True
+Sweden,Germany,Chip design and fabrication,2016,42,True
+Sweden,Germany,Chip design and fabrication,2019,31,True
+Sweden,Germany,Chip design and fabrication,2022,33,True
+Sweden,Germany,Chip design and fabrication,2023,51,True
+Sweden,Germany,Chip design and fabrication,2017,28,True
+Sweden,Germany,Chip design and fabrication,2024,36,False
+Sweden,Germany,Chip design and fabrication,2021,47,True
+Switzerland,Germany,Chip design and fabrication,2025,38,False
+Switzerland,Germany,Chip design and fabrication,2017,105,True
+Switzerland,Germany,Chip design and fabrication,2019,94,True
+Switzerland,Germany,Chip design and fabrication,2021,104,True
+Switzerland,Germany,Chip design and fabrication,2020,97,True
+Switzerland,Germany,Chip design and fabrication,2018,105,True
+Switzerland,Germany,Chip design and fabrication,2015,100,True
+Switzerland,Germany,Chip design and fabrication,2023,95,True
+Switzerland,Germany,Chip design and fabrication,2016,126,True
+Switzerland,Germany,Chip design and fabrication,2022,117,True
+Switzerland,Germany,Chip design and fabrication,2024,94,False
+Taiwan,Germany,Chip design and fabrication,2022,48,True
+Taiwan,Germany,Chip design and fabrication,2021,56,True
+Taiwan,Germany,Chip design and fabrication,2019,31,True
+Taiwan,Germany,Chip design and fabrication,2017,28,True
+Taiwan,Germany,Chip design and fabrication,2020,44,True
+Taiwan,Germany,Chip design and fabrication,2018,34,True
+Taiwan,Germany,Chip design and fabrication,2016,26,True
+Taiwan,Germany,Chip design and fabrication,2023,33,True
+Taiwan,Germany,Chip design and fabrication,2025,26,False
+Taiwan,Germany,Chip design and fabrication,2024,44,False
+United Kingdom,Germany,Chip design and fabrication,2016,124,True
+United Kingdom,Germany,Chip design and fabrication,2025,61,False
+United Kingdom,Germany,Chip design and fabrication,2018,118,True
+United Kingdom,Germany,Chip design and fabrication,2019,135,True
+United Kingdom,Germany,Chip design and fabrication,2021,125,True
+United Kingdom,Germany,Chip design and fabrication,2022,130,True
+United Kingdom,Germany,Chip design and fabrication,2015,109,True
+United Kingdom,Germany,Chip design and fabrication,2020,117,True
+United Kingdom,Germany,Chip design and fabrication,2017,121,True
+United Kingdom,Germany,Chip design and fabrication,2023,127,True
+United Kingdom,Germany,Chip design and fabrication,2024,99,False
+United States,Germany,Chip design and fabrication,2024,251,False
+United States,Germany,Chip design and fabrication,2020,287,True
+United States,Germany,Chip design and fabrication,2019,285,True
+United States,Germany,Chip design and fabrication,2022,256,True
+United States,Germany,Chip design and fabrication,2017,277,True
+United States,Germany,Chip design and fabrication,2015,264,True
+United States,Germany,Chip design and fabrication,2021,260,True
+United States,Germany,Chip design and fabrication,2016,256,True
+United States,Germany,Chip design and fabrication,2025,144,False
+United States,Germany,Chip design and fabrication,2023,282,True
+United States,Germany,Chip design and fabrication,2018,268,True
+France,Greece,Chip design and fabrication,2015,28,True
+Germany,Greece,Chip design and fabrication,2024,34,False
+Germany,Greece,Chip design and fabrication,2023,31,True
+Spain,Greece,Chip design and fabrication,2021,28,True
+United Kingdom,Greece,Chip design and fabrication,2020,26,True
+United Kingdom,Greece,Chip design and fabrication,2022,37,True
+United Kingdom,Greece,Chip design and fabrication,2023,25,True
+United States,Greece,Chip design and fabrication,2021,25,True
+United States,Greece,Chip design and fabrication,2019,25,True
+United States,Greece,Chip design and fabrication,2015,27,True
+United States,Greece,Chip design and fabrication,2020,31,True
+United States,Greece,Chip design and fabrication,2018,25,True
+Australia,India,Chip design and fabrication,2023,27,True
+Australia,India,Chip design and fabrication,2022,30,True
+Australia,India,Chip design and fabrication,2024,25,False
+Australia,India,Chip design and fabrication,2021,26,True
+Canada,India,Chip design and fabrication,2021,27,True
+Canada,India,Chip design and fabrication,2022,30,True
+Canada,India,Chip design and fabrication,2023,27,True
+Canada,India,Chip design and fabrication,2024,31,False
+China,India,Chip design and fabrication,2022,52,True
+China,India,Chip design and fabrication,2020,45,True
+China,India,Chip design and fabrication,2021,62,True
+China,India,Chip design and fabrication,2025,25,False
+China,India,Chip design and fabrication,2023,43,True
+China,India,Chip design and fabrication,2018,26,True
+China,India,Chip design and fabrication,2019,46,True
+China,India,Chip design and fabrication,2024,54,False
+France,India,Chip design and fabrication,2020,38,True
+France,India,Chip design and fabrication,2022,36,True
+France,India,Chip design and fabrication,2021,30,True
+France,India,Chip design and fabrication,2024,27,False
+Germany,India,Chip design and fabrication,2019,35,True
+Germany,India,Chip design and fabrication,2023,71,True
+Germany,India,Chip design and fabrication,2020,44,True
+Germany,India,Chip design and fabrication,2022,47,True
+Germany,India,Chip design and fabrication,2024,71,False
+Germany,India,Chip design and fabrication,2025,37,False
+Germany,India,Chip design and fabrication,2021,44,True
+Germany,India,Chip design and fabrication,2016,34,True
+Germany,India,Chip design and fabrication,2018,29,True
+Iraq,India,Chip design and fabrication,2024,41,False
+Italy,India,Chip design and fabrication,2024,35,False
+Italy,India,Chip design and fabrication,2023,28,True
+Italy,India,Chip design and fabrication,2021,26,True
+Japan,India,Chip design and fabrication,2016,35,True
+Japan,India,Chip design and fabrication,2024,44,False
+Japan,India,Chip design and fabrication,2022,39,True
+Japan,India,Chip design and fabrication,2025,26,False
+Japan,India,Chip design and fabrication,2021,31,True
+Japan,India,Chip design and fabrication,2020,29,True
+Malaysia,India,Chip design and fabrication,2020,25,True
+Malaysia,India,Chip design and fabrication,2023,28,True
+Malaysia,India,Chip design and fabrication,2021,34,True
+Malaysia,India,Chip design and fabrication,2024,25,False
+Saudi Arabia,India,Chip design and fabrication,2023,60,True
+Saudi Arabia,India,Chip design and fabrication,2021,47,True
+Saudi Arabia,India,Chip design and fabrication,2025,53,False
+Saudi Arabia,India,Chip design and fabrication,2024,69,False
+Saudi Arabia,India,Chip design and fabrication,2022,49,True
+Saudi Arabia,India,Chip design and fabrication,2020,29,True
+Singapore,India,Chip design and fabrication,2023,38,True
+Singapore,India,Chip design and fabrication,2020,35,True
+Singapore,India,Chip design and fabrication,2024,41,False
+Singapore,India,Chip design and fabrication,2019,38,True
+South Korea,India,Chip design and fabrication,2023,52,True
+South Korea,India,Chip design and fabrication,2019,31,True
+South Korea,India,Chip design and fabrication,2025,28,False
+South Korea,India,Chip design and fabrication,2022,39,True
+South Korea,India,Chip design and fabrication,2021,39,True
+South Korea,India,Chip design and fabrication,2024,50,False
+South Korea,India,Chip design and fabrication,2020,34,True
+Taiwan,India,Chip design and fabrication,2024,59,False
+Taiwan,India,Chip design and fabrication,2021,35,True
+Taiwan,India,Chip design and fabrication,2025,35,False
+Taiwan,India,Chip design and fabrication,2020,27,True
+Taiwan,India,Chip design and fabrication,2023,46,True
+Taiwan,India,Chip design and fabrication,2022,34,True
+United Kingdom,India,Chip design and fabrication,2016,25,True
+United Kingdom,India,Chip design and fabrication,2023,56,True
+United Kingdom,India,Chip design and fabrication,2024,89,False
+United Kingdom,India,Chip design and fabrication,2020,54,True
+United Kingdom,India,Chip design and fabrication,2015,29,True
+United Kingdom,India,Chip design and fabrication,2021,61,True
+United Kingdom,India,Chip design and fabrication,2022,54,True
+United Kingdom,India,Chip design and fabrication,2018,47,True
+United Kingdom,India,Chip design and fabrication,2019,42,True
+United Kingdom,India,Chip design and fabrication,2017,27,True
+United Kingdom,India,Chip design and fabrication,2025,48,False
+United States,India,Chip design and fabrication,2024,223,False
+United States,India,Chip design and fabrication,2015,116,True
+United States,India,Chip design and fabrication,2025,135,False
+United States,India,Chip design and fabrication,2023,223,True
+United States,India,Chip design and fabrication,2021,170,True
+United States,India,Chip design and fabrication,2016,127,True
+United States,India,Chip design and fabrication,2022,201,True
+United States,India,Chip design and fabrication,2019,161,True
+United States,India,Chip design and fabrication,2018,143,True
+United States,India,Chip design and fabrication,2017,120,True
+United States,India,Chip design and fabrication,2020,174,True
+Canada,Iran,Chip design and fabrication,2024,32,False
+Canada,Iran,Chip design and fabrication,2017,27,True
+Canada,Iran,Chip design and fabrication,2018,25,True
+Canada,Iran,Chip design and fabrication,2021,34,True
+Canada,Iran,Chip design and fabrication,2019,29,True
+Canada,Iran,Chip design and fabrication,2022,29,True
+Canada,Iran,Chip design and fabrication,2015,30,True
+Canada,Iran,Chip design and fabrication,2023,25,True
+Canada,Iran,Chip design and fabrication,2020,51,True
+United States,Iran,Chip design and fabrication,2016,36,True
+United States,Iran,Chip design and fabrication,2024,25,False
+United States,Iran,Chip design and fabrication,2022,31,True
+United States,Iran,Chip design and fabrication,2021,37,True
+United States,Iran,Chip design and fabrication,2018,58,True
+United States,Iran,Chip design and fabrication,2017,47,True
+United States,Iran,Chip design and fabrication,2020,48,True
+United States,Iran,Chip design and fabrication,2019,44,True
+United States,Iran,Chip design and fabrication,2015,36,True
+India,Iraq,Chip design and fabrication,2024,41,False
+China,Ireland,Chip design and fabrication,2024,29,False
+China,Ireland,Chip design and fabrication,2019,29,True
+China,Ireland,Chip design and fabrication,2022,26,True
+China,Ireland,Chip design and fabrication,2020,32,True
+China,Ireland,Chip design and fabrication,2023,27,True
+China,Ireland,Chip design and fabrication,2021,29,True
+United Kingdom,Ireland,Chip design and fabrication,2016,36,True
+United Kingdom,Ireland,Chip design and fabrication,2017,36,True
+United Kingdom,Ireland,Chip design and fabrication,2020,26,True
+United States,Ireland,Chip design and fabrication,2021,34,True
+United States,Ireland,Chip design and fabrication,2016,32,True
+United States,Ireland,Chip design and fabrication,2023,25,True
+United States,Ireland,Chip design and fabrication,2020,36,True
+United States,Ireland,Chip design and fabrication,2019,26,True
+United States,Ireland,Chip design and fabrication,2017,35,True
+United States,Ireland,Chip design and fabrication,2022,38,True
+United States,Ireland,Chip design and fabrication,2018,38,True
+Germany,Israel,Chip design and fabrication,2017,25,True
+United States,Israel,Chip design and fabrication,2023,41,True
+United States,Israel,Chip design and fabrication,2021,50,True
+United States,Israel,Chip design and fabrication,2016,43,True
+United States,Israel,Chip design and fabrication,2024,55,False
+United States,Israel,Chip design and fabrication,2015,63,True
+United States,Israel,Chip design and fabrication,2018,51,True
+United States,Israel,Chip design and fabrication,2017,47,True
+United States,Israel,Chip design and fabrication,2022,46,True
+United States,Israel,Chip design and fabrication,2020,49,True
+United States,Israel,Chip design and fabrication,2019,50,True
+Austria,Italy,Chip design and fabrication,2021,40,True
+Austria,Italy,Chip design and fabrication,2018,36,True
+Austria,Italy,Chip design and fabrication,2023,46,True
+Austria,Italy,Chip design and fabrication,2019,36,True
+Austria,Italy,Chip design and fabrication,2024,43,False
+Austria,Italy,Chip design and fabrication,2022,42,True
+Austria,Italy,Chip design and fabrication,2020,40,True
+Belgium,Italy,Chip design and fabrication,2019,36,True
+Belgium,Italy,Chip design and fabrication,2020,40,True
+Belgium,Italy,Chip design and fabrication,2018,39,True
+Belgium,Italy,Chip design and fabrication,2016,41,True
+Belgium,Italy,Chip design and fabrication,2021,43,True
+Belgium,Italy,Chip design and fabrication,2024,29,False
+Belgium,Italy,Chip design and fabrication,2017,48,True
+Belgium,Italy,Chip design and fabrication,2022,37,True
+Belgium,Italy,Chip design and fabrication,2015,38,True
+Belgium,Italy,Chip design and fabrication,2023,38,True
+Canada,Italy,Chip design and fabrication,2019,27,True
+China,Italy,Chip design and fabrication,2023,70,True
+China,Italy,Chip design and fabrication,2020,40,True
+China,Italy,Chip design and fabrication,2019,61,True
+China,Italy,Chip design and fabrication,2016,48,True
+China,Italy,Chip design and fabrication,2018,49,True
+China,Italy,Chip design and fabrication,2024,74,False
+China,Italy,Chip design and fabrication,2022,54,True
+China,Italy,Chip design and fabrication,2025,58,False
+China,Italy,Chip design and fabrication,2021,57,True
+China,Italy,Chip design and fabrication,2017,36,True
+France,Italy,Chip design and fabrication,2024,89,False
+France,Italy,Chip design and fabrication,2025,54,False
+France,Italy,Chip design and fabrication,2019,115,True
+France,Italy,Chip design and fabrication,2017,98,True
+France,Italy,Chip design and fabrication,2020,104,True
+France,Italy,Chip design and fabrication,2022,105,True
+France,Italy,Chip design and fabrication,2015,87,True
+France,Italy,Chip design and fabrication,2016,123,True
+France,Italy,Chip design and fabrication,2023,106,True
+France,Italy,Chip design and fabrication,2021,112,True
+France,Italy,Chip design and fabrication,2018,111,True
+Germany,Italy,Chip design and fabrication,2015,99,True
+Germany,Italy,Chip design and fabrication,2022,144,True
+Germany,Italy,Chip design and fabrication,2019,145,True
+Germany,Italy,Chip design and fabrication,2017,107,True
+Germany,Italy,Chip design and fabrication,2021,125,True
+Germany,Italy,Chip design and fabrication,2025,75,False
+Germany,Italy,Chip design and fabrication,2018,121,True
+Germany,Italy,Chip design and fabrication,2016,104,True
+Germany,Italy,Chip design and fabrication,2024,133,False
+Germany,Italy,Chip design and fabrication,2020,116,True
+Germany,Italy,Chip design and fabrication,2023,147,True
+India,Italy,Chip design and fabrication,2024,35,False
+India,Italy,Chip design and fabrication,2021,26,True
+India,Italy,Chip design and fabrication,2023,28,True
+Japan,Italy,Chip design and fabrication,2019,26,True
+Japan,Italy,Chip design and fabrication,2020,34,True
+Netherlands,Italy,Chip design and fabrication,2024,41,False
+Netherlands,Italy,Chip design and fabrication,2023,58,True
+Netherlands,Italy,Chip design and fabrication,2016,38,True
+Netherlands,Italy,Chip design and fabrication,2018,29,True
+Netherlands,Italy,Chip design and fabrication,2021,30,True
+Netherlands,Italy,Chip design and fabrication,2019,37,True
+Netherlands,Italy,Chip design and fabrication,2022,52,True
+Spain,Italy,Chip design and fabrication,2019,61,True
+Spain,Italy,Chip design and fabrication,2024,58,False
+Spain,Italy,Chip design and fabrication,2022,70,True
+Spain,Italy,Chip design and fabrication,2017,49,True
+Spain,Italy,Chip design and fabrication,2015,39,True
+Spain,Italy,Chip design and fabrication,2021,63,True
+Spain,Italy,Chip design and fabrication,2025,28,False
+Spain,Italy,Chip design and fabrication,2018,49,True
+Spain,Italy,Chip design and fabrication,2023,67,True
+Spain,Italy,Chip design and fabrication,2020,69,True
+Spain,Italy,Chip design and fabrication,2016,51,True
+Sweden,Italy,Chip design and fabrication,2024,29,False
+Sweden,Italy,Chip design and fabrication,2023,30,True
+Switzerland,Italy,Chip design and fabrication,2023,106,True
+Switzerland,Italy,Chip design and fabrication,2018,98,True
+Switzerland,Italy,Chip design and fabrication,2021,93,True
+Switzerland,Italy,Chip design and fabrication,2019,75,True
+Switzerland,Italy,Chip design and fabrication,2022,98,True
+Switzerland,Italy,Chip design and fabrication,2020,91,True
+Switzerland,Italy,Chip design and fabrication,2025,49,False
+Switzerland,Italy,Chip design and fabrication,2016,96,True
+Switzerland,Italy,Chip design and fabrication,2017,88,True
+Switzerland,Italy,Chip design and fabrication,2024,95,False
+Switzerland,Italy,Chip design and fabrication,2015,77,True
+United Kingdom,Italy,Chip design and fabrication,2020,109,True
+United Kingdom,Italy,Chip design and fabrication,2018,93,True
+United Kingdom,Italy,Chip design and fabrication,2021,104,True
+United Kingdom,Italy,Chip design and fabrication,2025,46,False
+United Kingdom,Italy,Chip design and fabrication,2016,100,True
+United Kingdom,Italy,Chip design and fabrication,2015,79,True
+United Kingdom,Italy,Chip design and fabrication,2024,88,False
+United Kingdom,Italy,Chip design and fabrication,2022,91,True
+United Kingdom,Italy,Chip design and fabrication,2017,77,True
+United Kingdom,Italy,Chip design and fabrication,2023,82,True
+United Kingdom,Italy,Chip design and fabrication,2019,96,True
+United States,Italy,Chip design and fabrication,2022,140,True
+United States,Italy,Chip design and fabrication,2023,164,True
+United States,Italy,Chip design and fabrication,2017,162,True
+United States,Italy,Chip design and fabrication,2021,132,True
+United States,Italy,Chip design and fabrication,2018,143,True
+United States,Italy,Chip design and fabrication,2025,79,False
+United States,Italy,Chip design and fabrication,2020,133,True
+United States,Italy,Chip design and fabrication,2015,148,True
+United States,Italy,Chip design and fabrication,2016,153,True
+United States,Italy,Chip design and fabrication,2019,149,True
+United States,Italy,Chip design and fabrication,2024,147,False
+Australia,Japan,Chip design and fabrication,2020,40,True
+Australia,Japan,Chip design and fabrication,2019,28,True
+Australia,Japan,Chip design and fabrication,2018,25,True
+Australia,Japan,Chip design and fabrication,2023,35,True
+Belgium,Japan,Chip design and fabrication,2022,27,True
+Belgium,Japan,Chip design and fabrication,2023,38,True
+Belgium,Japan,Chip design and fabrication,2019,44,True
+Belgium,Japan,Chip design and fabrication,2016,29,True
+Belgium,Japan,Chip design and fabrication,2021,35,True
+Belgium,Japan,Chip design and fabrication,2018,48,True
+Belgium,Japan,Chip design and fabrication,2017,29,True
+Belgium,Japan,Chip design and fabrication,2020,35,True
+Belgium,Japan,Chip design and fabrication,2024,39,False
+Belgium,Japan,Chip design and fabrication,2015,52,True
+Canada,Japan,Chip design and fabrication,2019,29,True
+Canada,Japan,Chip design and fabrication,2018,27,True
+Canada,Japan,Chip design and fabrication,2020,25,True
+Canada,Japan,Chip design and fabrication,2023,27,True
+China,Japan,Chip design and fabrication,2022,197,True
+China,Japan,Chip design and fabrication,2020,167,True
+China,Japan,Chip design and fabrication,2025,153,False
+China,Japan,Chip design and fabrication,2018,146,True
+China,Japan,Chip design and fabrication,2015,108,True
+China,Japan,Chip design and fabrication,2016,128,True
+China,Japan,Chip design and fabrication,2024,183,False
+China,Japan,Chip design and fabrication,2021,186,True
+China,Japan,Chip design and fabrication,2017,117,True
+China,Japan,Chip design and fabrication,2019,154,True
+China,Japan,Chip design and fabrication,2023,182,True
+France,Japan,Chip design and fabrication,2015,40,True
+France,Japan,Chip design and fabrication,2022,47,True
+France,Japan,Chip design and fabrication,2024,44,False
+France,Japan,Chip design and fabrication,2016,44,True
+France,Japan,Chip design and fabrication,2025,25,False
+France,Japan,Chip design and fabrication,2020,63,True
+France,Japan,Chip design and fabrication,2019,52,True
+France,Japan,Chip design and fabrication,2017,35,True
+France,Japan,Chip design and fabrication,2021,40,True
+France,Japan,Chip design and fabrication,2018,55,True
+France,Japan,Chip design and fabrication,2023,46,True
+Germany,Japan,Chip design and fabrication,2017,51,True
+Germany,Japan,Chip design and fabrication,2020,82,True
+Germany,Japan,Chip design and fabrication,2018,68,True
+Germany,Japan,Chip design and fabrication,2019,67,True
+Germany,Japan,Chip design and fabrication,2022,65,True
+Germany,Japan,Chip design and fabrication,2016,65,True
+Germany,Japan,Chip design and fabrication,2023,63,True
+Germany,Japan,Chip design and fabrication,2021,50,True
+Germany,Japan,Chip design and fabrication,2025,31,False
+Germany,Japan,Chip design and fabrication,2015,63,True
+Germany,Japan,Chip design and fabrication,2024,67,False
+India,Japan,Chip design and fabrication,2025,26,False
+India,Japan,Chip design and fabrication,2020,29,True
+India,Japan,Chip design and fabrication,2016,35,True
+India,Japan,Chip design and fabrication,2024,44,False
+India,Japan,Chip design and fabrication,2022,39,True
+India,Japan,Chip design and fabrication,2021,31,True
+Italy,Japan,Chip design and fabrication,2020,34,True
+Italy,Japan,Chip design and fabrication,2019,26,True
+Netherlands,Japan,Chip design and fabrication,2016,27,True
+Netherlands,Japan,Chip design and fabrication,2020,27,True
+Russia,Japan,Chip design and fabrication,2019,33,True
+Singapore,Japan,Chip design and fabrication,2019,28,True
+South Korea,Japan,Chip design and fabrication,2016,75,True
+South Korea,Japan,Chip design and fabrication,2025,66,False
+South Korea,Japan,Chip design and fabrication,2019,107,True
+South Korea,Japan,Chip design and fabrication,2023,108,True
+South Korea,Japan,Chip design and fabrication,2015,66,True
+South Korea,Japan,Chip design and fabrication,2024,103,False
+South Korea,Japan,Chip design and fabrication,2020,103,True
+South Korea,Japan,Chip design and fabrication,2017,85,True
+South Korea,Japan,Chip design and fabrication,2022,108,True
+South Korea,Japan,Chip design and fabrication,2021,120,True
+South Korea,Japan,Chip design and fabrication,2018,92,True
+Switzerland,Japan,Chip design and fabrication,2017,25,True
+Switzerland,Japan,Chip design and fabrication,2019,27,True
+Taiwan,Japan,Chip design and fabrication,2024,41,False
+Taiwan,Japan,Chip design and fabrication,2015,39,True
+Taiwan,Japan,Chip design and fabrication,2017,37,True
+Taiwan,Japan,Chip design and fabrication,2021,56,True
+Taiwan,Japan,Chip design and fabrication,2023,57,True
+Taiwan,Japan,Chip design and fabrication,2018,45,True
+Taiwan,Japan,Chip design and fabrication,2020,56,True
+Taiwan,Japan,Chip design and fabrication,2016,35,True
+Taiwan,Japan,Chip design and fabrication,2022,62,True
+Taiwan,Japan,Chip design and fabrication,2019,51,True
+Taiwan,Japan,Chip design and fabrication,2025,26,False
+United Kingdom,Japan,Chip design and fabrication,2016,72,True
+United Kingdom,Japan,Chip design and fabrication,2017,56,True
+United Kingdom,Japan,Chip design and fabrication,2025,30,False
+United Kingdom,Japan,Chip design and fabrication,2021,40,True
+United Kingdom,Japan,Chip design and fabrication,2020,85,True
+United Kingdom,Japan,Chip design and fabrication,2024,34,False
+United Kingdom,Japan,Chip design and fabrication,2019,47,True
+United Kingdom,Japan,Chip design and fabrication,2015,38,True
+United Kingdom,Japan,Chip design and fabrication,2018,56,True
+United Kingdom,Japan,Chip design and fabrication,2023,45,True
+United Kingdom,Japan,Chip design and fabrication,2022,52,True
+United States,Japan,Chip design and fabrication,2018,251,True
+United States,Japan,Chip design and fabrication,2017,224,True
+United States,Japan,Chip design and fabrication,2020,227,True
+United States,Japan,Chip design and fabrication,2024,196,False
+United States,Japan,Chip design and fabrication,2016,232,True
+United States,Japan,Chip design and fabrication,2015,236,True
+United States,Japan,Chip design and fabrication,2025,90,False
+United States,Japan,Chip design and fabrication,2021,204,True
+United States,Japan,Chip design and fabrication,2022,191,True
+United States,Japan,Chip design and fabrication,2023,211,True
+United States,Japan,Chip design and fabrication,2019,225,True
+Vietnam,Japan,Chip design and fabrication,2024,30,False
+China,Malaysia,Chip design and fabrication,2024,45,False
+China,Malaysia,Chip design and fabrication,2023,34,True
+India,Malaysia,Chip design and fabrication,2020,25,True
+India,Malaysia,Chip design and fabrication,2023,28,True
+India,Malaysia,Chip design and fabrication,2021,34,True
+India,Malaysia,Chip design and fabrication,2024,25,False
+Saudi Arabia,Malaysia,Chip design and fabrication,2025,26,False
+United Kingdom,Malaysia,Chip design and fabrication,2023,25,True
+United Kingdom,Malaysia,Chip design and fabrication,2018,26,True
+United Kingdom,Malaysia,Chip design and fabrication,2016,34,True
+United Kingdom,Malaysia,Chip design and fabrication,2015,31,True
+United States,Malaysia,Chip design and fabrication,2018,25,True
+Spain,Mexico,Chip design and fabrication,2020,25,True
+United States,Mexico,Chip design and fabrication,2017,39,True
+United States,Mexico,Chip design and fabrication,2019,26,True
+United States,Mexico,Chip design and fabrication,2018,25,True
+United States,Mexico,Chip design and fabrication,2021,27,True
+United States,Mexico,Chip design and fabrication,2020,25,True
+France,Morocco,Chip design and fabrication,2020,26,True
+France,Morocco,Chip design and fabrication,2019,25,True
+Belgium,Netherlands,Chip design and fabrication,2024,45,False
+Belgium,Netherlands,Chip design and fabrication,2023,48,True
+Belgium,Netherlands,Chip design and fabrication,2021,57,True
+Belgium,Netherlands,Chip design and fabrication,2018,62,True
+Belgium,Netherlands,Chip design and fabrication,2022,34,True
+Belgium,Netherlands,Chip design and fabrication,2017,58,True
+Belgium,Netherlands,Chip design and fabrication,2020,63,True
+Belgium,Netherlands,Chip design and fabrication,2015,50,True
+Belgium,Netherlands,Chip design and fabrication,2019,78,True
+Belgium,Netherlands,Chip design and fabrication,2016,34,True
+China,Netherlands,Chip design and fabrication,2019,47,True
+China,Netherlands,Chip design and fabrication,2020,62,True
+China,Netherlands,Chip design and fabrication,2023,108,True
+China,Netherlands,Chip design and fabrication,2016,38,True
+China,Netherlands,Chip design and fabrication,2022,84,True
+China,Netherlands,Chip design and fabrication,2017,29,True
+China,Netherlands,Chip design and fabrication,2021,85,True
+China,Netherlands,Chip design and fabrication,2018,36,True
+China,Netherlands,Chip design and fabrication,2025,49,False
+China,Netherlands,Chip design and fabrication,2024,80,False
+France,Netherlands,Chip design and fabrication,2015,44,True
+France,Netherlands,Chip design and fabrication,2023,50,True
+France,Netherlands,Chip design and fabrication,2016,48,True
+France,Netherlands,Chip design and fabrication,2021,41,True
+France,Netherlands,Chip design and fabrication,2018,46,True
+France,Netherlands,Chip design and fabrication,2022,34,True
+France,Netherlands,Chip design and fabrication,2024,43,False
+France,Netherlands,Chip design and fabrication,2017,38,True
+France,Netherlands,Chip design and fabrication,2019,47,True
+France,Netherlands,Chip design and fabrication,2020,40,True
+Germany,Netherlands,Chip design and fabrication,2020,69,True
+Germany,Netherlands,Chip design and fabrication,2023,103,True
+Germany,Netherlands,Chip design and fabrication,2024,96,False
+Germany,Netherlands,Chip design and fabrication,2017,65,True
+Germany,Netherlands,Chip design and fabrication,2019,78,True
+Germany,Netherlands,Chip design and fabrication,2015,49,True
+Germany,Netherlands,Chip design and fabrication,2016,59,True
+Germany,Netherlands,Chip design and fabrication,2025,39,False
+Germany,Netherlands,Chip design and fabrication,2022,85,True
+Germany,Netherlands,Chip design and fabrication,2018,63,True
+Germany,Netherlands,Chip design and fabrication,2021,112,True
+Italy,Netherlands,Chip design and fabrication,2018,29,True
+Italy,Netherlands,Chip design and fabrication,2023,58,True
+Italy,Netherlands,Chip design and fabrication,2022,52,True
+Italy,Netherlands,Chip design and fabrication,2021,30,True
+Italy,Netherlands,Chip design and fabrication,2024,41,False
+Italy,Netherlands,Chip design and fabrication,2016,38,True
+Italy,Netherlands,Chip design and fabrication,2019,37,True
+Japan,Netherlands,Chip design and fabrication,2016,27,True
+Japan,Netherlands,Chip design and fabrication,2020,27,True
+Spain,Netherlands,Chip design and fabrication,2021,28,True
+Spain,Netherlands,Chip design and fabrication,2022,34,True
+Spain,Netherlands,Chip design and fabrication,2020,27,True
+Spain,Netherlands,Chip design and fabrication,2023,42,True
+Spain,Netherlands,Chip design and fabrication,2024,36,False
+Switzerland,Netherlands,Chip design and fabrication,2022,40,True
+Switzerland,Netherlands,Chip design and fabrication,2015,30,True
+Switzerland,Netherlands,Chip design and fabrication,2016,32,True
+Switzerland,Netherlands,Chip design and fabrication,2018,53,True
+Switzerland,Netherlands,Chip design and fabrication,2019,37,True
+Switzerland,Netherlands,Chip design and fabrication,2023,48,True
+Switzerland,Netherlands,Chip design and fabrication,2024,45,False
+Switzerland,Netherlands,Chip design and fabrication,2021,45,True
+Switzerland,Netherlands,Chip design and fabrication,2020,46,True
+Switzerland,Netherlands,Chip design and fabrication,2017,46,True
+United Kingdom,Netherlands,Chip design and fabrication,2023,38,True
+United Kingdom,Netherlands,Chip design and fabrication,2020,35,True
+United Kingdom,Netherlands,Chip design and fabrication,2018,40,True
+United Kingdom,Netherlands,Chip design and fabrication,2017,28,True
+United Kingdom,Netherlands,Chip design and fabrication,2021,44,True
+United Kingdom,Netherlands,Chip design and fabrication,2016,34,True
+United Kingdom,Netherlands,Chip design and fabrication,2024,35,False
+United Kingdom,Netherlands,Chip design and fabrication,2015,27,True
+United Kingdom,Netherlands,Chip design and fabrication,2019,32,True
+United Kingdom,Netherlands,Chip design and fabrication,2022,43,True
+United States,Netherlands,Chip design and fabrication,2020,84,True
+United States,Netherlands,Chip design and fabrication,2021,98,True
+United States,Netherlands,Chip design and fabrication,2023,103,True
+United States,Netherlands,Chip design and fabrication,2018,100,True
+United States,Netherlands,Chip design and fabrication,2019,87,True
+United States,Netherlands,Chip design and fabrication,2017,89,True
+United States,Netherlands,Chip design and fabrication,2016,71,True
+United States,Netherlands,Chip design and fabrication,2015,48,True
+United States,Netherlands,Chip design and fabrication,2025,34,False
+United States,Netherlands,Chip design and fabrication,2022,68,True
+United States,Netherlands,Chip design and fabrication,2024,80,False
+United States,Norway,Chip design and fabrication,2024,25,False
+China,Pakistan,Chip design and fabrication,2024,39,False
+China,Pakistan,Chip design and fabrication,2022,29,True
+China,Pakistan,Chip design and fabrication,2019,36,True
+China,Pakistan,Chip design and fabrication,2021,26,True
+China,Pakistan,Chip design and fabrication,2023,29,True
+China,Pakistan,Chip design and fabrication,2020,28,True
+Saudi Arabia,Pakistan,Chip design and fabrication,2023,44,True
+Saudi Arabia,Pakistan,Chip design and fabrication,2022,34,True
+Saudi Arabia,Pakistan,Chip design and fabrication,2024,38,False
+Saudi Arabia,Pakistan,Chip design and fabrication,2021,31,True
+South Korea,Pakistan,Chip design and fabrication,2023,25,True
+South Korea,Pakistan,Chip design and fabrication,2021,30,True
+South Korea,Pakistan,Chip design and fabrication,2024,25,False
+South Korea,Pakistan,Chip design and fabrication,2020,31,True
+South Korea,Pakistan,Chip design and fabrication,2022,29,True
+Germany,Poland,Chip design and fabrication,2022,38,True
+Germany,Poland,Chip design and fabrication,2018,36,True
+Germany,Poland,Chip design and fabrication,2023,27,True
+Germany,Poland,Chip design and fabrication,2021,26,True
+Germany,Poland,Chip design and fabrication,2015,28,True
+Germany,Poland,Chip design and fabrication,2020,43,True
+Germany,Poland,Chip design and fabrication,2016,38,True
+Germany,Poland,Chip design and fabrication,2019,40,True
+Germany,Poland,Chip design and fabrication,2017,29,True
+United States,Poland,Chip design and fabrication,2019,26,True
+United States,Poland,Chip design and fabrication,2016,34,True
+United States,Poland,Chip design and fabrication,2018,25,True
+United States,Poland,Chip design and fabrication,2020,27,True
+China,Portugal,Chip design and fabrication,2017,40,True
+China,Portugal,Chip design and fabrication,2023,26,True
+China,Portugal,Chip design and fabrication,2020,49,True
+China,Portugal,Chip design and fabrication,2016,32,True
+China,Portugal,Chip design and fabrication,2024,25,False
+China,Portugal,Chip design and fabrication,2019,31,True
+China,Portugal,Chip design and fabrication,2021,45,True
+United States,Portugal,Chip design and fabrication,2018,25,True
+Canada,Romania,Chip design and fabrication,2016,40,True
+Canada,Romania,Chip design and fabrication,2019,46,True
+Canada,Romania,Chip design and fabrication,2021,44,True
+Canada,Romania,Chip design and fabrication,2020,43,True
+Canada,Romania,Chip design and fabrication,2018,42,True
+France,Romania,Chip design and fabrication,2016,28,True
+Australia,Russia,Chip design and fabrication,2019,29,True
+Belarus,Russia,Chip design and fabrication,2019,25,True
+China,Russia,Chip design and fabrication,2023,37,True
+China,Russia,Chip design and fabrication,2022,39,True
+China,Russia,Chip design and fabrication,2019,60,True
+China,Russia,Chip design and fabrication,2018,26,True
+China,Russia,Chip design and fabrication,2024,34,False
+China,Russia,Chip design and fabrication,2020,36,True
+France,Russia,Chip design and fabrication,2017,32,True
+France,Russia,Chip design and fabrication,2021,31,True
+France,Russia,Chip design and fabrication,2019,26,True
+France,Russia,Chip design and fabrication,2016,25,True
+France,Russia,Chip design and fabrication,2020,27,True
+France,Russia,Chip design and fabrication,2018,35,True
+Germany,Russia,Chip design and fabrication,2017,54,True
+Germany,Russia,Chip design and fabrication,2015,47,True
+Germany,Russia,Chip design and fabrication,2018,46,True
+Germany,Russia,Chip design and fabrication,2022,33,True
+Germany,Russia,Chip design and fabrication,2021,43,True
+Germany,Russia,Chip design and fabrication,2019,55,True
+Germany,Russia,Chip design and fabrication,2020,69,True
+Germany,Russia,Chip design and fabrication,2016,39,True
+Japan,Russia,Chip design and fabrication,2019,33,True
+United Kingdom,Russia,Chip design and fabrication,2019,35,True
+United Kingdom,Russia,Chip design and fabrication,2016,27,True
+United Kingdom,Russia,Chip design and fabrication,2020,38,True
+United Kingdom,Russia,Chip design and fabrication,2017,32,True
+United States,Russia,Chip design and fabrication,2017,51,True
+United States,Russia,Chip design and fabrication,2020,46,True
+United States,Russia,Chip design and fabrication,2018,37,True
+United States,Russia,Chip design and fabrication,2015,44,True
+United States,Russia,Chip design and fabrication,2022,26,True
+United States,Russia,Chip design and fabrication,2016,51,True
+United States,Russia,Chip design and fabrication,2019,49,True
+United States,Russia,Chip design and fabrication,2021,29,True
+China,Saudi Arabia,Chip design and fabrication,2024,74,False
+China,Saudi Arabia,Chip design and fabrication,2025,46,False
+China,Saudi Arabia,Chip design and fabrication,2019,38,True
+China,Saudi Arabia,Chip design and fabrication,2018,36,True
+China,Saudi Arabia,Chip design and fabrication,2021,50,True
+China,Saudi Arabia,Chip design and fabrication,2022,63,True
+China,Saudi Arabia,Chip design and fabrication,2020,33,True
+China,Saudi Arabia,Chip design and fabrication,2023,54,True
+Egypt,Saudi Arabia,Chip design and fabrication,2023,37,True
+Egypt,Saudi Arabia,Chip design and fabrication,2025,26,False
+Egypt,Saudi Arabia,Chip design and fabrication,2024,31,False
+Egypt,Saudi Arabia,Chip design and fabrication,2022,31,True
+Egypt,Saudi Arabia,Chip design and fabrication,2020,28,True
+Egypt,Saudi Arabia,Chip design and fabrication,2021,40,True
+India,Saudi Arabia,Chip design and fabrication,2024,69,False
+India,Saudi Arabia,Chip design and fabrication,2020,29,True
+India,Saudi Arabia,Chip design and fabrication,2023,60,True
+India,Saudi Arabia,Chip design and fabrication,2021,47,True
+India,Saudi Arabia,Chip design and fabrication,2025,53,False
+India,Saudi Arabia,Chip design and fabrication,2022,49,True
+Malaysia,Saudi Arabia,Chip design and fabrication,2025,26,False
+Pakistan,Saudi Arabia,Chip design and fabrication,2023,44,True
+Pakistan,Saudi Arabia,Chip design and fabrication,2022,34,True
+Pakistan,Saudi Arabia,Chip design and fabrication,2021,31,True
+Pakistan,Saudi Arabia,Chip design and fabrication,2024,38,False
+South Korea,Saudi Arabia,Chip design and fabrication,2024,29,False
+Tunisia,Saudi Arabia,Chip design and fabrication,2023,35,True
+Tunisia,Saudi Arabia,Chip design and fabrication,2022,29,True
+Tunisia,Saudi Arabia,Chip design and fabrication,2020,32,True
+United Kingdom,Saudi Arabia,Chip design and fabrication,2019,26,True
+United Kingdom,Saudi Arabia,Chip design and fabrication,2023,35,True
+United Kingdom,Saudi Arabia,Chip design and fabrication,2024,42,False
+United Kingdom,Saudi Arabia,Chip design and fabrication,2021,32,True
+United Kingdom,Saudi Arabia,Chip design and fabrication,2022,27,True
+United Kingdom,Saudi Arabia,Chip design and fabrication,2020,27,True
+United Kingdom,Saudi Arabia,Chip design and fabrication,2025,36,False
+United States,Saudi Arabia,Chip design and fabrication,2021,64,True
+United States,Saudi Arabia,Chip design and fabrication,2023,73,True
+United States,Saudi Arabia,Chip design and fabrication,2018,51,True
+United States,Saudi Arabia,Chip design and fabrication,2019,61,True
+United States,Saudi Arabia,Chip design and fabrication,2017,36,True
+United States,Saudi Arabia,Chip design and fabrication,2024,72,False
+United States,Saudi Arabia,Chip design and fabrication,2015,40,True
+United States,Saudi Arabia,Chip design and fabrication,2016,52,True
+United States,Saudi Arabia,Chip design and fabrication,2022,60,True
+United States,Saudi Arabia,Chip design and fabrication,2025,43,False
+United States,Saudi Arabia,Chip design and fabrication,2020,74,True
+China,Singapore,Chip design and fabrication,2024,379,False
+China,Singapore,Chip design and fabrication,2020,212,True
+China,Singapore,Chip design and fabrication,2022,246,True
+China,Singapore,Chip design and fabrication,2025,275,False
+China,Singapore,Chip design and fabrication,2016,153,True
+China,Singapore,Chip design and fabrication,2021,235,True
+China,Singapore,Chip design and fabrication,2019,228,True
+China,Singapore,Chip design and fabrication,2018,228,True
+China,Singapore,Chip design and fabrication,2017,182,True
+China,Singapore,Chip design and fabrication,2015,155,True
+China,Singapore,Chip design and fabrication,2023,258,True
+France,Singapore,Chip design and fabrication,2021,29,True
+France,Singapore,Chip design and fabrication,2023,37,True
+France,Singapore,Chip design and fabrication,2024,33,False
+France,Singapore,Chip design and fabrication,2020,28,True
+France,Singapore,Chip design and fabrication,2019,31,True
+France,Singapore,Chip design and fabrication,2022,28,True
+France,Singapore,Chip design and fabrication,2017,26,True
+Germany,Singapore,Chip design and fabrication,2016,28,True
+Germany,Singapore,Chip design and fabrication,2020,29,True
+Germany,Singapore,Chip design and fabrication,2018,25,True
+Germany,Singapore,Chip design and fabrication,2023,31,True
+Germany,Singapore,Chip design and fabrication,2024,32,False
+India,Singapore,Chip design and fabrication,2020,35,True
+India,Singapore,Chip design and fabrication,2024,41,False
+India,Singapore,Chip design and fabrication,2023,38,True
+India,Singapore,Chip design and fabrication,2019,38,True
+Japan,Singapore,Chip design and fabrication,2019,28,True
+South Korea,Singapore,Chip design and fabrication,2024,39,False
+South Korea,Singapore,Chip design and fabrication,2023,25,True
+South Korea,Singapore,Chip design and fabrication,2025,25,False
+South Korea,Singapore,Chip design and fabrication,2019,25,True
+United Kingdom,Singapore,Chip design and fabrication,2019,43,True
+United Kingdom,Singapore,Chip design and fabrication,2025,41,False
+United Kingdom,Singapore,Chip design and fabrication,2022,30,True
+United Kingdom,Singapore,Chip design and fabrication,2016,43,True
+United Kingdom,Singapore,Chip design and fabrication,2015,25,True
+United Kingdom,Singapore,Chip design and fabrication,2021,39,True
+United Kingdom,Singapore,Chip design and fabrication,2018,44,True
+United Kingdom,Singapore,Chip design and fabrication,2024,38,False
+United Kingdom,Singapore,Chip design and fabrication,2023,31,True
+United Kingdom,Singapore,Chip design and fabrication,2017,33,True
+United Kingdom,Singapore,Chip design and fabrication,2020,30,True
+United States,Singapore,Chip design and fabrication,2015,92,True
+United States,Singapore,Chip design and fabrication,2017,115,True
+United States,Singapore,Chip design and fabrication,2022,104,True
+United States,Singapore,Chip design and fabrication,2025,73,False
+United States,Singapore,Chip design and fabrication,2018,101,True
+United States,Singapore,Chip design and fabrication,2019,119,True
+United States,Singapore,Chip design and fabrication,2020,98,True
+United States,Singapore,Chip design and fabrication,2021,102,True
+United States,Singapore,Chip design and fabrication,2024,94,False
+United States,Singapore,Chip design and fabrication,2023,90,True
+United States,Singapore,Chip design and fabrication,2016,98,True
+China,South Korea,Chip design and fabrication,2025,95,False
+China,South Korea,Chip design and fabrication,2017,74,True
+China,South Korea,Chip design and fabrication,2020,76,True
+China,South Korea,Chip design and fabrication,2022,92,True
+China,South Korea,Chip design and fabrication,2021,75,True
+China,South Korea,Chip design and fabrication,2019,81,True
+China,South Korea,Chip design and fabrication,2015,56,True
+China,South Korea,Chip design and fabrication,2024,109,False
+China,South Korea,Chip design and fabrication,2023,88,True
+China,South Korea,Chip design and fabrication,2016,63,True
+China,South Korea,Chip design and fabrication,2018,78,True
+France,South Korea,Chip design and fabrication,2020,27,True
+Germany,South Korea,Chip design and fabrication,2023,35,True
+Germany,South Korea,Chip design and fabrication,2019,41,True
+Germany,South Korea,Chip design and fabrication,2024,27,False
+Germany,South Korea,Chip design and fabrication,2020,32,True
+Germany,South Korea,Chip design and fabrication,2021,32,True
+Germany,South Korea,Chip design and fabrication,2016,28,True
+Germany,South Korea,Chip design and fabrication,2017,35,True
+Germany,South Korea,Chip design and fabrication,2018,25,True
+Germany,South Korea,Chip design and fabrication,2022,33,True
+India,South Korea,Chip design and fabrication,2024,50,False
+India,South Korea,Chip design and fabrication,2020,34,True
+India,South Korea,Chip design and fabrication,2025,28,False
+India,South Korea,Chip design and fabrication,2021,39,True
+India,South Korea,Chip design and fabrication,2023,52,True
+India,South Korea,Chip design and fabrication,2019,31,True
+India,South Korea,Chip design and fabrication,2022,39,True
+Japan,South Korea,Chip design and fabrication,2025,66,False
+Japan,South Korea,Chip design and fabrication,2023,108,True
+Japan,South Korea,Chip design and fabrication,2022,108,True
+Japan,South Korea,Chip design and fabrication,2018,92,True
+Japan,South Korea,Chip design and fabrication,2021,120,True
+Japan,South Korea,Chip design and fabrication,2017,85,True
+Japan,South Korea,Chip design and fabrication,2024,103,False
+Japan,South Korea,Chip design and fabrication,2019,107,True
+Japan,South Korea,Chip design and fabrication,2015,66,True
+Japan,South Korea,Chip design and fabrication,2020,103,True
+Japan,South Korea,Chip design and fabrication,2016,75,True
+Pakistan,South Korea,Chip design and fabrication,2020,31,True
+Pakistan,South Korea,Chip design and fabrication,2023,25,True
+Pakistan,South Korea,Chip design and fabrication,2022,29,True
+Pakistan,South Korea,Chip design and fabrication,2021,30,True
+Pakistan,South Korea,Chip design and fabrication,2024,25,False
+Saudi Arabia,South Korea,Chip design and fabrication,2024,29,False
+Singapore,South Korea,Chip design and fabrication,2023,25,True
+Singapore,South Korea,Chip design and fabrication,2019,25,True
+Singapore,South Korea,Chip design and fabrication,2025,25,False
+Singapore,South Korea,Chip design and fabrication,2024,39,False
+Switzerland,South Korea,Chip design and fabrication,2022,26,True
+Switzerland,South Korea,Chip design and fabrication,2023,25,True
+United Arab Emirates,South Korea,Chip design and fabrication,2024,27,False
+United Kingdom,South Korea,Chip design and fabrication,2017,29,True
+United Kingdom,South Korea,Chip design and fabrication,2019,37,True
+United Kingdom,South Korea,Chip design and fabrication,2021,27,True
+United Kingdom,South Korea,Chip design and fabrication,2023,26,True
+United Kingdom,South Korea,Chip design and fabrication,2022,43,True
+United Kingdom,South Korea,Chip design and fabrication,2025,32,False
+United Kingdom,South Korea,Chip design and fabrication,2020,30,True
+United Kingdom,South Korea,Chip design and fabrication,2024,37,False
+United States,South Korea,Chip design and fabrication,2022,313,True
+United States,South Korea,Chip design and fabrication,2018,288,True
+United States,South Korea,Chip design and fabrication,2017,304,True
+United States,South Korea,Chip design and fabrication,2025,247,False
+United States,South Korea,Chip design and fabrication,2015,308,True
+United States,South Korea,Chip design and fabrication,2019,313,True
+United States,South Korea,Chip design and fabrication,2021,309,True
+United States,South Korea,Chip design and fabrication,2024,365,False
+United States,South Korea,Chip design and fabrication,2016,283,True
+United States,South Korea,Chip design and fabrication,2023,333,True
+United States,South Korea,Chip design and fabrication,2020,299,True
+Canada,Spain,Chip design and fabrication,2016,25,True
+Canada,Spain,Chip design and fabrication,2023,30,True
+Canada,Spain,Chip design and fabrication,2019,26,True
+Canada,Spain,Chip design and fabrication,2018,25,True
+Canada,Spain,Chip design and fabrication,2024,30,False
+Canada,Spain,Chip design and fabrication,2021,31,True
+China,Spain,Chip design and fabrication,2023,54,True
+China,Spain,Chip design and fabrication,2024,41,False
+China,Spain,Chip design and fabrication,2022,40,True
+China,Spain,Chip design and fabrication,2019,39,True
+China,Spain,Chip design and fabrication,2020,44,True
+China,Spain,Chip design and fabrication,2017,34,True
+China,Spain,Chip design and fabrication,2021,44,True
+China,Spain,Chip design and fabrication,2018,36,True
+France,Spain,Chip design and fabrication,2020,83,True
+France,Spain,Chip design and fabrication,2016,85,True
+France,Spain,Chip design and fabrication,2015,69,True
+France,Spain,Chip design and fabrication,2019,77,True
+France,Spain,Chip design and fabrication,2025,30,False
+France,Spain,Chip design and fabrication,2024,66,False
+France,Spain,Chip design and fabrication,2022,55,True
+France,Spain,Chip design and fabrication,2021,79,True
+France,Spain,Chip design and fabrication,2023,87,True
+France,Spain,Chip design and fabrication,2018,80,True
+France,Spain,Chip design and fabrication,2017,78,True
+Germany,Spain,Chip design and fabrication,2023,82,True
+Germany,Spain,Chip design and fabrication,2019,97,True
+Germany,Spain,Chip design and fabrication,2025,39,False
+Germany,Spain,Chip design and fabrication,2022,85,True
+Germany,Spain,Chip design and fabrication,2017,62,True
+Germany,Spain,Chip design and fabrication,2021,105,True
+Germany,Spain,Chip design and fabrication,2020,93,True
+Germany,Spain,Chip design and fabrication,2024,73,False
+Germany,Spain,Chip design and fabrication,2016,67,True
+Germany,Spain,Chip design and fabrication,2018,98,True
+Germany,Spain,Chip design and fabrication,2015,62,True
+Greece,Spain,Chip design and fabrication,2021,28,True
+Italy,Spain,Chip design and fabrication,2022,70,True
+Italy,Spain,Chip design and fabrication,2025,28,False
+Italy,Spain,Chip design and fabrication,2023,67,True
+Italy,Spain,Chip design and fabrication,2020,69,True
+Italy,Spain,Chip design and fabrication,2018,49,True
+Italy,Spain,Chip design and fabrication,2015,39,True
+Italy,Spain,Chip design and fabrication,2019,61,True
+Italy,Spain,Chip design and fabrication,2016,51,True
+Italy,Spain,Chip design and fabrication,2024,58,False
+Italy,Spain,Chip design and fabrication,2021,63,True
+Italy,Spain,Chip design and fabrication,2017,49,True
+Mexico,Spain,Chip design and fabrication,2020,25,True
+Netherlands,Spain,Chip design and fabrication,2020,27,True
+Netherlands,Spain,Chip design and fabrication,2024,36,False
+Netherlands,Spain,Chip design and fabrication,2021,28,True
+Netherlands,Spain,Chip design and fabrication,2022,34,True
+Netherlands,Spain,Chip design and fabrication,2023,42,True
+Switzerland,Spain,Chip design and fabrication,2020,36,True
+Switzerland,Spain,Chip design and fabrication,2023,31,True
+Switzerland,Spain,Chip design and fabrication,2021,42,True
+Switzerland,Spain,Chip design and fabrication,2018,29,True
+Switzerland,Spain,Chip design and fabrication,2019,29,True
+Switzerland,Spain,Chip design and fabrication,2024,48,False
+Switzerland,Spain,Chip design and fabrication,2016,25,True
+Switzerland,Spain,Chip design and fabrication,2017,27,True
+Switzerland,Spain,Chip design and fabrication,2022,42,True
+United Kingdom,Spain,Chip design and fabrication,2020,59,True
+United Kingdom,Spain,Chip design and fabrication,2025,31,False
+United Kingdom,Spain,Chip design and fabrication,2015,69,True
+United Kingdom,Spain,Chip design and fabrication,2021,80,True
+United Kingdom,Spain,Chip design and fabrication,2019,67,True
+United Kingdom,Spain,Chip design and fabrication,2022,61,True
+United Kingdom,Spain,Chip design and fabrication,2023,65,True
+United Kingdom,Spain,Chip design and fabrication,2016,73,True
+United Kingdom,Spain,Chip design and fabrication,2017,71,True
+United Kingdom,Spain,Chip design and fabrication,2024,65,False
+United Kingdom,Spain,Chip design and fabrication,2018,66,True
+United States,Spain,Chip design and fabrication,2016,86,True
+United States,Spain,Chip design and fabrication,2023,77,True
+United States,Spain,Chip design and fabrication,2018,80,True
+United States,Spain,Chip design and fabrication,2024,75,False
+United States,Spain,Chip design and fabrication,2022,75,True
+United States,Spain,Chip design and fabrication,2017,95,True
+United States,Spain,Chip design and fabrication,2019,94,True
+United States,Spain,Chip design and fabrication,2015,97,True
+United States,Spain,Chip design and fabrication,2021,89,True
+United States,Spain,Chip design and fabrication,2020,103,True
+China,Sweden,Chip design and fabrication,2019,48,True
+China,Sweden,Chip design and fabrication,2016,51,True
+China,Sweden,Chip design and fabrication,2017,52,True
+China,Sweden,Chip design and fabrication,2015,45,True
+China,Sweden,Chip design and fabrication,2021,53,True
+China,Sweden,Chip design and fabrication,2020,65,True
+China,Sweden,Chip design and fabrication,2022,52,True
+China,Sweden,Chip design and fabrication,2025,45,False
+China,Sweden,Chip design and fabrication,2018,71,True
+China,Sweden,Chip design and fabrication,2023,62,True
+China,Sweden,Chip design and fabrication,2024,71,False
+Germany,Sweden,Chip design and fabrication,2024,36,False
+Germany,Sweden,Chip design and fabrication,2023,51,True
+Germany,Sweden,Chip design and fabrication,2017,28,True
+Germany,Sweden,Chip design and fabrication,2022,33,True
+Germany,Sweden,Chip design and fabrication,2016,42,True
+Germany,Sweden,Chip design and fabrication,2020,41,True
+Germany,Sweden,Chip design and fabrication,2021,47,True
+Germany,Sweden,Chip design and fabrication,2019,31,True
+Germany,Sweden,Chip design and fabrication,2015,40,True
+Germany,Sweden,Chip design and fabrication,2018,30,True
+Italy,Sweden,Chip design and fabrication,2024,29,False
+Italy,Sweden,Chip design and fabrication,2023,30,True
+United Kingdom,Sweden,Chip design and fabrication,2020,28,True
+United Kingdom,Sweden,Chip design and fabrication,2021,27,True
+United Kingdom,Sweden,Chip design and fabrication,2024,28,False
+United Kingdom,Sweden,Chip design and fabrication,2023,31,True
+United States,Sweden,Chip design and fabrication,2024,53,False
+United States,Sweden,Chip design and fabrication,2020,45,True
+United States,Sweden,Chip design and fabrication,2019,54,True
+United States,Sweden,Chip design and fabrication,2023,44,True
+United States,Sweden,Chip design and fabrication,2021,47,True
+United States,Sweden,Chip design and fabrication,2015,32,True
+United States,Sweden,Chip design and fabrication,2018,48,True
+United States,Sweden,Chip design and fabrication,2022,31,True
+United States,Sweden,Chip design and fabrication,2017,52,True
+United States,Sweden,Chip design and fabrication,2016,62,True
+Belgium,Switzerland,Chip design and fabrication,2024,30,False
+Belgium,Switzerland,Chip design and fabrication,2023,32,True
+Belgium,Switzerland,Chip design and fabrication,2018,29,True
+Belgium,Switzerland,Chip design and fabrication,2020,30,True
+Belgium,Switzerland,Chip design and fabrication,2021,41,True
+Belgium,Switzerland,Chip design and fabrication,2019,29,True
+China,Switzerland,Chip design and fabrication,2022,47,True
+China,Switzerland,Chip design and fabrication,2023,46,True
+China,Switzerland,Chip design and fabrication,2021,37,True
+China,Switzerland,Chip design and fabrication,2016,38,True
+China,Switzerland,Chip design and fabrication,2024,51,False
+China,Switzerland,Chip design and fabrication,2017,29,True
+China,Switzerland,Chip design and fabrication,2025,31,False
+China,Switzerland,Chip design and fabrication,2020,44,True
+France,Switzerland,Chip design and fabrication,2018,71,True
+France,Switzerland,Chip design and fabrication,2022,58,True
+France,Switzerland,Chip design and fabrication,2016,73,True
+France,Switzerland,Chip design and fabrication,2023,65,True
+France,Switzerland,Chip design and fabrication,2024,52,False
+France,Switzerland,Chip design and fabrication,2015,86,True
+France,Switzerland,Chip design and fabrication,2017,66,True
+France,Switzerland,Chip design and fabrication,2019,67,True
+France,Switzerland,Chip design and fabrication,2021,57,True
+France,Switzerland,Chip design and fabrication,2020,61,True
+France,Switzerland,Chip design and fabrication,2025,29,False
+Germany,Switzerland,Chip design and fabrication,2018,105,True
+Germany,Switzerland,Chip design and fabrication,2020,97,True
+Germany,Switzerland,Chip design and fabrication,2016,126,True
+Germany,Switzerland,Chip design and fabrication,2015,100,True
+Germany,Switzerland,Chip design and fabrication,2017,105,True
+Germany,Switzerland,Chip design and fabrication,2021,104,True
+Germany,Switzerland,Chip design and fabrication,2023,95,True
+Germany,Switzerland,Chip design and fabrication,2019,94,True
+Germany,Switzerland,Chip design and fabrication,2025,38,False
+Germany,Switzerland,Chip design and fabrication,2024,94,False
+Germany,Switzerland,Chip design and fabrication,2022,117,True
+Italy,Switzerland,Chip design and fabrication,2023,106,True
+Italy,Switzerland,Chip design and fabrication,2018,98,True
+Italy,Switzerland,Chip design and fabrication,2017,88,True
+Italy,Switzerland,Chip design and fabrication,2016,96,True
+Italy,Switzerland,Chip design and fabrication,2025,49,False
+Italy,Switzerland,Chip design and fabrication,2021,93,True
+Italy,Switzerland,Chip design and fabrication,2015,77,True
+Italy,Switzerland,Chip design and fabrication,2024,95,False
+Italy,Switzerland,Chip design and fabrication,2022,98,True
+Italy,Switzerland,Chip design and fabrication,2019,75,True
+Italy,Switzerland,Chip design and fabrication,2020,91,True
+Japan,Switzerland,Chip design and fabrication,2019,27,True
+Japan,Switzerland,Chip design and fabrication,2017,25,True
+Netherlands,Switzerland,Chip design and fabrication,2021,45,True
+Netherlands,Switzerland,Chip design and fabrication,2016,32,True
+Netherlands,Switzerland,Chip design and fabrication,2019,37,True
+Netherlands,Switzerland,Chip design and fabrication,2015,30,True
+Netherlands,Switzerland,Chip design and fabrication,2024,45,False
+Netherlands,Switzerland,Chip design and fabrication,2017,46,True
+Netherlands,Switzerland,Chip design and fabrication,2022,40,True
+Netherlands,Switzerland,Chip design and fabrication,2023,48,True
+Netherlands,Switzerland,Chip design and fabrication,2020,46,True
+Netherlands,Switzerland,Chip design and fabrication,2018,53,True
+South Korea,Switzerland,Chip design and fabrication,2023,25,True
+South Korea,Switzerland,Chip design and fabrication,2022,26,True
+Spain,Switzerland,Chip design and fabrication,2018,29,True
+Spain,Switzerland,Chip design and fabrication,2016,25,True
+Spain,Switzerland,Chip design and fabrication,2019,29,True
+Spain,Switzerland,Chip design and fabrication,2024,48,False
+Spain,Switzerland,Chip design and fabrication,2022,42,True
+Spain,Switzerland,Chip design and fabrication,2017,27,True
+Spain,Switzerland,Chip design and fabrication,2021,42,True
+Spain,Switzerland,Chip design and fabrication,2023,31,True
+Spain,Switzerland,Chip design and fabrication,2020,36,True
+United Kingdom,Switzerland,Chip design and fabrication,2024,49,False
+United Kingdom,Switzerland,Chip design and fabrication,2018,53,True
+United Kingdom,Switzerland,Chip design and fabrication,2023,49,True
+United Kingdom,Switzerland,Chip design and fabrication,2022,52,True
+United Kingdom,Switzerland,Chip design and fabrication,2021,51,True
+United Kingdom,Switzerland,Chip design and fabrication,2017,63,True
+United Kingdom,Switzerland,Chip design and fabrication,2019,67,True
+United Kingdom,Switzerland,Chip design and fabrication,2016,48,True
+United Kingdom,Switzerland,Chip design and fabrication,2020,77,True
+United Kingdom,Switzerland,Chip design and fabrication,2015,55,True
+United States,Switzerland,Chip design and fabrication,2021,146,True
+United States,Switzerland,Chip design and fabrication,2015,114,True
+United States,Switzerland,Chip design and fabrication,2019,162,True
+United States,Switzerland,Chip design and fabrication,2024,119,False
+United States,Switzerland,Chip design and fabrication,2018,154,True
+United States,Switzerland,Chip design and fabrication,2025,49,False
+United States,Switzerland,Chip design and fabrication,2016,125,True
+United States,Switzerland,Chip design and fabrication,2020,161,True
+United States,Switzerland,Chip design and fabrication,2017,151,True
+United States,Switzerland,Chip design and fabrication,2023,123,True
+United States,Switzerland,Chip design and fabrication,2022,123,True
+China,Taiwan,Chip design and fabrication,2018,160,True
+China,Taiwan,Chip design and fabrication,2021,195,True
+China,Taiwan,Chip design and fabrication,2020,222,True
+China,Taiwan,Chip design and fabrication,2015,122,True
+China,Taiwan,Chip design and fabrication,2017,149,True
+China,Taiwan,Chip design and fabrication,2025,106,False
+China,Taiwan,Chip design and fabrication,2022,179,True
+China,Taiwan,Chip design and fabrication,2019,169,True
+China,Taiwan,Chip design and fabrication,2023,179,True
+China,Taiwan,Chip design and fabrication,2016,140,True
+China,Taiwan,Chip design and fabrication,2024,171,False
+Germany,Taiwan,Chip design and fabrication,2017,28,True
+Germany,Taiwan,Chip design and fabrication,2022,48,True
+Germany,Taiwan,Chip design and fabrication,2019,31,True
+Germany,Taiwan,Chip design and fabrication,2020,44,True
+Germany,Taiwan,Chip design and fabrication,2025,26,False
+Germany,Taiwan,Chip design and fabrication,2018,34,True
+Germany,Taiwan,Chip design and fabrication,2016,26,True
+Germany,Taiwan,Chip design and fabrication,2023,33,True
+Germany,Taiwan,Chip design and fabrication,2024,44,False
+Germany,Taiwan,Chip design and fabrication,2021,56,True
+India,Taiwan,Chip design and fabrication,2025,35,False
+India,Taiwan,Chip design and fabrication,2023,46,True
+India,Taiwan,Chip design and fabrication,2022,34,True
+India,Taiwan,Chip design and fabrication,2024,59,False
+India,Taiwan,Chip design and fabrication,2021,35,True
+India,Taiwan,Chip design and fabrication,2020,27,True
+Japan,Taiwan,Chip design and fabrication,2021,56,True
+Japan,Taiwan,Chip design and fabrication,2020,56,True
+Japan,Taiwan,Chip design and fabrication,2015,39,True
+Japan,Taiwan,Chip design and fabrication,2016,35,True
+Japan,Taiwan,Chip design and fabrication,2024,41,False
+Japan,Taiwan,Chip design and fabrication,2018,45,True
+Japan,Taiwan,Chip design and fabrication,2019,51,True
+Japan,Taiwan,Chip design and fabrication,2025,26,False
+Japan,Taiwan,Chip design and fabrication,2023,57,True
+Japan,Taiwan,Chip design and fabrication,2017,37,True
+Japan,Taiwan,Chip design and fabrication,2022,62,True
+United States,Taiwan,Chip design and fabrication,2019,195,True
+United States,Taiwan,Chip design and fabrication,2025,100,False
+United States,Taiwan,Chip design and fabrication,2015,146,True
+United States,Taiwan,Chip design and fabrication,2020,170,True
+United States,Taiwan,Chip design and fabrication,2024,177,False
+United States,Taiwan,Chip design and fabrication,2021,165,True
+United States,Taiwan,Chip design and fabrication,2022,163,True
+United States,Taiwan,Chip design and fabrication,2017,160,True
+United States,Taiwan,Chip design and fabrication,2016,172,True
+United States,Taiwan,Chip design and fabrication,2023,148,True
+United States,Taiwan,Chip design and fabrication,2018,147,True
+France,Tunisia,Chip design and fabrication,2016,31,True
+France,Tunisia,Chip design and fabrication,2015,34,True
+France,Tunisia,Chip design and fabrication,2017,29,True
+France,Tunisia,Chip design and fabrication,2018,32,True
+France,Tunisia,Chip design and fabrication,2019,29,True
+Saudi Arabia,Tunisia,Chip design and fabrication,2023,35,True
+Saudi Arabia,Tunisia,Chip design and fabrication,2022,29,True
+Saudi Arabia,Tunisia,Chip design and fabrication,2020,32,True
+United States,Turkey,Chip design and fabrication,2019,36,True
+United States,Turkey,Chip design and fabrication,2020,37,True
+United States,Turkey,Chip design and fabrication,2016,32,True
+United States,Turkey,Chip design and fabrication,2018,28,True
+United States,Turkey,Chip design and fabrication,2017,33,True
+United States,Turkey,Chip design and fabrication,2024,28,False
+United States,Turkey,Chip design and fabrication,2023,29,True
+United States,Turkey,Chip design and fabrication,2021,34,True
+United States,Turkey,Chip design and fabrication,2015,32,True
+China,United Arab Emirates,Chip design and fabrication,2024,35,False
+South Korea,United Arab Emirates,Chip design and fabrication,2024,27,False
+United States,United Arab Emirates,Chip design and fabrication,2023,51,True
+United States,United Arab Emirates,Chip design and fabrication,2022,51,True
+United States,United Arab Emirates,Chip design and fabrication,2024,30,False
+United States,United Arab Emirates,Chip design and fabrication,2016,25,True
+United States,United Arab Emirates,Chip design and fabrication,2021,37,True
+United States,United Arab Emirates,Chip design and fabrication,2018,25,True
+United States,United Arab Emirates,Chip design and fabrication,2020,33,True
+United States,United Arab Emirates,Chip design and fabrication,2019,35,True
+Australia,United Kingdom,Chip design and fabrication,2017,29,True
+Australia,United Kingdom,Chip design and fabrication,2025,30,False
+Australia,United Kingdom,Chip design and fabrication,2020,34,True
+Australia,United Kingdom,Chip design and fabrication,2016,37,True
+Australia,United Kingdom,Chip design and fabrication,2023,39,True
+Australia,United Kingdom,Chip design and fabrication,2024,40,False
+Australia,United Kingdom,Chip design and fabrication,2021,54,True
+Australia,United Kingdom,Chip design and fabrication,2022,41,True
+Australia,United Kingdom,Chip design and fabrication,2019,32,True
+Australia,United Kingdom,Chip design and fabrication,2018,42,True
+Austria,United Kingdom,Chip design and fabrication,2022,36,True
+Austria,United Kingdom,Chip design and fabrication,2019,30,True
+Austria,United Kingdom,Chip design and fabrication,2020,31,True
+Austria,United Kingdom,Chip design and fabrication,2023,31,True
+Austria,United Kingdom,Chip design and fabrication,2021,36,True
+Austria,United Kingdom,Chip design and fabrication,2018,25,True
+Belgium,United Kingdom,Chip design and fabrication,2016,26,True
+Belgium,United Kingdom,Chip design and fabrication,2019,34,True
+Belgium,United Kingdom,Chip design and fabrication,2015,36,True
+Belgium,United Kingdom,Chip design and fabrication,2021,26,True
+Belgium,United Kingdom,Chip design and fabrication,2023,29,True
+Belgium,United Kingdom,Chip design and fabrication,2017,37,True
+Belgium,United Kingdom,Chip design and fabrication,2018,37,True
+Canada,United Kingdom,Chip design and fabrication,2021,36,True
+Canada,United Kingdom,Chip design and fabrication,2024,40,False
+Canada,United Kingdom,Chip design and fabrication,2019,44,True
+Canada,United Kingdom,Chip design and fabrication,2020,45,True
+Canada,United Kingdom,Chip design and fabrication,2022,37,True
+Canada,United Kingdom,Chip design and fabrication,2016,36,True
+Canada,United Kingdom,Chip design and fabrication,2017,31,True
+Canada,United Kingdom,Chip design and fabrication,2018,35,True
+Canada,United Kingdom,Chip design and fabrication,2015,31,True
+Canada,United Kingdom,Chip design and fabrication,2023,45,True
+China,United Kingdom,Chip design and fabrication,2018,267,True
+China,United Kingdom,Chip design and fabrication,2023,367,True
+China,United Kingdom,Chip design and fabrication,2021,358,True
+China,United Kingdom,Chip design and fabrication,2019,331,True
+China,United Kingdom,Chip design and fabrication,2017,230,True
+China,United Kingdom,Chip design and fabrication,2024,399,False
+China,United Kingdom,Chip design and fabrication,2022,353,True
+China,United Kingdom,Chip design and fabrication,2015,152,True
+China,United Kingdom,Chip design and fabrication,2025,306,False
+China,United Kingdom,Chip design and fabrication,2016,213,True
+China,United Kingdom,Chip design and fabrication,2020,315,True
+Finland,United Kingdom,Chip design and fabrication,2017,25,True
+Finland,United Kingdom,Chip design and fabrication,2019,32,True
+France,United Kingdom,Chip design and fabrication,2016,82,True
+France,United Kingdom,Chip design and fabrication,2024,77,False
+France,United Kingdom,Chip design and fabrication,2020,95,True
+France,United Kingdom,Chip design and fabrication,2022,77,True
+France,United Kingdom,Chip design and fabrication,2015,76,True
+France,United Kingdom,Chip design and fabrication,2023,64,True
+France,United Kingdom,Chip design and fabrication,2021,70,True
+France,United Kingdom,Chip design and fabrication,2017,90,True
+France,United Kingdom,Chip design and fabrication,2019,93,True
+France,United Kingdom,Chip design and fabrication,2025,32,False
+France,United Kingdom,Chip design and fabrication,2018,78,True
+Germany,United Kingdom,Chip design and fabrication,2022,130,True
+Germany,United Kingdom,Chip design and fabrication,2015,109,True
+Germany,United Kingdom,Chip design and fabrication,2021,125,True
+Germany,United Kingdom,Chip design and fabrication,2025,61,False
+Germany,United Kingdom,Chip design and fabrication,2016,124,True
+Germany,United Kingdom,Chip design and fabrication,2019,135,True
+Germany,United Kingdom,Chip design and fabrication,2017,121,True
+Germany,United Kingdom,Chip design and fabrication,2020,117,True
+Germany,United Kingdom,Chip design and fabrication,2024,99,False
+Germany,United Kingdom,Chip design and fabrication,2018,118,True
+Germany,United Kingdom,Chip design and fabrication,2023,127,True
+Greece,United Kingdom,Chip design and fabrication,2022,37,True
+Greece,United Kingdom,Chip design and fabrication,2020,26,True
+Greece,United Kingdom,Chip design and fabrication,2023,25,True
+India,United Kingdom,Chip design and fabrication,2025,48,False
+India,United Kingdom,Chip design and fabrication,2016,25,True
+India,United Kingdom,Chip design and fabrication,2024,89,False
+India,United Kingdom,Chip design and fabrication,2021,61,True
+India,United Kingdom,Chip design and fabrication,2020,54,True
+India,United Kingdom,Chip design and fabrication,2018,47,True
+India,United Kingdom,Chip design and fabrication,2017,27,True
+India,United Kingdom,Chip design and fabrication,2023,56,True
+India,United Kingdom,Chip design and fabrication,2019,42,True
+India,United Kingdom,Chip design and fabrication,2015,29,True
+India,United Kingdom,Chip design and fabrication,2022,54,True
+Ireland,United Kingdom,Chip design and fabrication,2016,36,True
+Ireland,United Kingdom,Chip design and fabrication,2020,26,True
+Ireland,United Kingdom,Chip design and fabrication,2017,36,True
+Italy,United Kingdom,Chip design and fabrication,2023,82,True
+Italy,United Kingdom,Chip design and fabrication,2025,46,False
+Italy,United Kingdom,Chip design and fabrication,2024,88,False
+Italy,United Kingdom,Chip design and fabrication,2022,91,True
+Italy,United Kingdom,Chip design and fabrication,2017,77,True
+Italy,United Kingdom,Chip design and fabrication,2018,93,True
+Italy,United Kingdom,Chip design and fabrication,2015,79,True
+Italy,United Kingdom,Chip design and fabrication,2016,100,True
+Italy,United Kingdom,Chip design and fabrication,2019,96,True
+Italy,United Kingdom,Chip design and fabrication,2020,109,True
+Italy,United Kingdom,Chip design and fabrication,2021,104,True
+Japan,United Kingdom,Chip design and fabrication,2025,30,False
+Japan,United Kingdom,Chip design and fabrication,2018,56,True
+Japan,United Kingdom,Chip design and fabrication,2024,34,False
+Japan,United Kingdom,Chip design and fabrication,2019,47,True
+Japan,United Kingdom,Chip design and fabrication,2020,85,True
+Japan,United Kingdom,Chip design and fabrication,2022,52,True
+Japan,United Kingdom,Chip design and fabrication,2021,40,True
+Japan,United Kingdom,Chip design and fabrication,2015,38,True
+Japan,United Kingdom,Chip design and fabrication,2017,56,True
+Japan,United Kingdom,Chip design and fabrication,2023,45,True
+Japan,United Kingdom,Chip design and fabrication,2016,72,True
+Malaysia,United Kingdom,Chip design and fabrication,2023,25,True
+Malaysia,United Kingdom,Chip design and fabrication,2018,26,True
+Malaysia,United Kingdom,Chip design and fabrication,2016,34,True
+Malaysia,United Kingdom,Chip design and fabrication,2015,31,True
+Netherlands,United Kingdom,Chip design and fabrication,2021,44,True
+Netherlands,United Kingdom,Chip design and fabrication,2016,34,True
+Netherlands,United Kingdom,Chip design and fabrication,2019,32,True
+Netherlands,United Kingdom,Chip design and fabrication,2015,27,True
+Netherlands,United Kingdom,Chip design and fabrication,2017,28,True
+Netherlands,United Kingdom,Chip design and fabrication,2024,35,False
+Netherlands,United Kingdom,Chip design and fabrication,2018,40,True
+Netherlands,United Kingdom,Chip design and fabrication,2023,38,True
+Netherlands,United Kingdom,Chip design and fabrication,2020,35,True
+Netherlands,United Kingdom,Chip design and fabrication,2022,43,True
+Russia,United Kingdom,Chip design and fabrication,2017,32,True
+Russia,United Kingdom,Chip design and fabrication,2020,38,True
+Russia,United Kingdom,Chip design and fabrication,2019,35,True
+Russia,United Kingdom,Chip design and fabrication,2016,27,True
+Saudi Arabia,United Kingdom,Chip design and fabrication,2021,32,True
+Saudi Arabia,United Kingdom,Chip design and fabrication,2025,36,False
+Saudi Arabia,United Kingdom,Chip design and fabrication,2019,26,True
+Saudi Arabia,United Kingdom,Chip design and fabrication,2023,35,True
+Saudi Arabia,United Kingdom,Chip design and fabrication,2022,27,True
+Saudi Arabia,United Kingdom,Chip design and fabrication,2024,42,False
+Saudi Arabia,United Kingdom,Chip design and fabrication,2020,27,True
+Singapore,United Kingdom,Chip design and fabrication,2025,41,False
+Singapore,United Kingdom,Chip design and fabrication,2016,43,True
+Singapore,United Kingdom,Chip design and fabrication,2021,39,True
+Singapore,United Kingdom,Chip design and fabrication,2020,30,True
+Singapore,United Kingdom,Chip design and fabrication,2018,44,True
+Singapore,United Kingdom,Chip design and fabrication,2017,33,True
+Singapore,United Kingdom,Chip design and fabrication,2019,43,True
+Singapore,United Kingdom,Chip design and fabrication,2024,38,False
+Singapore,United Kingdom,Chip design and fabrication,2015,25,True
+Singapore,United Kingdom,Chip design and fabrication,2023,31,True
+Singapore,United Kingdom,Chip design and fabrication,2022,30,True
+South Korea,United Kingdom,Chip design and fabrication,2025,32,False
+South Korea,United Kingdom,Chip design and fabrication,2022,43,True
+South Korea,United Kingdom,Chip design and fabrication,2023,26,True
+South Korea,United Kingdom,Chip design and fabrication,2024,37,False
+South Korea,United Kingdom,Chip design and fabrication,2021,27,True
+South Korea,United Kingdom,Chip design and fabrication,2017,29,True
+South Korea,United Kingdom,Chip design and fabrication,2020,30,True
+South Korea,United Kingdom,Chip design and fabrication,2019,37,True
+Spain,United Kingdom,Chip design and fabrication,2017,71,True
+Spain,United Kingdom,Chip design and fabrication,2015,69,True
+Spain,United Kingdom,Chip design and fabrication,2018,66,True
+Spain,United Kingdom,Chip design and fabrication,2025,31,False
+Spain,United Kingdom,Chip design and fabrication,2021,80,True
+Spain,United Kingdom,Chip design and fabrication,2020,59,True
+Spain,United Kingdom,Chip design and fabrication,2023,65,True
+Spain,United Kingdom,Chip design and fabrication,2016,73,True
+Spain,United Kingdom,Chip design and fabrication,2022,61,True
+Spain,United Kingdom,Chip design and fabrication,2019,67,True
+Spain,United Kingdom,Chip design and fabrication,2024,65,False
+Sweden,United Kingdom,Chip design and fabrication,2023,31,True
+Sweden,United Kingdom,Chip design and fabrication,2021,27,True
+Sweden,United Kingdom,Chip design and fabrication,2020,28,True
+Sweden,United Kingdom,Chip design and fabrication,2024,28,False
+Switzerland,United Kingdom,Chip design and fabrication,2023,49,True
+Switzerland,United Kingdom,Chip design and fabrication,2022,52,True
+Switzerland,United Kingdom,Chip design and fabrication,2024,49,False
+Switzerland,United Kingdom,Chip design and fabrication,2016,48,True
+Switzerland,United Kingdom,Chip design and fabrication,2018,53,True
+Switzerland,United Kingdom,Chip design and fabrication,2021,51,True
+Switzerland,United Kingdom,Chip design and fabrication,2017,63,True
+Switzerland,United Kingdom,Chip design and fabrication,2015,55,True
+Switzerland,United Kingdom,Chip design and fabrication,2019,67,True
+Switzerland,United Kingdom,Chip design and fabrication,2020,77,True
+United States,United Kingdom,Chip design and fabrication,2024,193,False
+United States,United Kingdom,Chip design and fabrication,2025,118,False
+United States,United Kingdom,Chip design and fabrication,2016,223,True
+United States,United Kingdom,Chip design and fabrication,2017,195,True
+United States,United Kingdom,Chip design and fabrication,2020,223,True
+United States,United Kingdom,Chip design and fabrication,2018,206,True
+United States,United Kingdom,Chip design and fabrication,2022,217,True
+United States,United Kingdom,Chip design and fabrication,2015,169,True
+United States,United Kingdom,Chip design and fabrication,2021,201,True
+United States,United Kingdom,Chip design and fabrication,2019,231,True
+United States,United Kingdom,Chip design and fabrication,2023,192,True
+Australia,United States,Chip design and fabrication,2016,60,True
+Australia,United States,Chip design and fabrication,2017,67,True
+Australia,United States,Chip design and fabrication,2020,75,True
+Australia,United States,Chip design and fabrication,2015,50,True
+Australia,United States,Chip design and fabrication,2019,75,True
+Australia,United States,Chip design and fabrication,2021,79,True
+Australia,United States,Chip design and fabrication,2022,76,True
+Australia,United States,Chip design and fabrication,2024,67,False
+Australia,United States,Chip design and fabrication,2023,57,True
+Australia,United States,Chip design and fabrication,2025,34,False
+Australia,United States,Chip design and fabrication,2018,67,True
+Austria,United States,Chip design and fabrication,2017,44,True
+Austria,United States,Chip design and fabrication,2021,44,True
+Austria,United States,Chip design and fabrication,2015,33,True
+Austria,United States,Chip design and fabrication,2018,41,True
+Austria,United States,Chip design and fabrication,2020,48,True
+Austria,United States,Chip design and fabrication,2023,47,True
+Austria,United States,Chip design and fabrication,2024,30,False
+Austria,United States,Chip design and fabrication,2022,35,True
+Austria,United States,Chip design and fabrication,2019,33,True
+Bangladesh,United States,Chip design and fabrication,2024,31,False
+Belgium,United States,Chip design and fabrication,2016,103,True
+Belgium,United States,Chip design and fabrication,2017,96,True
+Belgium,United States,Chip design and fabrication,2024,79,False
+Belgium,United States,Chip design and fabrication,2018,118,True
+Belgium,United States,Chip design and fabrication,2020,86,True
+Belgium,United States,Chip design and fabrication,2023,103,True
+Belgium,United States,Chip design and fabrication,2015,105,True
+Belgium,United States,Chip design and fabrication,2025,36,False
+Belgium,United States,Chip design and fabrication,2019,101,True
+Belgium,United States,Chip design and fabrication,2021,90,True
+Belgium,United States,Chip design and fabrication,2022,98,True
+Brazil,United States,Chip design and fabrication,2016,32,True
+Brazil,United States,Chip design and fabrication,2022,26,True
+Brazil,United States,Chip design and fabrication,2021,33,True
+Brazil,United States,Chip design and fabrication,2015,45,True
+Brazil,United States,Chip design and fabrication,2018,43,True
+Brazil,United States,Chip design and fabrication,2020,41,True
+Brazil,United States,Chip design and fabrication,2023,25,True
+Brazil,United States,Chip design and fabrication,2019,29,True
+Brazil,United States,Chip design and fabrication,2017,30,True
+Canada,United States,Chip design and fabrication,2016,190,True
+Canada,United States,Chip design and fabrication,2020,185,True
+Canada,United States,Chip design and fabrication,2022,164,True
+Canada,United States,Chip design and fabrication,2024,152,False
+Canada,United States,Chip design and fabrication,2021,154,True
+Canada,United States,Chip design and fabrication,2015,145,True
+Canada,United States,Chip design and fabrication,2019,178,True
+Canada,United States,Chip design and fabrication,2018,184,True
+Canada,United States,Chip design and fabrication,2023,153,True
+Canada,United States,Chip design and fabrication,2017,189,True
+Canada,United States,Chip design and fabrication,2025,62,False
+China,United States,Chip design and fabrication,2024,716,False
+China,United States,Chip design and fabrication,2020,1020,True
+China,United States,Chip design and fabrication,2025,449,False
+China,United States,Chip design and fabrication,2023,721,True
+China,United States,Chip design and fabrication,2019,1076,True
+China,United States,Chip design and fabrication,2021,889,True
+China,United States,Chip design and fabrication,2016,774,True
+China,United States,Chip design and fabrication,2018,953,True
+China,United States,Chip design and fabrication,2017,872,True
+China,United States,Chip design and fabrication,2015,614,True
+China,United States,Chip design and fabrication,2022,746,True
+Denmark,United States,Chip design and fabrication,2024,33,False
+Denmark,United States,Chip design and fabrication,2017,27,True
+Denmark,United States,Chip design and fabrication,2022,29,True
+Denmark,United States,Chip design and fabrication,2023,33,True
+Denmark,United States,Chip design and fabrication,2021,28,True
+Denmark,United States,Chip design and fabrication,2016,25,True
+Denmark,United States,Chip design and fabrication,2018,29,True
+Denmark,United States,Chip design and fabrication,2015,28,True
+Egypt,United States,Chip design and fabrication,2015,42,True
+Egypt,United States,Chip design and fabrication,2023,25,True
+Egypt,United States,Chip design and fabrication,2019,25,True
+Egypt,United States,Chip design and fabrication,2020,26,True
+Egypt,United States,Chip design and fabrication,2022,25,True
+Egypt,United States,Chip design and fabrication,2016,41,True
+Egypt,United States,Chip design and fabrication,2017,26,True
+Finland,United States,Chip design and fabrication,2017,43,True
+Finland,United States,Chip design and fabrication,2022,27,True
+Finland,United States,Chip design and fabrication,2015,35,True
+Finland,United States,Chip design and fabrication,2016,42,True
+Finland,United States,Chip design and fabrication,2021,26,True
+Finland,United States,Chip design and fabrication,2018,30,True
+Finland,United States,Chip design and fabrication,2019,26,True
+Finland,United States,Chip design and fabrication,2020,29,True
+France,United States,Chip design and fabrication,2015,191,True
+France,United States,Chip design and fabrication,2020,166,True
+France,United States,Chip design and fabrication,2017,161,True
+France,United States,Chip design and fabrication,2019,139,True
+France,United States,Chip design and fabrication,2022,129,True
+France,United States,Chip design and fabrication,2021,174,True
+France,United States,Chip design and fabrication,2025,54,False
+France,United States,Chip design and fabrication,2016,196,True
+France,United States,Chip design and fabrication,2018,165,True
+France,United States,Chip design and fabrication,2024,119,False
+France,United States,Chip design and fabrication,2023,136,True
+Germany,United States,Chip design and fabrication,2020,287,True
+Germany,United States,Chip design and fabrication,2021,260,True
+Germany,United States,Chip design and fabrication,2015,264,True
+Germany,United States,Chip design and fabrication,2024,251,False
+Germany,United States,Chip design and fabrication,2017,277,True
+Germany,United States,Chip design and fabrication,2018,268,True
+Germany,United States,Chip design and fabrication,2019,285,True
+Germany,United States,Chip design and fabrication,2016,256,True
+Germany,United States,Chip design and fabrication,2022,256,True
+Germany,United States,Chip design and fabrication,2025,144,False
+Germany,United States,Chip design and fabrication,2023,282,True
+Greece,United States,Chip design and fabrication,2021,25,True
+Greece,United States,Chip design and fabrication,2019,25,True
+Greece,United States,Chip design and fabrication,2015,27,True
+Greece,United States,Chip design and fabrication,2020,31,True
+Greece,United States,Chip design and fabrication,2018,25,True
+India,United States,Chip design and fabrication,2018,143,True
+India,United States,Chip design and fabrication,2021,170,True
+India,United States,Chip design and fabrication,2024,223,False
+India,United States,Chip design and fabrication,2020,174,True
+India,United States,Chip design and fabrication,2019,161,True
+India,United States,Chip design and fabrication,2017,120,True
+India,United States,Chip design and fabrication,2022,201,True
+India,United States,Chip design and fabrication,2015,116,True
+India,United States,Chip design and fabrication,2025,135,False
+India,United States,Chip design and fabrication,2023,223,True
+India,United States,Chip design and fabrication,2016,127,True
+Iran,United States,Chip design and fabrication,2016,36,True
+Iran,United States,Chip design and fabrication,2024,25,False
+Iran,United States,Chip design and fabrication,2021,37,True
+Iran,United States,Chip design and fabrication,2020,48,True
+Iran,United States,Chip design and fabrication,2019,44,True
+Iran,United States,Chip design and fabrication,2015,36,True
+Iran,United States,Chip design and fabrication,2017,47,True
+Iran,United States,Chip design and fabrication,2018,58,True
+Iran,United States,Chip design and fabrication,2022,31,True
+Ireland,United States,Chip design and fabrication,2023,25,True
+Ireland,United States,Chip design and fabrication,2020,36,True
+Ireland,United States,Chip design and fabrication,2021,34,True
+Ireland,United States,Chip design and fabrication,2017,35,True
+Ireland,United States,Chip design and fabrication,2022,38,True
+Ireland,United States,Chip design and fabrication,2018,38,True
+Ireland,United States,Chip design and fabrication,2019,26,True
+Ireland,United States,Chip design and fabrication,2016,32,True
+Israel,United States,Chip design and fabrication,2022,46,True
+Israel,United States,Chip design and fabrication,2023,41,True
+Israel,United States,Chip design and fabrication,2015,63,True
+Israel,United States,Chip design and fabrication,2016,43,True
+Israel,United States,Chip design and fabrication,2017,47,True
+Israel,United States,Chip design and fabrication,2020,49,True
+Israel,United States,Chip design and fabrication,2019,50,True
+Israel,United States,Chip design and fabrication,2024,55,False
+Israel,United States,Chip design and fabrication,2021,50,True
+Israel,United States,Chip design and fabrication,2018,51,True
+Italy,United States,Chip design and fabrication,2017,162,True
+Italy,United States,Chip design and fabrication,2021,132,True
+Italy,United States,Chip design and fabrication,2022,140,True
+Italy,United States,Chip design and fabrication,2018,143,True
+Italy,United States,Chip design and fabrication,2025,79,False
+Italy,United States,Chip design and fabrication,2024,147,False
+Italy,United States,Chip design and fabrication,2019,149,True
+Italy,United States,Chip design and fabrication,2020,133,True
+Italy,United States,Chip design and fabrication,2023,164,True
+Italy,United States,Chip design and fabrication,2016,153,True
+Italy,United States,Chip design and fabrication,2015,148,True
+Japan,United States,Chip design and fabrication,2021,204,True
+Japan,United States,Chip design and fabrication,2023,211,True
+Japan,United States,Chip design and fabrication,2017,224,True
+Japan,United States,Chip design and fabrication,2020,227,True
+Japan,United States,Chip design and fabrication,2018,251,True
+Japan,United States,Chip design and fabrication,2024,196,False
+Japan,United States,Chip design and fabrication,2022,191,True
+Japan,United States,Chip design and fabrication,2016,232,True
+Japan,United States,Chip design and fabrication,2025,90,False
+Japan,United States,Chip design and fabrication,2019,225,True
+Japan,United States,Chip design and fabrication,2015,236,True
+Malaysia,United States,Chip design and fabrication,2018,25,True
+Mexico,United States,Chip design and fabrication,2018,25,True
+Mexico,United States,Chip design and fabrication,2021,27,True
+Mexico,United States,Chip design and fabrication,2020,25,True
+Mexico,United States,Chip design and fabrication,2017,39,True
+Mexico,United States,Chip design and fabrication,2019,26,True
+Netherlands,United States,Chip design and fabrication,2015,48,True
+Netherlands,United States,Chip design and fabrication,2020,84,True
+Netherlands,United States,Chip design and fabrication,2017,89,True
+Netherlands,United States,Chip design and fabrication,2016,71,True
+Netherlands,United States,Chip design and fabrication,2018,100,True
+Netherlands,United States,Chip design and fabrication,2023,103,True
+Netherlands,United States,Chip design and fabrication,2021,98,True
+Netherlands,United States,Chip design and fabrication,2022,68,True
+Netherlands,United States,Chip design and fabrication,2019,87,True
+Netherlands,United States,Chip design and fabrication,2024,80,False
+Netherlands,United States,Chip design and fabrication,2025,34,False
+Norway,United States,Chip design and fabrication,2024,25,False
+Poland,United States,Chip design and fabrication,2019,26,True
+Poland,United States,Chip design and fabrication,2020,27,True
+Poland,United States,Chip design and fabrication,2016,34,True
+Poland,United States,Chip design and fabrication,2018,25,True
+Portugal,United States,Chip design and fabrication,2018,25,True
+Russia,United States,Chip design and fabrication,2021,29,True
+Russia,United States,Chip design and fabrication,2022,26,True
+Russia,United States,Chip design and fabrication,2017,51,True
+Russia,United States,Chip design and fabrication,2020,46,True
+Russia,United States,Chip design and fabrication,2019,49,True
+Russia,United States,Chip design and fabrication,2018,37,True
+Russia,United States,Chip design and fabrication,2015,44,True
+Russia,United States,Chip design and fabrication,2016,51,True
+Saudi Arabia,United States,Chip design and fabrication,2017,36,True
+Saudi Arabia,United States,Chip design and fabrication,2020,74,True
+Saudi Arabia,United States,Chip design and fabrication,2019,61,True
+Saudi Arabia,United States,Chip design and fabrication,2025,43,False
+Saudi Arabia,United States,Chip design and fabrication,2024,72,False
+Saudi Arabia,United States,Chip design and fabrication,2016,52,True
+Saudi Arabia,United States,Chip design and fabrication,2015,40,True
+Saudi Arabia,United States,Chip design and fabrication,2022,60,True
+Saudi Arabia,United States,Chip design and fabrication,2018,51,True
+Saudi Arabia,United States,Chip design and fabrication,2023,73,True
+Saudi Arabia,United States,Chip design and fabrication,2021,64,True
+Singapore,United States,Chip design and fabrication,2021,102,True
+Singapore,United States,Chip design and fabrication,2018,101,True
+Singapore,United States,Chip design and fabrication,2016,98,True
+Singapore,United States,Chip design and fabrication,2023,90,True
+Singapore,United States,Chip design and fabrication,2025,73,False
+Singapore,United States,Chip design and fabrication,2024,94,False
+Singapore,United States,Chip design and fabrication,2015,92,True
+Singapore,United States,Chip design and fabrication,2017,115,True
+Singapore,United States,Chip design and fabrication,2020,98,True
+Singapore,United States,Chip design and fabrication,2019,119,True
+Singapore,United States,Chip design and fabrication,2022,104,True
+South Korea,United States,Chip design and fabrication,2022,313,True
+South Korea,United States,Chip design and fabrication,2019,313,True
+South Korea,United States,Chip design and fabrication,2023,333,True
+South Korea,United States,Chip design and fabrication,2015,308,True
+South Korea,United States,Chip design and fabrication,2017,304,True
+South Korea,United States,Chip design and fabrication,2016,283,True
+South Korea,United States,Chip design and fabrication,2018,288,True
+South Korea,United States,Chip design and fabrication,2020,299,True
+South Korea,United States,Chip design and fabrication,2024,365,False
+South Korea,United States,Chip design and fabrication,2021,309,True
+South Korea,United States,Chip design and fabrication,2025,247,False
+Spain,United States,Chip design and fabrication,2023,77,True
+Spain,United States,Chip design and fabrication,2022,75,True
+Spain,United States,Chip design and fabrication,2018,80,True
+Spain,United States,Chip design and fabrication,2015,97,True
+Spain,United States,Chip design and fabrication,2017,95,True
+Spain,United States,Chip design and fabrication,2019,94,True
+Spain,United States,Chip design and fabrication,2020,103,True
+Spain,United States,Chip design and fabrication,2016,86,True
+Spain,United States,Chip design and fabrication,2021,89,True
+Spain,United States,Chip design and fabrication,2024,75,False
+Sweden,United States,Chip design and fabrication,2019,54,True
+Sweden,United States,Chip design and fabrication,2022,31,True
+Sweden,United States,Chip design and fabrication,2016,62,True
+Sweden,United States,Chip design and fabrication,2017,52,True
+Sweden,United States,Chip design and fabrication,2024,53,False
+Sweden,United States,Chip design and fabrication,2015,32,True
+Sweden,United States,Chip design and fabrication,2020,45,True
+Sweden,United States,Chip design and fabrication,2021,47,True
+Sweden,United States,Chip design and fabrication,2023,44,True
+Sweden,United States,Chip design and fabrication,2018,48,True
+Switzerland,United States,Chip design and fabrication,2025,49,False
+Switzerland,United States,Chip design and fabrication,2015,114,True
+Switzerland,United States,Chip design and fabrication,2019,162,True
+Switzerland,United States,Chip design and fabrication,2022,123,True
+Switzerland,United States,Chip design and fabrication,2017,151,True
+Switzerland,United States,Chip design and fabrication,2024,119,False
+Switzerland,United States,Chip design and fabrication,2023,123,True
+Switzerland,United States,Chip design and fabrication,2020,161,True
+Switzerland,United States,Chip design and fabrication,2016,125,True
+Switzerland,United States,Chip design and fabrication,2018,154,True
+Switzerland,United States,Chip design and fabrication,2021,146,True
+Taiwan,United States,Chip design and fabrication,2018,147,True
+Taiwan,United States,Chip design and fabrication,2021,165,True
+Taiwan,United States,Chip design and fabrication,2016,172,True
+Taiwan,United States,Chip design and fabrication,2015,146,True
+Taiwan,United States,Chip design and fabrication,2025,100,False
+Taiwan,United States,Chip design and fabrication,2022,163,True
+Taiwan,United States,Chip design and fabrication,2019,195,True
+Taiwan,United States,Chip design and fabrication,2023,148,True
+Taiwan,United States,Chip design and fabrication,2024,177,False
+Taiwan,United States,Chip design and fabrication,2020,170,True
+Taiwan,United States,Chip design and fabrication,2017,160,True
+Turkey,United States,Chip design and fabrication,2024,28,False
+Turkey,United States,Chip design and fabrication,2019,36,True
+Turkey,United States,Chip design and fabrication,2021,34,True
+Turkey,United States,Chip design and fabrication,2023,29,True
+Turkey,United States,Chip design and fabrication,2017,33,True
+Turkey,United States,Chip design and fabrication,2016,32,True

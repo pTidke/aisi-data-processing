@@ -1,0 +1,190 @@
+country,avg_annual_articles,avg_cit_per_article,total_patent_apps,patent_field_diversity,total_estimated_investment,has_publications,has_citations,has_patents,has_investment
+Afghanistan,35.666666666666664,22.948984732232816,,,,True,True,False,False
+Albania,46.0,8.331404481404482,,,19.0,True,True,False,True
+Algeria,899.6666666666666,10.347970791558723,,,0.0,True,True,False,True
+Andorra,1.0,1.0,,,,True,True,False,False
+Angola,16.666666666666668,21.685714285714287,,,,True,True,False,False
+Antigua and Barbuda,2.0,40.5,,,,True,True,False,False
+Argentina,277.6666666666667,11.463567773633109,27.0,10.0,1305.0,True,True,True,True
+Armenia,62.333333333333336,5.01598878443015,,,27.0,True,True,False,True
+Australia,6919.333333333333,28.29076560306454,2598.0,11.0,9286.0,True,True,True,True
+Austria,1891.3333333333333,18.12796735453004,57.0,10.0,1726.0,True,True,True,True
+Azerbaijan,101.0,5.250029757703093,1.0,1.0,0.0,True,True,True,True
+Bahamas,2.6666666666666665,9.111111111111112,,,,True,True,False,False
+Bahrain,156.33333333333334,12.400104134124753,,,190.0,True,True,False,True
+Bangladesh,2146.6666666666665,17.470393004611875,,,28.0,True,True,False,True
+Barbados,5.0,10.885714285714286,,,18.0,True,True,False,True
+Belarus,103.33333333333333,5.783202761273024,,,10.0,True,True,False,True
+Belgium,1902.6666666666667,18.436538398809773,20.0,10.0,4369.0,True,True,True,True
+Belize,3.0,10.0,,,30.0,True,True,False,True
+Benin,24.666666666666668,10.59375,,,,True,True,False,False
+Bhutan,10.333333333333334,21.882154882154882,,,,True,True,False,False
+Bolivia,10.666666666666666,16.583333333333332,,,,True,True,False,False
+Bosnia and Herzegovina,127.66666666666667,7.819078955897644,,,0.0,True,True,False,True
+Botswana,43.0,18.990730751249686,,,3.0,True,True,False,True
+Brazil,3594.0,9.887530240014351,727.0,11.0,6087.0,True,True,True,True
+Brunei Darussalam,91.33333333333333,17.981135774686308,,,,True,True,False,False
+Bulgaria,383.6666666666667,8.434969332773774,23.0,,77.0,True,True,True,True
+Burkina Faso,17.333333333333332,5.145238095238096,,,0.0,True,True,False,True
+Burundi,6.0,20.58888888888889,,,,True,True,False,False
+Cambodia,26.333333333333332,18.991463032581454,,,0.0,True,True,False,True
+Cameroon,71.33333333333333,11.114393133000355,,,,True,True,False,False
+Canada,8480.0,21.371816906097393,3267.0,11.0,43002.0,True,True,True,True
+Chad,3.0,13.02222222222222,,,,True,True,False,False
+Chile,511.0,12.773265706328123,7.0,4.0,663.0,True,True,True,True
+China (mainland),85666.33333333333,17.463926077944677,164582.0,11.0,96554.0,True,True,True,True
+Colombia,700.6666666666666,10.888331978239336,6.0,6.0,211.0,True,True,True,True
+Comoros,5.0,20.2,,,,True,True,False,False
+Congo,14.2,33.39829931972789,,,,True,True,False,False
+Costa Rica,53.333333333333336,9.896976396239475,2.0,2.0,0.0,True,True,True,True
+Croatia,443.3333333333333,12.623119678685269,7.0,5.0,834.0,True,True,True,True
+Cuba,57.0,6.403486858357829,1.0,4.0,,True,True,True,False
+Cyprus,366.6666666666667,19.716803501361653,,,169.0,True,True,False,True
+Czechia,1102.3333333333333,14.804930282315977,7.0,6.0,701.0,True,True,True,True
+Côte d'Ivoire,22.333333333333332,11.4233555491162,,,1.0,True,True,False,True
+Denmark,1906.3333333333333,19.7304079424838,133.0,11.0,3013.0,True,True,True,True
+Djibouti,2.0,13.0,,,,True,True,False,False
+Dominica,2.0,24.5,,,,True,True,False,False
+Dominican Republic,4.333333333333333,20.555555555555557,,,2.0,True,True,False,True
+Ecuador,360.0,9.263090973999113,,,0.0,True,True,False,True
+Egypt,2330.6666666666665,16.858965911540878,,,80.0,True,True,False,True
+El Salvador,13.333333333333334,8.909774436090226,,,1.0,True,True,False,True
+Equatorial Guinea,1.0,1.0,,,,True,True,False,False
+Eritrea,2.0,31.25,,,,True,True,False,False
+Estonia,263.3333333333333,16.578046103991753,,,473.0,True,True,False,True
+Ethiopia,421.3333333333333,21.21489443220762,,,0.0,True,True,False,True
+Eurasian Patent Organization,,,25.0,10.0,,False,False,True,False
+European Patent Organization,,,3298.0,11.0,,False,False,True,False
+Fiji,35.666666666666664,15.94480056980057,,,,True,True,False,False
+Finland,1510.3333333333333,22.21692592583278,163.0,10.0,11097.0,True,True,True,True
+France,7605.666666666667,16.113924732937267,886.0,11.0,26683.0,True,True,True,True
+Gabon,10.0,21.462962962962962,,,,True,True,False,False
+Gambia,4.333333333333333,13.857142857142856,,,,True,True,False,False
+Georgia,42.333333333333336,15.67518018018018,,,4.0,True,True,False,True
+Germany,13144.0,19.559277306669987,3316.0,11.0,31736.0,True,True,True,True
+Ghana,201.0,23.530458221024258,,,99.0,True,True,False,True
+Greece,1985.3333333333333,16.09970111106575,37.0,9.0,784.0,True,True,True,True
+Grenada,3.0,21.333333333333332,,,,True,True,False,False
+Guatemala,15.0,5.820430107526882,,,5.0,True,True,False,True
+Guinea,2.0,6.75,,,,True,True,False,False
+Guyana,5.0,3.2,,,,True,True,False,False
+Haiti,2.0,15.555555555555555,,,,True,True,False,False
+Honduras,31.666666666666668,4.980086580086581,,,1.0,True,True,False,True
+Hungary,812.0,12.813314857422627,47.0,11.0,519.0,True,True,True,True
+Iceland,86.0,21.460279882154882,,,140.0,True,True,False,True
+India,34775.666666666664,9.770055346192562,827.0,11.0,45799.0,True,True,True,True
+Indonesia,5603.0,6.379407677863251,2.0,5.0,794.0,True,True,True,True
+International Bureau of WIPO,,,68.0,11.0,,False,False,True,False
+Iran,2883.0,16.50808898382211,1.0,3.0,0.0,True,True,True,True
+Iraq,1940.3333333333333,13.916250615703982,,,0.0,True,True,False,True
+Ireland,1222.3333333333333,19.76955009311251,4.0,2.0,2620.0,True,True,True,True
+Israel,1632.0,27.559168332264495,106.0,11.0,27063.0,True,True,True,True
+Italy,8107.666666666667,17.11853967926073,229.0,11.0,1651.0,True,True,True,True
+Jamaica,6.333333333333333,2.763888888888889,,,0.0,True,True,False,True
+Japan,10324.333333333334,9.575710364525413,16570.0,11.0,10747.0,True,True,True,True
+Jordan,774.0,21.259138326213627,2.0,5.0,2.0,True,True,True,True
+Kazakhstan,378.6666666666667,9.637176329848543,,,11.0,True,True,False,True
+Kenya,167.66666666666666,11.72360789013067,1.0,1.0,188.0,True,True,True,True
+Kosovo,32.333333333333336,16.305684708666075,,,,True,True,False,False
+Kuwait,190.66666666666666,18.9751991179054,,,7.0,True,True,False,True
+Kyrgyzstan,25.333333333333332,11.1307102858827,,,,True,True,False,False
+Laos,1.5,10.25,,,,True,True,False,False
+Latvia,118.0,11.688361528822055,2.0,1.0,28.0,True,True,True,True
+Lebanon,370.0,18.658272568286574,,,2.0,True,True,False,True
+Lesotho,1.6666666666666667,3.5,,,,True,True,False,False
+Liberia,5.0,8.616161616161616,,,,True,True,False,False
+Libya,101.33333333333333,9.74472558922559,,,,True,True,False,False
+Liechtenstein,15.333333333333334,34.270833333333336,,,,True,True,False,False
+Lithuania,255.33333333333334,19.405298077461897,28.0,11.0,360.0,True,True,True,True
+Luxembourg,275.3333333333333,17.075525643622957,37.0,9.0,370.0,True,True,True,True
+Madagascar,12.666666666666666,8.659722222222221,,,5.0,True,True,False,True
+Malawi,17.666666666666668,18.866666666666667,,,,True,True,False,False
+Malaysia,3486.6666666666665,14.860300712868437,117.0,11.0,521.0,True,True,True,True
+Maldives,4.333333333333333,14.885714285714286,,,,True,True,False,False
+Mali,6.0,11.111111111111112,,,,True,True,False,False
+Malta,98.33333333333333,10.944325275224152,,,83.0,True,True,False,True
+Mauritania,5.666666666666667,4.358333333333333,,,,True,True,False,False
+Mauritius,42.333333333333336,8.818522571819425,,,141.0,True,True,False,True
+Mexico,1347.3333333333333,10.51141716811359,470.0,11.0,1136.0,True,True,True,True
+Moldova,18.666666666666668,2.242081447963801,,,,True,True,False,False
+Monaco,1.0,37.5,,,,True,True,False,False
+Mongolia,38.333333333333336,8.752240937746256,,,0.0,True,True,False,True
+Montenegro,33.333333333333336,8.24222582972583,,,,True,True,False,False
+Morocco,1128.6666666666667,11.769322631969759,26.0,11.0,5.0,True,True,True,True
+Mozambique,10.666666666666666,12.118736383442267,,,,True,True,False,False
+Myanmar,50.0,9.920514864708329,,,,True,True,False,False
+Namibia,18.333333333333332,19.53675213675214,,,,True,True,False,False
+Nepal,130.0,17.504291391870165,,,,True,True,False,False
+Netherlands,4174.0,20.878728234687102,72.0,9.0,9001.0,True,True,True,True
+New Zealand,815.3333333333334,19.98067504682206,75.0,11.0,2234.0,True,True,True,True
+Nicaragua,2.3333333333333335,112.41666666666667,,,,True,True,False,False
+Niger,4.0,9.366666666666667,,,,True,True,False,False
+Nigeria,906.3333333333334,12.973577995119896,,,139.0,True,True,False,True
+North Korea,12.666666666666666,4.6815476190476195,,,,True,True,False,False
+North Macedonia,102.66666666666667,11.704244031830237,,,1.0,True,True,False,True
+Norway,1803.0,19.644931048958128,24.0,11.0,1809.0,True,True,True,True
+Oman,279.6666666666667,17.425063336257367,1.0,2.0,3.0,True,True,True,True
+Pakistan,3138.0,22.41293799316991,,,21.0,True,True,False,True
+Panama,28.333333333333332,8.073076923076924,2.0,1.0,2.0,True,True,True,True
+Papua New Guinea,13.666666666666666,14.215873015873015,,,,True,True,False,False
+Paraguay,28.666666666666668,7.879936120789779,,,0.0,True,True,False,True
+Peru,421.0,7.886289069898641,25.0,11.0,11.0,True,True,True,True
+Philippines,752.3333333333334,7.910363147363576,62.0,11.0,162.0,True,True,True,True
+Poland,2322.6666666666665,14.758179994223683,131.0,11.0,945.0,True,True,True,True
+Portugal,1866.3333333333333,14.854540545468822,52.0,10.0,1115.0,True,True,True,True
+Qatar,575.6666666666666,33.764740804196656,,,22.0,True,True,False,True
+Romania,1275.6666666666667,11.180743213589897,33.0,5.0,179.0,True,True,True,True
+Russia,4045.3333333333335,6.405085307245739,985.0,11.0,405.0,True,True,True,True
+Rwanda,69.66666666666667,17.7011651560322,,,,True,True,False,False
+Saint Kitts and Nevis,3.0,4.0,,,4.0,True,True,False,True
+Saint Lucia,3.0,19.5,,,,True,True,False,False
+Saint Vincent and the Grenadines,1.0,3.0,,,,True,True,False,False
+Samoa,3.0,5.666666666666667,,,,True,True,False,False
+San Marino,1.5,10.0,3.0,4.0,,True,True,True,False
+Saudi Arabia,4412.0,26.056046126501567,2.0,5.0,22624.0,True,True,True,True
+Senegal,52.0,11.527447700966336,,,5.0,True,True,False,True
+Serbia,509.0,12.961239006091946,20.0,10.0,97.0,True,True,True,True
+Seychelles,1.0,17.0,,,65.0,True,True,False,True
+Sierra Leone,2.6666666666666665,8.666666666666666,,,,True,True,False,False
+Singapore,3762.0,35.170806113521934,602.0,11.0,16718.0,True,True,True,True
+Slovakia,449.0,12.611958283507306,8.0,,144.0,True,True,True,True
+Slovenia,404.3333333333333,16.196247732145803,13.0,9.0,35.0,True,True,True,True
+Somalia,7.0,8.147619047619047,,,,True,True,False,False
+South Africa,931.6666666666666,19.107077136006797,19.0,10.0,1169.0,True,True,True,True
+South Korea,9126.666666666666,20.099959849154924,23074.0,11.0,16484.0,True,True,True,True
+South Sudan,1.0,,,,,True,False,False,False
+South and Central America,5892.333333333333,9.902349663186076,,,,True,True,False,False
+Spain,5445.0,16.719973531665772,497.0,11.0,4445.0,True,True,True,True
+Sri Lanka,571.0,8.19787000230379,1.0,1.0,21.0,True,True,True,True
+Sudan,87.66666666666667,15.654704944178627,,,,True,True,False,False
+Suriname,1.0,5.0,,,,True,True,False,False
+Swaziland,6.0,25.555555555555554,,,,True,True,False,False
+Sweden,2440.6666666666665,20.26794902728528,102.0,11.0,39974.0,True,True,True,True
+Switzerland,3676.6666666666665,28.62611692105301,20.0,10.0,11886.0,True,True,True,True
+Syria,60.666666666666664,15.787072940443124,,,,True,True,False,False
+São Tomé and Príncipe,1.0,19.0,,,,True,True,False,False
+Taiwan,3823.3333333333335,15.986783331954683,1812.0,11.0,1401.0,True,True,True,True
+Tajikistan,5.333333333333333,7.616666666666667,,,4.0,True,True,False,True
+Tanzania,76.0,15.4206126171991,,,0.0,True,True,False,True
+Thailand,1365.0,11.019338784828905,1.0,1.0,196.0,True,True,True,True
+Timor-Leste,4.666666666666667,3.388888888888889,,,,True,True,False,False
+Togo,5.666666666666667,27.61904761904762,,,,True,True,False,False
+Tonga,1.0,26.0,,,,True,True,False,False
+Trinidad and Tobago,26.333333333333332,9.436092955700799,,,0.0,True,True,False,True
+Tunisia,833.0,24.666083104698018,1.0,,11.0,True,True,True,True
+Turkey,4020.0,12.354817617795279,112.0,11.0,1245.0,True,True,True,True
+Turkmenistan,3.0,,,,,True,False,False,False
+Uganda,64.33333333333333,17.65255784865541,,,0.0,True,True,False,True
+Ukraine,1160.3333333333333,4.869310327880759,24.0,5.0,333.0,True,True,True,True
+United Arab Emirates,1906.0,31.43046527583307,,,4299.0,True,True,False,True
+United Kingdom,14885.333333333334,25.52607303194323,1828.0,11.0,40938.0,True,True,True,True
+United States,48214.666666666664,23.072853783067902,63326.0,11.0,849399.0,True,True,True,True
+Uruguay,73.0,10.443145496056454,2.0,3.0,126.0,True,True,True,True
+Uzbekistan,235.66666666666666,6.7184691294860786,,,0.0,True,True,False,True
+Vatican City,2.5,17.125,,,,True,True,False,False
+Venezuela,42.666666666666664,9.159393939393938,,,1.0,True,True,False,True
+Vietnam,1820.3333333333333,12.283058552913303,,,139.0,True,True,False,True
+World Intellectual Property Organization (WIPO),,,1966.0,11.0,,False,False,True,False
+Yemen,194.33333333333334,21.00572848725651,,,,True,True,False,False
+Zambia,26.666666666666668,20.107142857142858,,,1.0,True,True,False,True
+Zimbabwe,33.666666666666664,7.578947368421052,,,1.0,True,True,False,True

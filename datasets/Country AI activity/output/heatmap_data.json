@@ -1,0 +1,1352 @@
+[
+  {
+    "country":"Canada",
+    "field":"Consumer goods",
+    "estimated_investment":1083,
+    "log_investment":6.99
+  },
+  {
+    "country":"Canada",
+    "field":"Data and analytics",
+    "estimated_investment":26502,
+    "log_investment":10.19
+  },
+  {
+    "country":"Canada",
+    "field":"Finance",
+    "estimated_investment":4903,
+    "log_investment":8.5
+  },
+  {
+    "country":"Canada",
+    "field":"General purpose",
+    "estimated_investment":21674,
+    "log_investment":9.98
+  },
+  {
+    "country":"Canada",
+    "field":"Hardware",
+    "estimated_investment":5422,
+    "log_investment":8.6
+  },
+  {
+    "country":"Canada",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":4250,
+    "log_investment":8.35
+  },
+  {
+    "country":"Canada",
+    "field":"Information Technology",
+    "estimated_investment":10139,
+    "log_investment":9.22
+  },
+  {
+    "country":"Canada",
+    "field":"Media and Entertainment",
+    "estimated_investment":2751,
+    "log_investment":7.92
+  },
+  {
+    "country":"Canada",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":3871,
+    "log_investment":8.26
+  },
+  {
+    "country":"Canada",
+    "field":"Other",
+    "estimated_investment":4639,
+    "log_investment":8.44
+  },
+  {
+    "country":"Canada",
+    "field":"Privacy and Security",
+    "estimated_investment":1054,
+    "log_investment":6.96
+  },
+  {
+    "country":"Canada",
+    "field":"Professional services",
+    "estimated_investment":6530,
+    "log_investment":8.78
+  },
+  {
+    "country":"Canada",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":3090,
+    "log_investment":8.04
+  },
+  {
+    "country":"Canada",
+    "field":"Software",
+    "estimated_investment":26471,
+    "log_investment":10.18
+  },
+  {
+    "country":"Canada",
+    "field":"Transportation",
+    "estimated_investment":1400,
+    "log_investment":7.24
+  },
+  {
+    "country":"China",
+    "field":"Consumer goods",
+    "estimated_investment":4784,
+    "log_investment":8.47
+  },
+  {
+    "country":"China",
+    "field":"Data and analytics",
+    "estimated_investment":39432,
+    "log_investment":10.58
+  },
+  {
+    "country":"China",
+    "field":"Finance",
+    "estimated_investment":2441,
+    "log_investment":7.8
+  },
+  {
+    "country":"China",
+    "field":"General purpose",
+    "estimated_investment":39755,
+    "log_investment":10.59
+  },
+  {
+    "country":"China",
+    "field":"Hardware",
+    "estimated_investment":16999,
+    "log_investment":9.74
+  },
+  {
+    "country":"China",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":3594,
+    "log_investment":8.19
+  },
+  {
+    "country":"China",
+    "field":"Information Technology",
+    "estimated_investment":12814,
+    "log_investment":9.46
+  },
+  {
+    "country":"China",
+    "field":"Media and Entertainment",
+    "estimated_investment":2094,
+    "log_investment":7.65
+  },
+  {
+    "country":"China",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":10828,
+    "log_investment":9.29
+  },
+  {
+    "country":"China",
+    "field":"Other",
+    "estimated_investment":6131,
+    "log_investment":8.72
+  },
+  {
+    "country":"China",
+    "field":"Privacy and Security",
+    "estimated_investment":1185,
+    "log_investment":7.08
+  },
+  {
+    "country":"China",
+    "field":"Professional services",
+    "estimated_investment":1139,
+    "log_investment":7.04
+  },
+  {
+    "country":"China",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":1708,
+    "log_investment":7.44
+  },
+  {
+    "country":"China",
+    "field":"Software",
+    "estimated_investment":41287,
+    "log_investment":10.63
+  },
+  {
+    "country":"China",
+    "field":"Transportation",
+    "estimated_investment":12454,
+    "log_investment":9.43
+  },
+  {
+    "country":"Finland",
+    "field":"Consumer goods",
+    "estimated_investment":546,
+    "log_investment":6.3
+  },
+  {
+    "country":"Finland",
+    "field":"Data and analytics",
+    "estimated_investment":8911,
+    "log_investment":9.1
+  },
+  {
+    "country":"Finland",
+    "field":"Finance",
+    "estimated_investment":2082,
+    "log_investment":7.64
+  },
+  {
+    "country":"Finland",
+    "field":"General purpose",
+    "estimated_investment":7689,
+    "log_investment":8.95
+  },
+  {
+    "country":"Finland",
+    "field":"Hardware",
+    "estimated_investment":1600,
+    "log_investment":7.38
+  },
+  {
+    "country":"Finland",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":56,
+    "log_investment":4.04
+  },
+  {
+    "country":"Finland",
+    "field":"Information Technology",
+    "estimated_investment":4472,
+    "log_investment":8.41
+  },
+  {
+    "country":"Finland",
+    "field":"Media and Entertainment",
+    "estimated_investment":404,
+    "log_investment":6.0
+  },
+  {
+    "country":"Finland",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":2611,
+    "log_investment":7.87
+  },
+  {
+    "country":"Finland",
+    "field":"Other",
+    "estimated_investment":1610,
+    "log_investment":7.38
+  },
+  {
+    "country":"Finland",
+    "field":"Privacy and Security",
+    "estimated_investment":1,
+    "log_investment":0.69
+  },
+  {
+    "country":"Finland",
+    "field":"Professional services",
+    "estimated_investment":1389,
+    "log_investment":7.24
+  },
+  {
+    "country":"Finland",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":1831,
+    "log_investment":7.51
+  },
+  {
+    "country":"Finland",
+    "field":"Software",
+    "estimated_investment":9646,
+    "log_investment":9.17
+  },
+  {
+    "country":"Finland",
+    "field":"Transportation",
+    "estimated_investment":842,
+    "log_investment":6.74
+  },
+  {
+    "country":"France",
+    "field":"Consumer goods",
+    "estimated_investment":1171,
+    "log_investment":7.07
+  },
+  {
+    "country":"France",
+    "field":"Data and analytics",
+    "estimated_investment":16374,
+    "log_investment":9.7
+  },
+  {
+    "country":"France",
+    "field":"Finance",
+    "estimated_investment":1262,
+    "log_investment":7.14
+  },
+  {
+    "country":"France",
+    "field":"General purpose",
+    "estimated_investment":14229,
+    "log_investment":9.56
+  },
+  {
+    "country":"France",
+    "field":"Hardware",
+    "estimated_investment":4075,
+    "log_investment":8.31
+  },
+  {
+    "country":"France",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":1101,
+    "log_investment":7.0
+  },
+  {
+    "country":"France",
+    "field":"Information Technology",
+    "estimated_investment":6859,
+    "log_investment":8.83
+  },
+  {
+    "country":"France",
+    "field":"Media and Entertainment",
+    "estimated_investment":1222,
+    "log_investment":7.11
+  },
+  {
+    "country":"France",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":4264,
+    "log_investment":8.36
+  },
+  {
+    "country":"France",
+    "field":"Other",
+    "estimated_investment":2816,
+    "log_investment":7.94
+  },
+  {
+    "country":"France",
+    "field":"Privacy and Security",
+    "estimated_investment":359,
+    "log_investment":5.89
+  },
+  {
+    "country":"France",
+    "field":"Professional services",
+    "estimated_investment":2910,
+    "log_investment":7.98
+  },
+  {
+    "country":"France",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":3459,
+    "log_investment":8.15
+  },
+  {
+    "country":"France",
+    "field":"Software",
+    "estimated_investment":18132,
+    "log_investment":9.81
+  },
+  {
+    "country":"France",
+    "field":"Transportation",
+    "estimated_investment":1209,
+    "log_investment":7.1
+  },
+  {
+    "country":"Germany",
+    "field":"Consumer goods",
+    "estimated_investment":2234,
+    "log_investment":7.71
+  },
+  {
+    "country":"Germany",
+    "field":"Data and analytics",
+    "estimated_investment":16360,
+    "log_investment":9.7
+  },
+  {
+    "country":"Germany",
+    "field":"Finance",
+    "estimated_investment":1890,
+    "log_investment":7.54
+  },
+  {
+    "country":"Germany",
+    "field":"General purpose",
+    "estimated_investment":13322,
+    "log_investment":9.5
+  },
+  {
+    "country":"Germany",
+    "field":"Hardware",
+    "estimated_investment":5414,
+    "log_investment":8.6
+  },
+  {
+    "country":"Germany",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":858,
+    "log_investment":6.76
+  },
+  {
+    "country":"Germany",
+    "field":"Information Technology",
+    "estimated_investment":8475,
+    "log_investment":9.04
+  },
+  {
+    "country":"Germany",
+    "field":"Media and Entertainment",
+    "estimated_investment":1240,
+    "log_investment":7.12
+  },
+  {
+    "country":"Germany",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":4625,
+    "log_investment":8.44
+  },
+  {
+    "country":"Germany",
+    "field":"Other",
+    "estimated_investment":2946,
+    "log_investment":7.99
+  },
+  {
+    "country":"Germany",
+    "field":"Privacy and Security",
+    "estimated_investment":668,
+    "log_investment":6.51
+  },
+  {
+    "country":"Germany",
+    "field":"Professional services",
+    "estimated_investment":3370,
+    "log_investment":8.12
+  },
+  {
+    "country":"Germany",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":3950,
+    "log_investment":8.28
+  },
+  {
+    "country":"Germany",
+    "field":"Software",
+    "estimated_investment":17916,
+    "log_investment":9.79
+  },
+  {
+    "country":"Germany",
+    "field":"Transportation",
+    "estimated_investment":4875,
+    "log_investment":8.49
+  },
+  {
+    "country":"India",
+    "field":"Consumer goods",
+    "estimated_investment":15740,
+    "log_investment":9.66
+  },
+  {
+    "country":"India",
+    "field":"Data and analytics",
+    "estimated_investment":11399,
+    "log_investment":9.34
+  },
+  {
+    "country":"India",
+    "field":"Finance",
+    "estimated_investment":1012,
+    "log_investment":6.92
+  },
+  {
+    "country":"India",
+    "field":"General purpose",
+    "estimated_investment":6066,
+    "log_investment":8.71
+  },
+  {
+    "country":"India",
+    "field":"Hardware",
+    "estimated_investment":20766,
+    "log_investment":9.94
+  },
+  {
+    "country":"India",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":1036,
+    "log_investment":6.94
+  },
+  {
+    "country":"India",
+    "field":"Information Technology",
+    "estimated_investment":18907,
+    "log_investment":9.85
+  },
+  {
+    "country":"India",
+    "field":"Media and Entertainment",
+    "estimated_investment":513,
+    "log_investment":6.24
+  },
+  {
+    "country":"India",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":17594,
+    "log_investment":9.78
+  },
+  {
+    "country":"India",
+    "field":"Other",
+    "estimated_investment":1530,
+    "log_investment":7.33
+  },
+  {
+    "country":"India",
+    "field":"Privacy and Security",
+    "estimated_investment":221,
+    "log_investment":5.4
+  },
+  {
+    "country":"India",
+    "field":"Professional services",
+    "estimated_investment":1648,
+    "log_investment":7.41
+  },
+  {
+    "country":"India",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":1211,
+    "log_investment":7.1
+  },
+  {
+    "country":"India",
+    "field":"Software",
+    "estimated_investment":27951,
+    "log_investment":10.24
+  },
+  {
+    "country":"India",
+    "field":"Transportation",
+    "estimated_investment":481,
+    "log_investment":6.18
+  },
+  {
+    "country":"Israel",
+    "field":"Consumer goods",
+    "estimated_investment":902,
+    "log_investment":6.81
+  },
+  {
+    "country":"Israel",
+    "field":"Data and analytics",
+    "estimated_investment":15220,
+    "log_investment":9.63
+  },
+  {
+    "country":"Israel",
+    "field":"Finance",
+    "estimated_investment":1822,
+    "log_investment":7.51
+  },
+  {
+    "country":"Israel",
+    "field":"General purpose",
+    "estimated_investment":13563,
+    "log_investment":9.52
+  },
+  {
+    "country":"Israel",
+    "field":"Hardware",
+    "estimated_investment":4083,
+    "log_investment":8.31
+  },
+  {
+    "country":"Israel",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":1834,
+    "log_investment":7.51
+  },
+  {
+    "country":"Israel",
+    "field":"Information Technology",
+    "estimated_investment":6931,
+    "log_investment":8.84
+  },
+  {
+    "country":"Israel",
+    "field":"Media and Entertainment",
+    "estimated_investment":825,
+    "log_investment":6.72
+  },
+  {
+    "country":"Israel",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":4784,
+    "log_investment":8.47
+  },
+  {
+    "country":"Israel",
+    "field":"Other",
+    "estimated_investment":2208,
+    "log_investment":7.7
+  },
+  {
+    "country":"Israel",
+    "field":"Privacy and Security",
+    "estimated_investment":2149,
+    "log_investment":7.67
+  },
+  {
+    "country":"Israel",
+    "field":"Professional services",
+    "estimated_investment":2290,
+    "log_investment":7.74
+  },
+  {
+    "country":"Israel",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":2167,
+    "log_investment":7.68
+  },
+  {
+    "country":"Israel",
+    "field":"Software",
+    "estimated_investment":16194,
+    "log_investment":9.69
+  },
+  {
+    "country":"Israel",
+    "field":"Transportation",
+    "estimated_investment":1685,
+    "log_investment":7.43
+  },
+  {
+    "country":"Netherlands",
+    "field":"Consumer goods",
+    "estimated_investment":175,
+    "log_investment":5.17
+  },
+  {
+    "country":"Netherlands",
+    "field":"Data and analytics",
+    "estimated_investment":7033,
+    "log_investment":8.86
+  },
+  {
+    "country":"Netherlands",
+    "field":"Finance",
+    "estimated_investment":1056,
+    "log_investment":6.96
+  },
+  {
+    "country":"Netherlands",
+    "field":"General purpose",
+    "estimated_investment":6173,
+    "log_investment":8.73
+  },
+  {
+    "country":"Netherlands",
+    "field":"Hardware",
+    "estimated_investment":2112,
+    "log_investment":7.66
+  },
+  {
+    "country":"Netherlands",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":733,
+    "log_investment":6.6
+  },
+  {
+    "country":"Netherlands",
+    "field":"Information Technology",
+    "estimated_investment":3954,
+    "log_investment":8.28
+  },
+  {
+    "country":"Netherlands",
+    "field":"Media and Entertainment",
+    "estimated_investment":541,
+    "log_investment":6.3
+  },
+  {
+    "country":"Netherlands",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":1811,
+    "log_investment":7.5
+  },
+  {
+    "country":"Netherlands",
+    "field":"Other",
+    "estimated_investment":839,
+    "log_investment":6.73
+  },
+  {
+    "country":"Netherlands",
+    "field":"Privacy and Security",
+    "estimated_investment":510,
+    "log_investment":6.24
+  },
+  {
+    "country":"Netherlands",
+    "field":"Professional services",
+    "estimated_investment":760,
+    "log_investment":6.63
+  },
+  {
+    "country":"Netherlands",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":1378,
+    "log_investment":7.23
+  },
+  {
+    "country":"Netherlands",
+    "field":"Software",
+    "estimated_investment":7020,
+    "log_investment":8.86
+  },
+  {
+    "country":"Netherlands",
+    "field":"Transportation",
+    "estimated_investment":352,
+    "log_investment":5.87
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Consumer goods",
+    "estimated_investment":8,
+    "log_investment":2.2
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Data and analytics",
+    "estimated_investment":20551,
+    "log_investment":9.93
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Finance",
+    "estimated_investment":2736,
+    "log_investment":7.91
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"General purpose",
+    "estimated_investment":2947,
+    "log_investment":7.99
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Hardware",
+    "estimated_investment":39,
+    "log_investment":3.69
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":290,
+    "log_investment":5.67
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Information Technology",
+    "estimated_investment":17214,
+    "log_investment":9.75
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Media and Entertainment",
+    "estimated_investment":11,
+    "log_investment":2.48
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":362,
+    "log_investment":5.89
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Other",
+    "estimated_investment":56,
+    "log_investment":4.04
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Privacy and Security",
+    "estimated_investment":57,
+    "log_investment":4.06
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Professional services",
+    "estimated_investment":1025,
+    "log_investment":6.93
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":801,
+    "log_investment":6.69
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Software",
+    "estimated_investment":20538,
+    "log_investment":9.93
+  },
+  {
+    "country":"Saudi Arabia",
+    "field":"Transportation",
+    "estimated_investment":105,
+    "log_investment":4.66
+  },
+  {
+    "country":"Singapore",
+    "field":"Consumer goods",
+    "estimated_investment":1608,
+    "log_investment":7.38
+  },
+  {
+    "country":"Singapore",
+    "field":"Data and analytics",
+    "estimated_investment":11066,
+    "log_investment":9.31
+  },
+  {
+    "country":"Singapore",
+    "field":"Finance",
+    "estimated_investment":1960,
+    "log_investment":7.58
+  },
+  {
+    "country":"Singapore",
+    "field":"General purpose",
+    "estimated_investment":8838,
+    "log_investment":9.09
+  },
+  {
+    "country":"Singapore",
+    "field":"Hardware",
+    "estimated_investment":4420,
+    "log_investment":8.39
+  },
+  {
+    "country":"Singapore",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":295,
+    "log_investment":5.69
+  },
+  {
+    "country":"Singapore",
+    "field":"Information Technology",
+    "estimated_investment":2195,
+    "log_investment":7.69
+  },
+  {
+    "country":"Singapore",
+    "field":"Media and Entertainment",
+    "estimated_investment":1961,
+    "log_investment":7.58
+  },
+  {
+    "country":"Singapore",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":6650,
+    "log_investment":8.8
+  },
+  {
+    "country":"Singapore",
+    "field":"Other",
+    "estimated_investment":1060,
+    "log_investment":6.97
+  },
+  {
+    "country":"Singapore",
+    "field":"Privacy and Security",
+    "estimated_investment":422,
+    "log_investment":6.05
+  },
+  {
+    "country":"Singapore",
+    "field":"Professional services",
+    "estimated_investment":2393,
+    "log_investment":7.78
+  },
+  {
+    "country":"Singapore",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":1949,
+    "log_investment":7.58
+  },
+  {
+    "country":"Singapore",
+    "field":"Software",
+    "estimated_investment":11307,
+    "log_investment":9.33
+  },
+  {
+    "country":"Singapore",
+    "field":"Transportation",
+    "estimated_investment":187,
+    "log_investment":5.24
+  },
+  {
+    "country":"South Korea",
+    "field":"Consumer goods",
+    "estimated_investment":1067,
+    "log_investment":6.97
+  },
+  {
+    "country":"South Korea",
+    "field":"Data and analytics",
+    "estimated_investment":10072,
+    "log_investment":9.22
+  },
+  {
+    "country":"South Korea",
+    "field":"Finance",
+    "estimated_investment":409,
+    "log_investment":6.02
+  },
+  {
+    "country":"South Korea",
+    "field":"General purpose",
+    "estimated_investment":8226,
+    "log_investment":9.02
+  },
+  {
+    "country":"South Korea",
+    "field":"Hardware",
+    "estimated_investment":3743,
+    "log_investment":8.23
+  },
+  {
+    "country":"South Korea",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":682,
+    "log_investment":6.53
+  },
+  {
+    "country":"South Korea",
+    "field":"Information Technology",
+    "estimated_investment":4207,
+    "log_investment":8.34
+  },
+  {
+    "country":"South Korea",
+    "field":"Media and Entertainment",
+    "estimated_investment":3042,
+    "log_investment":8.02
+  },
+  {
+    "country":"South Korea",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":3466,
+    "log_investment":8.15
+  },
+  {
+    "country":"South Korea",
+    "field":"Other",
+    "estimated_investment":635,
+    "log_investment":6.46
+  },
+  {
+    "country":"South Korea",
+    "field":"Privacy and Security",
+    "estimated_investment":66,
+    "log_investment":4.2
+  },
+  {
+    "country":"South Korea",
+    "field":"Professional services",
+    "estimated_investment":538,
+    "log_investment":6.29
+  },
+  {
+    "country":"South Korea",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":809,
+    "log_investment":6.7
+  },
+  {
+    "country":"South Korea",
+    "field":"Software",
+    "estimated_investment":11377,
+    "log_investment":9.34
+  },
+  {
+    "country":"South Korea",
+    "field":"Transportation",
+    "estimated_investment":3205,
+    "log_investment":8.07
+  },
+  {
+    "country":"Sweden",
+    "field":"Consumer goods",
+    "estimated_investment":14,
+    "log_investment":2.71
+  },
+  {
+    "country":"Sweden",
+    "field":"Data and analytics",
+    "estimated_investment":17943,
+    "log_investment":9.8
+  },
+  {
+    "country":"Sweden",
+    "field":"Finance",
+    "estimated_investment":9462,
+    "log_investment":9.16
+  },
+  {
+    "country":"Sweden",
+    "field":"General purpose",
+    "estimated_investment":21280,
+    "log_investment":9.97
+  },
+  {
+    "country":"Sweden",
+    "field":"Hardware",
+    "estimated_investment":9443,
+    "log_investment":9.15
+  },
+  {
+    "country":"Sweden",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":2530,
+    "log_investment":7.84
+  },
+  {
+    "country":"Sweden",
+    "field":"Information Technology",
+    "estimated_investment":7565,
+    "log_investment":8.93
+  },
+  {
+    "country":"Sweden",
+    "field":"Media and Entertainment",
+    "estimated_investment":2681,
+    "log_investment":7.89
+  },
+  {
+    "country":"Sweden",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":3715,
+    "log_investment":8.22
+  },
+  {
+    "country":"Sweden",
+    "field":"Other",
+    "estimated_investment":117,
+    "log_investment":4.77
+  },
+  {
+    "country":"Sweden",
+    "field":"Privacy and Security",
+    "estimated_investment":18,
+    "log_investment":2.94
+  },
+  {
+    "country":"Sweden",
+    "field":"Professional services",
+    "estimated_investment":2553,
+    "log_investment":7.85
+  },
+  {
+    "country":"Sweden",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":717,
+    "log_investment":6.58
+  },
+  {
+    "country":"Sweden",
+    "field":"Software",
+    "estimated_investment":18032,
+    "log_investment":9.8
+  },
+  {
+    "country":"Sweden",
+    "field":"Transportation",
+    "estimated_investment":10679,
+    "log_investment":9.28
+  },
+  {
+    "country":"Switzerland",
+    "field":"Consumer goods",
+    "estimated_investment":646,
+    "log_investment":6.47
+  },
+  {
+    "country":"Switzerland",
+    "field":"Data and analytics",
+    "estimated_investment":6634,
+    "log_investment":8.8
+  },
+  {
+    "country":"Switzerland",
+    "field":"Finance",
+    "estimated_investment":969,
+    "log_investment":6.88
+  },
+  {
+    "country":"Switzerland",
+    "field":"General purpose",
+    "estimated_investment":6495,
+    "log_investment":8.78
+  },
+  {
+    "country":"Switzerland",
+    "field":"Hardware",
+    "estimated_investment":3084,
+    "log_investment":8.03
+  },
+  {
+    "country":"Switzerland",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":700,
+    "log_investment":6.55
+  },
+  {
+    "country":"Switzerland",
+    "field":"Information Technology",
+    "estimated_investment":3838,
+    "log_investment":8.25
+  },
+  {
+    "country":"Switzerland",
+    "field":"Media and Entertainment",
+    "estimated_investment":1338,
+    "log_investment":7.2
+  },
+  {
+    "country":"Switzerland",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":2824,
+    "log_investment":7.95
+  },
+  {
+    "country":"Switzerland",
+    "field":"Other",
+    "estimated_investment":975,
+    "log_investment":6.88
+  },
+  {
+    "country":"Switzerland",
+    "field":"Privacy and Security",
+    "estimated_investment":862,
+    "log_investment":6.76
+  },
+  {
+    "country":"Switzerland",
+    "field":"Professional services",
+    "estimated_investment":472,
+    "log_investment":6.16
+  },
+  {
+    "country":"Switzerland",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":1234,
+    "log_investment":7.12
+  },
+  {
+    "country":"Switzerland",
+    "field":"Software",
+    "estimated_investment":8952,
+    "log_investment":9.1
+  },
+  {
+    "country":"Switzerland",
+    "field":"Transportation",
+    "estimated_investment":810,
+    "log_investment":6.7
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Consumer goods",
+    "estimated_investment":1779,
+    "log_investment":7.48
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Data and analytics",
+    "estimated_investment":22359,
+    "log_investment":10.02
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Finance",
+    "estimated_investment":4256,
+    "log_investment":8.36
+  },
+  {
+    "country":"United Kingdom",
+    "field":"General purpose",
+    "estimated_investment":19347,
+    "log_investment":9.87
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Hardware",
+    "estimated_investment":4289,
+    "log_investment":8.36
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":2259,
+    "log_investment":7.72
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Information Technology",
+    "estimated_investment":10765,
+    "log_investment":9.28
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Media and Entertainment",
+    "estimated_investment":2577,
+    "log_investment":7.85
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":7090,
+    "log_investment":8.87
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Other",
+    "estimated_investment":3148,
+    "log_investment":8.05
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Privacy and Security",
+    "estimated_investment":1477,
+    "log_investment":7.3
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Professional services",
+    "estimated_investment":4240,
+    "log_investment":8.35
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":5037,
+    "log_investment":8.52
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Software",
+    "estimated_investment":24036,
+    "log_investment":10.09
+  },
+  {
+    "country":"United Kingdom",
+    "field":"Transportation",
+    "estimated_investment":1729,
+    "log_investment":7.46
+  },
+  {
+    "country":"United States",
+    "field":"Consumer goods",
+    "estimated_investment":38386,
+    "log_investment":10.56
+  },
+  {
+    "country":"United States",
+    "field":"Data and analytics",
+    "estimated_investment":493325,
+    "log_investment":13.11
+  },
+  {
+    "country":"United States",
+    "field":"Finance",
+    "estimated_investment":72452,
+    "log_investment":11.19
+  },
+  {
+    "country":"United States",
+    "field":"General purpose",
+    "estimated_investment":431307,
+    "log_investment":12.97
+  },
+  {
+    "country":"United States",
+    "field":"Hardware",
+    "estimated_investment":109591,
+    "log_investment":11.6
+  },
+  {
+    "country":"United States",
+    "field":"Healthcare and Life Sciences",
+    "estimated_investment":54594,
+    "log_investment":10.91
+  },
+  {
+    "country":"United States",
+    "field":"Information Technology",
+    "estimated_investment":214630,
+    "log_investment":12.28
+  },
+  {
+    "country":"United States",
+    "field":"Media and Entertainment",
+    "estimated_investment":31447,
+    "log_investment":10.36
+  },
+  {
+    "country":"United States",
+    "field":"Mobile, platforms & Internet services",
+    "estimated_investment":128204,
+    "log_investment":11.76
+  },
+  {
+    "country":"United States",
+    "field":"Other",
+    "estimated_investment":61959,
+    "log_investment":11.03
+  },
+  {
+    "country":"United States",
+    "field":"Privacy and Security",
+    "estimated_investment":50835,
+    "log_investment":10.84
+  },
+  {
+    "country":"United States",
+    "field":"Professional services",
+    "estimated_investment":72943,
+    "log_investment":11.2
+  },
+  {
+    "country":"United States",
+    "field":"Sales, retail, commerce, marketing",
+    "estimated_investment":81401,
+    "log_investment":11.31
+  },
+  {
+    "country":"United States",
+    "field":"Software",
+    "estimated_investment":526806,
+    "log_investment":13.17
+  },
+  {
+    "country":"United States",
+    "field":"Transportation",
+    "estimated_investment":69761,
+    "log_investment":11.15
+  }
+]

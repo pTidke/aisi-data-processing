@@ -1,0 +1,71 @@
+resource_type,resource_type_total_B,market,market_id,market_size_B,country,country_share_pct,country_market_value_B,provision_year
+Tool Resource,287.7403,Lithography tools,N19,29.1,Netherlands,78.5,22.843500000000002,2024.0
+Tool Resource,287.7403,Lithography tools,N19,29.1,Japan,17.4,5.0634,2024.0
+Tool Resource,287.7403,Lithography tools,N19,29.1,Austria,1.6,0.4656,2024.0
+Tool Resource,287.7403,Lithography tools,N19,29.1,Germany,1.0,0.29100000000000004,2024.0
+Tool Resource,287.7403,Lithography tools,N19,29.1,United States,0.8,0.2328,2024.0
+Tool Resource,287.7403,Lithography tools,N19,29.1,Others,0.7000000000000028,0.20370000000000085,
+Tool Resource,287.7403,Etch and clean tools,N55,24.7,United States,49.9,12.3253,2024.0
+Tool Resource,287.7403,Etch and clean tools,N55,24.7,Japan,37.7,9.3119,2024.0
+Tool Resource,287.7403,Etch and clean tools,N55,24.7,China,8.5,2.0995,2024.0
+Tool Resource,287.7403,Etch and clean tools,N55,24.7,South Korea,2.8,0.6915999999999999,2024.0
+Tool Resource,287.7403,Etch and clean tools,N55,24.7,Taiwan,0.2,0.0494,2024.0
+Tool Resource,287.7403,Etch and clean tools,N55,24.7,Others,0.9000000000000057,0.22230000000000139,
+Tool Resource,287.7403,Deposition tools,N36,24.1,United States,61.5,14.8215,2024.0
+Tool Resource,287.7403,Deposition tools,N36,24.1,Japan,15.2,3.6632000000000002,2024.0
+Tool Resource,287.7403,Deposition tools,N36,24.1,Netherlands,10.7,2.5787,2024.0
+Tool Resource,287.7403,Deposition tools,N36,24.1,China,7.4,1.7834000000000003,2024.0
+Tool Resource,287.7403,Deposition tools,N36,24.1,South Korea,3.2,0.7712000000000001,2024.0
+Tool Resource,287.7403,Deposition tools,N36,24.1,Others,1.9999999999999858,0.4819999999999966,
+Tool Resource,287.7403,Dry etching and cleaning tools,N48,19.1,United States,57.9,11.0589,2024.0
+Tool Resource,287.7403,Dry etching and cleaning tools,N48,19.1,Japan,28.6,5.462600000000001,2024.0
+Tool Resource,287.7403,Dry etching and cleaning tools,N48,19.1,China,10.9,2.0819,2024.0
+Tool Resource,287.7403,Dry etching and cleaning tools,N48,19.1,South Korea,1.7,0.32470000000000004,2024.0
+Tool Resource,287.7403,Dry etching and cleaning tools,N48,19.1,Netherlands,0.2,0.038200000000000005,2024.0
+Tool Resource,287.7403,Dry etching and cleaning tools,N48,19.1,Others,0.6999999999999886,0.13369999999999785,
+Tool Resource,287.7403,Dry etch tools,N103,18.5,United States,58.7,10.8595,2024.0
+Tool Resource,287.7403,Dry etch tools,N103,18.5,Japan,28.9,5.3465,2024.0
+Tool Resource,287.7403,Dry etch tools,N103,18.5,China,10.7,1.9795,2024.0
+Tool Resource,287.7403,Dry etch tools,N103,18.5,South Korea,1.0,0.185,2024.0
+Tool Resource,287.7403,Dry etch tools,N103,18.5,United Kingdom,0.1,0.0185,2024.0
+Tool Resource,287.7403,Dry etch tools,N103,18.5,Others,0.6000000000000085,0.11100000000000157,
+Tool Resource,287.7403,Other Markets,,172.24030000000002,Various,100.0,172.24030000000002,
+Process,614.1,Chip design,N0,574.1,United States,65.0,373.165,2022.0
+Process,614.1,Chip design,N0,574.1,Taiwan,11.0,63.151,2022.0
+Process,614.1,Chip design,N0,574.1,Europe,9.0,51.669,2022.0
+Process,614.1,Chip design,N0,574.1,China,5.0,28.705000000000002,2022.0
+Process,614.1,Chip design,N0,574.1,Japan,4.0,22.964000000000002,2022.0
+Process,614.1,Chip design,N0,574.1,Others,6.0,34.446,
+Process,614.1,Fabrication materials,N117,40.0,Others,100.0,40.0,
+Design Resource,648.0,Logic chip design,N6,255.7,Others,100.0,255.7,
+Design Resource,648.0,DAO chip design,N13,188.7,United States,41.0,77.36699999999999,2022.0
+Design Resource,648.0,DAO chip design,N13,188.7,Japan,18.0,33.965999999999994,2022.0
+Design Resource,648.0,DAO chip design,N13,188.7,Europe,17.0,32.079,2022.0
+Design Resource,648.0,DAO chip design,N13,188.7,China,9.0,16.982999999999997,2022.0
+Design Resource,648.0,DAO chip design,N13,188.7,Taiwan,5.0,9.435,2022.0
+Design Resource,648.0,DAO chip design,N13,188.7,Others,10.0,18.87,
+Design Resource,648.0,Memory chip design,N5,129.8,South Korea,60.0,77.88000000000001,2022.0
+Design Resource,648.0,Memory chip design,N5,129.8,United States,25.0,32.45,2022.0
+Design Resource,648.0,Memory chip design,N5,129.8,Japan,7.0,9.086000000000002,2022.0
+Design Resource,648.0,Memory chip design,N5,129.8,Taiwan,4.0,5.192,2022.0
+Design Resource,648.0,Memory chip design,N5,129.8,China,3.0,3.894,2022.0
+Design Resource,648.0,Memory chip design,N5,129.8,Others,1.0,1.298,
+Design Resource,648.0,Advanced CPUs,N1,56.2,Others,100.0,56.2,
+Design Resource,648.0,Discrete GPUs,N2,11.9,Others,100.0,11.9,
+Design Resource,648.0,Other Markets,,5.7,Various,100.0,5.7,
+Material Resource,55.6,ATP materials,N121,24.0,Others,100.0,24.0,
+Material Resource,55.6,Wafer,N26,10.9,Japan,56.0,6.104000000000001,2019.0
+Material Resource,55.6,Wafer,N26,10.9,Taiwan,16.0,1.744,2019.0
+Material Resource,55.6,Wafer,N26,10.9,Germany,14.0,1.5260000000000002,2019.0
+Material Resource,55.6,Wafer,N26,10.9,South Korea,10.0,1.09,2019.0
+Material Resource,55.6,Wafer,N26,10.9,China,4.0,0.436,2019.0
+Material Resource,55.6,Electronic gases,N91,6.0,Others,100.0,6.0,
+Material Resource,55.6,Photomasks,N33,4.0,Japan,53.0,2.12,2019.0
+Material Resource,55.6,Photomasks,N33,4.0,United States,40.0,1.6,2019.0
+Material Resource,55.6,Photomasks,N33,4.0,Taiwan,7.0,0.28,2019.0
+Material Resource,55.6,Core intellectual property,N85,3.9,United States,52.0,2.028,2019.0
+Material Resource,55.6,Core intellectual property,N85,3.9,United Kingdom,43.0,1.677,2019.0
+Material Resource,55.6,Core intellectual property,N85,3.9,China,2.0,0.078,2019.0
+Material Resource,55.6,Core intellectual property,N85,3.9,Taiwan,1.0,0.039,2019.0
+Material Resource,55.6,Core intellectual property,N85,3.9,Others,2.0,0.078,
+Material Resource,55.6,Other Markets,,6.8,Various,100.0,6.8,

@@ -1,0 +1,3335 @@
+country1,country2,field,year,num_articles,complete
+France,Algeria,Computer vision,2019,55,True
+France,Algeria,Computer vision,2023,32,True
+France,Algeria,Computer vision,2021,61,True
+France,Algeria,Computer vision,2016,47,True
+France,Algeria,Computer vision,2018,46,True
+France,Algeria,Computer vision,2022,57,True
+France,Algeria,Computer vision,2020,53,True
+France,Algeria,Computer vision,2015,36,True
+France,Algeria,Computer vision,2017,50,True
+France,Algeria,Computer vision,2024,36,False
+Bangladesh,Australia,Computer vision,2021,40,True
+Bangladesh,Australia,Computer vision,2022,37,True
+Bangladesh,Australia,Computer vision,2024,75,False
+Bangladesh,Australia,Computer vision,2023,77,True
+Brazil,Australia,Computer vision,2023,26,True
+Canada,Australia,Computer vision,2021,38,True
+Canada,Australia,Computer vision,2025,26,False
+Canada,Australia,Computer vision,2024,59,False
+Canada,Australia,Computer vision,2023,54,True
+Canada,Australia,Computer vision,2022,54,True
+Canada,Australia,Computer vision,2020,30,True
+China,Australia,Computer vision,2025,404,False
+China,Australia,Computer vision,2024,835,False
+China,Australia,Computer vision,2017,357,True
+China,Australia,Computer vision,2018,468,True
+China,Australia,Computer vision,2022,797,True
+China,Australia,Computer vision,2016,291,True
+China,Australia,Computer vision,2020,721,True
+China,Australia,Computer vision,2019,585,True
+China,Australia,Computer vision,2023,915,True
+China,Australia,Computer vision,2021,818,True
+China,Australia,Computer vision,2015,238,True
+France,Australia,Computer vision,2020,26,True
+France,Australia,Computer vision,2022,38,True
+France,Australia,Computer vision,2021,34,True
+France,Australia,Computer vision,2024,42,False
+France,Australia,Computer vision,2018,32,True
+France,Australia,Computer vision,2023,58,True
+Germany,Australia,Computer vision,2024,72,False
+Germany,Australia,Computer vision,2020,43,True
+Germany,Australia,Computer vision,2019,34,True
+Germany,Australia,Computer vision,2021,54,True
+Germany,Australia,Computer vision,2023,82,True
+Germany,Australia,Computer vision,2025,26,False
+Germany,Australia,Computer vision,2017,25,True
+Germany,Australia,Computer vision,2022,56,True
+India,Australia,Computer vision,2022,111,True
+India,Australia,Computer vision,2020,73,True
+India,Australia,Computer vision,2025,54,False
+India,Australia,Computer vision,2018,35,True
+India,Australia,Computer vision,2021,106,True
+India,Australia,Computer vision,2024,118,False
+India,Australia,Computer vision,2016,28,True
+India,Australia,Computer vision,2019,34,True
+India,Australia,Computer vision,2017,31,True
+India,Australia,Computer vision,2023,106,True
+Iran,Australia,Computer vision,2022,29,True
+Iran,Australia,Computer vision,2024,26,False
+Iran,Australia,Computer vision,2023,29,True
+Iran,Australia,Computer vision,2021,28,True
+Iraq,Australia,Computer vision,2020,29,True
+Iraq,Australia,Computer vision,2021,31,True
+Italy,Australia,Computer vision,2024,33,False
+Italy,Australia,Computer vision,2023,38,True
+Japan,Australia,Computer vision,2020,36,True
+Japan,Australia,Computer vision,2019,36,True
+Japan,Australia,Computer vision,2022,37,True
+Japan,Australia,Computer vision,2023,55,True
+Japan,Australia,Computer vision,2024,42,False
+Japan,Australia,Computer vision,2021,37,True
+Malaysia,Australia,Computer vision,2024,43,False
+Malaysia,Australia,Computer vision,2023,43,True
+Malaysia,Australia,Computer vision,2020,35,True
+Malaysia,Australia,Computer vision,2021,45,True
+Malaysia,Australia,Computer vision,2022,36,True
+Malaysia,Australia,Computer vision,2019,35,True
+Malaysia,Australia,Computer vision,2025,27,False
+Netherlands,Australia,Computer vision,2022,25,True
+Netherlands,Australia,Computer vision,2023,39,True
+Netherlands,Australia,Computer vision,2024,29,False
+New Zealand,Australia,Computer vision,2023,28,True
+Pakistan,Australia,Computer vision,2023,41,True
+Pakistan,Australia,Computer vision,2020,26,True
+Pakistan,Australia,Computer vision,2022,35,True
+Pakistan,Australia,Computer vision,2021,42,True
+Pakistan,Australia,Computer vision,2019,28,True
+Pakistan,Australia,Computer vision,2024,38,False
+Saudi Arabia,Australia,Computer vision,2020,29,True
+Saudi Arabia,Australia,Computer vision,2022,50,True
+Saudi Arabia,Australia,Computer vision,2021,40,True
+Saudi Arabia,Australia,Computer vision,2023,41,True
+Saudi Arabia,Australia,Computer vision,2024,45,False
+Singapore,Australia,Computer vision,2015,32,True
+Singapore,Australia,Computer vision,2022,81,True
+Singapore,Australia,Computer vision,2024,71,False
+Singapore,Australia,Computer vision,2020,46,True
+Singapore,Australia,Computer vision,2018,43,True
+Singapore,Australia,Computer vision,2021,94,True
+Singapore,Australia,Computer vision,2017,32,True
+Singapore,Australia,Computer vision,2019,50,True
+Singapore,Australia,Computer vision,2023,92,True
+Singapore,Australia,Computer vision,2025,29,False
+Singapore,Australia,Computer vision,2016,28,True
+South Korea,Australia,Computer vision,2024,32,False
+South Korea,Australia,Computer vision,2022,43,True
+South Korea,Australia,Computer vision,2025,25,False
+South Korea,Australia,Computer vision,2023,44,True
+South Korea,Australia,Computer vision,2020,29,True
+South Korea,Australia,Computer vision,2021,59,True
+Spain,Australia,Computer vision,2024,34,False
+Spain,Australia,Computer vision,2022,31,True
+Spain,Australia,Computer vision,2021,31,True
+Spain,Australia,Computer vision,2023,31,True
+Sweden,Australia,Computer vision,2023,33,True
+Switzerland,Australia,Computer vision,2021,40,True
+Switzerland,Australia,Computer vision,2022,40,True
+Switzerland,Australia,Computer vision,2019,29,True
+Switzerland,Australia,Computer vision,2023,57,True
+Switzerland,Australia,Computer vision,2024,25,False
+Switzerland,Australia,Computer vision,2020,29,True
+Taiwan,Australia,Computer vision,2022,28,True
+Taiwan,Australia,Computer vision,2021,26,True
+United Arab Emirates,Australia,Computer vision,2020,27,True
+United Arab Emirates,Australia,Computer vision,2022,39,True
+United Arab Emirates,Australia,Computer vision,2021,43,True
+United Arab Emirates,Australia,Computer vision,2023,50,True
+United Arab Emirates,Australia,Computer vision,2024,39,False
+United Kingdom,Australia,Computer vision,2017,53,True
+United Kingdom,Australia,Computer vision,2016,44,True
+United Kingdom,Australia,Computer vision,2024,152,False
+United Kingdom,Australia,Computer vision,2020,128,True
+United Kingdom,Australia,Computer vision,2019,86,True
+United Kingdom,Australia,Computer vision,2015,34,True
+United Kingdom,Australia,Computer vision,2023,181,True
+United Kingdom,Australia,Computer vision,2021,155,True
+United Kingdom,Australia,Computer vision,2022,134,True
+United Kingdom,Australia,Computer vision,2025,65,False
+United Kingdom,Australia,Computer vision,2018,67,True
+United States,Australia,Computer vision,2021,281,True
+United States,Australia,Computer vision,2024,215,False
+United States,Australia,Computer vision,2018,179,True
+United States,Australia,Computer vision,2025,126,False
+United States,Australia,Computer vision,2016,112,True
+United States,Australia,Computer vision,2023,251,True
+United States,Australia,Computer vision,2015,110,True
+United States,Australia,Computer vision,2020,224,True
+United States,Australia,Computer vision,2019,158,True
+United States,Australia,Computer vision,2017,140,True
+United States,Australia,Computer vision,2022,274,True
+Vietnam,Australia,Computer vision,2023,27,True
+China,Austria,Computer vision,2023,37,True
+China,Austria,Computer vision,2021,25,True
+China,Austria,Computer vision,2022,27,True
+France,Austria,Computer vision,2022,33,True
+France,Austria,Computer vision,2023,32,True
+Germany,Austria,Computer vision,2019,61,True
+Germany,Austria,Computer vision,2015,25,True
+Germany,Austria,Computer vision,2021,88,True
+Germany,Austria,Computer vision,2024,75,False
+Germany,Austria,Computer vision,2022,111,True
+Germany,Austria,Computer vision,2016,40,True
+Germany,Austria,Computer vision,2020,85,True
+Germany,Austria,Computer vision,2025,39,False
+Germany,Austria,Computer vision,2023,132,True
+Germany,Austria,Computer vision,2017,53,True
+Germany,Austria,Computer vision,2018,42,True
+Italy,Austria,Computer vision,2022,27,True
+Italy,Austria,Computer vision,2020,26,True
+Italy,Austria,Computer vision,2023,39,True
+Italy,Austria,Computer vision,2024,27,False
+Netherlands,Austria,Computer vision,2023,26,True
+Switzerland,Austria,Computer vision,2024,25,False
+Switzerland,Austria,Computer vision,2017,28,True
+Switzerland,Austria,Computer vision,2023,32,True
+Switzerland,Austria,Computer vision,2022,26,True
+United Kingdom,Austria,Computer vision,2022,45,True
+United Kingdom,Austria,Computer vision,2021,34,True
+United Kingdom,Austria,Computer vision,2023,64,True
+United Kingdom,Austria,Computer vision,2024,30,False
+United Kingdom,Austria,Computer vision,2019,27,True
+United Kingdom,Austria,Computer vision,2020,47,True
+United States,Austria,Computer vision,2025,38,False
+United States,Austria,Computer vision,2023,83,True
+United States,Austria,Computer vision,2018,31,True
+United States,Austria,Computer vision,2021,58,True
+United States,Austria,Computer vision,2024,59,False
+United States,Austria,Computer vision,2016,30,True
+United States,Austria,Computer vision,2022,59,True
+United States,Austria,Computer vision,2020,72,True
+United States,Austria,Computer vision,2019,33,True
+United States,Austria,Computer vision,2017,36,True
+Australia,Bangladesh,Computer vision,2022,37,True
+Australia,Bangladesh,Computer vision,2023,77,True
+Australia,Bangladesh,Computer vision,2024,75,False
+Australia,Bangladesh,Computer vision,2021,40,True
+Canada,Bangladesh,Computer vision,2024,35,False
+India,Bangladesh,Computer vision,2022,58,True
+India,Bangladesh,Computer vision,2025,40,False
+India,Bangladesh,Computer vision,2024,51,False
+India,Bangladesh,Computer vision,2021,30,True
+India,Bangladesh,Computer vision,2023,44,True
+Japan,Bangladesh,Computer vision,2023,36,True
+Japan,Bangladesh,Computer vision,2021,27,True
+Japan,Bangladesh,Computer vision,2024,36,False
+Malaysia,Bangladesh,Computer vision,2025,27,False
+Malaysia,Bangladesh,Computer vision,2023,30,True
+Malaysia,Bangladesh,Computer vision,2024,44,False
+Saudi Arabia,Bangladesh,Computer vision,2025,41,False
+Saudi Arabia,Bangladesh,Computer vision,2022,43,True
+Saudi Arabia,Bangladesh,Computer vision,2023,40,True
+Saudi Arabia,Bangladesh,Computer vision,2021,25,True
+Saudi Arabia,Bangladesh,Computer vision,2024,46,False
+South Korea,Bangladesh,Computer vision,2023,42,True
+South Korea,Bangladesh,Computer vision,2024,43,False
+United Kingdom,Bangladesh,Computer vision,2023,35,True
+United Kingdom,Bangladesh,Computer vision,2024,37,False
+United States,Bangladesh,Computer vision,2025,115,False
+United States,Bangladesh,Computer vision,2021,60,True
+United States,Bangladesh,Computer vision,2020,30,True
+United States,Bangladesh,Computer vision,2024,152,False
+United States,Bangladesh,Computer vision,2022,59,True
+United States,Bangladesh,Computer vision,2023,74,True
+China,Belgium,Computer vision,2018,38,True
+China,Belgium,Computer vision,2022,63,True
+China,Belgium,Computer vision,2019,43,True
+China,Belgium,Computer vision,2020,61,True
+China,Belgium,Computer vision,2024,38,False
+China,Belgium,Computer vision,2016,28,True
+China,Belgium,Computer vision,2023,64,True
+China,Belgium,Computer vision,2021,58,True
+China,Belgium,Computer vision,2017,32,True
+France,Belgium,Computer vision,2017,29,True
+France,Belgium,Computer vision,2019,25,True
+France,Belgium,Computer vision,2022,37,True
+France,Belgium,Computer vision,2015,26,True
+France,Belgium,Computer vision,2018,28,True
+France,Belgium,Computer vision,2023,34,True
+Germany,Belgium,Computer vision,2024,34,False
+Germany,Belgium,Computer vision,2016,26,True
+Germany,Belgium,Computer vision,2017,25,True
+Germany,Belgium,Computer vision,2021,54,True
+Germany,Belgium,Computer vision,2018,26,True
+Germany,Belgium,Computer vision,2020,34,True
+Germany,Belgium,Computer vision,2022,60,True
+Germany,Belgium,Computer vision,2023,54,True
+Italy,Belgium,Computer vision,2023,39,True
+Italy,Belgium,Computer vision,2024,30,False
+Italy,Belgium,Computer vision,2022,37,True
+Netherlands,Belgium,Computer vision,2022,33,True
+Netherlands,Belgium,Computer vision,2021,36,True
+Netherlands,Belgium,Computer vision,2023,52,True
+Netherlands,Belgium,Computer vision,2020,25,True
+Netherlands,Belgium,Computer vision,2024,31,False
+Spain,Belgium,Computer vision,2022,33,True
+Spain,Belgium,Computer vision,2023,32,True
+Sweden,Belgium,Computer vision,2022,26,True
+Switzerland,Belgium,Computer vision,2021,59,True
+Switzerland,Belgium,Computer vision,2023,48,True
+Switzerland,Belgium,Computer vision,2022,53,True
+Switzerland,Belgium,Computer vision,2020,46,True
+Switzerland,Belgium,Computer vision,2016,34,True
+United Kingdom,Belgium,Computer vision,2024,42,False
+United Kingdom,Belgium,Computer vision,2021,52,True
+United Kingdom,Belgium,Computer vision,2022,55,True
+United Kingdom,Belgium,Computer vision,2020,33,True
+United Kingdom,Belgium,Computer vision,2023,64,True
+United Kingdom,Belgium,Computer vision,2019,29,True
+United States,Belgium,Computer vision,2016,31,True
+United States,Belgium,Computer vision,2024,44,False
+United States,Belgium,Computer vision,2021,39,True
+United States,Belgium,Computer vision,2020,41,True
+United States,Belgium,Computer vision,2023,64,True
+United States,Belgium,Computer vision,2022,61,True
+United States,Belgium,Computer vision,2019,26,True
+Australia,Brazil,Computer vision,2023,26,True
+Canada,Brazil,Computer vision,2023,30,True
+Canada,Brazil,Computer vision,2020,59,True
+Canada,Brazil,Computer vision,2024,28,False
+Canada,Brazil,Computer vision,2021,37,True
+Canada,Brazil,Computer vision,2022,40,True
+China,Brazil,Computer vision,2018,26,True
+China,Brazil,Computer vision,2021,40,True
+China,Brazil,Computer vision,2019,27,True
+China,Brazil,Computer vision,2022,25,True
+China,Brazil,Computer vision,2023,27,True
+China,Brazil,Computer vision,2020,42,True
+France,Brazil,Computer vision,2024,35,False
+France,Brazil,Computer vision,2018,29,True
+France,Brazil,Computer vision,2017,26,True
+France,Brazil,Computer vision,2019,33,True
+France,Brazil,Computer vision,2021,37,True
+France,Brazil,Computer vision,2020,33,True
+France,Brazil,Computer vision,2023,26,True
+Germany,Brazil,Computer vision,2020,35,True
+Germany,Brazil,Computer vision,2021,29,True
+Germany,Brazil,Computer vision,2024,35,False
+Germany,Brazil,Computer vision,2023,42,True
+Italy,Brazil,Computer vision,2023,31,True
+Italy,Brazil,Computer vision,2024,32,False
+Portugal,Brazil,Computer vision,2023,32,True
+Portugal,Brazil,Computer vision,2022,29,True
+Portugal,Brazil,Computer vision,2021,29,True
+Portugal,Brazil,Computer vision,2024,43,False
+Portugal,Brazil,Computer vision,2020,25,True
+United Kingdom,Brazil,Computer vision,2022,33,True
+United Kingdom,Brazil,Computer vision,2020,36,True
+United Kingdom,Brazil,Computer vision,2021,33,True
+United Kingdom,Brazil,Computer vision,2023,48,True
+United Kingdom,Brazil,Computer vision,2025,25,False
+United Kingdom,Brazil,Computer vision,2024,34,False
+United States,Brazil,Computer vision,2022,87,True
+United States,Brazil,Computer vision,2017,41,True
+United States,Brazil,Computer vision,2024,106,False
+United States,Brazil,Computer vision,2019,71,True
+United States,Brazil,Computer vision,2021,98,True
+United States,Brazil,Computer vision,2025,47,False
+United States,Brazil,Computer vision,2015,43,True
+United States,Brazil,Computer vision,2023,104,True
+United States,Brazil,Computer vision,2016,33,True
+United States,Brazil,Computer vision,2018,59,True
+United States,Brazil,Computer vision,2020,102,True
+Australia,Canada,Computer vision,2022,54,True
+Australia,Canada,Computer vision,2021,38,True
+Australia,Canada,Computer vision,2024,59,False
+Australia,Canada,Computer vision,2020,30,True
+Australia,Canada,Computer vision,2023,54,True
+Australia,Canada,Computer vision,2025,26,False
+Bangladesh,Canada,Computer vision,2024,35,False
+Brazil,Canada,Computer vision,2022,40,True
+Brazil,Canada,Computer vision,2021,37,True
+Brazil,Canada,Computer vision,2024,28,False
+Brazil,Canada,Computer vision,2020,59,True
+Brazil,Canada,Computer vision,2023,30,True
+China,Canada,Computer vision,2024,406,False
+China,Canada,Computer vision,2025,175,False
+China,Canada,Computer vision,2018,246,True
+China,Canada,Computer vision,2020,381,True
+China,Canada,Computer vision,2022,431,True
+China,Canada,Computer vision,2023,442,True
+China,Canada,Computer vision,2021,443,True
+China,Canada,Computer vision,2019,293,True
+China,Canada,Computer vision,2016,166,True
+China,Canada,Computer vision,2017,178,True
+China,Canada,Computer vision,2015,131,True
+Denmark,Canada,Computer vision,2023,26,True
+Egypt,Canada,Computer vision,2023,25,True
+France,Canada,Computer vision,2022,58,True
+France,Canada,Computer vision,2015,33,True
+France,Canada,Computer vision,2023,70,True
+France,Canada,Computer vision,2025,33,False
+France,Canada,Computer vision,2018,54,True
+France,Canada,Computer vision,2020,62,True
+France,Canada,Computer vision,2019,53,True
+France,Canada,Computer vision,2021,69,True
+France,Canada,Computer vision,2016,36,True
+France,Canada,Computer vision,2024,53,False
+France,Canada,Computer vision,2017,54,True
+Germany,Canada,Computer vision,2023,80,True
+Germany,Canada,Computer vision,2017,35,True
+Germany,Canada,Computer vision,2016,29,True
+Germany,Canada,Computer vision,2024,66,False
+Germany,Canada,Computer vision,2018,47,True
+Germany,Canada,Computer vision,2022,72,True
+Germany,Canada,Computer vision,2021,85,True
+Germany,Canada,Computer vision,2020,63,True
+Germany,Canada,Computer vision,2025,26,False
+Germany,Canada,Computer vision,2019,38,True
+India,Canada,Computer vision,2020,51,True
+India,Canada,Computer vision,2025,27,False
+India,Canada,Computer vision,2023,80,True
+India,Canada,Computer vision,2022,84,True
+India,Canada,Computer vision,2019,36,True
+India,Canada,Computer vision,2024,75,False
+India,Canada,Computer vision,2018,28,True
+India,Canada,Computer vision,2021,64,True
+Iran,Canada,Computer vision,2017,35,True
+Iran,Canada,Computer vision,2021,53,True
+Iran,Canada,Computer vision,2023,49,True
+Iran,Canada,Computer vision,2020,36,True
+Iran,Canada,Computer vision,2024,50,False
+Iran,Canada,Computer vision,2022,59,True
+Iran,Canada,Computer vision,2019,37,True
+Iran,Canada,Computer vision,2025,28,False
+Israel,Canada,Computer vision,2020,27,True
+Italy,Canada,Computer vision,2021,39,True
+Italy,Canada,Computer vision,2022,42,True
+Italy,Canada,Computer vision,2024,42,False
+Italy,Canada,Computer vision,2018,28,True
+Italy,Canada,Computer vision,2023,45,True
+Japan,Canada,Computer vision,2022,34,True
+Japan,Canada,Computer vision,2021,32,True
+Japan,Canada,Computer vision,2023,36,True
+Japan,Canada,Computer vision,2024,29,False
+Japan,Canada,Computer vision,2020,36,True
+Netherlands,Canada,Computer vision,2022,31,True
+Netherlands,Canada,Computer vision,2023,39,True
+Netherlands,Canada,Computer vision,2019,25,True
+Netherlands,Canada,Computer vision,2024,25,False
+Netherlands,Canada,Computer vision,2018,26,True
+Netherlands,Canada,Computer vision,2021,31,True
+Pakistan,Canada,Computer vision,2022,26,True
+Saudi Arabia,Canada,Computer vision,2023,33,True
+Saudi Arabia,Canada,Computer vision,2024,35,False
+Saudi Arabia,Canada,Computer vision,2022,42,True
+Saudi Arabia,Canada,Computer vision,2021,28,True
+Singapore,Canada,Computer vision,2023,27,True
+Singapore,Canada,Computer vision,2021,33,True
+Singapore,Canada,Computer vision,2022,31,True
+South Korea,Canada,Computer vision,2025,32,False
+South Korea,Canada,Computer vision,2021,43,True
+South Korea,Canada,Computer vision,2020,31,True
+South Korea,Canada,Computer vision,2024,34,False
+South Korea,Canada,Computer vision,2023,47,True
+South Korea,Canada,Computer vision,2022,38,True
+Spain,Canada,Computer vision,2022,39,True
+Spain,Canada,Computer vision,2021,37,True
+Spain,Canada,Computer vision,2023,34,True
+Switzerland,Canada,Computer vision,2022,49,True
+Switzerland,Canada,Computer vision,2024,32,False
+Switzerland,Canada,Computer vision,2019,25,True
+Switzerland,Canada,Computer vision,2023,52,True
+Switzerland,Canada,Computer vision,2018,32,True
+Switzerland,Canada,Computer vision,2021,41,True
+Switzerland,Canada,Computer vision,2020,31,True
+United Arab Emirates,Canada,Computer vision,2024,28,False
+United Arab Emirates,Canada,Computer vision,2023,32,True
+United Kingdom,Canada,Computer vision,2019,48,True
+United Kingdom,Canada,Computer vision,2016,33,True
+United Kingdom,Canada,Computer vision,2017,54,True
+United Kingdom,Canada,Computer vision,2023,128,True
+United Kingdom,Canada,Computer vision,2024,97,False
+United Kingdom,Canada,Computer vision,2018,52,True
+United Kingdom,Canada,Computer vision,2021,118,True
+United Kingdom,Canada,Computer vision,2025,38,False
+United Kingdom,Canada,Computer vision,2022,126,True
+United Kingdom,Canada,Computer vision,2020,97,True
+United Kingdom,Canada,Computer vision,2015,30,True
+United States,Canada,Computer vision,2023,415,True
+United States,Canada,Computer vision,2016,137,True
+United States,Canada,Computer vision,2017,161,True
+United States,Canada,Computer vision,2018,224,True
+United States,Canada,Computer vision,2019,247,True
+United States,Canada,Computer vision,2020,354,True
+United States,Canada,Computer vision,2015,127,True
+United States,Canada,Computer vision,2022,390,True
+United States,Canada,Computer vision,2025,198,False
+United States,Canada,Computer vision,2021,417,True
+United States,Canada,Computer vision,2024,327,False
+Australia,China,Computer vision,2023,915,True
+Australia,China,Computer vision,2019,585,True
+Australia,China,Computer vision,2021,818,True
+Australia,China,Computer vision,2022,797,True
+Australia,China,Computer vision,2025,404,False
+Australia,China,Computer vision,2024,835,False
+Australia,China,Computer vision,2018,468,True
+Australia,China,Computer vision,2015,238,True
+Australia,China,Computer vision,2020,721,True
+Australia,China,Computer vision,2017,357,True
+Australia,China,Computer vision,2016,291,True
+Austria,China,Computer vision,2021,25,True
+Austria,China,Computer vision,2023,37,True
+Austria,China,Computer vision,2022,27,True
+Belgium,China,Computer vision,2021,58,True
+Belgium,China,Computer vision,2024,38,False
+Belgium,China,Computer vision,2022,63,True
+Belgium,China,Computer vision,2018,38,True
+Belgium,China,Computer vision,2016,28,True
+Belgium,China,Computer vision,2019,43,True
+Belgium,China,Computer vision,2023,64,True
+Belgium,China,Computer vision,2017,32,True
+Belgium,China,Computer vision,2020,61,True
+Brazil,China,Computer vision,2021,40,True
+Brazil,China,Computer vision,2022,25,True
+Brazil,China,Computer vision,2020,42,True
+Brazil,China,Computer vision,2018,26,True
+Brazil,China,Computer vision,2019,27,True
+Brazil,China,Computer vision,2023,27,True
+Canada,China,Computer vision,2016,166,True
+Canada,China,Computer vision,2020,381,True
+Canada,China,Computer vision,2021,443,True
+Canada,China,Computer vision,2017,178,True
+Canada,China,Computer vision,2025,175,False
+Canada,China,Computer vision,2022,431,True
+Canada,China,Computer vision,2019,293,True
+Canada,China,Computer vision,2024,406,False
+Canada,China,Computer vision,2018,246,True
+Canada,China,Computer vision,2015,131,True
+Canada,China,Computer vision,2023,442,True
+Denmark,China,Computer vision,2023,34,True
+Denmark,China,Computer vision,2024,27,False
+Denmark,China,Computer vision,2022,25,True
+Egypt,China,Computer vision,2023,58,True
+Egypt,China,Computer vision,2021,33,True
+Egypt,China,Computer vision,2020,34,True
+Egypt,China,Computer vision,2022,44,True
+Egypt,China,Computer vision,2024,37,False
+Finland,China,Computer vision,2017,35,True
+Finland,China,Computer vision,2022,73,True
+Finland,China,Computer vision,2024,68,False
+Finland,China,Computer vision,2023,76,True
+Finland,China,Computer vision,2021,73,True
+Finland,China,Computer vision,2018,43,True
+Finland,China,Computer vision,2020,64,True
+Finland,China,Computer vision,2019,64,True
+Finland,China,Computer vision,2025,36,False
+Finland,China,Computer vision,2016,51,True
+Finland,China,Computer vision,2015,32,True
+France,China,Computer vision,2025,84,False
+France,China,Computer vision,2018,108,True
+France,China,Computer vision,2024,198,False
+France,China,Computer vision,2015,83,True
+France,China,Computer vision,2020,179,True
+France,China,Computer vision,2017,115,True
+France,China,Computer vision,2023,213,True
+France,China,Computer vision,2021,202,True
+France,China,Computer vision,2019,152,True
+France,China,Computer vision,2022,158,True
+France,China,Computer vision,2016,89,True
+Germany,China,Computer vision,2019,173,True
+Germany,China,Computer vision,2016,53,True
+Germany,China,Computer vision,2015,44,True
+Germany,China,Computer vision,2023,376,True
+Germany,China,Computer vision,2020,258,True
+Germany,China,Computer vision,2017,72,True
+Germany,China,Computer vision,2024,307,False
+Germany,China,Computer vision,2025,151,False
+Germany,China,Computer vision,2021,297,True
+Germany,China,Computer vision,2022,312,True
+Germany,China,Computer vision,2018,120,True
+Iceland,China,Computer vision,2017,31,True
+India,China,Computer vision,2016,27,True
+India,China,Computer vision,2021,137,True
+India,China,Computer vision,2022,162,True
+India,China,Computer vision,2019,64,True
+India,China,Computer vision,2018,54,True
+India,China,Computer vision,2023,137,True
+India,China,Computer vision,2025,77,False
+India,China,Computer vision,2024,141,False
+India,China,Computer vision,2017,32,True
+India,China,Computer vision,2020,114,True
+Iran,China,Computer vision,2023,39,True
+Iran,China,Computer vision,2021,51,True
+Iran,China,Computer vision,2024,37,False
+Iran,China,Computer vision,2020,28,True
+Iran,China,Computer vision,2022,40,True
+Iran,China,Computer vision,2025,26,False
+Ireland,China,Computer vision,2023,51,True
+Ireland,China,Computer vision,2022,29,True
+Ireland,China,Computer vision,2024,49,False
+Ireland,China,Computer vision,2025,28,False
+Israel,China,Computer vision,2018,28,True
+Israel,China,Computer vision,2020,31,True
+Israel,China,Computer vision,2021,25,True
+Italy,China,Computer vision,2025,98,False
+Italy,China,Computer vision,2017,45,True
+Italy,China,Computer vision,2018,49,True
+Italy,China,Computer vision,2019,53,True
+Italy,China,Computer vision,2016,49,True
+Italy,China,Computer vision,2024,178,False
+Italy,China,Computer vision,2021,127,True
+Italy,China,Computer vision,2015,37,True
+Italy,China,Computer vision,2020,106,True
+Italy,China,Computer vision,2022,138,True
+Italy,China,Computer vision,2023,161,True
+Japan,China,Computer vision,2018,174,True
+Japan,China,Computer vision,2015,118,True
+Japan,China,Computer vision,2022,366,True
+Japan,China,Computer vision,2021,391,True
+Japan,China,Computer vision,2017,170,True
+Japan,China,Computer vision,2023,388,True
+Japan,China,Computer vision,2025,203,False
+Japan,China,Computer vision,2020,316,True
+Japan,China,Computer vision,2019,267,True
+Japan,China,Computer vision,2016,126,True
+Japan,China,Computer vision,2024,459,False
+Malaysia,China,Computer vision,2021,74,True
+Malaysia,China,Computer vision,2019,33,True
+Malaysia,China,Computer vision,2023,147,True
+Malaysia,China,Computer vision,2018,26,True
+Malaysia,China,Computer vision,2024,217,False
+Malaysia,China,Computer vision,2025,150,False
+Malaysia,China,Computer vision,2022,95,True
+Malaysia,China,Computer vision,2020,63,True
+Netherlands,China,Computer vision,2024,100,False
+Netherlands,China,Computer vision,2017,36,True
+Netherlands,China,Computer vision,2022,87,True
+Netherlands,China,Computer vision,2021,113,True
+Netherlands,China,Computer vision,2023,128,True
+Netherlands,China,Computer vision,2016,42,True
+Netherlands,China,Computer vision,2018,45,True
+Netherlands,China,Computer vision,2020,109,True
+Netherlands,China,Computer vision,2025,55,False
+Netherlands,China,Computer vision,2019,81,True
+New Zealand,China,Computer vision,2024,79,False
+New Zealand,China,Computer vision,2025,33,False
+New Zealand,China,Computer vision,2019,37,True
+New Zealand,China,Computer vision,2018,25,True
+New Zealand,China,Computer vision,2022,56,True
+New Zealand,China,Computer vision,2021,40,True
+New Zealand,China,Computer vision,2023,58,True
+New Zealand,China,Computer vision,2020,35,True
+Norway,China,Computer vision,2020,33,True
+Norway,China,Computer vision,2023,56,True
+Norway,China,Computer vision,2024,35,False
+Norway,China,Computer vision,2022,68,True
+Norway,China,Computer vision,2021,48,True
+Pakistan,China,Computer vision,2017,29,True
+Pakistan,China,Computer vision,2020,90,True
+Pakistan,China,Computer vision,2025,98,False
+Pakistan,China,Computer vision,2022,154,True
+Pakistan,China,Computer vision,2018,35,True
+Pakistan,China,Computer vision,2019,76,True
+Pakistan,China,Computer vision,2023,158,True
+Pakistan,China,Computer vision,2024,172,False
+Pakistan,China,Computer vision,2021,131,True
+Philippines,China,Computer vision,2022,36,True
+Philippines,China,Computer vision,2023,45,True
+Philippines,China,Computer vision,2024,57,False
+Poland,China,Computer vision,2022,30,True
+Poland,China,Computer vision,2023,52,True
+Poland,China,Computer vision,2024,46,False
+Poland,China,Computer vision,2021,25,True
+Portugal,China,Computer vision,2023,25,True
+Russia,China,Computer vision,2024,46,False
+Russia,China,Computer vision,2025,40,False
+Russia,China,Computer vision,2023,39,True
+Russia,China,Computer vision,2019,27,True
+Russia,China,Computer vision,2020,35,True
+Russia,China,Computer vision,2022,37,True
+Russia,China,Computer vision,2021,48,True
+Saudi Arabia,China,Computer vision,2021,93,True
+Saudi Arabia,China,Computer vision,2023,155,True
+Saudi Arabia,China,Computer vision,2020,73,True
+Saudi Arabia,China,Computer vision,2024,196,False
+Saudi Arabia,China,Computer vision,2025,139,False
+Saudi Arabia,China,Computer vision,2022,124,True
+Saudi Arabia,China,Computer vision,2019,34,True
+Singapore,China,Computer vision,2018,272,True
+Singapore,China,Computer vision,2020,442,True
+Singapore,China,Computer vision,2025,398,False
+Singapore,China,Computer vision,2015,241,True
+Singapore,China,Computer vision,2017,255,True
+Singapore,China,Computer vision,2023,965,True
+Singapore,China,Computer vision,2022,610,True
+Singapore,China,Computer vision,2021,580,True
+Singapore,China,Computer vision,2024,847,False
+Singapore,China,Computer vision,2016,237,True
+Singapore,China,Computer vision,2019,356,True
+South Korea,China,Computer vision,2022,234,True
+South Korea,China,Computer vision,2016,72,True
+South Korea,China,Computer vision,2019,106,True
+South Korea,China,Computer vision,2020,174,True
+South Korea,China,Computer vision,2017,71,True
+South Korea,China,Computer vision,2025,133,False
+South Korea,China,Computer vision,2024,247,False
+South Korea,China,Computer vision,2015,68,True
+South Korea,China,Computer vision,2018,109,True
+South Korea,China,Computer vision,2021,186,True
+South Korea,China,Computer vision,2023,226,True
+Spain,China,Computer vision,2017,44,True
+Spain,China,Computer vision,2022,124,True
+Spain,China,Computer vision,2016,44,True
+Spain,China,Computer vision,2019,67,True
+Spain,China,Computer vision,2018,49,True
+Spain,China,Computer vision,2025,63,False
+Spain,China,Computer vision,2020,80,True
+Spain,China,Computer vision,2023,127,True
+Spain,China,Computer vision,2021,102,True
+Spain,China,Computer vision,2015,31,True
+Spain,China,Computer vision,2024,125,False
+Sweden,China,Computer vision,2019,40,True
+Sweden,China,Computer vision,2023,71,True
+Sweden,China,Computer vision,2018,25,True
+Sweden,China,Computer vision,2025,28,False
+Sweden,China,Computer vision,2024,66,False
+Sweden,China,Computer vision,2021,43,True
+Sweden,China,Computer vision,2022,49,True
+Sweden,China,Computer vision,2020,33,True
+Switzerland,China,Computer vision,2021,132,True
+Switzerland,China,Computer vision,2025,49,False
+Switzerland,China,Computer vision,2023,176,True
+Switzerland,China,Computer vision,2016,27,True
+Switzerland,China,Computer vision,2017,27,True
+Switzerland,China,Computer vision,2024,107,False
+Switzerland,China,Computer vision,2022,161,True
+Switzerland,China,Computer vision,2019,47,True
+Switzerland,China,Computer vision,2018,54,True
+Switzerland,China,Computer vision,2020,109,True
+Taiwan,China,Computer vision,2015,44,True
+Taiwan,China,Computer vision,2022,133,True
+Taiwan,China,Computer vision,2023,143,True
+Taiwan,China,Computer vision,2024,165,False
+Taiwan,China,Computer vision,2019,101,True
+Taiwan,China,Computer vision,2016,49,True
+Taiwan,China,Computer vision,2018,94,True
+Taiwan,China,Computer vision,2021,202,True
+Taiwan,China,Computer vision,2020,153,True
+Taiwan,China,Computer vision,2025,88,False
+Taiwan,China,Computer vision,2017,74,True
+Thailand,China,Computer vision,2025,25,False
+Thailand,China,Computer vision,2024,30,False
+Thailand,China,Computer vision,2023,25,True
+Turkey,China,Computer vision,2022,26,True
+Turkey,China,Computer vision,2024,30,False
+Turkey,China,Computer vision,2023,32,True
+United Arab Emirates,China,Computer vision,2023,115,True
+United Arab Emirates,China,Computer vision,2025,40,False
+United Arab Emirates,China,Computer vision,2022,79,True
+United Arab Emirates,China,Computer vision,2020,130,True
+United Arab Emirates,China,Computer vision,2018,48,True
+United Arab Emirates,China,Computer vision,2021,139,True
+United Arab Emirates,China,Computer vision,2019,107,True
+United Arab Emirates,China,Computer vision,2024,90,False
+United Kingdom,China,Computer vision,2018,553,True
+United Kingdom,China,Computer vision,2023,1244,True
+United Kingdom,China,Computer vision,2021,997,True
+United Kingdom,China,Computer vision,2019,762,True
+United Kingdom,China,Computer vision,2015,225,True
+United Kingdom,China,Computer vision,2025,633,False
+United Kingdom,China,Computer vision,2024,1154,False
+United Kingdom,China,Computer vision,2020,907,True
+United Kingdom,China,Computer vision,2016,286,True
+United Kingdom,China,Computer vision,2022,1110,True
+United Kingdom,China,Computer vision,2017,415,True
+United States,China,Computer vision,2025,898,False
+United States,China,Computer vision,2016,971,True
+United States,China,Computer vision,2023,2189,True
+United States,China,Computer vision,2018,1629,True
+United States,China,Computer vision,2017,1210,True
+United States,China,Computer vision,2019,2061,True
+United States,China,Computer vision,2024,1957,False
+United States,China,Computer vision,2022,2089,True
+United States,China,Computer vision,2015,826,True
+United States,China,Computer vision,2021,2456,True
+United States,China,Computer vision,2020,2324,True
+Spain,Colombia,Computer vision,2020,25,True
+United States,Colombia,Computer vision,2020,28,True
+India,Czechia,Computer vision,2023,30,True
+United States,Czechia,Computer vision,2023,25,True
+Canada,Denmark,Computer vision,2023,26,True
+China,Denmark,Computer vision,2022,25,True
+China,Denmark,Computer vision,2023,34,True
+China,Denmark,Computer vision,2024,27,False
+France,Denmark,Computer vision,2023,27,True
+Germany,Denmark,Computer vision,2022,37,True
+Germany,Denmark,Computer vision,2024,39,False
+Germany,Denmark,Computer vision,2021,26,True
+Germany,Denmark,Computer vision,2023,40,True
+Netherlands,Denmark,Computer vision,2022,27,True
+Netherlands,Denmark,Computer vision,2021,49,True
+Netherlands,Denmark,Computer vision,2024,31,False
+Netherlands,Denmark,Computer vision,2023,46,True
+Switzerland,Denmark,Computer vision,2022,30,True
+Switzerland,Denmark,Computer vision,2024,26,False
+United Kingdom,Denmark,Computer vision,2021,36,True
+United Kingdom,Denmark,Computer vision,2022,27,True
+United Kingdom,Denmark,Computer vision,2024,41,False
+United Kingdom,Denmark,Computer vision,2023,48,True
+United States,Denmark,Computer vision,2023,53,True
+United States,Denmark,Computer vision,2021,50,True
+United States,Denmark,Computer vision,2022,41,True
+United States,Denmark,Computer vision,2024,48,False
+Spain,Ecuador,Computer vision,2023,25,True
+Spain,Ecuador,Computer vision,2017,31,True
+Canada,Egypt,Computer vision,2023,25,True
+China,Egypt,Computer vision,2021,33,True
+China,Egypt,Computer vision,2022,44,True
+China,Egypt,Computer vision,2024,37,False
+China,Egypt,Computer vision,2023,58,True
+China,Egypt,Computer vision,2020,34,True
+India,Egypt,Computer vision,2024,38,False
+India,Egypt,Computer vision,2023,54,True
+India,Egypt,Computer vision,2022,52,True
+India,Egypt,Computer vision,2021,29,True
+Jordan,Egypt,Computer vision,2024,26,False
+Malaysia,Egypt,Computer vision,2023,33,True
+Pakistan,Egypt,Computer vision,2023,34,True
+Pakistan,Egypt,Computer vision,2022,32,True
+Saudi Arabia,Egypt,Computer vision,2023,234,True
+Saudi Arabia,Egypt,Computer vision,2022,209,True
+Saudi Arabia,Egypt,Computer vision,2019,32,True
+Saudi Arabia,Egypt,Computer vision,2021,90,True
+Saudi Arabia,Egypt,Computer vision,2025,103,False
+Saudi Arabia,Egypt,Computer vision,2024,155,False
+Saudi Arabia,Egypt,Computer vision,2020,68,True
+Saudi Arabia,Egypt,Computer vision,2015,30,True
+South Korea,Egypt,Computer vision,2023,28,True
+South Korea,Egypt,Computer vision,2022,35,True
+Spain,Egypt,Computer vision,2022,31,True
+United Arab Emirates,Egypt,Computer vision,2024,39,False
+United Arab Emirates,Egypt,Computer vision,2023,40,True
+United Arab Emirates,Egypt,Computer vision,2022,34,True
+United Kingdom,Egypt,Computer vision,2022,41,True
+United Kingdom,Egypt,Computer vision,2021,28,True
+United Kingdom,Egypt,Computer vision,2024,30,False
+United Kingdom,Egypt,Computer vision,2023,39,True
+United States,Egypt,Computer vision,2019,30,True
+United States,Egypt,Computer vision,2020,38,True
+United States,Egypt,Computer vision,2024,72,False
+United States,Egypt,Computer vision,2022,73,True
+United States,Egypt,Computer vision,2021,50,True
+United States,Egypt,Computer vision,2018,46,True
+United States,Egypt,Computer vision,2023,68,True
+United States,Egypt,Computer vision,2025,38,False
+India,Ethiopia,Computer vision,2022,145,True
+India,Ethiopia,Computer vision,2024,73,False
+India,Ethiopia,Computer vision,2021,36,True
+India,Ethiopia,Computer vision,2023,47,True
+India,Ethiopia,Computer vision,2025,51,False
+Saudi Arabia,Ethiopia,Computer vision,2025,26,False
+Saudi Arabia,Ethiopia,Computer vision,2022,50,True
+China,Finland,Computer vision,2025,36,False
+China,Finland,Computer vision,2023,76,True
+China,Finland,Computer vision,2020,64,True
+China,Finland,Computer vision,2021,73,True
+China,Finland,Computer vision,2015,32,True
+China,Finland,Computer vision,2024,68,False
+China,Finland,Computer vision,2017,35,True
+China,Finland,Computer vision,2019,64,True
+China,Finland,Computer vision,2018,43,True
+China,Finland,Computer vision,2022,73,True
+China,Finland,Computer vision,2016,51,True
+Germany,Finland,Computer vision,2023,30,True
+Germany,Finland,Computer vision,2024,25,False
+Sweden,Finland,Computer vision,2021,26,True
+United Kingdom,Finland,Computer vision,2021,37,True
+United Kingdom,Finland,Computer vision,2022,26,True
+United Kingdom,Finland,Computer vision,2019,26,True
+United Kingdom,Finland,Computer vision,2023,30,True
+United States,Finland,Computer vision,2022,37,True
+United States,Finland,Computer vision,2020,29,True
+United States,Finland,Computer vision,2021,33,True
+United States,Finland,Computer vision,2023,47,True
+United States,Finland,Computer vision,2024,34,False
+United States,Finland,Computer vision,2019,30,True
+Algeria,France,Computer vision,2024,36,False
+Algeria,France,Computer vision,2015,36,True
+Algeria,France,Computer vision,2017,50,True
+Algeria,France,Computer vision,2021,61,True
+Algeria,France,Computer vision,2023,32,True
+Algeria,France,Computer vision,2019,55,True
+Algeria,France,Computer vision,2018,46,True
+Algeria,France,Computer vision,2020,53,True
+Algeria,France,Computer vision,2022,57,True
+Algeria,France,Computer vision,2016,47,True
+Australia,France,Computer vision,2018,32,True
+Australia,France,Computer vision,2024,42,False
+Australia,France,Computer vision,2023,58,True
+Australia,France,Computer vision,2020,26,True
+Australia,France,Computer vision,2021,34,True
+Australia,France,Computer vision,2022,38,True
+Austria,France,Computer vision,2022,33,True
+Austria,France,Computer vision,2023,32,True
+Belgium,France,Computer vision,2019,25,True
+Belgium,France,Computer vision,2022,37,True
+Belgium,France,Computer vision,2023,34,True
+Belgium,France,Computer vision,2018,28,True
+Belgium,France,Computer vision,2017,29,True
+Belgium,France,Computer vision,2015,26,True
+Brazil,France,Computer vision,2018,29,True
+Brazil,France,Computer vision,2020,33,True
+Brazil,France,Computer vision,2024,35,False
+Brazil,France,Computer vision,2017,26,True
+Brazil,France,Computer vision,2019,33,True
+Brazil,France,Computer vision,2021,37,True
+Brazil,France,Computer vision,2023,26,True
+Canada,France,Computer vision,2021,69,True
+Canada,France,Computer vision,2020,62,True
+Canada,France,Computer vision,2022,58,True
+Canada,France,Computer vision,2019,53,True
+Canada,France,Computer vision,2025,33,False
+Canada,France,Computer vision,2023,70,True
+Canada,France,Computer vision,2015,33,True
+Canada,France,Computer vision,2024,53,False
+Canada,France,Computer vision,2016,36,True
+Canada,France,Computer vision,2017,54,True
+Canada,France,Computer vision,2018,54,True
+China,France,Computer vision,2019,152,True
+China,France,Computer vision,2024,198,False
+China,France,Computer vision,2015,83,True
+China,France,Computer vision,2023,213,True
+China,France,Computer vision,2018,108,True
+China,France,Computer vision,2025,84,False
+China,France,Computer vision,2016,89,True
+China,France,Computer vision,2017,115,True
+China,France,Computer vision,2020,179,True
+China,France,Computer vision,2022,158,True
+China,France,Computer vision,2021,202,True
+Denmark,France,Computer vision,2023,27,True
+Germany,France,Computer vision,2019,92,True
+Germany,France,Computer vision,2018,73,True
+Germany,France,Computer vision,2022,101,True
+Germany,France,Computer vision,2020,106,True
+Germany,France,Computer vision,2017,70,True
+Germany,France,Computer vision,2025,47,False
+Germany,France,Computer vision,2015,59,True
+Germany,France,Computer vision,2024,114,False
+Germany,France,Computer vision,2016,72,True
+Germany,France,Computer vision,2021,97,True
+Germany,France,Computer vision,2023,150,True
+India,France,Computer vision,2021,45,True
+India,France,Computer vision,2022,48,True
+India,France,Computer vision,2020,36,True
+India,France,Computer vision,2023,42,True
+India,France,Computer vision,2024,39,False
+Italy,France,Computer vision,2016,46,True
+Italy,France,Computer vision,2022,105,True
+Italy,France,Computer vision,2019,56,True
+Italy,France,Computer vision,2018,70,True
+Italy,France,Computer vision,2023,109,True
+Italy,France,Computer vision,2015,51,True
+Italy,France,Computer vision,2020,72,True
+Italy,France,Computer vision,2017,54,True
+Italy,France,Computer vision,2025,57,False
+Italy,France,Computer vision,2021,119,True
+Italy,France,Computer vision,2024,119,False
+Japan,France,Computer vision,2018,37,True
+Japan,France,Computer vision,2024,32,False
+Japan,France,Computer vision,2022,30,True
+Japan,France,Computer vision,2019,42,True
+Japan,France,Computer vision,2017,31,True
+Japan,France,Computer vision,2021,36,True
+Japan,France,Computer vision,2023,48,True
+Japan,France,Computer vision,2020,45,True
+Morocco,France,Computer vision,2024,50,False
+Morocco,France,Computer vision,2017,29,True
+Morocco,France,Computer vision,2022,36,True
+Morocco,France,Computer vision,2018,40,True
+Morocco,France,Computer vision,2023,28,True
+Morocco,France,Computer vision,2019,27,True
+Morocco,France,Computer vision,2020,26,True
+Netherlands,France,Computer vision,2016,26,True
+Netherlands,France,Computer vision,2023,55,True
+Netherlands,France,Computer vision,2022,39,True
+Netherlands,France,Computer vision,2024,38,False
+Netherlands,France,Computer vision,2019,31,True
+Netherlands,France,Computer vision,2021,37,True
+Netherlands,France,Computer vision,2020,31,True
+Norway,France,Computer vision,2021,25,True
+Norway,France,Computer vision,2019,33,True
+Norway,France,Computer vision,2018,30,True
+Norway,France,Computer vision,2022,31,True
+Norway,France,Computer vision,2023,31,True
+Singapore,France,Computer vision,2023,27,True
+South Korea,France,Computer vision,2019,26,True
+Spain,France,Computer vision,2025,38,False
+Spain,France,Computer vision,2023,76,True
+Spain,France,Computer vision,2018,67,True
+Spain,France,Computer vision,2015,62,True
+Spain,France,Computer vision,2016,58,True
+Spain,France,Computer vision,2024,75,False
+Spain,France,Computer vision,2017,74,True
+Spain,France,Computer vision,2021,55,True
+Spain,France,Computer vision,2019,63,True
+Spain,France,Computer vision,2022,79,True
+Spain,France,Computer vision,2020,60,True
+Switzerland,France,Computer vision,2025,30,False
+Switzerland,France,Computer vision,2019,61,True
+Switzerland,France,Computer vision,2016,29,True
+Switzerland,France,Computer vision,2018,27,True
+Switzerland,France,Computer vision,2017,38,True
+Switzerland,France,Computer vision,2020,47,True
+Switzerland,France,Computer vision,2024,50,False
+Switzerland,France,Computer vision,2021,60,True
+Switzerland,France,Computer vision,2022,60,True
+Switzerland,France,Computer vision,2023,77,True
+Switzerland,France,Computer vision,2015,25,True
+Tunisia,France,Computer vision,2024,47,False
+Tunisia,France,Computer vision,2023,61,True
+Tunisia,France,Computer vision,2017,54,True
+Tunisia,France,Computer vision,2021,61,True
+Tunisia,France,Computer vision,2022,53,True
+Tunisia,France,Computer vision,2020,76,True
+Tunisia,France,Computer vision,2018,70,True
+Tunisia,France,Computer vision,2015,41,True
+Tunisia,France,Computer vision,2019,54,True
+Tunisia,France,Computer vision,2016,66,True
+United Arab Emirates,France,Computer vision,2023,27,True
+United Kingdom,France,Computer vision,2015,80,True
+United Kingdom,France,Computer vision,2020,103,True
+United Kingdom,France,Computer vision,2017,79,True
+United Kingdom,France,Computer vision,2022,105,True
+United Kingdom,France,Computer vision,2016,100,True
+United Kingdom,France,Computer vision,2025,54,False
+United Kingdom,France,Computer vision,2021,114,True
+United Kingdom,France,Computer vision,2018,91,True
+United Kingdom,France,Computer vision,2024,118,False
+United Kingdom,France,Computer vision,2023,146,True
+United Kingdom,France,Computer vision,2019,111,True
+United States,France,Computer vision,2018,152,True
+United States,France,Computer vision,2025,81,False
+United States,France,Computer vision,2017,134,True
+United States,France,Computer vision,2020,165,True
+United States,France,Computer vision,2016,107,True
+United States,France,Computer vision,2019,169,True
+United States,France,Computer vision,2024,158,False
+United States,France,Computer vision,2023,212,True
+United States,France,Computer vision,2021,195,True
+United States,France,Computer vision,2015,110,True
+United States,France,Computer vision,2022,173,True
+Vietnam,France,Computer vision,2019,31,True
+Vietnam,France,Computer vision,2020,28,True
+Australia,Germany,Computer vision,2023,82,True
+Australia,Germany,Computer vision,2017,25,True
+Australia,Germany,Computer vision,2024,72,False
+Australia,Germany,Computer vision,2019,34,True
+Australia,Germany,Computer vision,2020,43,True
+Australia,Germany,Computer vision,2022,56,True
+Australia,Germany,Computer vision,2025,26,False
+Australia,Germany,Computer vision,2021,54,True
+Austria,Germany,Computer vision,2025,39,False
+Austria,Germany,Computer vision,2017,53,True
+Austria,Germany,Computer vision,2024,75,False
+Austria,Germany,Computer vision,2016,40,True
+Austria,Germany,Computer vision,2021,88,True
+Austria,Germany,Computer vision,2018,42,True
+Austria,Germany,Computer vision,2023,132,True
+Austria,Germany,Computer vision,2022,111,True
+Austria,Germany,Computer vision,2020,85,True
+Austria,Germany,Computer vision,2019,61,True
+Austria,Germany,Computer vision,2015,25,True
+Belgium,Germany,Computer vision,2021,54,True
+Belgium,Germany,Computer vision,2022,60,True
+Belgium,Germany,Computer vision,2016,26,True
+Belgium,Germany,Computer vision,2017,25,True
+Belgium,Germany,Computer vision,2020,34,True
+Belgium,Germany,Computer vision,2024,34,False
+Belgium,Germany,Computer vision,2018,26,True
+Belgium,Germany,Computer vision,2023,54,True
+Brazil,Germany,Computer vision,2021,29,True
+Brazil,Germany,Computer vision,2024,35,False
+Brazil,Germany,Computer vision,2023,42,True
+Brazil,Germany,Computer vision,2020,35,True
+Canada,Germany,Computer vision,2016,29,True
+Canada,Germany,Computer vision,2024,66,False
+Canada,Germany,Computer vision,2022,72,True
+Canada,Germany,Computer vision,2020,63,True
+Canada,Germany,Computer vision,2025,26,False
+Canada,Germany,Computer vision,2023,80,True
+Canada,Germany,Computer vision,2021,85,True
+Canada,Germany,Computer vision,2019,38,True
+Canada,Germany,Computer vision,2017,35,True
+Canada,Germany,Computer vision,2018,47,True
+China,Germany,Computer vision,2018,120,True
+China,Germany,Computer vision,2016,53,True
+China,Germany,Computer vision,2020,258,True
+China,Germany,Computer vision,2025,151,False
+China,Germany,Computer vision,2015,44,True
+China,Germany,Computer vision,2017,72,True
+China,Germany,Computer vision,2022,312,True
+China,Germany,Computer vision,2023,376,True
+China,Germany,Computer vision,2019,173,True
+China,Germany,Computer vision,2021,297,True
+China,Germany,Computer vision,2024,307,False
+Denmark,Germany,Computer vision,2021,26,True
+Denmark,Germany,Computer vision,2022,37,True
+Denmark,Germany,Computer vision,2024,39,False
+Denmark,Germany,Computer vision,2023,40,True
+Finland,Germany,Computer vision,2023,30,True
+Finland,Germany,Computer vision,2024,25,False
+France,Germany,Computer vision,2018,73,True
+France,Germany,Computer vision,2024,114,False
+France,Germany,Computer vision,2019,92,True
+France,Germany,Computer vision,2022,101,True
+France,Germany,Computer vision,2017,70,True
+France,Germany,Computer vision,2021,97,True
+France,Germany,Computer vision,2025,47,False
+France,Germany,Computer vision,2015,59,True
+France,Germany,Computer vision,2020,106,True
+France,Germany,Computer vision,2016,72,True
+France,Germany,Computer vision,2023,150,True
+India,Germany,Computer vision,2022,72,True
+India,Germany,Computer vision,2020,56,True
+India,Germany,Computer vision,2021,63,True
+India,Germany,Computer vision,2025,30,False
+India,Germany,Computer vision,2018,35,True
+India,Germany,Computer vision,2019,27,True
+India,Germany,Computer vision,2023,93,True
+India,Germany,Computer vision,2024,69,False
+Iran,Germany,Computer vision,2023,52,True
+Iran,Germany,Computer vision,2022,52,True
+Israel,Germany,Computer vision,2023,25,True
+Italy,Germany,Computer vision,2021,105,True
+Italy,Germany,Computer vision,2025,65,False
+Italy,Germany,Computer vision,2024,126,False
+Italy,Germany,Computer vision,2015,32,True
+Italy,Germany,Computer vision,2022,97,True
+Italy,Germany,Computer vision,2019,58,True
+Italy,Germany,Computer vision,2016,33,True
+Italy,Germany,Computer vision,2018,49,True
+Italy,Germany,Computer vision,2017,44,True
+Italy,Germany,Computer vision,2023,130,True
+Italy,Germany,Computer vision,2020,80,True
+Japan,Germany,Computer vision,2021,52,True
+Japan,Germany,Computer vision,2024,50,False
+Japan,Germany,Computer vision,2022,37,True
+Japan,Germany,Computer vision,2020,51,True
+Japan,Germany,Computer vision,2018,45,True
+Japan,Germany,Computer vision,2019,37,True
+Japan,Germany,Computer vision,2023,49,True
+Netherlands,Germany,Computer vision,2015,32,True
+Netherlands,Germany,Computer vision,2020,91,True
+Netherlands,Germany,Computer vision,2024,124,False
+Netherlands,Germany,Computer vision,2018,48,True
+Netherlands,Germany,Computer vision,2025,62,False
+Netherlands,Germany,Computer vision,2017,48,True
+Netherlands,Germany,Computer vision,2016,42,True
+Netherlands,Germany,Computer vision,2021,115,True
+Netherlands,Germany,Computer vision,2019,77,True
+Netherlands,Germany,Computer vision,2022,111,True
+Netherlands,Germany,Computer vision,2023,146,True
+Norway,Germany,Computer vision,2017,31,True
+Norway,Germany,Computer vision,2021,26,True
+Norway,Germany,Computer vision,2023,43,True
+Norway,Germany,Computer vision,2024,37,False
+Norway,Germany,Computer vision,2022,45,True
+Pakistan,Germany,Computer vision,2021,29,True
+Pakistan,Germany,Computer vision,2023,32,True
+Poland,Germany,Computer vision,2024,34,False
+Poland,Germany,Computer vision,2022,28,True
+Poland,Germany,Computer vision,2023,28,True
+Portugal,Germany,Computer vision,2023,31,True
+Portugal,Germany,Computer vision,2022,39,True
+Portugal,Germany,Computer vision,2024,34,False
+Russia,Germany,Computer vision,2020,25,True
+Singapore,Germany,Computer vision,2022,37,True
+Singapore,Germany,Computer vision,2020,37,True
+Singapore,Germany,Computer vision,2021,26,True
+Singapore,Germany,Computer vision,2023,34,True
+Singapore,Germany,Computer vision,2024,32,False
+South Korea,Germany,Computer vision,2023,44,True
+South Korea,Germany,Computer vision,2021,33,True
+South Korea,Germany,Computer vision,2019,25,True
+South Korea,Germany,Computer vision,2022,39,True
+South Korea,Germany,Computer vision,2020,27,True
+South Korea,Germany,Computer vision,2024,30,False
+Spain,Germany,Computer vision,2025,28,False
+Spain,Germany,Computer vision,2018,48,True
+Spain,Germany,Computer vision,2022,80,True
+Spain,Germany,Computer vision,2017,39,True
+Spain,Germany,Computer vision,2016,39,True
+Spain,Germany,Computer vision,2019,56,True
+Spain,Germany,Computer vision,2021,59,True
+Spain,Germany,Computer vision,2020,60,True
+Spain,Germany,Computer vision,2024,81,False
+Spain,Germany,Computer vision,2023,97,True
+Spain,Germany,Computer vision,2015,34,True
+Sweden,Germany,Computer vision,2019,38,True
+Sweden,Germany,Computer vision,2022,52,True
+Sweden,Germany,Computer vision,2018,27,True
+Sweden,Germany,Computer vision,2021,45,True
+Sweden,Germany,Computer vision,2020,37,True
+Sweden,Germany,Computer vision,2023,76,True
+Sweden,Germany,Computer vision,2024,53,False
+Switzerland,Germany,Computer vision,2023,216,True
+Switzerland,Germany,Computer vision,2019,89,True
+Switzerland,Germany,Computer vision,2017,81,True
+Switzerland,Germany,Computer vision,2024,156,False
+Switzerland,Germany,Computer vision,2025,61,False
+Switzerland,Germany,Computer vision,2016,55,True
+Switzerland,Germany,Computer vision,2021,182,True
+Switzerland,Germany,Computer vision,2018,80,True
+Switzerland,Germany,Computer vision,2022,202,True
+Switzerland,Germany,Computer vision,2015,68,True
+Switzerland,Germany,Computer vision,2020,142,True
+Taiwan,Germany,Computer vision,2020,32,True
+Taiwan,Germany,Computer vision,2019,29,True
+Taiwan,Germany,Computer vision,2021,39,True
+Turkey,Germany,Computer vision,2022,27,True
+Turkey,Germany,Computer vision,2024,26,False
+United Kingdom,Germany,Computer vision,2015,73,True
+United Kingdom,Germany,Computer vision,2019,124,True
+United Kingdom,Germany,Computer vision,2020,166,True
+United Kingdom,Germany,Computer vision,2025,97,False
+United Kingdom,Germany,Computer vision,2022,269,True
+United Kingdom,Germany,Computer vision,2023,329,True
+United Kingdom,Germany,Computer vision,2016,95,True
+United Kingdom,Germany,Computer vision,2017,96,True
+United Kingdom,Germany,Computer vision,2021,241,True
+United Kingdom,Germany,Computer vision,2024,210,False
+United Kingdom,Germany,Computer vision,2018,112,True
+United States,Germany,Computer vision,2024,373,False
+United States,Germany,Computer vision,2018,251,True
+United States,Germany,Computer vision,2016,184,True
+United States,Germany,Computer vision,2015,139,True
+United States,Germany,Computer vision,2023,469,True
+United States,Germany,Computer vision,2020,408,True
+United States,Germany,Computer vision,2022,405,True
+United States,Germany,Computer vision,2025,175,False
+United States,Germany,Computer vision,2019,242,True
+United States,Germany,Computer vision,2017,217,True
+United States,Germany,Computer vision,2021,447,True
+India,Ghana,Computer vision,2022,35,True
+Italy,Greece,Computer vision,2023,28,True
+Italy,Greece,Computer vision,2024,26,False
+United Kingdom,Greece,Computer vision,2024,39,False
+United Kingdom,Greece,Computer vision,2019,41,True
+United Kingdom,Greece,Computer vision,2018,25,True
+United Kingdom,Greece,Computer vision,2020,41,True
+United Kingdom,Greece,Computer vision,2017,33,True
+United Kingdom,Greece,Computer vision,2023,45,True
+United Kingdom,Greece,Computer vision,2016,35,True
+United Kingdom,Greece,Computer vision,2022,33,True
+United Kingdom,Greece,Computer vision,2025,36,False
+United Kingdom,Greece,Computer vision,2021,39,True
+United States,Greece,Computer vision,2021,27,True
+United States,Greece,Computer vision,2020,30,True
+United States,Greece,Computer vision,2018,25,True
+United States,Greece,Computer vision,2023,36,True
+China,Iceland,Computer vision,2017,31,True
+Australia,India,Computer vision,2025,54,False
+Australia,India,Computer vision,2024,118,False
+Australia,India,Computer vision,2018,35,True
+Australia,India,Computer vision,2022,111,True
+Australia,India,Computer vision,2021,106,True
+Australia,India,Computer vision,2020,73,True
+Australia,India,Computer vision,2023,106,True
+Australia,India,Computer vision,2016,28,True
+Australia,India,Computer vision,2019,34,True
+Australia,India,Computer vision,2017,31,True
+Bangladesh,India,Computer vision,2024,51,False
+Bangladesh,India,Computer vision,2022,58,True
+Bangladesh,India,Computer vision,2023,44,True
+Bangladesh,India,Computer vision,2025,40,False
+Bangladesh,India,Computer vision,2021,30,True
+Canada,India,Computer vision,2025,27,False
+Canada,India,Computer vision,2019,36,True
+Canada,India,Computer vision,2024,75,False
+Canada,India,Computer vision,2022,84,True
+Canada,India,Computer vision,2023,80,True
+Canada,India,Computer vision,2020,51,True
+Canada,India,Computer vision,2021,64,True
+Canada,India,Computer vision,2018,28,True
+China,India,Computer vision,2023,137,True
+China,India,Computer vision,2017,32,True
+China,India,Computer vision,2019,64,True
+China,India,Computer vision,2024,141,False
+China,India,Computer vision,2021,137,True
+China,India,Computer vision,2020,114,True
+China,India,Computer vision,2016,27,True
+China,India,Computer vision,2022,162,True
+China,India,Computer vision,2025,77,False
+China,India,Computer vision,2018,54,True
+Czechia,India,Computer vision,2023,30,True
+Egypt,India,Computer vision,2023,54,True
+Egypt,India,Computer vision,2022,52,True
+Egypt,India,Computer vision,2021,29,True
+Egypt,India,Computer vision,2024,38,False
+Ethiopia,India,Computer vision,2025,51,False
+Ethiopia,India,Computer vision,2024,73,False
+Ethiopia,India,Computer vision,2022,145,True
+Ethiopia,India,Computer vision,2023,47,True
+Ethiopia,India,Computer vision,2021,36,True
+France,India,Computer vision,2024,39,False
+France,India,Computer vision,2020,36,True
+France,India,Computer vision,2023,42,True
+France,India,Computer vision,2021,45,True
+France,India,Computer vision,2022,48,True
+Germany,India,Computer vision,2021,63,True
+Germany,India,Computer vision,2022,72,True
+Germany,India,Computer vision,2020,56,True
+Germany,India,Computer vision,2024,69,False
+Germany,India,Computer vision,2018,35,True
+Germany,India,Computer vision,2025,30,False
+Germany,India,Computer vision,2023,93,True
+Germany,India,Computer vision,2019,27,True
+Ghana,India,Computer vision,2022,35,True
+Indonesia,India,Computer vision,2023,25,True
+Iran,India,Computer vision,2022,25,True
+Iraq,India,Computer vision,2025,109,False
+Iraq,India,Computer vision,2023,102,True
+Iraq,India,Computer vision,2022,43,True
+Iraq,India,Computer vision,2024,282,False
+Ireland,India,Computer vision,2023,30,True
+Ireland,India,Computer vision,2024,31,False
+Italy,India,Computer vision,2020,35,True
+Italy,India,Computer vision,2024,68,False
+Italy,India,Computer vision,2023,56,True
+Italy,India,Computer vision,2021,58,True
+Italy,India,Computer vision,2022,63,True
+Japan,India,Computer vision,2023,49,True
+Japan,India,Computer vision,2019,37,True
+Japan,India,Computer vision,2024,47,False
+Japan,India,Computer vision,2021,43,True
+Japan,India,Computer vision,2020,62,True
+Japan,India,Computer vision,2022,58,True
+Jordan,India,Computer vision,2025,63,False
+Jordan,India,Computer vision,2024,59,False
+Lebanon,India,Computer vision,2023,42,True
+Lebanon,India,Computer vision,2024,31,False
+Malaysia,India,Computer vision,2020,42,True
+Malaysia,India,Computer vision,2023,128,True
+Malaysia,India,Computer vision,2025,85,False
+Malaysia,India,Computer vision,2019,29,True
+Malaysia,India,Computer vision,2018,36,True
+Malaysia,India,Computer vision,2022,104,True
+Malaysia,India,Computer vision,2024,135,False
+Malaysia,India,Computer vision,2021,83,True
+Nigeria,India,Computer vision,2024,31,False
+Norway,India,Computer vision,2024,71,False
+Norway,India,Computer vision,2021,77,True
+Norway,India,Computer vision,2022,57,True
+Norway,India,Computer vision,2023,67,True
+Oman,India,Computer vision,2024,63,False
+Oman,India,Computer vision,2025,25,False
+Oman,India,Computer vision,2023,37,True
+Oman,India,Computer vision,2022,28,True
+Pakistan,India,Computer vision,2024,42,False
+Pakistan,India,Computer vision,2023,36,True
+Pakistan,India,Computer vision,2025,27,False
+Pakistan,India,Computer vision,2021,28,True
+Pakistan,India,Computer vision,2022,41,True
+Poland,India,Computer vision,2021,28,True
+Poland,India,Computer vision,2023,29,True
+Russia,India,Computer vision,2021,33,True
+Russia,India,Computer vision,2024,28,False
+Saudi Arabia,India,Computer vision,2021,158,True
+Saudi Arabia,India,Computer vision,2025,226,False
+Saudi Arabia,India,Computer vision,2024,350,False
+Saudi Arabia,India,Computer vision,2020,42,True
+Saudi Arabia,India,Computer vision,2022,328,True
+Saudi Arabia,India,Computer vision,2019,26,True
+Saudi Arabia,India,Computer vision,2023,301,True
+Singapore,India,Computer vision,2021,44,True
+Singapore,India,Computer vision,2024,30,False
+Singapore,India,Computer vision,2019,33,True
+Singapore,India,Computer vision,2018,33,True
+Singapore,India,Computer vision,2023,27,True
+Singapore,India,Computer vision,2020,32,True
+Singapore,India,Computer vision,2022,40,True
+South Korea,India,Computer vision,2023,96,True
+South Korea,India,Computer vision,2018,32,True
+South Korea,India,Computer vision,2019,27,True
+South Korea,India,Computer vision,2022,97,True
+South Korea,India,Computer vision,2021,73,True
+South Korea,India,Computer vision,2024,83,False
+South Korea,India,Computer vision,2020,54,True
+South Korea,India,Computer vision,2025,67,False
+Spain,India,Computer vision,2021,59,True
+Spain,India,Computer vision,2024,29,False
+Spain,India,Computer vision,2020,30,True
+Spain,India,Computer vision,2022,43,True
+Spain,India,Computer vision,2023,55,True
+Sweden,India,Computer vision,2024,30,False
+Sweden,India,Computer vision,2023,36,True
+Taiwan,India,Computer vision,2025,38,False
+Taiwan,India,Computer vision,2022,56,True
+Taiwan,India,Computer vision,2024,45,False
+Taiwan,India,Computer vision,2021,59,True
+Taiwan,India,Computer vision,2023,45,True
+Taiwan,India,Computer vision,2020,29,True
+Thailand,India,Computer vision,2024,30,False
+Turkey,India,Computer vision,2024,27,False
+United Arab Emirates,India,Computer vision,2024,87,False
+United Arab Emirates,India,Computer vision,2022,60,True
+United Arab Emirates,India,Computer vision,2023,89,True
+United Arab Emirates,India,Computer vision,2025,43,False
+United Arab Emirates,India,Computer vision,2021,38,True
+United Kingdom,India,Computer vision,2020,93,True
+United Kingdom,India,Computer vision,2021,166,True
+United Kingdom,India,Computer vision,2019,51,True
+United Kingdom,India,Computer vision,2024,169,False
+United Kingdom,India,Computer vision,2023,183,True
+United Kingdom,India,Computer vision,2025,77,False
+United Kingdom,India,Computer vision,2022,161,True
+United Kingdom,India,Computer vision,2018,53,True
+United States,India,Computer vision,2024,624,False
+United States,India,Computer vision,2015,93,True
+United States,India,Computer vision,2016,98,True
+United States,India,Computer vision,2021,374,True
+United States,India,Computer vision,2019,251,True
+United States,India,Computer vision,2017,131,True
+United States,India,Computer vision,2023,500,True
+United States,India,Computer vision,2018,194,True
+United States,India,Computer vision,2022,414,True
+United States,India,Computer vision,2020,316,True
+United States,India,Computer vision,2025,308,False
+Vietnam,India,Computer vision,2021,27,True
+India,Indonesia,Computer vision,2023,25,True
+Japan,Indonesia,Computer vision,2025,25,False
+Japan,Indonesia,Computer vision,2023,42,True
+Japan,Indonesia,Computer vision,2024,47,False
+Japan,Indonesia,Computer vision,2022,30,True
+Japan,Indonesia,Computer vision,2020,27,True
+Japan,Indonesia,Computer vision,2019,33,True
+Malaysia,Indonesia,Computer vision,2023,85,True
+Malaysia,Indonesia,Computer vision,2025,48,False
+Malaysia,Indonesia,Computer vision,2024,115,False
+Malaysia,Indonesia,Computer vision,2018,25,True
+Malaysia,Indonesia,Computer vision,2019,31,True
+Malaysia,Indonesia,Computer vision,2022,64,True
+Malaysia,Indonesia,Computer vision,2020,37,True
+Malaysia,Indonesia,Computer vision,2021,56,True
+Taiwan,Indonesia,Computer vision,2023,51,True
+Taiwan,Indonesia,Computer vision,2022,43,True
+Taiwan,Indonesia,Computer vision,2020,27,True
+Taiwan,Indonesia,Computer vision,2024,31,False
+Taiwan,Indonesia,Computer vision,2021,41,True
+Australia,Iran,Computer vision,2022,29,True
+Australia,Iran,Computer vision,2021,28,True
+Australia,Iran,Computer vision,2023,29,True
+Australia,Iran,Computer vision,2024,26,False
+Canada,Iran,Computer vision,2023,49,True
+Canada,Iran,Computer vision,2022,59,True
+Canada,Iran,Computer vision,2019,37,True
+Canada,Iran,Computer vision,2020,36,True
+Canada,Iran,Computer vision,2017,35,True
+Canada,Iran,Computer vision,2021,53,True
+Canada,Iran,Computer vision,2025,28,False
+Canada,Iran,Computer vision,2024,50,False
+China,Iran,Computer vision,2025,26,False
+China,Iran,Computer vision,2022,40,True
+China,Iran,Computer vision,2020,28,True
+China,Iran,Computer vision,2024,37,False
+China,Iran,Computer vision,2023,39,True
+China,Iran,Computer vision,2021,51,True
+Germany,Iran,Computer vision,2023,52,True
+Germany,Iran,Computer vision,2022,52,True
+India,Iran,Computer vision,2022,25,True
+Netherlands,Iran,Computer vision,2021,26,True
+Switzerland,Iran,Computer vision,2022,26,True
+Switzerland,Iran,Computer vision,2023,31,True
+Switzerland,Iran,Computer vision,2024,26,False
+Switzerland,Iran,Computer vision,2021,35,True
+United Kingdom,Iran,Computer vision,2022,31,True
+United Kingdom,Iran,Computer vision,2021,47,True
+United Kingdom,Iran,Computer vision,2024,39,False
+United Kingdom,Iran,Computer vision,2020,35,True
+United Kingdom,Iran,Computer vision,2023,51,True
+United States,Iran,Computer vision,2018,27,True
+United States,Iran,Computer vision,2025,57,False
+United States,Iran,Computer vision,2021,64,True
+United States,Iran,Computer vision,2016,32,True
+United States,Iran,Computer vision,2022,73,True
+United States,Iran,Computer vision,2017,43,True
+United States,Iran,Computer vision,2019,36,True
+United States,Iran,Computer vision,2020,55,True
+United States,Iran,Computer vision,2024,73,False
+United States,Iran,Computer vision,2023,77,True
+Australia,Iraq,Computer vision,2020,29,True
+Australia,Iraq,Computer vision,2021,31,True
+India,Iraq,Computer vision,2025,109,False
+India,Iraq,Computer vision,2022,43,True
+India,Iraq,Computer vision,2024,282,False
+India,Iraq,Computer vision,2023,102,True
+Malaysia,Iraq,Computer vision,2022,46,True
+Malaysia,Iraq,Computer vision,2021,62,True
+Malaysia,Iraq,Computer vision,2024,41,False
+Malaysia,Iraq,Computer vision,2023,64,True
+Malaysia,Iraq,Computer vision,2019,26,True
+Malaysia,Iraq,Computer vision,2020,39,True
+Saudi Arabia,Iraq,Computer vision,2023,29,True
+Saudi Arabia,Iraq,Computer vision,2024,26,False
+Saudi Arabia,Iraq,Computer vision,2022,29,True
+United Kingdom,Iraq,Computer vision,2021,25,True
+China,Ireland,Computer vision,2022,29,True
+China,Ireland,Computer vision,2023,51,True
+China,Ireland,Computer vision,2024,49,False
+China,Ireland,Computer vision,2025,28,False
+India,Ireland,Computer vision,2024,31,False
+India,Ireland,Computer vision,2023,30,True
+United Kingdom,Ireland,Computer vision,2023,40,True
+United Kingdom,Ireland,Computer vision,2024,36,False
+United Kingdom,Ireland,Computer vision,2016,30,True
+United States,Ireland,Computer vision,2022,26,True
+United States,Ireland,Computer vision,2024,35,False
+United States,Ireland,Computer vision,2023,37,True
+Canada,Israel,Computer vision,2020,27,True
+China,Israel,Computer vision,2021,25,True
+China,Israel,Computer vision,2020,31,True
+China,Israel,Computer vision,2018,28,True
+Germany,Israel,Computer vision,2023,25,True
+United Kingdom,Israel,Computer vision,2020,26,True
+United Kingdom,Israel,Computer vision,2023,39,True
+United Kingdom,Israel,Computer vision,2021,38,True
+United Kingdom,Israel,Computer vision,2022,39,True
+United States,Israel,Computer vision,2015,40,True
+United States,Israel,Computer vision,2023,75,True
+United States,Israel,Computer vision,2018,59,True
+United States,Israel,Computer vision,2020,101,True
+United States,Israel,Computer vision,2025,37,False
+United States,Israel,Computer vision,2021,122,True
+United States,Israel,Computer vision,2017,44,True
+United States,Israel,Computer vision,2024,83,False
+United States,Israel,Computer vision,2022,69,True
+United States,Israel,Computer vision,2016,50,True
+United States,Israel,Computer vision,2019,63,True
+Australia,Italy,Computer vision,2023,38,True
+Australia,Italy,Computer vision,2024,33,False
+Austria,Italy,Computer vision,2020,26,True
+Austria,Italy,Computer vision,2024,27,False
+Austria,Italy,Computer vision,2022,27,True
+Austria,Italy,Computer vision,2023,39,True
+Belgium,Italy,Computer vision,2024,30,False
+Belgium,Italy,Computer vision,2023,39,True
+Belgium,Italy,Computer vision,2022,37,True
+Brazil,Italy,Computer vision,2024,32,False
+Brazil,Italy,Computer vision,2023,31,True
+Canada,Italy,Computer vision,2024,42,False
+Canada,Italy,Computer vision,2023,45,True
+Canada,Italy,Computer vision,2021,39,True
+Canada,Italy,Computer vision,2022,42,True
+Canada,Italy,Computer vision,2018,28,True
+China,Italy,Computer vision,2022,138,True
+China,Italy,Computer vision,2018,49,True
+China,Italy,Computer vision,2025,98,False
+China,Italy,Computer vision,2023,161,True
+China,Italy,Computer vision,2021,127,True
+China,Italy,Computer vision,2016,49,True
+China,Italy,Computer vision,2024,178,False
+China,Italy,Computer vision,2020,106,True
+China,Italy,Computer vision,2015,37,True
+China,Italy,Computer vision,2019,53,True
+China,Italy,Computer vision,2017,45,True
+France,Italy,Computer vision,2022,105,True
+France,Italy,Computer vision,2019,56,True
+France,Italy,Computer vision,2015,51,True
+France,Italy,Computer vision,2017,54,True
+France,Italy,Computer vision,2018,70,True
+France,Italy,Computer vision,2020,72,True
+France,Italy,Computer vision,2025,57,False
+France,Italy,Computer vision,2024,119,False
+France,Italy,Computer vision,2021,119,True
+France,Italy,Computer vision,2016,46,True
+France,Italy,Computer vision,2023,109,True
+Germany,Italy,Computer vision,2025,65,False
+Germany,Italy,Computer vision,2015,32,True
+Germany,Italy,Computer vision,2023,130,True
+Germany,Italy,Computer vision,2024,126,False
+Germany,Italy,Computer vision,2022,97,True
+Germany,Italy,Computer vision,2020,80,True
+Germany,Italy,Computer vision,2018,49,True
+Germany,Italy,Computer vision,2016,33,True
+Germany,Italy,Computer vision,2021,105,True
+Germany,Italy,Computer vision,2017,44,True
+Germany,Italy,Computer vision,2019,58,True
+Greece,Italy,Computer vision,2023,28,True
+Greece,Italy,Computer vision,2024,26,False
+India,Italy,Computer vision,2021,58,True
+India,Italy,Computer vision,2023,56,True
+India,Italy,Computer vision,2022,63,True
+India,Italy,Computer vision,2020,35,True
+India,Italy,Computer vision,2024,68,False
+Japan,Italy,Computer vision,2023,34,True
+Japan,Italy,Computer vision,2022,29,True
+Japan,Italy,Computer vision,2024,29,False
+Netherlands,Italy,Computer vision,2023,86,True
+Netherlands,Italy,Computer vision,2021,44,True
+Netherlands,Italy,Computer vision,2020,39,True
+Netherlands,Italy,Computer vision,2019,27,True
+Netherlands,Italy,Computer vision,2022,46,True
+Netherlands,Italy,Computer vision,2018,31,True
+Netherlands,Italy,Computer vision,2024,63,False
+Netherlands,Italy,Computer vision,2016,30,True
+Netherlands,Italy,Computer vision,2025,35,False
+Norway,Italy,Computer vision,2024,31,False
+Norway,Italy,Computer vision,2023,28,True
+Pakistan,Italy,Computer vision,2024,39,False
+Portugal,Italy,Computer vision,2022,26,True
+Portugal,Italy,Computer vision,2023,28,True
+Portugal,Italy,Computer vision,2024,25,False
+Romania,Italy,Computer vision,2020,29,True
+Romania,Italy,Computer vision,2019,26,True
+Saudi Arabia,Italy,Computer vision,2024,30,False
+South Korea,Italy,Computer vision,2020,25,True
+South Korea,Italy,Computer vision,2021,26,True
+Spain,Italy,Computer vision,2019,57,True
+Spain,Italy,Computer vision,2017,47,True
+Spain,Italy,Computer vision,2016,29,True
+Spain,Italy,Computer vision,2018,47,True
+Spain,Italy,Computer vision,2024,85,False
+Spain,Italy,Computer vision,2022,74,True
+Spain,Italy,Computer vision,2023,86,True
+Spain,Italy,Computer vision,2020,37,True
+Spain,Italy,Computer vision,2025,48,False
+Spain,Italy,Computer vision,2015,36,True
+Spain,Italy,Computer vision,2021,55,True
+Sweden,Italy,Computer vision,2023,40,True
+Sweden,Italy,Computer vision,2024,30,False
+Switzerland,Italy,Computer vision,2021,78,True
+Switzerland,Italy,Computer vision,2022,69,True
+Switzerland,Italy,Computer vision,2015,28,True
+Switzerland,Italy,Computer vision,2023,75,True
+Switzerland,Italy,Computer vision,2018,34,True
+Switzerland,Italy,Computer vision,2019,33,True
+Switzerland,Italy,Computer vision,2017,35,True
+Switzerland,Italy,Computer vision,2025,37,False
+Switzerland,Italy,Computer vision,2024,71,False
+Switzerland,Italy,Computer vision,2020,44,True
+Switzerland,Italy,Computer vision,2016,30,True
+United Kingdom,Italy,Computer vision,2022,110,True
+United Kingdom,Italy,Computer vision,2021,124,True
+United Kingdom,Italy,Computer vision,2016,53,True
+United Kingdom,Italy,Computer vision,2018,80,True
+United Kingdom,Italy,Computer vision,2020,97,True
+United Kingdom,Italy,Computer vision,2025,79,False
+United Kingdom,Italy,Computer vision,2019,101,True
+United Kingdom,Italy,Computer vision,2024,124,False
+United Kingdom,Italy,Computer vision,2015,47,True
+United Kingdom,Italy,Computer vision,2023,138,True
+United Kingdom,Italy,Computer vision,2017,68,True
+United States,Italy,Computer vision,2016,81,True
+United States,Italy,Computer vision,2017,88,True
+United States,Italy,Computer vision,2020,134,True
+United States,Italy,Computer vision,2024,187,False
+United States,Italy,Computer vision,2022,171,True
+United States,Italy,Computer vision,2023,192,True
+United States,Italy,Computer vision,2018,90,True
+United States,Italy,Computer vision,2025,112,False
+United States,Italy,Computer vision,2015,92,True
+United States,Italy,Computer vision,2021,148,True
+United States,Italy,Computer vision,2019,95,True
+Australia,Japan,Computer vision,2021,37,True
+Australia,Japan,Computer vision,2020,36,True
+Australia,Japan,Computer vision,2022,37,True
+Australia,Japan,Computer vision,2023,55,True
+Australia,Japan,Computer vision,2024,42,False
+Australia,Japan,Computer vision,2019,36,True
+Bangladesh,Japan,Computer vision,2024,36,False
+Bangladesh,Japan,Computer vision,2023,36,True
+Bangladesh,Japan,Computer vision,2021,27,True
+Canada,Japan,Computer vision,2021,32,True
+Canada,Japan,Computer vision,2023,36,True
+Canada,Japan,Computer vision,2022,34,True
+Canada,Japan,Computer vision,2020,36,True
+Canada,Japan,Computer vision,2024,29,False
+China,Japan,Computer vision,2016,126,True
+China,Japan,Computer vision,2019,267,True
+China,Japan,Computer vision,2015,118,True
+China,Japan,Computer vision,2021,391,True
+China,Japan,Computer vision,2023,388,True
+China,Japan,Computer vision,2022,366,True
+China,Japan,Computer vision,2025,203,False
+China,Japan,Computer vision,2018,174,True
+China,Japan,Computer vision,2024,459,False
+China,Japan,Computer vision,2020,316,True
+China,Japan,Computer vision,2017,170,True
+France,Japan,Computer vision,2018,37,True
+France,Japan,Computer vision,2021,36,True
+France,Japan,Computer vision,2017,31,True
+France,Japan,Computer vision,2022,30,True
+France,Japan,Computer vision,2020,45,True
+France,Japan,Computer vision,2024,32,False
+France,Japan,Computer vision,2023,48,True
+France,Japan,Computer vision,2019,42,True
+Germany,Japan,Computer vision,2024,50,False
+Germany,Japan,Computer vision,2020,51,True
+Germany,Japan,Computer vision,2018,45,True
+Germany,Japan,Computer vision,2019,37,True
+Germany,Japan,Computer vision,2021,52,True
+Germany,Japan,Computer vision,2022,37,True
+Germany,Japan,Computer vision,2023,49,True
+India,Japan,Computer vision,2023,49,True
+India,Japan,Computer vision,2021,43,True
+India,Japan,Computer vision,2024,47,False
+India,Japan,Computer vision,2019,37,True
+India,Japan,Computer vision,2020,62,True
+India,Japan,Computer vision,2022,58,True
+Indonesia,Japan,Computer vision,2019,33,True
+Indonesia,Japan,Computer vision,2022,30,True
+Indonesia,Japan,Computer vision,2024,47,False
+Indonesia,Japan,Computer vision,2020,27,True
+Indonesia,Japan,Computer vision,2023,42,True
+Indonesia,Japan,Computer vision,2025,25,False
+Italy,Japan,Computer vision,2022,29,True
+Italy,Japan,Computer vision,2023,34,True
+Italy,Japan,Computer vision,2024,29,False
+Malaysia,Japan,Computer vision,2022,28,True
+Singapore,Japan,Computer vision,2024,29,False
+Singapore,Japan,Computer vision,2019,25,True
+Singapore,Japan,Computer vision,2023,32,True
+Singapore,Japan,Computer vision,2021,34,True
+South Korea,Japan,Computer vision,2024,34,False
+South Korea,Japan,Computer vision,2022,35,True
+South Korea,Japan,Computer vision,2023,37,True
+Spain,Japan,Computer vision,2022,27,True
+Taiwan,Japan,Computer vision,2024,33,False
+Taiwan,Japan,Computer vision,2023,35,True
+Taiwan,Japan,Computer vision,2022,40,True
+Taiwan,Japan,Computer vision,2021,29,True
+Taiwan,Japan,Computer vision,2019,30,True
+Taiwan,Japan,Computer vision,2020,31,True
+Thailand,Japan,Computer vision,2018,25,True
+Thailand,Japan,Computer vision,2019,31,True
+Thailand,Japan,Computer vision,2020,34,True
+Thailand,Japan,Computer vision,2024,28,False
+Thailand,Japan,Computer vision,2021,32,True
+Thailand,Japan,Computer vision,2023,32,True
+Thailand,Japan,Computer vision,2022,32,True
+Thailand,Japan,Computer vision,2017,37,True
+United Kingdom,Japan,Computer vision,2022,62,True
+United Kingdom,Japan,Computer vision,2015,25,True
+United Kingdom,Japan,Computer vision,2016,30,True
+United Kingdom,Japan,Computer vision,2019,57,True
+United Kingdom,Japan,Computer vision,2024,42,False
+United Kingdom,Japan,Computer vision,2020,49,True
+United Kingdom,Japan,Computer vision,2017,31,True
+United Kingdom,Japan,Computer vision,2023,66,True
+United Kingdom,Japan,Computer vision,2021,57,True
+United Kingdom,Japan,Computer vision,2018,29,True
+United States,Japan,Computer vision,2021,170,True
+United States,Japan,Computer vision,2018,102,True
+United States,Japan,Computer vision,2017,98,True
+United States,Japan,Computer vision,2020,142,True
+United States,Japan,Computer vision,2023,133,True
+United States,Japan,Computer vision,2022,142,True
+United States,Japan,Computer vision,2025,75,False
+United States,Japan,Computer vision,2016,90,True
+United States,Japan,Computer vision,2015,77,True
+United States,Japan,Computer vision,2024,197,False
+United States,Japan,Computer vision,2019,124,True
+Vietnam,Japan,Computer vision,2022,29,True
+Vietnam,Japan,Computer vision,2021,26,True
+Vietnam,Japan,Computer vision,2023,26,True
+Vietnam,Japan,Computer vision,2024,38,False
+Egypt,Jordan,Computer vision,2024,26,False
+India,Jordan,Computer vision,2024,59,False
+India,Jordan,Computer vision,2025,63,False
+Malaysia,Jordan,Computer vision,2023,35,True
+Pakistan,Jordan,Computer vision,2023,28,True
+Saudi Arabia,Jordan,Computer vision,2024,58,False
+Saudi Arabia,Jordan,Computer vision,2025,47,False
+Saudi Arabia,Jordan,Computer vision,2023,39,True
+Saudi Arabia,Jordan,Computer vision,2022,25,True
+United Arab Emirates,Jordan,Computer vision,2024,43,False
+United Arab Emirates,Jordan,Computer vision,2023,37,True
+India,Lebanon,Computer vision,2024,31,False
+India,Lebanon,Computer vision,2023,42,True
+Norway,Lebanon,Computer vision,2023,34,True
+Pakistan,Lebanon,Computer vision,2023,32,True
+Saudi Arabia,Lebanon,Computer vision,2024,36,False
+Saudi Arabia,Lebanon,Computer vision,2023,35,True
+United Arab Emirates,Lebanon,Computer vision,2023,34,True
+Australia,Malaysia,Computer vision,2025,27,False
+Australia,Malaysia,Computer vision,2019,35,True
+Australia,Malaysia,Computer vision,2022,36,True
+Australia,Malaysia,Computer vision,2024,43,False
+Australia,Malaysia,Computer vision,2021,45,True
+Australia,Malaysia,Computer vision,2020,35,True
+Australia,Malaysia,Computer vision,2023,43,True
+Bangladesh,Malaysia,Computer vision,2024,44,False
+Bangladesh,Malaysia,Computer vision,2025,27,False
+Bangladesh,Malaysia,Computer vision,2023,30,True
+China,Malaysia,Computer vision,2025,150,False
+China,Malaysia,Computer vision,2018,26,True
+China,Malaysia,Computer vision,2020,63,True
+China,Malaysia,Computer vision,2022,95,True
+China,Malaysia,Computer vision,2023,147,True
+China,Malaysia,Computer vision,2021,74,True
+China,Malaysia,Computer vision,2019,33,True
+China,Malaysia,Computer vision,2024,217,False
+Egypt,Malaysia,Computer vision,2023,33,True
+India,Malaysia,Computer vision,2018,36,True
+India,Malaysia,Computer vision,2022,104,True
+India,Malaysia,Computer vision,2020,42,True
+India,Malaysia,Computer vision,2021,83,True
+India,Malaysia,Computer vision,2023,128,True
+India,Malaysia,Computer vision,2025,85,False
+India,Malaysia,Computer vision,2024,135,False
+India,Malaysia,Computer vision,2019,29,True
+Indonesia,Malaysia,Computer vision,2018,25,True
+Indonesia,Malaysia,Computer vision,2022,64,True
+Indonesia,Malaysia,Computer vision,2024,115,False
+Indonesia,Malaysia,Computer vision,2019,31,True
+Indonesia,Malaysia,Computer vision,2020,37,True
+Indonesia,Malaysia,Computer vision,2023,85,True
+Indonesia,Malaysia,Computer vision,2025,48,False
+Indonesia,Malaysia,Computer vision,2021,56,True
+Iraq,Malaysia,Computer vision,2023,64,True
+Iraq,Malaysia,Computer vision,2019,26,True
+Iraq,Malaysia,Computer vision,2022,46,True
+Iraq,Malaysia,Computer vision,2024,41,False
+Iraq,Malaysia,Computer vision,2021,62,True
+Iraq,Malaysia,Computer vision,2020,39,True
+Japan,Malaysia,Computer vision,2022,28,True
+Jordan,Malaysia,Computer vision,2023,35,True
+Pakistan,Malaysia,Computer vision,2024,56,False
+Pakistan,Malaysia,Computer vision,2023,65,True
+Pakistan,Malaysia,Computer vision,2022,63,True
+Pakistan,Malaysia,Computer vision,2025,31,False
+Pakistan,Malaysia,Computer vision,2020,37,True
+Pakistan,Malaysia,Computer vision,2021,54,True
+Saudi Arabia,Malaysia,Computer vision,2023,98,True
+Saudi Arabia,Malaysia,Computer vision,2021,70,True
+Saudi Arabia,Malaysia,Computer vision,2025,47,False
+Saudi Arabia,Malaysia,Computer vision,2020,34,True
+Saudi Arabia,Malaysia,Computer vision,2019,31,True
+Saudi Arabia,Malaysia,Computer vision,2024,83,False
+Saudi Arabia,Malaysia,Computer vision,2022,89,True
+Taiwan,Malaysia,Computer vision,2023,25,True
+United Arab Emirates,Malaysia,Computer vision,2023,41,True
+United Arab Emirates,Malaysia,Computer vision,2022,26,True
+United Arab Emirates,Malaysia,Computer vision,2024,25,False
+United Kingdom,Malaysia,Computer vision,2024,39,False
+United Kingdom,Malaysia,Computer vision,2016,25,True
+United Kingdom,Malaysia,Computer vision,2023,48,True
+United Kingdom,Malaysia,Computer vision,2025,25,False
+United Kingdom,Malaysia,Computer vision,2019,35,True
+United Kingdom,Malaysia,Computer vision,2022,32,True
+United Kingdom,Malaysia,Computer vision,2017,28,True
+United Kingdom,Malaysia,Computer vision,2021,38,True
+United Kingdom,Malaysia,Computer vision,2018,32,True
+United States,Malaysia,Computer vision,2022,48,True
+United States,Malaysia,Computer vision,2021,38,True
+United States,Malaysia,Computer vision,2023,35,True
+United States,Malaysia,Computer vision,2024,42,False
+United States,Malaysia,Computer vision,2025,25,False
+United States,Malaysia,Computer vision,2020,28,True
+Spain,Mexico,Computer vision,2020,26,True
+Spain,Mexico,Computer vision,2023,34,True
+Spain,Mexico,Computer vision,2019,30,True
+Spain,Mexico,Computer vision,2021,25,True
+Spain,Mexico,Computer vision,2022,33,True
+United States,Mexico,Computer vision,2024,28,False
+United States,Mexico,Computer vision,2023,32,True
+France,Morocco,Computer vision,2019,27,True
+France,Morocco,Computer vision,2024,50,False
+France,Morocco,Computer vision,2020,26,True
+France,Morocco,Computer vision,2017,29,True
+France,Morocco,Computer vision,2018,40,True
+France,Morocco,Computer vision,2023,28,True
+France,Morocco,Computer vision,2022,36,True
+Australia,Netherlands,Computer vision,2023,39,True
+Australia,Netherlands,Computer vision,2024,29,False
+Australia,Netherlands,Computer vision,2022,25,True
+Austria,Netherlands,Computer vision,2023,26,True
+Belgium,Netherlands,Computer vision,2024,31,False
+Belgium,Netherlands,Computer vision,2021,36,True
+Belgium,Netherlands,Computer vision,2020,25,True
+Belgium,Netherlands,Computer vision,2022,33,True
+Belgium,Netherlands,Computer vision,2023,52,True
+Canada,Netherlands,Computer vision,2023,39,True
+Canada,Netherlands,Computer vision,2022,31,True
+Canada,Netherlands,Computer vision,2019,25,True
+Canada,Netherlands,Computer vision,2024,25,False
+Canada,Netherlands,Computer vision,2018,26,True
+Canada,Netherlands,Computer vision,2021,31,True
+China,Netherlands,Computer vision,2016,42,True
+China,Netherlands,Computer vision,2024,100,False
+China,Netherlands,Computer vision,2020,109,True
+China,Netherlands,Computer vision,2022,87,True
+China,Netherlands,Computer vision,2025,55,False
+China,Netherlands,Computer vision,2017,36,True
+China,Netherlands,Computer vision,2023,128,True
+China,Netherlands,Computer vision,2019,81,True
+China,Netherlands,Computer vision,2018,45,True
+China,Netherlands,Computer vision,2021,113,True
+Denmark,Netherlands,Computer vision,2024,31,False
+Denmark,Netherlands,Computer vision,2021,49,True
+Denmark,Netherlands,Computer vision,2022,27,True
+Denmark,Netherlands,Computer vision,2023,46,True
+France,Netherlands,Computer vision,2022,39,True
+France,Netherlands,Computer vision,2020,31,True
+France,Netherlands,Computer vision,2024,38,False
+France,Netherlands,Computer vision,2016,26,True
+France,Netherlands,Computer vision,2019,31,True
+France,Netherlands,Computer vision,2023,55,True
+France,Netherlands,Computer vision,2021,37,True
+Germany,Netherlands,Computer vision,2021,115,True
+Germany,Netherlands,Computer vision,2018,48,True
+Germany,Netherlands,Computer vision,2022,111,True
+Germany,Netherlands,Computer vision,2019,77,True
+Germany,Netherlands,Computer vision,2016,42,True
+Germany,Netherlands,Computer vision,2025,62,False
+Germany,Netherlands,Computer vision,2023,146,True
+Germany,Netherlands,Computer vision,2015,32,True
+Germany,Netherlands,Computer vision,2024,124,False
+Germany,Netherlands,Computer vision,2020,91,True
+Germany,Netherlands,Computer vision,2017,48,True
+Iran,Netherlands,Computer vision,2021,26,True
+Italy,Netherlands,Computer vision,2024,63,False
+Italy,Netherlands,Computer vision,2018,31,True
+Italy,Netherlands,Computer vision,2023,86,True
+Italy,Netherlands,Computer vision,2021,44,True
+Italy,Netherlands,Computer vision,2022,46,True
+Italy,Netherlands,Computer vision,2016,30,True
+Italy,Netherlands,Computer vision,2019,27,True
+Italy,Netherlands,Computer vision,2020,39,True
+Italy,Netherlands,Computer vision,2025,35,False
+Norway,Netherlands,Computer vision,2024,28,False
+Norway,Netherlands,Computer vision,2023,34,True
+Spain,Netherlands,Computer vision,2022,29,True
+Spain,Netherlands,Computer vision,2020,25,True
+Spain,Netherlands,Computer vision,2024,39,False
+Spain,Netherlands,Computer vision,2019,29,True
+Spain,Netherlands,Computer vision,2021,26,True
+Spain,Netherlands,Computer vision,2023,49,True
+Sweden,Netherlands,Computer vision,2022,27,True
+Sweden,Netherlands,Computer vision,2023,26,True
+Switzerland,Netherlands,Computer vision,2024,47,False
+Switzerland,Netherlands,Computer vision,2023,69,True
+Switzerland,Netherlands,Computer vision,2021,71,True
+Switzerland,Netherlands,Computer vision,2022,52,True
+Switzerland,Netherlands,Computer vision,2020,31,True
+Switzerland,Netherlands,Computer vision,2025,40,False
+United Kingdom,Netherlands,Computer vision,2017,50,True
+United Kingdom,Netherlands,Computer vision,2015,34,True
+United Kingdom,Netherlands,Computer vision,2021,113,True
+United Kingdom,Netherlands,Computer vision,2018,46,True
+United Kingdom,Netherlands,Computer vision,2019,65,True
+United Kingdom,Netherlands,Computer vision,2023,131,True
+United Kingdom,Netherlands,Computer vision,2020,68,True
+United Kingdom,Netherlands,Computer vision,2022,93,True
+United Kingdom,Netherlands,Computer vision,2016,58,True
+United Kingdom,Netherlands,Computer vision,2024,79,False
+United Kingdom,Netherlands,Computer vision,2025,48,False
+United States,Netherlands,Computer vision,2015,36,True
+United States,Netherlands,Computer vision,2018,69,True
+United States,Netherlands,Computer vision,2021,137,True
+United States,Netherlands,Computer vision,2022,128,True
+United States,Netherlands,Computer vision,2019,80,True
+United States,Netherlands,Computer vision,2017,62,True
+United States,Netherlands,Computer vision,2024,127,False
+United States,Netherlands,Computer vision,2025,71,False
+United States,Netherlands,Computer vision,2023,168,True
+United States,Netherlands,Computer vision,2020,107,True
+United States,Netherlands,Computer vision,2016,58,True
+Australia,New Zealand,Computer vision,2023,28,True
+China,New Zealand,Computer vision,2025,33,False
+China,New Zealand,Computer vision,2023,58,True
+China,New Zealand,Computer vision,2024,79,False
+China,New Zealand,Computer vision,2019,37,True
+China,New Zealand,Computer vision,2018,25,True
+China,New Zealand,Computer vision,2020,35,True
+China,New Zealand,Computer vision,2021,40,True
+China,New Zealand,Computer vision,2022,56,True
+United Kingdom,New Zealand,Computer vision,2020,28,True
+United States,New Zealand,Computer vision,2023,28,True
+India,Nigeria,Computer vision,2024,31,False
+China,Norway,Computer vision,2020,33,True
+China,Norway,Computer vision,2023,56,True
+China,Norway,Computer vision,2021,48,True
+China,Norway,Computer vision,2022,68,True
+China,Norway,Computer vision,2024,35,False
+France,Norway,Computer vision,2021,25,True
+France,Norway,Computer vision,2022,31,True
+France,Norway,Computer vision,2019,33,True
+France,Norway,Computer vision,2018,30,True
+France,Norway,Computer vision,2023,31,True
+Germany,Norway,Computer vision,2017,31,True
+Germany,Norway,Computer vision,2024,37,False
+Germany,Norway,Computer vision,2021,26,True
+Germany,Norway,Computer vision,2023,43,True
+Germany,Norway,Computer vision,2022,45,True
+India,Norway,Computer vision,2021,77,True
+India,Norway,Computer vision,2024,71,False
+India,Norway,Computer vision,2022,57,True
+India,Norway,Computer vision,2023,67,True
+Italy,Norway,Computer vision,2023,28,True
+Italy,Norway,Computer vision,2024,31,False
+Lebanon,Norway,Computer vision,2023,34,True
+Netherlands,Norway,Computer vision,2023,34,True
+Netherlands,Norway,Computer vision,2024,28,False
+Pakistan,Norway,Computer vision,2024,40,False
+Pakistan,Norway,Computer vision,2022,36,True
+Pakistan,Norway,Computer vision,2023,43,True
+Saudi Arabia,Norway,Computer vision,2022,25,True
+Saudi Arabia,Norway,Computer vision,2023,29,True
+Spain,Norway,Computer vision,2023,33,True
+Spain,Norway,Computer vision,2022,26,True
+Sweden,Norway,Computer vision,2024,25,False
+United Arab Emirates,Norway,Computer vision,2023,32,True
+United Kingdom,Norway,Computer vision,2021,37,True
+United Kingdom,Norway,Computer vision,2024,31,False
+United Kingdom,Norway,Computer vision,2022,43,True
+United Kingdom,Norway,Computer vision,2023,49,True
+United Kingdom,Norway,Computer vision,2020,28,True
+United States,Norway,Computer vision,2024,47,False
+United States,Norway,Computer vision,2023,59,True
+United States,Norway,Computer vision,2025,35,False
+United States,Norway,Computer vision,2021,49,True
+United States,Norway,Computer vision,2022,47,True
+India,Oman,Computer vision,2024,63,False
+India,Oman,Computer vision,2025,25,False
+India,Oman,Computer vision,2023,37,True
+India,Oman,Computer vision,2022,28,True
+Australia,Pakistan,Computer vision,2022,35,True
+Australia,Pakistan,Computer vision,2021,42,True
+Australia,Pakistan,Computer vision,2019,28,True
+Australia,Pakistan,Computer vision,2024,38,False
+Australia,Pakistan,Computer vision,2020,26,True
+Australia,Pakistan,Computer vision,2023,41,True
+Canada,Pakistan,Computer vision,2022,26,True
+China,Pakistan,Computer vision,2022,154,True
+China,Pakistan,Computer vision,2021,131,True
+China,Pakistan,Computer vision,2023,158,True
+China,Pakistan,Computer vision,2025,98,False
+China,Pakistan,Computer vision,2017,29,True
+China,Pakistan,Computer vision,2024,172,False
+China,Pakistan,Computer vision,2018,35,True
+China,Pakistan,Computer vision,2019,76,True
+China,Pakistan,Computer vision,2020,90,True
+Egypt,Pakistan,Computer vision,2023,34,True
+Egypt,Pakistan,Computer vision,2022,32,True
+Germany,Pakistan,Computer vision,2023,32,True
+Germany,Pakistan,Computer vision,2021,29,True
+India,Pakistan,Computer vision,2024,42,False
+India,Pakistan,Computer vision,2025,27,False
+India,Pakistan,Computer vision,2022,41,True
+India,Pakistan,Computer vision,2023,36,True
+India,Pakistan,Computer vision,2021,28,True
+Italy,Pakistan,Computer vision,2024,39,False
+Jordan,Pakistan,Computer vision,2023,28,True
+Lebanon,Pakistan,Computer vision,2023,32,True
+Malaysia,Pakistan,Computer vision,2021,54,True
+Malaysia,Pakistan,Computer vision,2025,31,False
+Malaysia,Pakistan,Computer vision,2022,63,True
+Malaysia,Pakistan,Computer vision,2024,56,False
+Malaysia,Pakistan,Computer vision,2023,65,True
+Malaysia,Pakistan,Computer vision,2020,37,True
+Norway,Pakistan,Computer vision,2023,43,True
+Norway,Pakistan,Computer vision,2022,36,True
+Norway,Pakistan,Computer vision,2024,40,False
+Saudi Arabia,Pakistan,Computer vision,2021,168,True
+Saudi Arabia,Pakistan,Computer vision,2020,91,True
+Saudi Arabia,Pakistan,Computer vision,2023,310,True
+Saudi Arabia,Pakistan,Computer vision,2019,73,True
+Saudi Arabia,Pakistan,Computer vision,2025,213,False
+Saudi Arabia,Pakistan,Computer vision,2024,299,False
+Saudi Arabia,Pakistan,Computer vision,2022,294,True
+Saudi Arabia,Pakistan,Computer vision,2018,44,True
+South Korea,Pakistan,Computer vision,2022,135,True
+South Korea,Pakistan,Computer vision,2019,45,True
+South Korea,Pakistan,Computer vision,2020,80,True
+South Korea,Pakistan,Computer vision,2024,110,False
+South Korea,Pakistan,Computer vision,2021,105,True
+South Korea,Pakistan,Computer vision,2018,25,True
+South Korea,Pakistan,Computer vision,2025,77,False
+South Korea,Pakistan,Computer vision,2023,148,True
+Spain,Pakistan,Computer vision,2023,26,True
+United Arab Emirates,Pakistan,Computer vision,2024,69,False
+United Arab Emirates,Pakistan,Computer vision,2021,42,True
+United Arab Emirates,Pakistan,Computer vision,2023,94,True
+United Arab Emirates,Pakistan,Computer vision,2025,37,False
+United Arab Emirates,Pakistan,Computer vision,2022,67,True
+United Kingdom,Pakistan,Computer vision,2018,45,True
+United Kingdom,Pakistan,Computer vision,2020,61,True
+United Kingdom,Pakistan,Computer vision,2017,37,True
+United Kingdom,Pakistan,Computer vision,2021,65,True
+United Kingdom,Pakistan,Computer vision,2024,101,False
+United Kingdom,Pakistan,Computer vision,2025,42,False
+United Kingdom,Pakistan,Computer vision,2023,117,True
+United Kingdom,Pakistan,Computer vision,2022,93,True
+United Kingdom,Pakistan,Computer vision,2019,50,True
+United States,Pakistan,Computer vision,2025,56,False
+United States,Pakistan,Computer vision,2023,68,True
+United States,Pakistan,Computer vision,2022,52,True
+United States,Pakistan,Computer vision,2024,83,False
+United States,Pakistan,Computer vision,2020,34,True
+United States,Pakistan,Computer vision,2021,42,True
+United States,Pakistan,Computer vision,2019,41,True
+China,Philippines,Computer vision,2022,36,True
+China,Philippines,Computer vision,2023,45,True
+China,Philippines,Computer vision,2024,57,False
+China,Poland,Computer vision,2022,30,True
+China,Poland,Computer vision,2021,25,True
+China,Poland,Computer vision,2023,52,True
+China,Poland,Computer vision,2024,46,False
+Germany,Poland,Computer vision,2023,28,True
+Germany,Poland,Computer vision,2022,28,True
+Germany,Poland,Computer vision,2024,34,False
+India,Poland,Computer vision,2021,28,True
+India,Poland,Computer vision,2023,29,True
+United Kingdom,Poland,Computer vision,2023,39,True
+United Kingdom,Poland,Computer vision,2024,35,False
+United States,Poland,Computer vision,2019,35,True
+United States,Poland,Computer vision,2024,32,False
+United States,Poland,Computer vision,2023,45,True
+United States,Poland,Computer vision,2025,30,False
+United States,Poland,Computer vision,2021,27,True
+United States,Poland,Computer vision,2018,34,True
+United States,Poland,Computer vision,2020,27,True
+United States,Poland,Computer vision,2022,41,True
+Brazil,Portugal,Computer vision,2024,43,False
+Brazil,Portugal,Computer vision,2020,25,True
+Brazil,Portugal,Computer vision,2022,29,True
+Brazil,Portugal,Computer vision,2023,32,True
+Brazil,Portugal,Computer vision,2021,29,True
+China,Portugal,Computer vision,2023,25,True
+Germany,Portugal,Computer vision,2022,39,True
+Germany,Portugal,Computer vision,2023,31,True
+Germany,Portugal,Computer vision,2024,34,False
+Italy,Portugal,Computer vision,2022,26,True
+Italy,Portugal,Computer vision,2024,25,False
+Italy,Portugal,Computer vision,2023,28,True
+Spain,Portugal,Computer vision,2022,26,True
+Spain,Portugal,Computer vision,2023,27,True
+Spain,Portugal,Computer vision,2024,35,False
+United Kingdom,Portugal,Computer vision,2024,28,False
+United Kingdom,Portugal,Computer vision,2021,33,True
+United Kingdom,Portugal,Computer vision,2023,29,True
+United States,Portugal,Computer vision,2018,27,True
+United States,Portugal,Computer vision,2022,34,True
+United States,Portugal,Computer vision,2024,42,False
+United States,Portugal,Computer vision,2021,31,True
+United States,Portugal,Computer vision,2019,26,True
+United States,Portugal,Computer vision,2023,33,True
+United Kingdom,Qatar,Computer vision,2023,25,True
+United States,Qatar,Computer vision,2024,26,False
+United States,Qatar,Computer vision,2022,25,True
+United States,Qatar,Computer vision,2025,26,False
+Italy,Romania,Computer vision,2019,26,True
+Italy,Romania,Computer vision,2020,29,True
+United States,Romania,Computer vision,2021,26,True
+China,Russia,Computer vision,2022,37,True
+China,Russia,Computer vision,2023,39,True
+China,Russia,Computer vision,2020,35,True
+China,Russia,Computer vision,2019,27,True
+China,Russia,Computer vision,2021,48,True
+China,Russia,Computer vision,2025,40,False
+China,Russia,Computer vision,2024,46,False
+Germany,Russia,Computer vision,2020,25,True
+India,Russia,Computer vision,2024,28,False
+India,Russia,Computer vision,2021,33,True
+United States,Russia,Computer vision,2020,36,True
+United States,Russia,Computer vision,2021,45,True
+United States,Russia,Computer vision,2019,31,True
+United States,Russia,Computer vision,2018,37,True
+United States,Russia,Computer vision,2022,27,True
+Australia,Saudi Arabia,Computer vision,2024,45,False
+Australia,Saudi Arabia,Computer vision,2022,50,True
+Australia,Saudi Arabia,Computer vision,2023,41,True
+Australia,Saudi Arabia,Computer vision,2021,40,True
+Australia,Saudi Arabia,Computer vision,2020,29,True
+Bangladesh,Saudi Arabia,Computer vision,2024,46,False
+Bangladesh,Saudi Arabia,Computer vision,2023,40,True
+Bangladesh,Saudi Arabia,Computer vision,2021,25,True
+Bangladesh,Saudi Arabia,Computer vision,2025,41,False
+Bangladesh,Saudi Arabia,Computer vision,2022,43,True
+Canada,Saudi Arabia,Computer vision,2024,35,False
+Canada,Saudi Arabia,Computer vision,2021,28,True
+Canada,Saudi Arabia,Computer vision,2023,33,True
+Canada,Saudi Arabia,Computer vision,2022,42,True
+China,Saudi Arabia,Computer vision,2024,196,False
+China,Saudi Arabia,Computer vision,2020,73,True
+China,Saudi Arabia,Computer vision,2019,34,True
+China,Saudi Arabia,Computer vision,2025,139,False
+China,Saudi Arabia,Computer vision,2023,155,True
+China,Saudi Arabia,Computer vision,2021,93,True
+China,Saudi Arabia,Computer vision,2022,124,True
+Egypt,Saudi Arabia,Computer vision,2021,90,True
+Egypt,Saudi Arabia,Computer vision,2015,30,True
+Egypt,Saudi Arabia,Computer vision,2020,68,True
+Egypt,Saudi Arabia,Computer vision,2024,155,False
+Egypt,Saudi Arabia,Computer vision,2022,209,True
+Egypt,Saudi Arabia,Computer vision,2023,234,True
+Egypt,Saudi Arabia,Computer vision,2025,103,False
+Egypt,Saudi Arabia,Computer vision,2019,32,True
+Ethiopia,Saudi Arabia,Computer vision,2025,26,False
+Ethiopia,Saudi Arabia,Computer vision,2022,50,True
+India,Saudi Arabia,Computer vision,2024,350,False
+India,Saudi Arabia,Computer vision,2020,42,True
+India,Saudi Arabia,Computer vision,2022,328,True
+India,Saudi Arabia,Computer vision,2021,158,True
+India,Saudi Arabia,Computer vision,2019,26,True
+India,Saudi Arabia,Computer vision,2023,301,True
+India,Saudi Arabia,Computer vision,2025,226,False
+Iraq,Saudi Arabia,Computer vision,2023,29,True
+Iraq,Saudi Arabia,Computer vision,2022,29,True
+Iraq,Saudi Arabia,Computer vision,2024,26,False
+Italy,Saudi Arabia,Computer vision,2024,30,False
+Jordan,Saudi Arabia,Computer vision,2024,58,False
+Jordan,Saudi Arabia,Computer vision,2025,47,False
+Jordan,Saudi Arabia,Computer vision,2023,39,True
+Jordan,Saudi Arabia,Computer vision,2022,25,True
+Lebanon,Saudi Arabia,Computer vision,2024,36,False
+Lebanon,Saudi Arabia,Computer vision,2023,35,True
+Malaysia,Saudi Arabia,Computer vision,2025,47,False
+Malaysia,Saudi Arabia,Computer vision,2021,70,True
+Malaysia,Saudi Arabia,Computer vision,2022,89,True
+Malaysia,Saudi Arabia,Computer vision,2020,34,True
+Malaysia,Saudi Arabia,Computer vision,2024,83,False
+Malaysia,Saudi Arabia,Computer vision,2019,31,True
+Malaysia,Saudi Arabia,Computer vision,2023,98,True
+Norway,Saudi Arabia,Computer vision,2023,29,True
+Norway,Saudi Arabia,Computer vision,2022,25,True
+Pakistan,Saudi Arabia,Computer vision,2023,310,True
+Pakistan,Saudi Arabia,Computer vision,2022,294,True
+Pakistan,Saudi Arabia,Computer vision,2020,91,True
+Pakistan,Saudi Arabia,Computer vision,2024,299,False
+Pakistan,Saudi Arabia,Computer vision,2019,73,True
+Pakistan,Saudi Arabia,Computer vision,2025,213,False
+Pakistan,Saudi Arabia,Computer vision,2018,44,True
+Pakistan,Saudi Arabia,Computer vision,2021,168,True
+South Korea,Saudi Arabia,Computer vision,2021,39,True
+South Korea,Saudi Arabia,Computer vision,2023,110,True
+South Korea,Saudi Arabia,Computer vision,2022,105,True
+South Korea,Saudi Arabia,Computer vision,2024,105,False
+South Korea,Saudi Arabia,Computer vision,2025,89,False
+Tunisia,Saudi Arabia,Computer vision,2025,36,False
+Tunisia,Saudi Arabia,Computer vision,2024,56,False
+Tunisia,Saudi Arabia,Computer vision,2020,43,True
+Tunisia,Saudi Arabia,Computer vision,2022,60,True
+Tunisia,Saudi Arabia,Computer vision,2023,56,True
+Tunisia,Saudi Arabia,Computer vision,2021,51,True
+United Arab Emirates,Saudi Arabia,Computer vision,2022,53,True
+United Arab Emirates,Saudi Arabia,Computer vision,2024,83,False
+United Arab Emirates,Saudi Arabia,Computer vision,2023,77,True
+United Arab Emirates,Saudi Arabia,Computer vision,2025,39,False
+United Kingdom,Saudi Arabia,Computer vision,2019,30,True
+United Kingdom,Saudi Arabia,Computer vision,2022,93,True
+United Kingdom,Saudi Arabia,Computer vision,2021,78,True
+United Kingdom,Saudi Arabia,Computer vision,2025,59,False
+United Kingdom,Saudi Arabia,Computer vision,2023,131,True
+United Kingdom,Saudi Arabia,Computer vision,2024,122,False
+United Kingdom,Saudi Arabia,Computer vision,2020,50,True
+United States,Saudi Arabia,Computer vision,2020,71,True
+United States,Saudi Arabia,Computer vision,2025,90,False
+United States,Saudi Arabia,Computer vision,2024,144,False
+United States,Saudi Arabia,Computer vision,2023,143,True
+United States,Saudi Arabia,Computer vision,2016,28,True
+United States,Saudi Arabia,Computer vision,2015,31,True
+United States,Saudi Arabia,Computer vision,2021,101,True
+United States,Saudi Arabia,Computer vision,2018,25,True
+United States,Saudi Arabia,Computer vision,2019,49,True
+United States,Saudi Arabia,Computer vision,2022,144,True
+Yemen,Saudi Arabia,Computer vision,2023,43,True
+Australia,Singapore,Computer vision,2015,32,True
+Australia,Singapore,Computer vision,2024,71,False
+Australia,Singapore,Computer vision,2025,29,False
+Australia,Singapore,Computer vision,2016,28,True
+Australia,Singapore,Computer vision,2018,43,True
+Australia,Singapore,Computer vision,2022,81,True
+Australia,Singapore,Computer vision,2017,32,True
+Australia,Singapore,Computer vision,2019,50,True
+Australia,Singapore,Computer vision,2021,94,True
+Australia,Singapore,Computer vision,2023,92,True
+Australia,Singapore,Computer vision,2020,46,True
+Canada,Singapore,Computer vision,2021,33,True
+Canada,Singapore,Computer vision,2022,31,True
+Canada,Singapore,Computer vision,2023,27,True
+China,Singapore,Computer vision,2016,237,True
+China,Singapore,Computer vision,2024,847,False
+China,Singapore,Computer vision,2015,241,True
+China,Singapore,Computer vision,2023,965,True
+China,Singapore,Computer vision,2021,580,True
+China,Singapore,Computer vision,2025,398,False
+China,Singapore,Computer vision,2019,356,True
+China,Singapore,Computer vision,2022,610,True
+China,Singapore,Computer vision,2018,272,True
+China,Singapore,Computer vision,2017,255,True
+China,Singapore,Computer vision,2020,442,True
+France,Singapore,Computer vision,2023,27,True
+Germany,Singapore,Computer vision,2022,37,True
+Germany,Singapore,Computer vision,2020,37,True
+Germany,Singapore,Computer vision,2023,34,True
+Germany,Singapore,Computer vision,2024,32,False
+Germany,Singapore,Computer vision,2021,26,True
+India,Singapore,Computer vision,2020,32,True
+India,Singapore,Computer vision,2022,40,True
+India,Singapore,Computer vision,2024,30,False
+India,Singapore,Computer vision,2018,33,True
+India,Singapore,Computer vision,2021,44,True
+India,Singapore,Computer vision,2019,33,True
+India,Singapore,Computer vision,2023,27,True
+Japan,Singapore,Computer vision,2024,29,False
+Japan,Singapore,Computer vision,2021,34,True
+Japan,Singapore,Computer vision,2019,25,True
+Japan,Singapore,Computer vision,2023,32,True
+Taiwan,Singapore,Computer vision,2021,31,True
+Taiwan,Singapore,Computer vision,2022,30,True
+United Kingdom,Singapore,Computer vision,2019,38,True
+United Kingdom,Singapore,Computer vision,2016,26,True
+United Kingdom,Singapore,Computer vision,2020,47,True
+United Kingdom,Singapore,Computer vision,2018,42,True
+United Kingdom,Singapore,Computer vision,2022,81,True
+United Kingdom,Singapore,Computer vision,2024,95,False
+United Kingdom,Singapore,Computer vision,2017,25,True
+United Kingdom,Singapore,Computer vision,2025,49,False
+United Kingdom,Singapore,Computer vision,2023,108,True
+United Kingdom,Singapore,Computer vision,2021,63,True
+United States,Singapore,Computer vision,2023,171,True
+United States,Singapore,Computer vision,2020,143,True
+United States,Singapore,Computer vision,2021,185,True
+United States,Singapore,Computer vision,2017,104,True
+United States,Singapore,Computer vision,2019,135,True
+United States,Singapore,Computer vision,2016,85,True
+United States,Singapore,Computer vision,2015,86,True
+United States,Singapore,Computer vision,2024,163,False
+United States,Singapore,Computer vision,2018,134,True
+United States,Singapore,Computer vision,2025,76,False
+United States,Singapore,Computer vision,2022,153,True
+United Kingdom,South Africa,Computer vision,2024,26,False
+Australia,South Korea,Computer vision,2021,59,True
+Australia,South Korea,Computer vision,2022,43,True
+Australia,South Korea,Computer vision,2020,29,True
+Australia,South Korea,Computer vision,2025,25,False
+Australia,South Korea,Computer vision,2023,44,True
+Australia,South Korea,Computer vision,2024,32,False
+Bangladesh,South Korea,Computer vision,2024,43,False
+Bangladesh,South Korea,Computer vision,2023,42,True
+Canada,South Korea,Computer vision,2024,34,False
+Canada,South Korea,Computer vision,2021,43,True
+Canada,South Korea,Computer vision,2020,31,True
+Canada,South Korea,Computer vision,2023,47,True
+Canada,South Korea,Computer vision,2025,32,False
+Canada,South Korea,Computer vision,2022,38,True
+China,South Korea,Computer vision,2022,234,True
+China,South Korea,Computer vision,2019,106,True
+China,South Korea,Computer vision,2016,72,True
+China,South Korea,Computer vision,2025,133,False
+China,South Korea,Computer vision,2018,109,True
+China,South Korea,Computer vision,2024,247,False
+China,South Korea,Computer vision,2021,186,True
+China,South Korea,Computer vision,2023,226,True
+China,South Korea,Computer vision,2015,68,True
+China,South Korea,Computer vision,2017,71,True
+China,South Korea,Computer vision,2020,174,True
+Egypt,South Korea,Computer vision,2023,28,True
+Egypt,South Korea,Computer vision,2022,35,True
+France,South Korea,Computer vision,2019,26,True
+Germany,South Korea,Computer vision,2024,30,False
+Germany,South Korea,Computer vision,2019,25,True
+Germany,South Korea,Computer vision,2020,27,True
+Germany,South Korea,Computer vision,2022,39,True
+Germany,South Korea,Computer vision,2021,33,True
+Germany,South Korea,Computer vision,2023,44,True
+India,South Korea,Computer vision,2022,97,True
+India,South Korea,Computer vision,2021,73,True
+India,South Korea,Computer vision,2018,32,True
+India,South Korea,Computer vision,2024,83,False
+India,South Korea,Computer vision,2025,67,False
+India,South Korea,Computer vision,2023,96,True
+India,South Korea,Computer vision,2019,27,True
+India,South Korea,Computer vision,2020,54,True
+Italy,South Korea,Computer vision,2020,25,True
+Italy,South Korea,Computer vision,2021,26,True
+Japan,South Korea,Computer vision,2023,37,True
+Japan,South Korea,Computer vision,2024,34,False
+Japan,South Korea,Computer vision,2022,35,True
+Pakistan,South Korea,Computer vision,2018,25,True
+Pakistan,South Korea,Computer vision,2024,110,False
+Pakistan,South Korea,Computer vision,2025,77,False
+Pakistan,South Korea,Computer vision,2020,80,True
+Pakistan,South Korea,Computer vision,2023,148,True
+Pakistan,South Korea,Computer vision,2021,105,True
+Pakistan,South Korea,Computer vision,2022,135,True
+Pakistan,South Korea,Computer vision,2019,45,True
+Saudi Arabia,South Korea,Computer vision,2024,105,False
+Saudi Arabia,South Korea,Computer vision,2023,110,True
+Saudi Arabia,South Korea,Computer vision,2025,89,False
+Saudi Arabia,South Korea,Computer vision,2022,105,True
+Saudi Arabia,South Korea,Computer vision,2021,39,True
+Spain,South Korea,Computer vision,2024,28,False
+Spain,South Korea,Computer vision,2023,30,True
+Switzerland,South Korea,Computer vision,2020,29,True
+United Arab Emirates,South Korea,Computer vision,2021,33,True
+United Arab Emirates,South Korea,Computer vision,2022,36,True
+United Arab Emirates,South Korea,Computer vision,2023,38,True
+United Kingdom,South Korea,Computer vision,2024,68,False
+United Kingdom,South Korea,Computer vision,2025,32,False
+United Kingdom,South Korea,Computer vision,2019,42,True
+United Kingdom,South Korea,Computer vision,2020,58,True
+United Kingdom,South Korea,Computer vision,2023,95,True
+United Kingdom,South Korea,Computer vision,2022,64,True
+United Kingdom,South Korea,Computer vision,2018,43,True
+United Kingdom,South Korea,Computer vision,2021,54,True
+United States,South Korea,Computer vision,2023,290,True
+United States,South Korea,Computer vision,2017,115,True
+United States,South Korea,Computer vision,2018,132,True
+United States,South Korea,Computer vision,2022,256,True
+United States,South Korea,Computer vision,2016,114,True
+United States,South Korea,Computer vision,2020,232,True
+United States,South Korea,Computer vision,2025,171,False
+United States,South Korea,Computer vision,2021,284,True
+United States,South Korea,Computer vision,2015,103,True
+United States,South Korea,Computer vision,2019,185,True
+United States,South Korea,Computer vision,2024,269,False
+Uzbekistan,South Korea,Computer vision,2024,29,False
+Uzbekistan,South Korea,Computer vision,2025,43,False
+Vietnam,South Korea,Computer vision,2025,25,False
+Vietnam,South Korea,Computer vision,2024,30,False
+Vietnam,South Korea,Computer vision,2023,33,True
+Vietnam,South Korea,Computer vision,2021,38,True
+Vietnam,South Korea,Computer vision,2022,33,True
+Australia,Spain,Computer vision,2021,31,True
+Australia,Spain,Computer vision,2024,34,False
+Australia,Spain,Computer vision,2023,31,True
+Australia,Spain,Computer vision,2022,31,True
+Belgium,Spain,Computer vision,2023,32,True
+Belgium,Spain,Computer vision,2022,33,True
+Canada,Spain,Computer vision,2023,34,True
+Canada,Spain,Computer vision,2021,37,True
+Canada,Spain,Computer vision,2022,39,True
+China,Spain,Computer vision,2022,124,True
+China,Spain,Computer vision,2025,63,False
+China,Spain,Computer vision,2023,127,True
+China,Spain,Computer vision,2020,80,True
+China,Spain,Computer vision,2024,125,False
+China,Spain,Computer vision,2019,67,True
+China,Spain,Computer vision,2018,49,True
+China,Spain,Computer vision,2015,31,True
+China,Spain,Computer vision,2021,102,True
+China,Spain,Computer vision,2017,44,True
+China,Spain,Computer vision,2016,44,True
+Colombia,Spain,Computer vision,2020,25,True
+Ecuador,Spain,Computer vision,2017,31,True
+Ecuador,Spain,Computer vision,2023,25,True
+Egypt,Spain,Computer vision,2022,31,True
+France,Spain,Computer vision,2017,74,True
+France,Spain,Computer vision,2018,67,True
+France,Spain,Computer vision,2023,76,True
+France,Spain,Computer vision,2022,79,True
+France,Spain,Computer vision,2025,38,False
+France,Spain,Computer vision,2015,62,True
+France,Spain,Computer vision,2019,63,True
+France,Spain,Computer vision,2020,60,True
+France,Spain,Computer vision,2021,55,True
+France,Spain,Computer vision,2024,75,False
+France,Spain,Computer vision,2016,58,True
+Germany,Spain,Computer vision,2016,39,True
+Germany,Spain,Computer vision,2023,97,True
+Germany,Spain,Computer vision,2018,48,True
+Germany,Spain,Computer vision,2015,34,True
+Germany,Spain,Computer vision,2017,39,True
+Germany,Spain,Computer vision,2020,60,True
+Germany,Spain,Computer vision,2021,59,True
+Germany,Spain,Computer vision,2022,80,True
+Germany,Spain,Computer vision,2019,56,True
+Germany,Spain,Computer vision,2024,81,False
+Germany,Spain,Computer vision,2025,28,False
+India,Spain,Computer vision,2023,55,True
+India,Spain,Computer vision,2021,59,True
+India,Spain,Computer vision,2022,43,True
+India,Spain,Computer vision,2024,29,False
+India,Spain,Computer vision,2020,30,True
+Italy,Spain,Computer vision,2022,74,True
+Italy,Spain,Computer vision,2020,37,True
+Italy,Spain,Computer vision,2021,55,True
+Italy,Spain,Computer vision,2016,29,True
+Italy,Spain,Computer vision,2023,86,True
+Italy,Spain,Computer vision,2019,57,True
+Italy,Spain,Computer vision,2018,47,True
+Italy,Spain,Computer vision,2017,47,True
+Italy,Spain,Computer vision,2025,48,False
+Italy,Spain,Computer vision,2015,36,True
+Italy,Spain,Computer vision,2024,85,False
+Japan,Spain,Computer vision,2022,27,True
+Mexico,Spain,Computer vision,2021,25,True
+Mexico,Spain,Computer vision,2019,30,True
+Mexico,Spain,Computer vision,2023,34,True
+Mexico,Spain,Computer vision,2022,33,True
+Mexico,Spain,Computer vision,2020,26,True
+Netherlands,Spain,Computer vision,2022,29,True
+Netherlands,Spain,Computer vision,2021,26,True
+Netherlands,Spain,Computer vision,2019,29,True
+Netherlands,Spain,Computer vision,2024,39,False
+Netherlands,Spain,Computer vision,2023,49,True
+Netherlands,Spain,Computer vision,2020,25,True
+Norway,Spain,Computer vision,2022,26,True
+Norway,Spain,Computer vision,2023,33,True
+Pakistan,Spain,Computer vision,2023,26,True
+Portugal,Spain,Computer vision,2022,26,True
+Portugal,Spain,Computer vision,2024,35,False
+Portugal,Spain,Computer vision,2023,27,True
+South Korea,Spain,Computer vision,2024,28,False
+South Korea,Spain,Computer vision,2023,30,True
+Switzerland,Spain,Computer vision,2024,32,False
+Switzerland,Spain,Computer vision,2021,25,True
+Switzerland,Spain,Computer vision,2016,28,True
+Switzerland,Spain,Computer vision,2023,40,True
+Switzerland,Spain,Computer vision,2019,27,True
+Switzerland,Spain,Computer vision,2022,27,True
+United Kingdom,Spain,Computer vision,2025,48,False
+United Kingdom,Spain,Computer vision,2017,52,True
+United Kingdom,Spain,Computer vision,2023,124,True
+United Kingdom,Spain,Computer vision,2022,116,True
+United Kingdom,Spain,Computer vision,2019,88,True
+United Kingdom,Spain,Computer vision,2024,99,False
+United Kingdom,Spain,Computer vision,2020,69,True
+United Kingdom,Spain,Computer vision,2018,79,True
+United Kingdom,Spain,Computer vision,2021,100,True
+United Kingdom,Spain,Computer vision,2016,57,True
+United Kingdom,Spain,Computer vision,2015,57,True
+United States,Spain,Computer vision,2020,108,True
+United States,Spain,Computer vision,2015,70,True
+United States,Spain,Computer vision,2018,101,True
+United States,Spain,Computer vision,2024,137,False
+United States,Spain,Computer vision,2021,110,True
+United States,Spain,Computer vision,2016,89,True
+United States,Spain,Computer vision,2025,72,False
+United States,Spain,Computer vision,2023,142,True
+United States,Spain,Computer vision,2022,116,True
+United States,Spain,Computer vision,2019,94,True
+United States,Spain,Computer vision,2017,78,True
+Australia,Sweden,Computer vision,2023,33,True
+Belgium,Sweden,Computer vision,2022,26,True
+China,Sweden,Computer vision,2019,40,True
+China,Sweden,Computer vision,2020,33,True
+China,Sweden,Computer vision,2024,66,False
+China,Sweden,Computer vision,2018,25,True
+China,Sweden,Computer vision,2021,43,True
+China,Sweden,Computer vision,2023,71,True
+China,Sweden,Computer vision,2025,28,False
+China,Sweden,Computer vision,2022,49,True
+Finland,Sweden,Computer vision,2021,26,True
+Germany,Sweden,Computer vision,2022,52,True
+Germany,Sweden,Computer vision,2020,37,True
+Germany,Sweden,Computer vision,2023,76,True
+Germany,Sweden,Computer vision,2018,27,True
+Germany,Sweden,Computer vision,2019,38,True
+Germany,Sweden,Computer vision,2024,53,False
+Germany,Sweden,Computer vision,2021,45,True
+India,Sweden,Computer vision,2023,36,True
+India,Sweden,Computer vision,2024,30,False
+Italy,Sweden,Computer vision,2023,40,True
+Italy,Sweden,Computer vision,2024,30,False
+Netherlands,Sweden,Computer vision,2022,27,True
+Netherlands,Sweden,Computer vision,2023,26,True
+Norway,Sweden,Computer vision,2024,25,False
+Switzerland,Sweden,Computer vision,2020,29,True
+Switzerland,Sweden,Computer vision,2023,31,True
+Switzerland,Sweden,Computer vision,2019,36,True
+Switzerland,Sweden,Computer vision,2021,31,True
+United Kingdom,Sweden,Computer vision,2019,28,True
+United Kingdom,Sweden,Computer vision,2020,34,True
+United Kingdom,Sweden,Computer vision,2023,49,True
+United Kingdom,Sweden,Computer vision,2024,37,False
+United Kingdom,Sweden,Computer vision,2018,32,True
+United Kingdom,Sweden,Computer vision,2022,42,True
+United Kingdom,Sweden,Computer vision,2021,43,True
+United States,Sweden,Computer vision,2024,52,False
+United States,Sweden,Computer vision,2022,59,True
+United States,Sweden,Computer vision,2023,72,True
+United States,Sweden,Computer vision,2021,57,True
+United States,Sweden,Computer vision,2020,50,True
+United States,Sweden,Computer vision,2019,53,True
+United States,Sweden,Computer vision,2025,36,False
+Australia,Switzerland,Computer vision,2020,29,True
+Australia,Switzerland,Computer vision,2024,25,False
+Australia,Switzerland,Computer vision,2019,29,True
+Australia,Switzerland,Computer vision,2023,57,True
+Australia,Switzerland,Computer vision,2021,40,True
+Australia,Switzerland,Computer vision,2022,40,True
+Austria,Switzerland,Computer vision,2022,26,True
+Austria,Switzerland,Computer vision,2023,32,True
+Austria,Switzerland,Computer vision,2024,25,False
+Austria,Switzerland,Computer vision,2017,28,True
+Belgium,Switzerland,Computer vision,2021,59,True
+Belgium,Switzerland,Computer vision,2016,34,True
+Belgium,Switzerland,Computer vision,2022,53,True
+Belgium,Switzerland,Computer vision,2023,48,True
+Belgium,Switzerland,Computer vision,2020,46,True
+Canada,Switzerland,Computer vision,2021,41,True
+Canada,Switzerland,Computer vision,2024,32,False
+Canada,Switzerland,Computer vision,2020,31,True
+Canada,Switzerland,Computer vision,2023,52,True
+Canada,Switzerland,Computer vision,2018,32,True
+Canada,Switzerland,Computer vision,2022,49,True
+Canada,Switzerland,Computer vision,2019,25,True
+China,Switzerland,Computer vision,2018,54,True
+China,Switzerland,Computer vision,2025,49,False
+China,Switzerland,Computer vision,2021,132,True
+China,Switzerland,Computer vision,2019,47,True
+China,Switzerland,Computer vision,2016,27,True
+China,Switzerland,Computer vision,2023,176,True
+China,Switzerland,Computer vision,2017,27,True
+China,Switzerland,Computer vision,2024,107,False
+China,Switzerland,Computer vision,2020,109,True
+China,Switzerland,Computer vision,2022,161,True
+Denmark,Switzerland,Computer vision,2024,26,False
+Denmark,Switzerland,Computer vision,2022,30,True
+France,Switzerland,Computer vision,2018,27,True
+France,Switzerland,Computer vision,2025,30,False
+France,Switzerland,Computer vision,2017,38,True
+France,Switzerland,Computer vision,2022,60,True
+France,Switzerland,Computer vision,2023,77,True
+France,Switzerland,Computer vision,2020,47,True
+France,Switzerland,Computer vision,2021,60,True
+France,Switzerland,Computer vision,2016,29,True
+France,Switzerland,Computer vision,2019,61,True
+France,Switzerland,Computer vision,2015,25,True
+France,Switzerland,Computer vision,2024,50,False
+Germany,Switzerland,Computer vision,2022,202,True
+Germany,Switzerland,Computer vision,2024,156,False
+Germany,Switzerland,Computer vision,2016,55,True
+Germany,Switzerland,Computer vision,2018,80,True
+Germany,Switzerland,Computer vision,2025,61,False
+Germany,Switzerland,Computer vision,2017,81,True
+Germany,Switzerland,Computer vision,2015,68,True
+Germany,Switzerland,Computer vision,2020,142,True
+Germany,Switzerland,Computer vision,2023,216,True
+Germany,Switzerland,Computer vision,2019,89,True
+Germany,Switzerland,Computer vision,2021,182,True
+Iran,Switzerland,Computer vision,2023,31,True
+Iran,Switzerland,Computer vision,2022,26,True
+Iran,Switzerland,Computer vision,2024,26,False
+Iran,Switzerland,Computer vision,2021,35,True
+Italy,Switzerland,Computer vision,2022,69,True
+Italy,Switzerland,Computer vision,2015,28,True
+Italy,Switzerland,Computer vision,2024,71,False
+Italy,Switzerland,Computer vision,2016,30,True
+Italy,Switzerland,Computer vision,2018,34,True
+Italy,Switzerland,Computer vision,2025,37,False
+Italy,Switzerland,Computer vision,2020,44,True
+Italy,Switzerland,Computer vision,2021,78,True
+Italy,Switzerland,Computer vision,2023,75,True
+Italy,Switzerland,Computer vision,2019,33,True
+Italy,Switzerland,Computer vision,2017,35,True
+Netherlands,Switzerland,Computer vision,2025,40,False
+Netherlands,Switzerland,Computer vision,2021,71,True
+Netherlands,Switzerland,Computer vision,2022,52,True
+Netherlands,Switzerland,Computer vision,2020,31,True
+Netherlands,Switzerland,Computer vision,2023,69,True
+Netherlands,Switzerland,Computer vision,2024,47,False
+South Korea,Switzerland,Computer vision,2020,29,True
+Spain,Switzerland,Computer vision,2021,25,True
+Spain,Switzerland,Computer vision,2016,28,True
+Spain,Switzerland,Computer vision,2022,27,True
+Spain,Switzerland,Computer vision,2019,27,True
+Spain,Switzerland,Computer vision,2024,32,False
+Spain,Switzerland,Computer vision,2023,40,True
+Sweden,Switzerland,Computer vision,2021,31,True
+Sweden,Switzerland,Computer vision,2020,29,True
+Sweden,Switzerland,Computer vision,2023,31,True
+Sweden,Switzerland,Computer vision,2019,36,True
+United Kingdom,Switzerland,Computer vision,2024,63,False
+United Kingdom,Switzerland,Computer vision,2018,49,True
+United Kingdom,Switzerland,Computer vision,2022,91,True
+United Kingdom,Switzerland,Computer vision,2020,76,True
+United Kingdom,Switzerland,Computer vision,2025,43,False
+United Kingdom,Switzerland,Computer vision,2023,117,True
+United Kingdom,Switzerland,Computer vision,2017,36,True
+United Kingdom,Switzerland,Computer vision,2015,28,True
+United Kingdom,Switzerland,Computer vision,2021,85,True
+United Kingdom,Switzerland,Computer vision,2019,61,True
+United Kingdom,Switzerland,Computer vision,2016,27,True
+United States,Switzerland,Computer vision,2024,162,False
+United States,Switzerland,Computer vision,2018,115,True
+United States,Switzerland,Computer vision,2016,90,True
+United States,Switzerland,Computer vision,2019,112,True
+United States,Switzerland,Computer vision,2021,191,True
+United States,Switzerland,Computer vision,2023,225,True
+United States,Switzerland,Computer vision,2015,68,True
+United States,Switzerland,Computer vision,2017,98,True
+United States,Switzerland,Computer vision,2020,207,True
+United States,Switzerland,Computer vision,2025,94,False
+United States,Switzerland,Computer vision,2022,187,True
+Australia,Taiwan,Computer vision,2021,26,True
+Australia,Taiwan,Computer vision,2022,28,True
+China,Taiwan,Computer vision,2021,202,True
+China,Taiwan,Computer vision,2023,143,True
+China,Taiwan,Computer vision,2015,44,True
+China,Taiwan,Computer vision,2022,133,True
+China,Taiwan,Computer vision,2018,94,True
+China,Taiwan,Computer vision,2025,88,False
+China,Taiwan,Computer vision,2024,165,False
+China,Taiwan,Computer vision,2020,153,True
+China,Taiwan,Computer vision,2019,101,True
+China,Taiwan,Computer vision,2016,49,True
+China,Taiwan,Computer vision,2017,74,True
+Germany,Taiwan,Computer vision,2019,29,True
+Germany,Taiwan,Computer vision,2021,39,True
+Germany,Taiwan,Computer vision,2020,32,True
+India,Taiwan,Computer vision,2024,45,False
+India,Taiwan,Computer vision,2023,45,True
+India,Taiwan,Computer vision,2022,56,True
+India,Taiwan,Computer vision,2025,38,False
+India,Taiwan,Computer vision,2021,59,True
+India,Taiwan,Computer vision,2020,29,True
+Indonesia,Taiwan,Computer vision,2020,27,True
+Indonesia,Taiwan,Computer vision,2023,51,True
+Indonesia,Taiwan,Computer vision,2024,31,False
+Indonesia,Taiwan,Computer vision,2021,41,True
+Indonesia,Taiwan,Computer vision,2022,43,True
+Japan,Taiwan,Computer vision,2022,40,True
+Japan,Taiwan,Computer vision,2021,29,True
+Japan,Taiwan,Computer vision,2019,30,True
+Japan,Taiwan,Computer vision,2020,31,True
+Japan,Taiwan,Computer vision,2024,33,False
+Japan,Taiwan,Computer vision,2023,35,True
+Malaysia,Taiwan,Computer vision,2023,25,True
+Singapore,Taiwan,Computer vision,2022,30,True
+Singapore,Taiwan,Computer vision,2021,31,True
+United Kingdom,Taiwan,Computer vision,2021,38,True
+United Kingdom,Taiwan,Computer vision,2022,34,True
+United States,Taiwan,Computer vision,2023,145,True
+United States,Taiwan,Computer vision,2020,138,True
+United States,Taiwan,Computer vision,2024,135,False
+United States,Taiwan,Computer vision,2025,71,False
+United States,Taiwan,Computer vision,2021,171,True
+United States,Taiwan,Computer vision,2015,45,True
+United States,Taiwan,Computer vision,2016,47,True
+United States,Taiwan,Computer vision,2017,42,True
+United States,Taiwan,Computer vision,2022,118,True
+United States,Taiwan,Computer vision,2018,74,True
+United States,Taiwan,Computer vision,2019,91,True
+Vietnam,Taiwan,Computer vision,2023,25,True
+China,Thailand,Computer vision,2024,30,False
+China,Thailand,Computer vision,2025,25,False
+China,Thailand,Computer vision,2023,25,True
+India,Thailand,Computer vision,2024,30,False
+Japan,Thailand,Computer vision,2017,37,True
+Japan,Thailand,Computer vision,2023,32,True
+Japan,Thailand,Computer vision,2020,34,True
+Japan,Thailand,Computer vision,2021,32,True
+Japan,Thailand,Computer vision,2022,32,True
+Japan,Thailand,Computer vision,2024,28,False
+Japan,Thailand,Computer vision,2018,25,True
+Japan,Thailand,Computer vision,2019,31,True
+United States,Thailand,Computer vision,2024,30,False
+United States,Thailand,Computer vision,2023,29,True
+France,Tunisia,Computer vision,2020,76,True
+France,Tunisia,Computer vision,2016,66,True
+France,Tunisia,Computer vision,2017,54,True
+France,Tunisia,Computer vision,2018,70,True
+France,Tunisia,Computer vision,2021,61,True
+France,Tunisia,Computer vision,2015,41,True
+France,Tunisia,Computer vision,2019,54,True
+France,Tunisia,Computer vision,2023,61,True
+France,Tunisia,Computer vision,2022,53,True
+France,Tunisia,Computer vision,2024,47,False
+Saudi Arabia,Tunisia,Computer vision,2025,36,False
+Saudi Arabia,Tunisia,Computer vision,2024,56,False
+Saudi Arabia,Tunisia,Computer vision,2023,56,True
+Saudi Arabia,Tunisia,Computer vision,2020,43,True
+Saudi Arabia,Tunisia,Computer vision,2021,51,True
+Saudi Arabia,Tunisia,Computer vision,2022,60,True
+China,Turkey,Computer vision,2024,30,False
+China,Turkey,Computer vision,2023,32,True
+China,Turkey,Computer vision,2022,26,True
+Germany,Turkey,Computer vision,2024,26,False
+Germany,Turkey,Computer vision,2022,27,True
+India,Turkey,Computer vision,2024,27,False
+United Kingdom,Turkey,Computer vision,2024,43,False
+United Kingdom,Turkey,Computer vision,2023,41,True
+United Kingdom,Turkey,Computer vision,2021,36,True
+United Kingdom,Turkey,Computer vision,2022,30,True
+United Kingdom,Turkey,Computer vision,2020,26,True
+United States,Turkey,Computer vision,2020,41,True
+United States,Turkey,Computer vision,2025,50,False
+United States,Turkey,Computer vision,2018,41,True
+United States,Turkey,Computer vision,2023,59,True
+United States,Turkey,Computer vision,2015,25,True
+United States,Turkey,Computer vision,2016,32,True
+United States,Turkey,Computer vision,2024,70,False
+United States,Turkey,Computer vision,2022,50,True
+United States,Turkey,Computer vision,2021,54,True
+United States,Turkey,Computer vision,2019,35,True
+United States,Turkey,Computer vision,2017,38,True
+Australia,United Arab Emirates,Computer vision,2022,39,True
+Australia,United Arab Emirates,Computer vision,2020,27,True
+Australia,United Arab Emirates,Computer vision,2023,50,True
+Australia,United Arab Emirates,Computer vision,2024,39,False
+Australia,United Arab Emirates,Computer vision,2021,43,True
+Canada,United Arab Emirates,Computer vision,2024,28,False
+Canada,United Arab Emirates,Computer vision,2023,32,True
+China,United Arab Emirates,Computer vision,2019,107,True
+China,United Arab Emirates,Computer vision,2022,79,True
+China,United Arab Emirates,Computer vision,2025,40,False
+China,United Arab Emirates,Computer vision,2018,48,True
+China,United Arab Emirates,Computer vision,2024,90,False
+China,United Arab Emirates,Computer vision,2021,139,True
+China,United Arab Emirates,Computer vision,2023,115,True
+China,United Arab Emirates,Computer vision,2020,130,True
+Egypt,United Arab Emirates,Computer vision,2024,39,False
+Egypt,United Arab Emirates,Computer vision,2023,40,True
+Egypt,United Arab Emirates,Computer vision,2022,34,True
+France,United Arab Emirates,Computer vision,2023,27,True
+India,United Arab Emirates,Computer vision,2022,60,True
+India,United Arab Emirates,Computer vision,2021,38,True
+India,United Arab Emirates,Computer vision,2024,87,False
+India,United Arab Emirates,Computer vision,2023,89,True
+India,United Arab Emirates,Computer vision,2025,43,False
+Jordan,United Arab Emirates,Computer vision,2024,43,False
+Jordan,United Arab Emirates,Computer vision,2023,37,True
+Lebanon,United Arab Emirates,Computer vision,2023,34,True
+Malaysia,United Arab Emirates,Computer vision,2022,26,True
+Malaysia,United Arab Emirates,Computer vision,2023,41,True
+Malaysia,United Arab Emirates,Computer vision,2024,25,False
+Norway,United Arab Emirates,Computer vision,2023,32,True
+Pakistan,United Arab Emirates,Computer vision,2022,67,True
+Pakistan,United Arab Emirates,Computer vision,2025,37,False
+Pakistan,United Arab Emirates,Computer vision,2023,94,True
+Pakistan,United Arab Emirates,Computer vision,2021,42,True
+Pakistan,United Arab Emirates,Computer vision,2024,69,False
+Saudi Arabia,United Arab Emirates,Computer vision,2024,83,False
+Saudi Arabia,United Arab Emirates,Computer vision,2022,53,True
+Saudi Arabia,United Arab Emirates,Computer vision,2023,77,True
+Saudi Arabia,United Arab Emirates,Computer vision,2025,39,False
+South Korea,United Arab Emirates,Computer vision,2022,36,True
+South Korea,United Arab Emirates,Computer vision,2021,33,True
+South Korea,United Arab Emirates,Computer vision,2023,38,True
+United Kingdom,United Arab Emirates,Computer vision,2021,40,True
+United Kingdom,United Arab Emirates,Computer vision,2024,55,False
+United Kingdom,United Arab Emirates,Computer vision,2022,47,True
+United Kingdom,United Arab Emirates,Computer vision,2023,107,True
+United Kingdom,United Arab Emirates,Computer vision,2020,32,True
+United States,United Arab Emirates,Computer vision,2024,88,False
+United States,United Arab Emirates,Computer vision,2025,44,False
+United States,United Arab Emirates,Computer vision,2020,67,True
+United States,United Arab Emirates,Computer vision,2018,40,True
+United States,United Arab Emirates,Computer vision,2019,54,True
+United States,United Arab Emirates,Computer vision,2021,85,True
+United States,United Arab Emirates,Computer vision,2022,78,True
+United States,United Arab Emirates,Computer vision,2023,104,True
+Australia,United Kingdom,Computer vision,2025,65,False
+Australia,United Kingdom,Computer vision,2020,128,True
+Australia,United Kingdom,Computer vision,2017,53,True
+Australia,United Kingdom,Computer vision,2022,134,True
+Australia,United Kingdom,Computer vision,2021,155,True
+Australia,United Kingdom,Computer vision,2019,86,True
+Australia,United Kingdom,Computer vision,2016,44,True
+Australia,United Kingdom,Computer vision,2023,181,True
+Australia,United Kingdom,Computer vision,2015,34,True
+Australia,United Kingdom,Computer vision,2024,152,False
+Australia,United Kingdom,Computer vision,2018,67,True
+Austria,United Kingdom,Computer vision,2022,45,True
+Austria,United Kingdom,Computer vision,2021,34,True
+Austria,United Kingdom,Computer vision,2019,27,True
+Austria,United Kingdom,Computer vision,2024,30,False
+Austria,United Kingdom,Computer vision,2023,64,True
+Austria,United Kingdom,Computer vision,2020,47,True
+Bangladesh,United Kingdom,Computer vision,2024,37,False
+Bangladesh,United Kingdom,Computer vision,2023,35,True
+Belgium,United Kingdom,Computer vision,2023,64,True
+Belgium,United Kingdom,Computer vision,2024,42,False
+Belgium,United Kingdom,Computer vision,2020,33,True
+Belgium,United Kingdom,Computer vision,2022,55,True
+Belgium,United Kingdom,Computer vision,2021,52,True
+Belgium,United Kingdom,Computer vision,2019,29,True
+Brazil,United Kingdom,Computer vision,2025,25,False
+Brazil,United Kingdom,Computer vision,2021,33,True
+Brazil,United Kingdom,Computer vision,2024,34,False
+Brazil,United Kingdom,Computer vision,2022,33,True
+Brazil,United Kingdom,Computer vision,2020,36,True
+Brazil,United Kingdom,Computer vision,2023,48,True
+Canada,United Kingdom,Computer vision,2024,97,False
+Canada,United Kingdom,Computer vision,2025,38,False
+Canada,United Kingdom,Computer vision,2016,33,True
+Canada,United Kingdom,Computer vision,2023,128,True
+Canada,United Kingdom,Computer vision,2020,97,True
+Canada,United Kingdom,Computer vision,2022,126,True
+Canada,United Kingdom,Computer vision,2019,48,True
+Canada,United Kingdom,Computer vision,2018,52,True
+Canada,United Kingdom,Computer vision,2021,118,True
+Canada,United Kingdom,Computer vision,2015,30,True
+Canada,United Kingdom,Computer vision,2017,54,True
+China,United Kingdom,Computer vision,2015,225,True
+China,United Kingdom,Computer vision,2022,1110,True
+China,United Kingdom,Computer vision,2019,762,True
+China,United Kingdom,Computer vision,2017,415,True
+China,United Kingdom,Computer vision,2021,997,True
+China,United Kingdom,Computer vision,2016,286,True
+China,United Kingdom,Computer vision,2018,553,True
+China,United Kingdom,Computer vision,2020,907,True
+China,United Kingdom,Computer vision,2024,1154,False
+China,United Kingdom,Computer vision,2025,633,False
+China,United Kingdom,Computer vision,2023,1244,True
+Denmark,United Kingdom,Computer vision,2023,48,True
+Denmark,United Kingdom,Computer vision,2024,41,False
+Denmark,United Kingdom,Computer vision,2022,27,True
+Denmark,United Kingdom,Computer vision,2021,36,True
+Egypt,United Kingdom,Computer vision,2022,41,True
+Egypt,United Kingdom,Computer vision,2023,39,True
+Egypt,United Kingdom,Computer vision,2024,30,False
+Egypt,United Kingdom,Computer vision,2021,28,True
+Finland,United Kingdom,Computer vision,2019,26,True
+Finland,United Kingdom,Computer vision,2021,37,True
+Finland,United Kingdom,Computer vision,2023,30,True
+Finland,United Kingdom,Computer vision,2022,26,True
+France,United Kingdom,Computer vision,2016,100,True
+France,United Kingdom,Computer vision,2020,103,True
+France,United Kingdom,Computer vision,2024,118,False
+France,United Kingdom,Computer vision,2017,79,True
+France,United Kingdom,Computer vision,2021,114,True
+France,United Kingdom,Computer vision,2022,105,True
+France,United Kingdom,Computer vision,2018,91,True
+France,United Kingdom,Computer vision,2019,111,True
+France,United Kingdom,Computer vision,2015,80,True
+France,United Kingdom,Computer vision,2025,54,False
+France,United Kingdom,Computer vision,2023,146,True
+Germany,United Kingdom,Computer vision,2016,95,True
+Germany,United Kingdom,Computer vision,2018,112,True
+Germany,United Kingdom,Computer vision,2017,96,True
+Germany,United Kingdom,Computer vision,2025,97,False
+Germany,United Kingdom,Computer vision,2019,124,True
+Germany,United Kingdom,Computer vision,2023,329,True
+Germany,United Kingdom,Computer vision,2015,73,True
+Germany,United Kingdom,Computer vision,2021,241,True
+Germany,United Kingdom,Computer vision,2020,166,True
+Germany,United Kingdom,Computer vision,2022,269,True
+Germany,United Kingdom,Computer vision,2024,210,False
+Greece,United Kingdom,Computer vision,2020,41,True
+Greece,United Kingdom,Computer vision,2017,33,True
+Greece,United Kingdom,Computer vision,2016,35,True
+Greece,United Kingdom,Computer vision,2024,39,False
+Greece,United Kingdom,Computer vision,2018,25,True
+Greece,United Kingdom,Computer vision,2023,45,True
+Greece,United Kingdom,Computer vision,2022,33,True
+Greece,United Kingdom,Computer vision,2019,41,True
+Greece,United Kingdom,Computer vision,2025,36,False
+Greece,United Kingdom,Computer vision,2021,39,True
+India,United Kingdom,Computer vision,2022,161,True
+India,United Kingdom,Computer vision,2020,93,True
+India,United Kingdom,Computer vision,2023,183,True
+India,United Kingdom,Computer vision,2019,51,True
+India,United Kingdom,Computer vision,2025,77,False
+India,United Kingdom,Computer vision,2024,169,False
+India,United Kingdom,Computer vision,2018,53,True
+India,United Kingdom,Computer vision,2021,166,True
+Iran,United Kingdom,Computer vision,2023,51,True
+Iran,United Kingdom,Computer vision,2020,35,True
+Iran,United Kingdom,Computer vision,2024,39,False
+Iran,United Kingdom,Computer vision,2021,47,True
+Iran,United Kingdom,Computer vision,2022,31,True
+Iraq,United Kingdom,Computer vision,2021,25,True
+Ireland,United Kingdom,Computer vision,2024,36,False
+Ireland,United Kingdom,Computer vision,2023,40,True
+Ireland,United Kingdom,Computer vision,2016,30,True
+Israel,United Kingdom,Computer vision,2020,26,True
+Israel,United Kingdom,Computer vision,2021,38,True
+Israel,United Kingdom,Computer vision,2022,39,True
+Israel,United Kingdom,Computer vision,2023,39,True
+Italy,United Kingdom,Computer vision,2018,80,True
+Italy,United Kingdom,Computer vision,2022,110,True
+Italy,United Kingdom,Computer vision,2017,68,True
+Italy,United Kingdom,Computer vision,2024,124,False
+Italy,United Kingdom,Computer vision,2021,124,True
+Italy,United Kingdom,Computer vision,2023,138,True
+Italy,United Kingdom,Computer vision,2020,97,True
+Italy,United Kingdom,Computer vision,2015,47,True
+Italy,United Kingdom,Computer vision,2019,101,True
+Italy,United Kingdom,Computer vision,2025,79,False
+Italy,United Kingdom,Computer vision,2016,53,True
+Japan,United Kingdom,Computer vision,2023,66,True
+Japan,United Kingdom,Computer vision,2015,25,True
+Japan,United Kingdom,Computer vision,2019,57,True
+Japan,United Kingdom,Computer vision,2021,57,True
+Japan,United Kingdom,Computer vision,2024,42,False
+Japan,United Kingdom,Computer vision,2018,29,True
+Japan,United Kingdom,Computer vision,2016,30,True
+Japan,United Kingdom,Computer vision,2022,62,True
+Japan,United Kingdom,Computer vision,2017,31,True
+Japan,United Kingdom,Computer vision,2020,49,True
+Malaysia,United Kingdom,Computer vision,2022,32,True
+Malaysia,United Kingdom,Computer vision,2017,28,True
+Malaysia,United Kingdom,Computer vision,2023,48,True
+Malaysia,United Kingdom,Computer vision,2019,35,True
+Malaysia,United Kingdom,Computer vision,2016,25,True
+Malaysia,United Kingdom,Computer vision,2025,25,False
+Malaysia,United Kingdom,Computer vision,2024,39,False
+Malaysia,United Kingdom,Computer vision,2021,38,True
+Malaysia,United Kingdom,Computer vision,2018,32,True
+Netherlands,United Kingdom,Computer vision,2016,58,True
+Netherlands,United Kingdom,Computer vision,2015,34,True
+Netherlands,United Kingdom,Computer vision,2018,46,True
+Netherlands,United Kingdom,Computer vision,2022,93,True
+Netherlands,United Kingdom,Computer vision,2025,48,False
+Netherlands,United Kingdom,Computer vision,2021,113,True
+Netherlands,United Kingdom,Computer vision,2023,131,True
+Netherlands,United Kingdom,Computer vision,2017,50,True
+Netherlands,United Kingdom,Computer vision,2019,65,True
+Netherlands,United Kingdom,Computer vision,2024,79,False
+Netherlands,United Kingdom,Computer vision,2020,68,True
+New Zealand,United Kingdom,Computer vision,2020,28,True
+Norway,United Kingdom,Computer vision,2024,31,False
+Norway,United Kingdom,Computer vision,2021,37,True
+Norway,United Kingdom,Computer vision,2020,28,True
+Norway,United Kingdom,Computer vision,2023,49,True
+Norway,United Kingdom,Computer vision,2022,43,True
+Pakistan,United Kingdom,Computer vision,2021,65,True
+Pakistan,United Kingdom,Computer vision,2019,50,True
+Pakistan,United Kingdom,Computer vision,2024,101,False
+Pakistan,United Kingdom,Computer vision,2022,93,True
+Pakistan,United Kingdom,Computer vision,2023,117,True
+Pakistan,United Kingdom,Computer vision,2018,45,True
+Pakistan,United Kingdom,Computer vision,2025,42,False
+Pakistan,United Kingdom,Computer vision,2017,37,True
+Pakistan,United Kingdom,Computer vision,2020,61,True
+Poland,United Kingdom,Computer vision,2023,39,True
+Poland,United Kingdom,Computer vision,2024,35,False
+Portugal,United Kingdom,Computer vision,2023,29,True
+Portugal,United Kingdom,Computer vision,2021,33,True
+Portugal,United Kingdom,Computer vision,2024,28,False
+Qatar,United Kingdom,Computer vision,2023,25,True
+Saudi Arabia,United Kingdom,Computer vision,2020,50,True
+Saudi Arabia,United Kingdom,Computer vision,2019,30,True
+Saudi Arabia,United Kingdom,Computer vision,2023,131,True
+Saudi Arabia,United Kingdom,Computer vision,2021,78,True
+Saudi Arabia,United Kingdom,Computer vision,2025,59,False
+Saudi Arabia,United Kingdom,Computer vision,2022,93,True
+Saudi Arabia,United Kingdom,Computer vision,2024,122,False
+Singapore,United Kingdom,Computer vision,2022,81,True
+Singapore,United Kingdom,Computer vision,2017,25,True
+Singapore,United Kingdom,Computer vision,2021,63,True
+Singapore,United Kingdom,Computer vision,2023,108,True
+Singapore,United Kingdom,Computer vision,2016,26,True
+Singapore,United Kingdom,Computer vision,2025,49,False
+Singapore,United Kingdom,Computer vision,2018,42,True
+Singapore,United Kingdom,Computer vision,2024,95,False
+Singapore,United Kingdom,Computer vision,2020,47,True
+Singapore,United Kingdom,Computer vision,2019,38,True
+South Africa,United Kingdom,Computer vision,2024,26,False
+South Korea,United Kingdom,Computer vision,2023,95,True
+South Korea,United Kingdom,Computer vision,2021,54,True
+South Korea,United Kingdom,Computer vision,2018,43,True
+South Korea,United Kingdom,Computer vision,2022,64,True
+South Korea,United Kingdom,Computer vision,2019,42,True
+South Korea,United Kingdom,Computer vision,2020,58,True
+South Korea,United Kingdom,Computer vision,2025,32,False
+South Korea,United Kingdom,Computer vision,2024,68,False
+Spain,United Kingdom,Computer vision,2021,100,True
+Spain,United Kingdom,Computer vision,2019,88,True
+Spain,United Kingdom,Computer vision,2024,99,False
+Spain,United Kingdom,Computer vision,2016,57,True
+Spain,United Kingdom,Computer vision,2015,57,True
+Spain,United Kingdom,Computer vision,2020,69,True
+Spain,United Kingdom,Computer vision,2017,52,True
+Spain,United Kingdom,Computer vision,2022,116,True
+Spain,United Kingdom,Computer vision,2018,79,True
+Spain,United Kingdom,Computer vision,2023,124,True
+Spain,United Kingdom,Computer vision,2025,48,False
+Sweden,United Kingdom,Computer vision,2024,37,False
+Sweden,United Kingdom,Computer vision,2019,28,True
+Sweden,United Kingdom,Computer vision,2023,49,True
+Sweden,United Kingdom,Computer vision,2018,32,True
+Sweden,United Kingdom,Computer vision,2022,42,True
+Sweden,United Kingdom,Computer vision,2021,43,True
+Sweden,United Kingdom,Computer vision,2020,34,True
+Switzerland,United Kingdom,Computer vision,2020,76,True
+Switzerland,United Kingdom,Computer vision,2024,63,False
+Switzerland,United Kingdom,Computer vision,2017,36,True
+Switzerland,United Kingdom,Computer vision,2015,28,True
+Switzerland,United Kingdom,Computer vision,2021,85,True
+Switzerland,United Kingdom,Computer vision,2022,91,True
+Switzerland,United Kingdom,Computer vision,2016,27,True
+Switzerland,United Kingdom,Computer vision,2018,49,True
+Switzerland,United Kingdom,Computer vision,2019,61,True
+Switzerland,United Kingdom,Computer vision,2023,117,True
+Switzerland,United Kingdom,Computer vision,2025,43,False
+Taiwan,United Kingdom,Computer vision,2022,34,True
+Taiwan,United Kingdom,Computer vision,2021,38,True
+Turkey,United Kingdom,Computer vision,2024,43,False
+Turkey,United Kingdom,Computer vision,2022,30,True
+Turkey,United Kingdom,Computer vision,2020,26,True
+Turkey,United Kingdom,Computer vision,2023,41,True
+Turkey,United Kingdom,Computer vision,2021,36,True
+United Arab Emirates,United Kingdom,Computer vision,2023,107,True
+United Arab Emirates,United Kingdom,Computer vision,2022,47,True
+United Arab Emirates,United Kingdom,Computer vision,2020,32,True
+United Arab Emirates,United Kingdom,Computer vision,2021,40,True
+United Arab Emirates,United Kingdom,Computer vision,2024,55,False
+United States,United Kingdom,Computer vision,2022,479,True
+United States,United Kingdom,Computer vision,2020,467,True
+United States,United Kingdom,Computer vision,2023,638,True
+United States,United Kingdom,Computer vision,2018,291,True
+United States,United Kingdom,Computer vision,2019,341,True
+United States,United Kingdom,Computer vision,2024,503,False
+United States,United Kingdom,Computer vision,2021,579,True
+United States,United Kingdom,Computer vision,2025,253,False
+United States,United Kingdom,Computer vision,2017,235,True
+United States,United Kingdom,Computer vision,2016,181,True
+United States,United Kingdom,Computer vision,2015,152,True
+Australia,United States,Computer vision,2023,251,True
+Australia,United States,Computer vision,2025,126,False
+Australia,United States,Computer vision,2017,140,True
+Australia,United States,Computer vision,2020,224,True
+Australia,United States,Computer vision,2021,281,True
+Australia,United States,Computer vision,2019,158,True
+Australia,United States,Computer vision,2016,112,True
+Australia,United States,Computer vision,2024,215,False
+Australia,United States,Computer vision,2018,179,True
+Australia,United States,Computer vision,2022,274,True
+Australia,United States,Computer vision,2015,110,True
+Austria,United States,Computer vision,2016,30,True
+Austria,United States,Computer vision,2020,72,True
+Austria,United States,Computer vision,2017,36,True
+Austria,United States,Computer vision,2024,59,False
+Austria,United States,Computer vision,2022,59,True
+Austria,United States,Computer vision,2018,31,True
+Austria,United States,Computer vision,2025,38,False
+Austria,United States,Computer vision,2019,33,True
+Austria,United States,Computer vision,2021,58,True
+Austria,United States,Computer vision,2023,83,True
+Bangladesh,United States,Computer vision,2025,115,False
+Bangladesh,United States,Computer vision,2020,30,True
+Bangladesh,United States,Computer vision,2022,59,True
+Bangladesh,United States,Computer vision,2024,152,False
+Bangladesh,United States,Computer vision,2021,60,True
+Bangladesh,United States,Computer vision,2023,74,True
+Belgium,United States,Computer vision,2023,64,True
+Belgium,United States,Computer vision,2022,61,True
+Belgium,United States,Computer vision,2019,26,True
+Belgium,United States,Computer vision,2016,31,True
+Belgium,United States,Computer vision,2020,41,True
+Belgium,United States,Computer vision,2021,39,True
+Belgium,United States,Computer vision,2024,44,False
+Brazil,United States,Computer vision,2019,71,True
+Brazil,United States,Computer vision,2015,43,True
+Brazil,United States,Computer vision,2017,41,True
+Brazil,United States,Computer vision,2023,104,True
+Brazil,United States,Computer vision,2025,47,False
+Brazil,United States,Computer vision,2016,33,True
+Brazil,United States,Computer vision,2024,106,False
+Brazil,United States,Computer vision,2021,98,True
+Brazil,United States,Computer vision,2020,102,True
+Brazil,United States,Computer vision,2018,59,True
+Brazil,United States,Computer vision,2022,87,True
+Canada,United States,Computer vision,2015,127,True
+Canada,United States,Computer vision,2023,415,True
+Canada,United States,Computer vision,2016,137,True
+Canada,United States,Computer vision,2021,417,True
+Canada,United States,Computer vision,2017,161,True
+Canada,United States,Computer vision,2024,327,False
+Canada,United States,Computer vision,2025,198,False
+Canada,United States,Computer vision,2022,390,True
+Canada,United States,Computer vision,2018,224,True
+Canada,United States,Computer vision,2020,354,True
+Canada,United States,Computer vision,2019,247,True
+China,United States,Computer vision,2016,971,True
+China,United States,Computer vision,2020,2324,True
+China,United States,Computer vision,2022,2089,True
+China,United States,Computer vision,2015,826,True
+China,United States,Computer vision,2025,898,False
+China,United States,Computer vision,2021,2456,True
+China,United States,Computer vision,2018,1629,True
+China,United States,Computer vision,2017,1210,True
+China,United States,Computer vision,2024,1957,False
+China,United States,Computer vision,2023,2189,True
+China,United States,Computer vision,2019,2061,True
+Colombia,United States,Computer vision,2020,28,True
+Czechia,United States,Computer vision,2023,25,True
+Denmark,United States,Computer vision,2024,48,False
+Denmark,United States,Computer vision,2023,53,True
+Denmark,United States,Computer vision,2022,41,True
+Denmark,United States,Computer vision,2021,50,True
+Egypt,United States,Computer vision,2025,38,False
+Egypt,United States,Computer vision,2020,38,True
+Egypt,United States,Computer vision,2022,73,True
+Egypt,United States,Computer vision,2023,68,True
+Egypt,United States,Computer vision,2021,50,True
+Egypt,United States,Computer vision,2024,72,False
+Egypt,United States,Computer vision,2019,30,True
+Egypt,United States,Computer vision,2018,46,True
+Finland,United States,Computer vision,2024,34,False
+Finland,United States,Computer vision,2022,37,True
+Finland,United States,Computer vision,2019,30,True
+Finland,United States,Computer vision,2020,29,True
+Finland,United States,Computer vision,2021,33,True
+Finland,United States,Computer vision,2023,47,True
+France,United States,Computer vision,2022,173,True
+France,United States,Computer vision,2020,165,True
+France,United States,Computer vision,2018,152,True
+France,United States,Computer vision,2019,169,True
+France,United States,Computer vision,2016,107,True
+France,United States,Computer vision,2021,195,True
+France,United States,Computer vision,2017,134,True
+France,United States,Computer vision,2023,212,True
+France,United States,Computer vision,2025,81,False
+France,United States,Computer vision,2015,110,True
+France,United States,Computer vision,2024,158,False
+Germany,United States,Computer vision,2024,373,False
+Germany,United States,Computer vision,2018,251,True
+Germany,United States,Computer vision,2020,408,True
+Germany,United States,Computer vision,2015,139,True
+Germany,United States,Computer vision,2019,242,True
+Germany,United States,Computer vision,2021,447,True
+Germany,United States,Computer vision,2025,175,False
+Germany,United States,Computer vision,2023,469,True
+Germany,United States,Computer vision,2016,184,True
+Germany,United States,Computer vision,2022,405,True
+Germany,United States,Computer vision,2017,217,True
+Greece,United States,Computer vision,2018,25,True
+Greece,United States,Computer vision,2023,36,True
+Greece,United States,Computer vision,2021,27,True
+Greece,United States,Computer vision,2020,30,True
+India,United States,Computer vision,2018,194,True
+India,United States,Computer vision,2017,131,True
+India,United States,Computer vision,2025,308,False
+India,United States,Computer vision,2015,93,True
+India,United States,Computer vision,2016,98,True
+India,United States,Computer vision,2020,316,True
+India,United States,Computer vision,2021,374,True
+India,United States,Computer vision,2024,624,False
+India,United States,Computer vision,2023,500,True
+India,United States,Computer vision,2019,251,True
+India,United States,Computer vision,2022,414,True
+Iran,United States,Computer vision,2017,43,True
+Iran,United States,Computer vision,2025,57,False
+Iran,United States,Computer vision,2021,64,True
+Iran,United States,Computer vision,2016,32,True
+Iran,United States,Computer vision,2020,55,True
+Iran,United States,Computer vision,2019,36,True
+Iran,United States,Computer vision,2023,77,True
+Iran,United States,Computer vision,2022,73,True
+Iran,United States,Computer vision,2024,73,False
+Iran,United States,Computer vision,2018,27,True
+Ireland,United States,Computer vision,2022,26,True
+Ireland,United States,Computer vision,2023,37,True
+Ireland,United States,Computer vision,2024,35,False
+Israel,United States,Computer vision,2024,83,False
+Israel,United States,Computer vision,2025,37,False
+Israel,United States,Computer vision,2021,122,True
+Israel,United States,Computer vision,2018,59,True
+Israel,United States,Computer vision,2023,75,True
+Israel,United States,Computer vision,2022,69,True
+Israel,United States,Computer vision,2020,101,True
+Israel,United States,Computer vision,2016,50,True
+Israel,United States,Computer vision,2019,63,True
+Israel,United States,Computer vision,2017,44,True
+Israel,United States,Computer vision,2015,40,True
+Italy,United States,Computer vision,2021,148,True
+Italy,United States,Computer vision,2025,112,False
+Italy,United States,Computer vision,2018,90,True
+Italy,United States,Computer vision,2015,92,True
+Italy,United States,Computer vision,2022,171,True
+Italy,United States,Computer vision,2019,95,True
+Italy,United States,Computer vision,2023,192,True
+Italy,United States,Computer vision,2016,81,True
+Italy,United States,Computer vision,2020,134,True
+Italy,United States,Computer vision,2017,88,True
+Italy,United States,Computer vision,2024,187,False
+Japan,United States,Computer vision,2017,98,True
+Japan,United States,Computer vision,2023,133,True
+Japan,United States,Computer vision,2018,102,True
+Japan,United States,Computer vision,2025,75,False
+Japan,United States,Computer vision,2019,124,True
+Japan,United States,Computer vision,2015,77,True
+Japan,United States,Computer vision,2021,170,True
+Japan,United States,Computer vision,2024,197,False
+Japan,United States,Computer vision,2022,142,True
+Japan,United States,Computer vision,2016,90,True
+Japan,United States,Computer vision,2020,142,True
+Malaysia,United States,Computer vision,2024,42,False
+Malaysia,United States,Computer vision,2022,48,True
+Malaysia,United States,Computer vision,2023,35,True
+Malaysia,United States,Computer vision,2020,28,True
+Malaysia,United States,Computer vision,2025,25,False
+Malaysia,United States,Computer vision,2021,38,True
+Mexico,United States,Computer vision,2024,28,False
+Mexico,United States,Computer vision,2023,32,True
+Netherlands,United States,Computer vision,2024,127,False
+Netherlands,United States,Computer vision,2017,62,True
+Netherlands,United States,Computer vision,2021,137,True
+Netherlands,United States,Computer vision,2025,71,False
+Netherlands,United States,Computer vision,2019,80,True
+Netherlands,United States,Computer vision,2016,58,True
+Netherlands,United States,Computer vision,2022,128,True
+Netherlands,United States,Computer vision,2020,107,True
+Netherlands,United States,Computer vision,2023,168,True
+Netherlands,United States,Computer vision,2015,36,True
+Netherlands,United States,Computer vision,2018,69,True
+New Zealand,United States,Computer vision,2023,28,True
+Norway,United States,Computer vision,2025,35,False
+Norway,United States,Computer vision,2023,59,True
+Norway,United States,Computer vision,2024,47,False
+Norway,United States,Computer vision,2021,49,True
+Norway,United States,Computer vision,2022,47,True
+Pakistan,United States,Computer vision,2021,42,True
+Pakistan,United States,Computer vision,2025,56,False
+Pakistan,United States,Computer vision,2022,52,True
+Pakistan,United States,Computer vision,2023,68,True
+Pakistan,United States,Computer vision,2024,83,False
+Pakistan,United States,Computer vision,2019,41,True
+Pakistan,United States,Computer vision,2020,34,True
+Poland,United States,Computer vision,2024,32,False
+Poland,United States,Computer vision,2023,45,True
+Poland,United States,Computer vision,2019,35,True
+Poland,United States,Computer vision,2025,30,False
+Poland,United States,Computer vision,2018,34,True
+Poland,United States,Computer vision,2021,27,True
+Poland,United States,Computer vision,2020,27,True
+Poland,United States,Computer vision,2022,41,True
+Portugal,United States,Computer vision,2024,42,False
+Portugal,United States,Computer vision,2022,34,True
+Portugal,United States,Computer vision,2023,33,True
+Portugal,United States,Computer vision,2021,31,True
+Portugal,United States,Computer vision,2018,27,True
+Portugal,United States,Computer vision,2019,26,True
+Qatar,United States,Computer vision,2022,25,True
+Qatar,United States,Computer vision,2025,26,False
+Qatar,United States,Computer vision,2024,26,False
+Romania,United States,Computer vision,2021,26,True
+Russia,United States,Computer vision,2019,31,True
+Russia,United States,Computer vision,2018,37,True
+Russia,United States,Computer vision,2020,36,True
+Russia,United States,Computer vision,2022,27,True
+Russia,United States,Computer vision,2021,45,True
+Saudi Arabia,United States,Computer vision,2016,28,True
+Saudi Arabia,United States,Computer vision,2024,144,False
+Saudi Arabia,United States,Computer vision,2022,144,True
+Saudi Arabia,United States,Computer vision,2023,143,True
+Saudi Arabia,United States,Computer vision,2020,71,True
+Saudi Arabia,United States,Computer vision,2018,25,True
+Saudi Arabia,United States,Computer vision,2025,90,False
+Saudi Arabia,United States,Computer vision,2019,49,True
+Saudi Arabia,United States,Computer vision,2021,101,True
+Saudi Arabia,United States,Computer vision,2015,31,True
+Singapore,United States,Computer vision,2023,171,True
+Singapore,United States,Computer vision,2022,153,True
+Singapore,United States,Computer vision,2021,185,True
+Singapore,United States,Computer vision,2019,135,True
+Singapore,United States,Computer vision,2016,85,True
+Singapore,United States,Computer vision,2025,76,False
+Singapore,United States,Computer vision,2015,86,True
+Singapore,United States,Computer vision,2018,134,True
+Singapore,United States,Computer vision,2017,104,True
+Singapore,United States,Computer vision,2024,163,False
+Singapore,United States,Computer vision,2020,143,True
+South Korea,United States,Computer vision,2017,115,True
+South Korea,United States,Computer vision,2018,132,True
+South Korea,United States,Computer vision,2025,171,False
+South Korea,United States,Computer vision,2022,256,True
+South Korea,United States,Computer vision,2020,232,True
+South Korea,United States,Computer vision,2016,114,True
+South Korea,United States,Computer vision,2015,103,True
+South Korea,United States,Computer vision,2023,290,True
+South Korea,United States,Computer vision,2021,284,True
+South Korea,United States,Computer vision,2019,185,True
+South Korea,United States,Computer vision,2024,269,False
+Spain,United States,Computer vision,2023,142,True
+Spain,United States,Computer vision,2025,72,False
+Spain,United States,Computer vision,2015,70,True
+Spain,United States,Computer vision,2017,78,True
+Spain,United States,Computer vision,2024,137,False
+Spain,United States,Computer vision,2018,101,True
+Spain,United States,Computer vision,2020,108,True
+Spain,United States,Computer vision,2019,94,True
+Spain,United States,Computer vision,2016,89,True
+Spain,United States,Computer vision,2021,110,True
+Spain,United States,Computer vision,2022,116,True
+Sweden,United States,Computer vision,2025,36,False
+Sweden,United States,Computer vision,2024,52,False
+Sweden,United States,Computer vision,2019,53,True
+Sweden,United States,Computer vision,2022,59,True
+Sweden,United States,Computer vision,2020,50,True
+Sweden,United States,Computer vision,2023,72,True
+Sweden,United States,Computer vision,2021,57,True
+Switzerland,United States,Computer vision,2020,207,True
+Switzerland,United States,Computer vision,2016,90,True
+Switzerland,United States,Computer vision,2018,115,True
+Switzerland,United States,Computer vision,2023,225,True
+Switzerland,United States,Computer vision,2021,191,True

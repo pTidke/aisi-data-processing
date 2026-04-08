@@ -1,0 +1,316 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "total": 582270
+    },
+    {
+      "name": "China",
+      "total": 515432
+    },
+    {
+      "name": "United Kingdom",
+      "total": 297774
+    },
+    {
+      "name": "Germany",
+      "total": 210592
+    },
+    {
+      "name": "France",
+      "total": 143909
+    },
+    {
+      "name": "Canada",
+      "total": 132668
+    },
+    {
+      "name": "Australia",
+      "total": 132319
+    },
+    {
+      "name": "Italy",
+      "total": 123268
+    },
+    {
+      "name": "India",
+      "total": 115913
+    },
+    {
+      "name": "Japan",
+      "total": 91684
+    },
+    {
+      "name": "Spain",
+      "total": 87063
+    },
+    {
+      "name": "Netherlands",
+      "total": 81721
+    },
+    {
+      "name": "Switzerland",
+      "total": 78054
+    },
+    {
+      "name": "Singapore",
+      "total": 77146
+    },
+    {
+      "name": "Saudi Arabia",
+      "total": 72208
+    }
+  ],
+  "links": [
+    {
+      "source": "China",
+      "target": "United States",
+      "value": 162646
+    },
+    {
+      "source": "China",
+      "target": "United Kingdom",
+      "value": 62602
+    },
+    {
+      "source": "Australia",
+      "target": "China",
+      "value": 47414
+    },
+    {
+      "source": "China",
+      "target": "Singapore",
+      "value": 39882
+    },
+    {
+      "source": "United Kingdom",
+      "target": "United States",
+      "value": 39604
+    },
+    {
+      "source": "Germany",
+      "target": "United States",
+      "value": 39302
+    },
+    {
+      "source": "Canada",
+      "target": "United States",
+      "value": 37032
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "value": 31328
+    },
+    {
+      "source": "India",
+      "target": "United States",
+      "value": 29808
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "value": 25864
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "value": 23502
+    },
+    {
+      "source": "Australia",
+      "target": "United States",
+      "value": 21634
+    },
+    {
+      "source": "France",
+      "target": "United States",
+      "value": 21356
+    },
+    {
+      "source": "Italy",
+      "target": "United States",
+      "value": 19002
+    },
+    {
+      "source": "Japan",
+      "target": "United States",
+      "value": 18321
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "value": 16724
+    },
+    {
+      "source": "Italy",
+      "target": "United Kingdom",
+      "value": 15898
+    },
+    {
+      "source": "Switzerland",
+      "target": "United States",
+      "value": 14948
+    },
+    {
+      "source": "Singapore",
+      "target": "United States",
+      "value": 14532
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "value": 13902
+    },
+    {
+      "source": "Germany",
+      "target": "Switzerland",
+      "value": 13578
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "value": 12864
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "value": 12734
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "value": 12726
+    },
+    {
+      "source": "Netherlands",
+      "target": "United States",
+      "value": 12667
+    },
+    {
+      "source": "France",
+      "target": "Italy",
+      "value": 11814
+    },
+    {
+      "source": "China",
+      "target": "France",
+      "value": 11758
+    },
+    {
+      "source": "Spain",
+      "target": "United States",
+      "value": 11377
+    },
+    {
+      "source": "Australia",
+      "target": "United Kingdom",
+      "value": 11316
+    },
+    {
+      "source": "Spain",
+      "target": "United Kingdom",
+      "value": 11294
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "value": 10476
+    },
+    {
+      "source": "Canada",
+      "target": "United Kingdom",
+      "value": 9810
+    },
+    {
+      "source": "India",
+      "target": "Saudi Arabia",
+      "value": 9316
+    },
+    {
+      "source": "Switzerland",
+      "target": "United Kingdom",
+      "value": 8696
+    },
+    {
+      "source": "India",
+      "target": "United Kingdom",
+      "value": 8558
+    },
+    {
+      "source": "Germany",
+      "target": "Spain",
+      "value": 8428
+    },
+    {
+      "source": "Italy",
+      "target": "Spain",
+      "value": 8406
+    },
+    {
+      "source": "France",
+      "target": "Spain",
+      "value": 7954
+    },
+    {
+      "source": "China",
+      "target": "Italy",
+      "value": 7758
+    },
+    {
+      "source": "China",
+      "target": "India",
+      "value": 7594
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "United States",
+      "value": 7537
+    },
+    {
+      "source": "Italy",
+      "target": "Switzerland",
+      "value": 7390
+    },
+    {
+      "source": "China",
+      "target": "Netherlands",
+      "value": 6982
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "value": 6670
+    },
+    {
+      "source": "Japan",
+      "target": "United Kingdom",
+      "value": 6660
+    },
+    {
+      "source": "China",
+      "target": "Saudi Arabia",
+      "value": 6576
+    },
+    {
+      "source": "Italy",
+      "target": "Netherlands",
+      "value": 6376
+    },
+    {
+      "source": "Canada",
+      "target": "Germany",
+      "value": 6136
+    },
+    {
+      "source": "France",
+      "target": "Switzerland",
+      "value": 5738
+    },
+    {
+      "source": "China",
+      "target": "Switzerland",
+      "value": 5372
+    }
+  ]
+}

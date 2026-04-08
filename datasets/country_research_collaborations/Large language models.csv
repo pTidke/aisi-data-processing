@@ -1,0 +1,432 @@
+country1,country2,field,year,num_articles,complete
+China,Australia,Large language models,2024,415,False
+China,Australia,Large language models,2020,102,True
+China,Australia,Large language models,2021,169,True
+China,Australia,Large language models,2022,242,True
+China,Australia,Large language models,2025,203,False
+China,Australia,Large language models,2019,48,True
+China,Australia,Large language models,2023,363,True
+Singapore,Australia,Large language models,2022,25,True
+Singapore,Australia,Large language models,2023,46,True
+Singapore,Australia,Large language models,2024,58,False
+United Kingdom,Australia,Large language models,2024,52,False
+United Kingdom,Australia,Large language models,2023,62,True
+United Kingdom,Australia,Large language models,2022,28,True
+United States,Australia,Large language models,2023,104,True
+United States,Australia,Large language models,2025,68,False
+United States,Australia,Large language models,2024,108,False
+United States,Australia,Large language models,2022,56,True
+United States,Australia,Large language models,2020,40,True
+United States,Australia,Large language models,2021,67,True
+Germany,Austria,Large language models,2024,26,False
+United States,Austria,Large language models,2024,26,False
+United States,Bangladesh,Large language models,2025,31,False
+United States,Bangladesh,Large language models,2024,35,False
+China,Canada,Large language models,2022,84,True
+China,Canada,Large language models,2021,90,True
+China,Canada,Large language models,2025,60,False
+China,Canada,Large language models,2020,51,True
+China,Canada,Large language models,2024,149,False
+China,Canada,Large language models,2019,26,True
+China,Canada,Large language models,2023,135,True
+Germany,Canada,Large language models,2023,27,True
+United Kingdom,Canada,Large language models,2020,25,True
+United Kingdom,Canada,Large language models,2022,28,True
+United Kingdom,Canada,Large language models,2024,38,False
+United Kingdom,Canada,Large language models,2021,29,True
+United Kingdom,Canada,Large language models,2023,45,True
+United States,Canada,Large language models,2023,150,True
+United States,Canada,Large language models,2025,103,False
+United States,Canada,Large language models,2022,93,True
+United States,Canada,Large language models,2019,50,True
+United States,Canada,Large language models,2020,85,True
+United States,Canada,Large language models,2024,145,False
+United States,Canada,Large language models,2021,117,True
+United States,Canada,Large language models,2018,29,True
+Australia,China,Large language models,2024,415,False
+Australia,China,Large language models,2023,363,True
+Australia,China,Large language models,2022,242,True
+Australia,China,Large language models,2021,169,True
+Australia,China,Large language models,2019,48,True
+Australia,China,Large language models,2025,203,False
+Australia,China,Large language models,2020,102,True
+Canada,China,Large language models,2022,84,True
+Canada,China,Large language models,2024,149,False
+Canada,China,Large language models,2020,51,True
+Canada,China,Large language models,2021,90,True
+Canada,China,Large language models,2025,60,False
+Canada,China,Large language models,2019,26,True
+Canada,China,Large language models,2023,135,True
+Denmark,China,Large language models,2024,32,False
+France,China,Large language models,2023,40,True
+France,China,Large language models,2024,38,False
+Germany,China,Large language models,2024,91,False
+Germany,China,Large language models,2022,61,True
+Germany,China,Large language models,2021,38,True
+Germany,China,Large language models,2025,43,False
+Germany,China,Large language models,2023,82,True
+India,China,Large language models,2024,26,False
+Italy,China,Large language models,2024,53,False
+Italy,China,Large language models,2025,28,False
+Italy,China,Large language models,2023,43,True
+Japan,China,Large language models,2023,118,True
+Japan,China,Large language models,2020,49,True
+Japan,China,Large language models,2024,151,False
+Japan,China,Large language models,2022,80,True
+Japan,China,Large language models,2019,30,True
+Japan,China,Large language models,2025,71,False
+Japan,China,Large language models,2021,70,True
+Malaysia,China,Large language models,2024,52,False
+Malaysia,China,Large language models,2025,34,False
+Malaysia,China,Large language models,2023,25,True
+Netherlands,China,Large language models,2021,33,True
+Netherlands,China,Large language models,2023,45,True
+Netherlands,China,Large language models,2024,43,False
+Netherlands,China,Large language models,2025,28,False
+Pakistan,China,Large language models,2025,26,False
+Saudi Arabia,China,Large language models,2025,37,False
+Saudi Arabia,China,Large language models,2024,54,False
+Saudi Arabia,China,Large language models,2023,41,True
+Singapore,China,Large language models,2020,86,True
+Singapore,China,Large language models,2024,508,False
+Singapore,China,Large language models,2025,253,False
+Singapore,China,Large language models,2023,461,True
+Singapore,China,Large language models,2019,47,True
+Singapore,China,Large language models,2022,240,True
+Singapore,China,Large language models,2021,177,True
+South Korea,China,Large language models,2024,65,False
+South Korea,China,Large language models,2023,51,True
+South Korea,China,Large language models,2022,31,True
+South Korea,China,Large language models,2025,36,False
+Spain,China,Large language models,2024,38,False
+Sweden,China,Large language models,2024,29,False
+Switzerland,China,Large language models,2023,46,True
+Switzerland,China,Large language models,2022,36,True
+Switzerland,China,Large language models,2024,47,False
+Taiwan,China,Large language models,2024,55,False
+Taiwan,China,Large language models,2023,26,True
+United Arab Emirates,China,Large language models,2024,56,False
+United Arab Emirates,China,Large language models,2023,43,True
+United Kingdom,China,Large language models,2023,365,True
+United Kingdom,China,Large language models,2018,25,True
+United Kingdom,China,Large language models,2020,70,True
+United Kingdom,China,Large language models,2025,205,False
+United Kingdom,China,Large language models,2019,41,True
+United Kingdom,China,Large language models,2024,377,False
+United Kingdom,China,Large language models,2022,213,True
+United Kingdom,China,Large language models,2021,134,True
+United States,China,Large language models,2022,617,True
+United States,China,Large language models,2018,132,True
+United States,China,Large language models,2023,929,True
+United States,China,Large language models,2017,59,True
+United States,China,Large language models,2024,959,False
+United States,China,Large language models,2025,471,False
+United States,China,Large language models,2020,446,True
+United States,China,Large language models,2021,634,True
+United States,China,Large language models,2019,257,True
+United States,China,Large language models,2016,29,True
+China,Denmark,Large language models,2024,32,False
+China,France,Large language models,2023,40,True
+China,France,Large language models,2024,38,False
+Germany,France,Large language models,2024,38,False
+Germany,France,Large language models,2023,33,True
+Italy,France,Large language models,2024,27,False
+Italy,France,Large language models,2023,28,True
+United Kingdom,France,Large language models,2023,59,True
+United Kingdom,France,Large language models,2022,27,True
+United Kingdom,France,Large language models,2024,34,False
+United States,France,Large language models,2025,25,False
+United States,France,Large language models,2023,69,True
+United States,France,Large language models,2021,42,True
+United States,France,Large language models,2020,28,True
+United States,France,Large language models,2022,36,True
+United States,France,Large language models,2024,64,False
+Austria,Germany,Large language models,2024,26,False
+Canada,Germany,Large language models,2023,27,True
+China,Germany,Large language models,2023,82,True
+China,Germany,Large language models,2021,38,True
+China,Germany,Large language models,2024,91,False
+China,Germany,Large language models,2022,61,True
+China,Germany,Large language models,2025,43,False
+France,Germany,Large language models,2023,33,True
+France,Germany,Large language models,2024,38,False
+Italy,Germany,Large language models,2024,30,False
+Italy,Germany,Large language models,2023,27,True
+Netherlands,Germany,Large language models,2022,31,True
+Netherlands,Germany,Large language models,2024,39,False
+Netherlands,Germany,Large language models,2023,47,True
+Switzerland,Germany,Large language models,2021,29,True
+Switzerland,Germany,Large language models,2023,50,True
+Switzerland,Germany,Large language models,2025,26,False
+Switzerland,Germany,Large language models,2022,28,True
+Switzerland,Germany,Large language models,2024,68,False
+United Kingdom,Germany,Large language models,2022,53,True
+United Kingdom,Germany,Large language models,2023,82,True
+United Kingdom,Germany,Large language models,2021,51,True
+United Kingdom,Germany,Large language models,2020,45,True
+United Kingdom,Germany,Large language models,2024,79,False
+United Kingdom,Germany,Large language models,2019,25,True
+United Kingdom,Germany,Large language models,2025,33,False
+United States,Germany,Large language models,2022,85,True
+United States,Germany,Large language models,2018,29,True
+United States,Germany,Large language models,2020,70,True
+United States,Germany,Large language models,2019,37,True
+United States,Germany,Large language models,2024,159,False
+United States,Germany,Large language models,2021,97,True
+United States,Germany,Large language models,2025,66,False
+United States,Germany,Large language models,2023,166,True
+China,India,Large language models,2024,26,False
+Saudi Arabia,India,Large language models,2024,31,False
+United Kingdom,India,Large language models,2024,47,False
+United Kingdom,India,Large language models,2022,25,True
+United Kingdom,India,Large language models,2023,35,True
+United States,India,Large language models,2021,93,True
+United States,India,Large language models,2019,30,True
+United States,India,Large language models,2022,91,True
+United States,India,Large language models,2020,55,True
+United States,India,Large language models,2025,71,False
+United States,India,Large language models,2023,114,True
+United States,India,Large language models,2024,126,False
+United States,Israel,Large language models,2023,56,True
+United States,Israel,Large language models,2020,73,True
+United States,Israel,Large language models,2019,40,True
+United States,Israel,Large language models,2021,80,True
+United States,Israel,Large language models,2022,40,True
+United States,Israel,Large language models,2024,67,False
+United States,Israel,Large language models,2025,27,False
+China,Italy,Large language models,2024,53,False
+China,Italy,Large language models,2023,43,True
+China,Italy,Large language models,2025,28,False
+France,Italy,Large language models,2023,28,True
+France,Italy,Large language models,2024,27,False
+Germany,Italy,Large language models,2023,27,True
+Germany,Italy,Large language models,2024,30,False
+Switzerland,Italy,Large language models,2024,26,False
+United Kingdom,Italy,Large language models,2025,30,False
+United Kingdom,Italy,Large language models,2024,45,False
+United Kingdom,Italy,Large language models,2023,32,True
+United States,Italy,Large language models,2025,48,False
+United States,Italy,Large language models,2022,32,True
+United States,Italy,Large language models,2024,81,False
+United States,Italy,Large language models,2021,33,True
+United States,Italy,Large language models,2023,46,True
+China,Japan,Large language models,2025,71,False
+China,Japan,Large language models,2020,49,True
+China,Japan,Large language models,2024,151,False
+China,Japan,Large language models,2021,70,True
+China,Japan,Large language models,2023,118,True
+China,Japan,Large language models,2022,80,True
+China,Japan,Large language models,2019,30,True
+United Kingdom,Japan,Large language models,2023,29,True
+United States,Japan,Large language models,2019,33,True
+United States,Japan,Large language models,2021,43,True
+United States,Japan,Large language models,2022,60,True
+United States,Japan,Large language models,2020,35,True
+United States,Japan,Large language models,2024,88,False
+United States,Japan,Large language models,2023,70,True
+United States,Japan,Large language models,2025,34,False
+China,Malaysia,Large language models,2024,52,False
+China,Malaysia,Large language models,2025,34,False
+China,Malaysia,Large language models,2023,25,True
+China,Netherlands,Large language models,2021,33,True
+China,Netherlands,Large language models,2025,28,False
+China,Netherlands,Large language models,2023,45,True
+China,Netherlands,Large language models,2024,43,False
+Germany,Netherlands,Large language models,2023,47,True
+Germany,Netherlands,Large language models,2024,39,False
+Germany,Netherlands,Large language models,2022,31,True
+United Kingdom,Netherlands,Large language models,2021,30,True
+United Kingdom,Netherlands,Large language models,2024,28,False
+United Kingdom,Netherlands,Large language models,2023,29,True
+United Kingdom,Netherlands,Large language models,2020,25,True
+United States,Netherlands,Large language models,2023,45,True
+United States,Netherlands,Large language models,2021,45,True
+United States,Netherlands,Large language models,2024,39,False
+United States,Netherlands,Large language models,2022,26,True
+China,Pakistan,Large language models,2025,26,False
+Saudi Arabia,Pakistan,Large language models,2023,30,True
+Saudi Arabia,Pakistan,Large language models,2025,37,False
+Saudi Arabia,Pakistan,Large language models,2024,38,False
+China,Saudi Arabia,Large language models,2023,41,True
+China,Saudi Arabia,Large language models,2024,54,False
+China,Saudi Arabia,Large language models,2025,37,False
+India,Saudi Arabia,Large language models,2024,31,False
+Pakistan,Saudi Arabia,Large language models,2023,30,True
+Pakistan,Saudi Arabia,Large language models,2024,38,False
+Pakistan,Saudi Arabia,Large language models,2025,37,False
+United Kingdom,Saudi Arabia,Large language models,2024,28,False
+United Kingdom,Saudi Arabia,Large language models,2023,31,True
+United States,Saudi Arabia,Large language models,2023,42,True
+United States,Saudi Arabia,Large language models,2025,25,False
+United States,Saudi Arabia,Large language models,2024,43,False
+United States,Saudi Arabia,Large language models,2022,29,True
+Australia,Singapore,Large language models,2023,46,True
+Australia,Singapore,Large language models,2024,58,False
+Australia,Singapore,Large language models,2022,25,True
+China,Singapore,Large language models,2024,508,False
+China,Singapore,Large language models,2020,86,True
+China,Singapore,Large language models,2022,240,True
+China,Singapore,Large language models,2019,47,True
+China,Singapore,Large language models,2021,177,True
+China,Singapore,Large language models,2025,253,False
+China,Singapore,Large language models,2023,461,True
+United Kingdom,Singapore,Large language models,2025,29,False
+United Kingdom,Singapore,Large language models,2023,47,True
+United Kingdom,Singapore,Large language models,2024,42,False
+United States,Singapore,Large language models,2020,51,True
+United States,Singapore,Large language models,2023,104,True
+United States,Singapore,Large language models,2024,130,False
+United States,Singapore,Large language models,2025,55,False
+United States,Singapore,Large language models,2021,73,True
+United States,Singapore,Large language models,2022,57,True
+China,South Korea,Large language models,2025,36,False
+China,South Korea,Large language models,2024,65,False
+China,South Korea,Large language models,2023,51,True
+China,South Korea,Large language models,2022,31,True
+United Kingdom,South Korea,Large language models,2024,27,False
+United States,South Korea,Large language models,2025,74,False
+United States,South Korea,Large language models,2020,38,True
+United States,South Korea,Large language models,2023,114,True
+United States,South Korea,Large language models,2021,51,True
+United States,South Korea,Large language models,2022,86,True
+United States,South Korea,Large language models,2024,107,False
+China,Spain,Large language models,2024,38,False
+United Kingdom,Spain,Large language models,2024,34,False
+United Kingdom,Spain,Large language models,2023,26,True
+United States,Spain,Large language models,2024,44,False
+United States,Spain,Large language models,2023,32,True
+United States,Spain,Large language models,2025,28,False
+China,Sweden,Large language models,2024,29,False
+United States,Sweden,Large language models,2023,25,True
+China,Switzerland,Large language models,2024,47,False
+China,Switzerland,Large language models,2022,36,True
+China,Switzerland,Large language models,2023,46,True
+Germany,Switzerland,Large language models,2022,28,True
+Germany,Switzerland,Large language models,2025,26,False
+Germany,Switzerland,Large language models,2023,50,True
+Germany,Switzerland,Large language models,2024,68,False
+Germany,Switzerland,Large language models,2021,29,True
+Italy,Switzerland,Large language models,2024,26,False
+United Kingdom,Switzerland,Large language models,2022,31,True
+United Kingdom,Switzerland,Large language models,2020,25,True
+United Kingdom,Switzerland,Large language models,2024,27,False
+United Kingdom,Switzerland,Large language models,2021,46,True
+United Kingdom,Switzerland,Large language models,2023,53,True
+United States,Switzerland,Large language models,2023,88,True
+United States,Switzerland,Large language models,2022,55,True
+United States,Switzerland,Large language models,2025,33,False
+United States,Switzerland,Large language models,2020,37,True
+United States,Switzerland,Large language models,2024,67,False
+United States,Switzerland,Large language models,2021,48,True
+China,Taiwan,Large language models,2024,55,False
+China,Taiwan,Large language models,2023,26,True
+United States,Taiwan,Large language models,2024,57,False
+United States,Taiwan,Large language models,2021,27,True
+United States,Taiwan,Large language models,2023,39,True
+United States,Taiwan,Large language models,2025,25,False
+China,United Arab Emirates,Large language models,2024,56,False
+China,United Arab Emirates,Large language models,2023,43,True
+United States,United Arab Emirates,Large language models,2024,47,False
+United States,United Arab Emirates,Large language models,2025,26,False
+United States,United Arab Emirates,Large language models,2023,35,True
+Australia,United Kingdom,Large language models,2022,28,True
+Australia,United Kingdom,Large language models,2024,52,False
+Australia,United Kingdom,Large language models,2023,62,True
+Canada,United Kingdom,Large language models,2023,45,True
+Canada,United Kingdom,Large language models,2020,25,True
+Canada,United Kingdom,Large language models,2021,29,True
+Canada,United Kingdom,Large language models,2022,28,True
+Canada,United Kingdom,Large language models,2024,38,False
+China,United Kingdom,Large language models,2024,377,False
+China,United Kingdom,Large language models,2020,70,True
+China,United Kingdom,Large language models,2021,134,True
+China,United Kingdom,Large language models,2025,205,False
+China,United Kingdom,Large language models,2022,213,True
+China,United Kingdom,Large language models,2019,41,True
+China,United Kingdom,Large language models,2023,365,True
+China,United Kingdom,Large language models,2018,25,True
+France,United Kingdom,Large language models,2022,27,True
+France,United Kingdom,Large language models,2024,34,False
+France,United Kingdom,Large language models,2023,59,True
+Germany,United Kingdom,Large language models,2019,25,True
+Germany,United Kingdom,Large language models,2024,79,False
+Germany,United Kingdom,Large language models,2023,82,True
+Germany,United Kingdom,Large language models,2022,53,True
+Germany,United Kingdom,Large language models,2020,45,True
+Germany,United Kingdom,Large language models,2021,51,True
+Germany,United Kingdom,Large language models,2025,33,False
+India,United Kingdom,Large language models,2022,25,True
+India,United Kingdom,Large language models,2023,35,True
+India,United Kingdom,Large language models,2024,47,False
+Italy,United Kingdom,Large language models,2024,45,False
+Italy,United Kingdom,Large language models,2025,30,False
+Italy,United Kingdom,Large language models,2023,32,True
+Japan,United Kingdom,Large language models,2023,29,True
+Netherlands,United Kingdom,Large language models,2023,29,True
+Netherlands,United Kingdom,Large language models,2020,25,True
+Netherlands,United Kingdom,Large language models,2021,30,True
+Netherlands,United Kingdom,Large language models,2024,28,False
+Saudi Arabia,United Kingdom,Large language models,2024,28,False
+Saudi Arabia,United Kingdom,Large language models,2023,31,True
+Singapore,United Kingdom,Large language models,2025,29,False
+Singapore,United Kingdom,Large language models,2024,42,False
+Singapore,United Kingdom,Large language models,2023,47,True
+South Korea,United Kingdom,Large language models,2024,27,False
+Spain,United Kingdom,Large language models,2024,34,False
+Spain,United Kingdom,Large language models,2023,26,True
+Switzerland,United Kingdom,Large language models,2022,31,True
+Switzerland,United Kingdom,Large language models,2021,46,True
+Switzerland,United Kingdom,Large language models,2024,27,False
+Switzerland,United Kingdom,Large language models,2020,25,True
+Switzerland,United Kingdom,Large language models,2023,53,True
+United States,United Kingdom,Large language models,2022,212,True
+United States,United Kingdom,Large language models,2021,190,True
+United States,United Kingdom,Large language models,2024,247,False
+United States,United Kingdom,Large language models,2020,136,True
+United States,United Kingdom,Large language models,2019,84,True
+United States,United Kingdom,Large language models,2025,139,False
+United States,United Kingdom,Large language models,2023,286,True
+United States,United Kingdom,Large language models,2018,51,True
+Australia,United States,Large language models,2020,40,True
+Australia,United States,Large language models,2025,68,False
+Australia,United States,Large language models,2024,108,False
+Australia,United States,Large language models,2023,104,True
+Australia,United States,Large language models,2022,56,True
+Australia,United States,Large language models,2021,67,True
+Austria,United States,Large language models,2024,26,False
+Bangladesh,United States,Large language models,2025,31,False
+Bangladesh,United States,Large language models,2024,35,False
+Canada,United States,Large language models,2022,93,True
+Canada,United States,Large language models,2024,145,False
+Canada,United States,Large language models,2025,103,False
+Canada,United States,Large language models,2020,85,True
+Canada,United States,Large language models,2019,50,True
+Canada,United States,Large language models,2021,117,True
+Canada,United States,Large language models,2023,150,True
+Canada,United States,Large language models,2018,29,True
+China,United States,Large language models,2021,634,True
+China,United States,Large language models,2019,257,True
+China,United States,Large language models,2025,471,False
+China,United States,Large language models,2018,132,True
+China,United States,Large language models,2023,929,True
+China,United States,Large language models,2024,959,False
+China,United States,Large language models,2022,617,True
+China,United States,Large language models,2016,29,True
+China,United States,Large language models,2017,59,True
+China,United States,Large language models,2020,446,True
+France,United States,Large language models,2020,28,True
+France,United States,Large language models,2022,36,True
+France,United States,Large language models,2024,64,False
+France,United States,Large language models,2023,69,True
+France,United States,Large language models,2025,25,False
+France,United States,Large language models,2021,42,True
+Germany,United States,Large language models,2019,37,True
+Germany,United States,Large language models,2022,85,True
+Germany,United States,Large language models,2018,29,True
+Germany,United States,Large language models,2024,159,False
+Germany,United States,Large language models,2025,66,False
+Germany,United States,Large language models,2021,97,True
+Germany,United States,Large language models,2020,70,True
+Germany,United States,Large language models,2023,166,True
+India,United States,Large language models,2025,71,False
+India,United States,Large language models,2020,55,True

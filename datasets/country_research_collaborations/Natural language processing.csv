@@ -1,0 +1,921 @@
+country1,country2,field,year,num_articles,complete
+Canada,Australia,Natural language processing,2023,25,True
+China,Australia,Natural language processing,2022,144,True
+China,Australia,Natural language processing,2023,183,True
+China,Australia,Natural language processing,2019,84,True
+China,Australia,Natural language processing,2016,27,True
+China,Australia,Natural language processing,2024,171,False
+China,Australia,Natural language processing,2017,40,True
+China,Australia,Natural language processing,2021,165,True
+China,Australia,Natural language processing,2020,115,True
+China,Australia,Natural language processing,2018,64,True
+China,Australia,Natural language processing,2025,69,False
+Germany,Australia,Natural language processing,2021,33,True
+Germany,Australia,Natural language processing,2020,25,True
+Germany,Australia,Natural language processing,2022,29,True
+Singapore,Australia,Natural language processing,2023,25,True
+United Kingdom,Australia,Natural language processing,2024,48,False
+United Kingdom,Australia,Natural language processing,2016,26,True
+United Kingdom,Australia,Natural language processing,2023,78,True
+United Kingdom,Australia,Natural language processing,2015,35,True
+United Kingdom,Australia,Natural language processing,2020,36,True
+United Kingdom,Australia,Natural language processing,2019,31,True
+United Kingdom,Australia,Natural language processing,2021,46,True
+United Kingdom,Australia,Natural language processing,2018,29,True
+United Kingdom,Australia,Natural language processing,2022,46,True
+United States,Australia,Natural language processing,2021,91,True
+United States,Australia,Natural language processing,2020,81,True
+United States,Australia,Natural language processing,2016,35,True
+United States,Australia,Natural language processing,2024,95,False
+United States,Australia,Natural language processing,2017,45,True
+United States,Australia,Natural language processing,2019,50,True
+United States,Australia,Natural language processing,2023,119,True
+United States,Australia,Natural language processing,2025,61,False
+United States,Australia,Natural language processing,2015,43,True
+United States,Australia,Natural language processing,2018,51,True
+United States,Australia,Natural language processing,2022,64,True
+Germany,Austria,Natural language processing,2024,44,False
+Germany,Austria,Natural language processing,2020,25,True
+Germany,Austria,Natural language processing,2019,25,True
+Germany,Austria,Natural language processing,2022,29,True
+Germany,Austria,Natural language processing,2023,41,True
+Germany,Austria,Natural language processing,2021,34,True
+United Kingdom,Austria,Natural language processing,2023,28,True
+United States,Austria,Natural language processing,2024,27,False
+United States,Austria,Natural language processing,2023,27,True
+United States,Bangladesh,Natural language processing,2023,28,True
+United States,Bangladesh,Natural language processing,2025,37,False
+United States,Bangladesh,Natural language processing,2024,52,False
+Netherlands,Belgium,Natural language processing,2021,25,True
+Netherlands,Belgium,Natural language processing,2023,27,True
+United Kingdom,Belgium,Natural language processing,2023,26,True
+United States,Belgium,Natural language processing,2022,26,True
+United States,Brazil,Natural language processing,2021,25,True
+United States,Brazil,Natural language processing,2018,26,True
+United States,Brazil,Natural language processing,2019,25,True
+United States,Brazil,Natural language processing,2023,35,True
+Australia,Canada,Natural language processing,2023,25,True
+China,Canada,Natural language processing,2020,87,True
+China,Canada,Natural language processing,2018,39,True
+China,Canada,Natural language processing,2022,76,True
+China,Canada,Natural language processing,2017,31,True
+China,Canada,Natural language processing,2023,92,True
+China,Canada,Natural language processing,2021,97,True
+China,Canada,Natural language processing,2024,83,False
+China,Canada,Natural language processing,2025,38,False
+China,Canada,Natural language processing,2019,50,True
+France,Canada,Natural language processing,2023,26,True
+Germany,Canada,Natural language processing,2022,31,True
+Germany,Canada,Natural language processing,2018,26,True
+Germany,Canada,Natural language processing,2023,36,True
+Germany,Canada,Natural language processing,2017,34,True
+Germany,Canada,Natural language processing,2021,30,True
+Germany,Canada,Natural language processing,2019,35,True
+Germany,Canada,Natural language processing,2020,27,True
+India,Canada,Natural language processing,2023,35,True
+United Kingdom,Canada,Natural language processing,2017,28,True
+United Kingdom,Canada,Natural language processing,2022,56,True
+United Kingdom,Canada,Natural language processing,2021,61,True
+United Kingdom,Canada,Natural language processing,2019,29,True
+United Kingdom,Canada,Natural language processing,2024,47,False
+United Kingdom,Canada,Natural language processing,2023,62,True
+United Kingdom,Canada,Natural language processing,2020,46,True
+United States,Canada,Natural language processing,2018,120,True
+United States,Canada,Natural language processing,2019,132,True
+United States,Canada,Natural language processing,2024,150,False
+United States,Canada,Natural language processing,2016,88,True
+United States,Canada,Natural language processing,2021,187,True
+United States,Canada,Natural language processing,2022,171,True
+United States,Canada,Natural language processing,2015,56,True
+United States,Canada,Natural language processing,2023,214,True
+United States,Canada,Natural language processing,2025,84,False
+United States,Canada,Natural language processing,2020,160,True
+United States,Canada,Natural language processing,2017,98,True
+Australia,China,Natural language processing,2019,84,True
+Australia,China,Natural language processing,2022,144,True
+Australia,China,Natural language processing,2024,171,False
+Australia,China,Natural language processing,2020,115,True
+Australia,China,Natural language processing,2018,64,True
+Australia,China,Natural language processing,2025,69,False
+Australia,China,Natural language processing,2017,40,True
+Australia,China,Natural language processing,2021,165,True
+Australia,China,Natural language processing,2016,27,True
+Australia,China,Natural language processing,2023,183,True
+Canada,China,Natural language processing,2022,76,True
+Canada,China,Natural language processing,2019,50,True
+Canada,China,Natural language processing,2020,87,True
+Canada,China,Natural language processing,2018,39,True
+Canada,China,Natural language processing,2024,83,False
+Canada,China,Natural language processing,2023,92,True
+Canada,China,Natural language processing,2021,97,True
+Canada,China,Natural language processing,2017,31,True
+Canada,China,Natural language processing,2025,38,False
+France,China,Natural language processing,2023,45,True
+Germany,China,Natural language processing,2024,42,False
+Germany,China,Natural language processing,2023,63,True
+Germany,China,Natural language processing,2021,48,True
+Germany,China,Natural language processing,2020,44,True
+Germany,China,Natural language processing,2022,66,True
+Germany,China,Natural language processing,2019,43,True
+Germany,China,Natural language processing,2025,26,False
+India,China,Natural language processing,2023,26,True
+Italy,China,Natural language processing,2023,30,True
+Japan,China,Natural language processing,2021,74,True
+Japan,China,Natural language processing,2016,31,True
+Japan,China,Natural language processing,2018,35,True
+Japan,China,Natural language processing,2022,70,True
+Japan,China,Natural language processing,2015,28,True
+Japan,China,Natural language processing,2020,70,True
+Japan,China,Natural language processing,2025,26,False
+Japan,China,Natural language processing,2017,36,True
+Japan,China,Natural language processing,2023,73,True
+Japan,China,Natural language processing,2024,68,False
+Japan,China,Natural language processing,2019,53,True
+Malaysia,China,Natural language processing,2024,37,False
+Malaysia,China,Natural language processing,2023,32,True
+Malaysia,China,Natural language processing,2025,27,False
+Netherlands,China,Natural language processing,2020,29,True
+Netherlands,China,Natural language processing,2023,33,True
+Netherlands,China,Natural language processing,2021,43,True
+Netherlands,China,Natural language processing,2019,25,True
+Pakistan,China,Natural language processing,2023,25,True
+Pakistan,China,Natural language processing,2021,30,True
+Saudi Arabia,China,Natural language processing,2023,44,True
+Saudi Arabia,China,Natural language processing,2022,30,True
+Saudi Arabia,China,Natural language processing,2024,32,False
+Singapore,China,Natural language processing,2025,81,False
+Singapore,China,Natural language processing,2024,161,False
+Singapore,China,Natural language processing,2023,252,True
+Singapore,China,Natural language processing,2021,126,True
+Singapore,China,Natural language processing,2019,76,True
+Singapore,China,Natural language processing,2015,39,True
+Singapore,China,Natural language processing,2017,47,True
+Singapore,China,Natural language processing,2018,65,True
+Singapore,China,Natural language processing,2020,94,True
+Singapore,China,Natural language processing,2016,61,True
+Singapore,China,Natural language processing,2022,147,True
+South Korea,China,Natural language processing,2023,41,True
+South Korea,China,Natural language processing,2022,33,True
+South Korea,China,Natural language processing,2024,33,False
+Taiwan,China,Natural language processing,2020,29,True
+Taiwan,China,Natural language processing,2024,48,False
+Taiwan,China,Natural language processing,2022,28,True
+Taiwan,China,Natural language processing,2021,29,True
+United Kingdom,China,Natural language processing,2017,65,True
+United Kingdom,China,Natural language processing,2024,166,False
+United Kingdom,China,Natural language processing,2020,139,True
+United Kingdom,China,Natural language processing,2019,88,True
+United Kingdom,China,Natural language processing,2023,254,True
+United Kingdom,China,Natural language processing,2016,58,True
+United Kingdom,China,Natural language processing,2015,50,True
+United Kingdom,China,Natural language processing,2018,70,True
+United Kingdom,China,Natural language processing,2021,153,True
+United Kingdom,China,Natural language processing,2025,84,False
+United Kingdom,China,Natural language processing,2022,189,True
+United States,China,Natural language processing,2021,602,True
+United States,China,Natural language processing,2020,532,True
+United States,China,Natural language processing,2019,428,True
+United States,China,Natural language processing,2023,624,True
+United States,China,Natural language processing,2024,468,False
+United States,China,Natural language processing,2016,199,True
+United States,China,Natural language processing,2018,292,True
+United States,China,Natural language processing,2025,224,False
+United States,China,Natural language processing,2022,500,True
+United States,China,Natural language processing,2017,205,True
+United States,China,Natural language processing,2015,161,True
+Germany,Denmark,Natural language processing,2022,29,True
+Germany,Denmark,Natural language processing,2020,29,True
+Germany,Denmark,Natural language processing,2023,33,True
+Netherlands,Denmark,Natural language processing,2023,25,True
+United Kingdom,Denmark,Natural language processing,2020,30,True
+United Kingdom,Denmark,Natural language processing,2019,33,True
+United States,Denmark,Natural language processing,2021,36,True
+United States,Denmark,Natural language processing,2020,41,True
+United States,Denmark,Natural language processing,2023,38,True
+United States,Denmark,Natural language processing,2022,28,True
+United States,Denmark,Natural language processing,2019,43,True
+Saudi Arabia,Egypt,Natural language processing,2022,51,True
+Saudi Arabia,Egypt,Natural language processing,2024,29,False
+Saudi Arabia,Egypt,Natural language processing,2023,50,True
+Germany,Finland,Natural language processing,2017,25,True
+Canada,France,Natural language processing,2023,26,True
+China,France,Natural language processing,2023,45,True
+Germany,France,Natural language processing,2019,57,True
+Germany,France,Natural language processing,2017,47,True
+Germany,France,Natural language processing,2022,56,True
+Germany,France,Natural language processing,2020,47,True
+Germany,France,Natural language processing,2024,58,False
+Germany,France,Natural language processing,2025,30,False
+Germany,France,Natural language processing,2015,42,True
+Germany,France,Natural language processing,2018,48,True
+Germany,France,Natural language processing,2023,66,True
+Germany,France,Natural language processing,2021,53,True
+Germany,France,Natural language processing,2016,48,True
+Italy,France,Natural language processing,2022,34,True
+Italy,France,Natural language processing,2020,34,True
+Italy,France,Natural language processing,2024,46,False
+Italy,France,Natural language processing,2023,33,True
+Italy,France,Natural language processing,2015,35,True
+Italy,France,Natural language processing,2016,31,True
+Italy,France,Natural language processing,2021,38,True
+Italy,France,Natural language processing,2018,28,True
+Netherlands,France,Natural language processing,2020,25,True
+Netherlands,France,Natural language processing,2021,29,True
+Netherlands,France,Natural language processing,2019,27,True
+Netherlands,France,Natural language processing,2022,32,True
+Netherlands,France,Natural language processing,2024,26,False
+Spain,France,Natural language processing,2021,25,True
+Spain,France,Natural language processing,2016,29,True
+Spain,France,Natural language processing,2022,28,True
+Spain,France,Natural language processing,2020,29,True
+Spain,France,Natural language processing,2024,28,False
+Spain,France,Natural language processing,2015,25,True
+Switzerland,France,Natural language processing,2022,32,True
+Switzerland,France,Natural language processing,2023,27,True
+United Kingdom,France,Natural language processing,2020,53,True
+United Kingdom,France,Natural language processing,2025,28,False
+United Kingdom,France,Natural language processing,2022,56,True
+United Kingdom,France,Natural language processing,2017,40,True
+United Kingdom,France,Natural language processing,2021,57,True
+United Kingdom,France,Natural language processing,2015,35,True
+United Kingdom,France,Natural language processing,2023,82,True
+United Kingdom,France,Natural language processing,2016,42,True
+United Kingdom,France,Natural language processing,2024,49,False
+United Kingdom,France,Natural language processing,2019,54,True
+United Kingdom,France,Natural language processing,2018,57,True
+United States,France,Natural language processing,2022,65,True
+United States,France,Natural language processing,2021,89,True
+United States,France,Natural language processing,2020,81,True
+United States,France,Natural language processing,2016,58,True
+United States,France,Natural language processing,2015,44,True
+United States,France,Natural language processing,2017,63,True
+United States,France,Natural language processing,2019,69,True
+United States,France,Natural language processing,2024,66,False
+United States,France,Natural language processing,2018,69,True
+United States,France,Natural language processing,2025,36,False
+United States,France,Natural language processing,2023,98,True
+Australia,Germany,Natural language processing,2021,33,True
+Australia,Germany,Natural language processing,2020,25,True
+Australia,Germany,Natural language processing,2022,29,True
+Austria,Germany,Natural language processing,2023,41,True
+Austria,Germany,Natural language processing,2024,44,False
+Austria,Germany,Natural language processing,2022,29,True
+Austria,Germany,Natural language processing,2020,25,True
+Austria,Germany,Natural language processing,2021,34,True
+Austria,Germany,Natural language processing,2019,25,True
+Canada,Germany,Natural language processing,2022,31,True
+Canada,Germany,Natural language processing,2023,36,True
+Canada,Germany,Natural language processing,2019,35,True
+Canada,Germany,Natural language processing,2020,27,True
+Canada,Germany,Natural language processing,2021,30,True
+Canada,Germany,Natural language processing,2018,26,True
+Canada,Germany,Natural language processing,2017,34,True
+China,Germany,Natural language processing,2021,48,True
+China,Germany,Natural language processing,2022,66,True
+China,Germany,Natural language processing,2024,42,False
+China,Germany,Natural language processing,2025,26,False
+China,Germany,Natural language processing,2023,63,True
+China,Germany,Natural language processing,2019,43,True
+China,Germany,Natural language processing,2020,44,True
+Denmark,Germany,Natural language processing,2023,33,True
+Denmark,Germany,Natural language processing,2022,29,True
+Denmark,Germany,Natural language processing,2020,29,True
+Finland,Germany,Natural language processing,2017,25,True
+France,Germany,Natural language processing,2018,48,True
+France,Germany,Natural language processing,2020,47,True
+France,Germany,Natural language processing,2025,30,False
+France,Germany,Natural language processing,2015,42,True
+France,Germany,Natural language processing,2016,48,True
+France,Germany,Natural language processing,2022,56,True
+France,Germany,Natural language processing,2017,47,True
+France,Germany,Natural language processing,2023,66,True
+France,Germany,Natural language processing,2024,58,False
+France,Germany,Natural language processing,2019,57,True
+France,Germany,Natural language processing,2021,53,True
+India,Germany,Natural language processing,2021,41,True
+India,Germany,Natural language processing,2022,31,True
+India,Germany,Natural language processing,2020,27,True
+Israel,Germany,Natural language processing,2023,25,True
+Italy,Germany,Natural language processing,2022,36,True
+Italy,Germany,Natural language processing,2018,29,True
+Italy,Germany,Natural language processing,2017,26,True
+Italy,Germany,Natural language processing,2020,38,True
+Italy,Germany,Natural language processing,2024,53,False
+Italy,Germany,Natural language processing,2021,41,True
+Italy,Germany,Natural language processing,2019,28,True
+Italy,Germany,Natural language processing,2023,52,True
+Japan,Germany,Natural language processing,2024,25,False
+Japan,Germany,Natural language processing,2023,27,True
+Japan,Germany,Natural language processing,2019,27,True
+Netherlands,Germany,Natural language processing,2020,78,True
+Netherlands,Germany,Natural language processing,2021,85,True
+Netherlands,Germany,Natural language processing,2015,47,True
+Netherlands,Germany,Natural language processing,2017,51,True
+Netherlands,Germany,Natural language processing,2025,25,False
+Netherlands,Germany,Natural language processing,2016,56,True
+Netherlands,Germany,Natural language processing,2022,76,True
+Netherlands,Germany,Natural language processing,2023,87,True
+Netherlands,Germany,Natural language processing,2024,62,False
+Netherlands,Germany,Natural language processing,2019,63,True
+Netherlands,Germany,Natural language processing,2018,70,True
+Russia,Germany,Natural language processing,2019,26,True
+Russia,Germany,Natural language processing,2021,33,True
+Spain,Germany,Natural language processing,2023,38,True
+Spain,Germany,Natural language processing,2024,42,False
+Spain,Germany,Natural language processing,2021,44,True
+Spain,Germany,Natural language processing,2019,30,True
+Spain,Germany,Natural language processing,2020,47,True
+Spain,Germany,Natural language processing,2022,37,True
+Sweden,Germany,Natural language processing,2023,33,True
+Switzerland,Germany,Natural language processing,2024,53,False
+Switzerland,Germany,Natural language processing,2018,31,True
+Switzerland,Germany,Natural language processing,2019,31,True
+Switzerland,Germany,Natural language processing,2025,47,False
+Switzerland,Germany,Natural language processing,2021,66,True
+Switzerland,Germany,Natural language processing,2020,47,True
+Switzerland,Germany,Natural language processing,2022,50,True
+Switzerland,Germany,Natural language processing,2023,77,True
+Switzerland,Germany,Natural language processing,2016,27,True
+United Kingdom,Germany,Natural language processing,2017,93,True
+United Kingdom,Germany,Natural language processing,2021,128,True
+United Kingdom,Germany,Natural language processing,2022,116,True
+United Kingdom,Germany,Natural language processing,2023,134,True
+United Kingdom,Germany,Natural language processing,2018,95,True
+United Kingdom,Germany,Natural language processing,2020,134,True
+United Kingdom,Germany,Natural language processing,2025,50,False
+United Kingdom,Germany,Natural language processing,2024,104,False
+United Kingdom,Germany,Natural language processing,2019,126,True
+United Kingdom,Germany,Natural language processing,2015,63,True
+United Kingdom,Germany,Natural language processing,2016,78,True
+United States,Germany,Natural language processing,2018,143,True
+United States,Germany,Natural language processing,2021,203,True
+United States,Germany,Natural language processing,2022,175,True
+United States,Germany,Natural language processing,2017,137,True
+United States,Germany,Natural language processing,2019,150,True
+United States,Germany,Natural language processing,2025,77,False
+United States,Germany,Natural language processing,2015,79,True
+United States,Germany,Natural language processing,2024,151,False
+United States,Germany,Natural language processing,2016,103,True
+United States,Germany,Natural language processing,2023,226,True
+United States,Germany,Natural language processing,2020,186,True
+Canada,India,Natural language processing,2023,35,True
+China,India,Natural language processing,2023,26,True
+Germany,India,Natural language processing,2020,27,True
+Germany,India,Natural language processing,2022,31,True
+Germany,India,Natural language processing,2021,41,True
+Iraq,India,Natural language processing,2025,34,False
+Iraq,India,Natural language processing,2024,44,False
+Iraq,India,Natural language processing,2023,27,True
+Malaysia,India,Natural language processing,2024,32,False
+Malaysia,India,Natural language processing,2023,25,True
+Saudi Arabia,India,Natural language processing,2022,53,True
+Saudi Arabia,India,Natural language processing,2023,41,True
+Saudi Arabia,India,Natural language processing,2024,53,False
+Saudi Arabia,India,Natural language processing,2025,28,False
+South Korea,India,Natural language processing,2023,27,True
+United Arab Emirates,India,Natural language processing,2023,29,True
+United Kingdom,India,Natural language processing,2022,42,True
+United Kingdom,India,Natural language processing,2024,50,False
+United Kingdom,India,Natural language processing,2023,69,True
+United Kingdom,India,Natural language processing,2025,25,False
+United Kingdom,India,Natural language processing,2021,46,True
+United Kingdom,India,Natural language processing,2020,27,True
+United States,India,Natural language processing,2023,204,True
+United States,India,Natural language processing,2017,60,True
+United States,India,Natural language processing,2025,98,False
+United States,India,Natural language processing,2022,153,True
+United States,India,Natural language processing,2024,177,False
+United States,India,Natural language processing,2021,198,True
+United States,India,Natural language processing,2020,136,True
+United States,India,Natural language processing,2019,102,True
+United States,India,Natural language processing,2016,60,True
+United States,India,Natural language processing,2018,82,True
+Malaysia,Indonesia,Natural language processing,2023,26,True
+Malaysia,Indonesia,Natural language processing,2024,27,False
+India,Iraq,Natural language processing,2024,44,False
+India,Iraq,Natural language processing,2025,34,False
+India,Iraq,Natural language processing,2023,27,True
+United Kingdom,Ireland,Natural language processing,2023,29,True
+United Kingdom,Ireland,Natural language processing,2021,26,True
+United Kingdom,Ireland,Natural language processing,2022,30,True
+United States,Ireland,Natural language processing,2023,35,True
+Germany,Israel,Natural language processing,2023,25,True
+United Kingdom,Israel,Natural language processing,2023,29,True
+United Kingdom,Israel,Natural language processing,2021,26,True
+United Kingdom,Israel,Natural language processing,2020,38,True
+United States,Israel,Natural language processing,2022,67,True
+United States,Israel,Natural language processing,2021,126,True
+United States,Israel,Natural language processing,2020,118,True
+United States,Israel,Natural language processing,2019,100,True
+United States,Israel,Natural language processing,2024,73,False
+United States,Israel,Natural language processing,2017,51,True
+United States,Israel,Natural language processing,2015,27,True
+United States,Israel,Natural language processing,2018,51,True
+United States,Israel,Natural language processing,2016,60,True
+United States,Israel,Natural language processing,2023,79,True
+China,Italy,Natural language processing,2023,30,True
+France,Italy,Natural language processing,2018,28,True
+France,Italy,Natural language processing,2022,34,True
+France,Italy,Natural language processing,2015,35,True
+France,Italy,Natural language processing,2023,33,True
+France,Italy,Natural language processing,2024,46,False
+France,Italy,Natural language processing,2016,31,True
+France,Italy,Natural language processing,2021,38,True
+France,Italy,Natural language processing,2020,34,True
+Germany,Italy,Natural language processing,2023,52,True
+Germany,Italy,Natural language processing,2024,53,False
+Germany,Italy,Natural language processing,2020,38,True
+Germany,Italy,Natural language processing,2018,29,True
+Germany,Italy,Natural language processing,2019,28,True
+Germany,Italy,Natural language processing,2021,41,True
+Germany,Italy,Natural language processing,2017,26,True
+Germany,Italy,Natural language processing,2022,36,True
+Netherlands,Italy,Natural language processing,2023,33,True
+Netherlands,Italy,Natural language processing,2021,39,True
+Netherlands,Italy,Natural language processing,2020,46,True
+Spain,Italy,Natural language processing,2016,26,True
+Spain,Italy,Natural language processing,2018,30,True
+Spain,Italy,Natural language processing,2021,25,True
+Spain,Italy,Natural language processing,2023,27,True
+Spain,Italy,Natural language processing,2024,25,False
+Spain,Italy,Natural language processing,2022,30,True
+Switzerland,Italy,Natural language processing,2023,26,True
+United Kingdom,Italy,Natural language processing,2020,44,True
+United Kingdom,Italy,Natural language processing,2021,58,True
+United Kingdom,Italy,Natural language processing,2024,61,False
+United Kingdom,Italy,Natural language processing,2016,39,True
+United Kingdom,Italy,Natural language processing,2023,60,True
+United Kingdom,Italy,Natural language processing,2018,36,True
+United Kingdom,Italy,Natural language processing,2025,39,False
+United Kingdom,Italy,Natural language processing,2019,35,True
+United Kingdom,Italy,Natural language processing,2022,38,True
+United States,Italy,Natural language processing,2019,45,True
+United States,Italy,Natural language processing,2017,27,True
+United States,Italy,Natural language processing,2021,61,True
+United States,Italy,Natural language processing,2022,57,True
+United States,Italy,Natural language processing,2018,38,True
+United States,Italy,Natural language processing,2020,56,True
+United States,Italy,Natural language processing,2025,35,False
+United States,Italy,Natural language processing,2024,63,False
+United States,Italy,Natural language processing,2023,68,True
+China,Japan,Natural language processing,2025,26,False
+China,Japan,Natural language processing,2021,74,True
+China,Japan,Natural language processing,2022,70,True
+China,Japan,Natural language processing,2024,68,False
+China,Japan,Natural language processing,2015,28,True
+China,Japan,Natural language processing,2016,31,True
+China,Japan,Natural language processing,2018,35,True
+China,Japan,Natural language processing,2023,73,True
+China,Japan,Natural language processing,2017,36,True
+China,Japan,Natural language processing,2019,53,True
+China,Japan,Natural language processing,2020,70,True
+Germany,Japan,Natural language processing,2019,27,True
+Germany,Japan,Natural language processing,2024,25,False
+Germany,Japan,Natural language processing,2023,27,True
+United Kingdom,Japan,Natural language processing,2018,27,True
+United Kingdom,Japan,Natural language processing,2022,25,True
+United Kingdom,Japan,Natural language processing,2021,42,True
+United Kingdom,Japan,Natural language processing,2019,34,True
+United Kingdom,Japan,Natural language processing,2023,42,True
+United Kingdom,Japan,Natural language processing,2017,36,True
+United Kingdom,Japan,Natural language processing,2020,31,True
+United States,Japan,Natural language processing,2018,70,True
+United States,Japan,Natural language processing,2020,68,True
+United States,Japan,Natural language processing,2021,69,True
+United States,Japan,Natural language processing,2016,56,True
+United States,Japan,Natural language processing,2015,52,True
+United States,Japan,Natural language processing,2019,76,True
+United States,Japan,Natural language processing,2022,83,True
+United States,Japan,Natural language processing,2023,74,True
+United States,Japan,Natural language processing,2024,50,False
+United States,Japan,Natural language processing,2017,61,True
+Saudi Arabia,Jordan,Natural language processing,2024,25,False
+China,Malaysia,Natural language processing,2025,27,False
+China,Malaysia,Natural language processing,2024,37,False
+China,Malaysia,Natural language processing,2023,32,True
+India,Malaysia,Natural language processing,2024,32,False
+India,Malaysia,Natural language processing,2023,25,True
+Indonesia,Malaysia,Natural language processing,2023,26,True
+Indonesia,Malaysia,Natural language processing,2024,27,False
+Belgium,Netherlands,Natural language processing,2021,25,True
+Belgium,Netherlands,Natural language processing,2023,27,True
+China,Netherlands,Natural language processing,2021,43,True
+China,Netherlands,Natural language processing,2023,33,True
+China,Netherlands,Natural language processing,2020,29,True
+China,Netherlands,Natural language processing,2019,25,True
+Denmark,Netherlands,Natural language processing,2023,25,True
+France,Netherlands,Natural language processing,2019,27,True
+France,Netherlands,Natural language processing,2020,25,True
+France,Netherlands,Natural language processing,2021,29,True
+France,Netherlands,Natural language processing,2022,32,True
+France,Netherlands,Natural language processing,2024,26,False
+Germany,Netherlands,Natural language processing,2023,87,True
+Germany,Netherlands,Natural language processing,2022,76,True
+Germany,Netherlands,Natural language processing,2016,56,True
+Germany,Netherlands,Natural language processing,2018,70,True
+Germany,Netherlands,Natural language processing,2025,25,False
+Germany,Netherlands,Natural language processing,2017,51,True
+Germany,Netherlands,Natural language processing,2015,47,True
+Germany,Netherlands,Natural language processing,2024,62,False
+Germany,Netherlands,Natural language processing,2020,78,True
+Germany,Netherlands,Natural language processing,2021,85,True
+Germany,Netherlands,Natural language processing,2019,63,True
+Italy,Netherlands,Natural language processing,2021,39,True
+Italy,Netherlands,Natural language processing,2023,33,True
+Italy,Netherlands,Natural language processing,2020,46,True
+United Kingdom,Netherlands,Natural language processing,2025,32,False
+United Kingdom,Netherlands,Natural language processing,2016,39,True
+United Kingdom,Netherlands,Natural language processing,2018,75,True
+United Kingdom,Netherlands,Natural language processing,2019,93,True
+United Kingdom,Netherlands,Natural language processing,2022,75,True
+United Kingdom,Netherlands,Natural language processing,2020,82,True
+United Kingdom,Netherlands,Natural language processing,2017,50,True
+United Kingdom,Netherlands,Natural language processing,2024,55,False
+United Kingdom,Netherlands,Natural language processing,2023,73,True
+United Kingdom,Netherlands,Natural language processing,2021,92,True
+United States,Netherlands,Natural language processing,2022,71,True
+United States,Netherlands,Natural language processing,2015,26,True
+United States,Netherlands,Natural language processing,2019,62,True
+United States,Netherlands,Natural language processing,2018,67,True
+United States,Netherlands,Natural language processing,2025,26,False
+United States,Netherlands,Natural language processing,2017,50,True
+United States,Netherlands,Natural language processing,2024,67,False
+United States,Netherlands,Natural language processing,2023,77,True
+United States,Netherlands,Natural language processing,2016,44,True
+United States,Netherlands,Natural language processing,2021,104,True
+United States,Netherlands,Natural language processing,2020,95,True
+United States,Norway,Natural language processing,2022,37,True
+United States,Norway,Natural language processing,2021,31,True
+United States,Norway,Natural language processing,2023,34,True
+United States,Norway,Natural language processing,2024,25,False
+China,Pakistan,Natural language processing,2023,25,True
+China,Pakistan,Natural language processing,2021,30,True
+Saudi Arabia,Pakistan,Natural language processing,2024,62,False
+Saudi Arabia,Pakistan,Natural language processing,2023,73,True
+Saudi Arabia,Pakistan,Natural language processing,2025,45,False
+Saudi Arabia,Pakistan,Natural language processing,2020,25,True
+Saudi Arabia,Pakistan,Natural language processing,2021,33,True
+Saudi Arabia,Pakistan,Natural language processing,2022,54,True
+South Korea,Pakistan,Natural language processing,2022,30,True
+United Kingdom,Pakistan,Natural language processing,2024,30,False
+United States,Romania,Natural language processing,2020,35,True
+Germany,Russia,Natural language processing,2019,26,True
+Germany,Russia,Natural language processing,2021,33,True
+United States,Russia,Natural language processing,2021,38,True
+China,Saudi Arabia,Natural language processing,2022,30,True
+China,Saudi Arabia,Natural language processing,2023,44,True
+China,Saudi Arabia,Natural language processing,2024,32,False
+Egypt,Saudi Arabia,Natural language processing,2024,29,False
+Egypt,Saudi Arabia,Natural language processing,2022,51,True
+Egypt,Saudi Arabia,Natural language processing,2023,50,True
+India,Saudi Arabia,Natural language processing,2022,53,True
+India,Saudi Arabia,Natural language processing,2023,41,True
+India,Saudi Arabia,Natural language processing,2024,53,False
+India,Saudi Arabia,Natural language processing,2025,28,False
+Jordan,Saudi Arabia,Natural language processing,2024,25,False
+Pakistan,Saudi Arabia,Natural language processing,2023,73,True
+Pakistan,Saudi Arabia,Natural language processing,2022,54,True
+Pakistan,Saudi Arabia,Natural language processing,2025,45,False
+Pakistan,Saudi Arabia,Natural language processing,2024,62,False
+Pakistan,Saudi Arabia,Natural language processing,2021,33,True
+Pakistan,Saudi Arabia,Natural language processing,2020,25,True
+United Kingdom,Saudi Arabia,Natural language processing,2021,35,True
+United Kingdom,Saudi Arabia,Natural language processing,2024,38,False
+United Kingdom,Saudi Arabia,Natural language processing,2023,47,True
+United Kingdom,Saudi Arabia,Natural language processing,2022,41,True
+United States,Saudi Arabia,Natural language processing,2024,42,False
+United States,Saudi Arabia,Natural language processing,2023,49,True
+United States,Saudi Arabia,Natural language processing,2021,31,True
+United States,Saudi Arabia,Natural language processing,2025,33,False
+United States,Saudi Arabia,Natural language processing,2022,42,True
+Australia,Singapore,Natural language processing,2023,25,True
+China,Singapore,Natural language processing,2024,161,False
+China,Singapore,Natural language processing,2021,126,True
+China,Singapore,Natural language processing,2023,252,True
+China,Singapore,Natural language processing,2022,147,True
+China,Singapore,Natural language processing,2015,39,True
+China,Singapore,Natural language processing,2016,61,True
+China,Singapore,Natural language processing,2020,94,True
+China,Singapore,Natural language processing,2017,47,True
+China,Singapore,Natural language processing,2019,76,True
+China,Singapore,Natural language processing,2018,65,True
+China,Singapore,Natural language processing,2025,81,False
+United Kingdom,Singapore,Natural language processing,2023,45,True
+United Kingdom,Singapore,Natural language processing,2024,30,False
+United States,Singapore,Natural language processing,2021,73,True
+United States,Singapore,Natural language processing,2017,29,True
+United States,Singapore,Natural language processing,2022,56,True
+United States,Singapore,Natural language processing,2019,49,True
+United States,Singapore,Natural language processing,2016,31,True
+United States,Singapore,Natural language processing,2015,28,True
+United States,Singapore,Natural language processing,2025,41,False
+United States,Singapore,Natural language processing,2018,41,True
+United States,Singapore,Natural language processing,2024,66,False
+United States,Singapore,Natural language processing,2023,96,True
+United States,Singapore,Natural language processing,2020,63,True
+China,South Korea,Natural language processing,2023,41,True
+China,South Korea,Natural language processing,2024,33,False
+China,South Korea,Natural language processing,2022,33,True
+India,South Korea,Natural language processing,2023,27,True
+Pakistan,South Korea,Natural language processing,2022,30,True
+United States,South Korea,Natural language processing,2022,81,True
+United States,South Korea,Natural language processing,2019,37,True
+United States,South Korea,Natural language processing,2024,82,False
+United States,South Korea,Natural language processing,2020,57,True
+United States,South Korea,Natural language processing,2023,109,True
+United States,South Korea,Natural language processing,2018,31,True
+United States,South Korea,Natural language processing,2025,41,False
+United States,South Korea,Natural language processing,2021,73,True
+France,Spain,Natural language processing,2022,28,True
+France,Spain,Natural language processing,2024,28,False
+France,Spain,Natural language processing,2021,25,True
+France,Spain,Natural language processing,2016,29,True
+France,Spain,Natural language processing,2015,25,True
+France,Spain,Natural language processing,2020,29,True
+Germany,Spain,Natural language processing,2023,38,True
+Germany,Spain,Natural language processing,2019,30,True
+Germany,Spain,Natural language processing,2022,37,True
+Germany,Spain,Natural language processing,2021,44,True
+Germany,Spain,Natural language processing,2024,42,False
+Germany,Spain,Natural language processing,2020,47,True
+Italy,Spain,Natural language processing,2023,27,True
+Italy,Spain,Natural language processing,2024,25,False
+Italy,Spain,Natural language processing,2022,30,True
+Italy,Spain,Natural language processing,2016,26,True
+Italy,Spain,Natural language processing,2018,30,True
+Italy,Spain,Natural language processing,2021,25,True
+United Kingdom,Spain,Natural language processing,2017,35,True
+United Kingdom,Spain,Natural language processing,2025,27,False
+United Kingdom,Spain,Natural language processing,2016,32,True
+United Kingdom,Spain,Natural language processing,2019,47,True
+United Kingdom,Spain,Natural language processing,2022,47,True
+United Kingdom,Spain,Natural language processing,2015,43,True
+United Kingdom,Spain,Natural language processing,2018,43,True
+United Kingdom,Spain,Natural language processing,2024,47,False
+United Kingdom,Spain,Natural language processing,2021,48,True
+United Kingdom,Spain,Natural language processing,2023,49,True
+United Kingdom,Spain,Natural language processing,2020,38,True
+United States,Spain,Natural language processing,2025,25,False
+United States,Spain,Natural language processing,2023,58,True
+United States,Spain,Natural language processing,2021,55,True
+United States,Spain,Natural language processing,2022,49,True
+United States,Spain,Natural language processing,2017,32,True
+United States,Spain,Natural language processing,2016,45,True
+United States,Spain,Natural language processing,2019,46,True
+United States,Spain,Natural language processing,2024,55,False
+United States,Spain,Natural language processing,2020,47,True
+United States,Spain,Natural language processing,2015,36,True
+United States,Spain,Natural language processing,2018,28,True
+Germany,Sweden,Natural language processing,2023,33,True
+United Kingdom,Sweden,Natural language processing,2023,27,True
+United Kingdom,Sweden,Natural language processing,2018,30,True
+United States,Sweden,Natural language processing,2022,33,True
+United States,Sweden,Natural language processing,2023,43,True
+United States,Sweden,Natural language processing,2021,36,True
+France,Switzerland,Natural language processing,2022,32,True
+France,Switzerland,Natural language processing,2023,27,True
+Germany,Switzerland,Natural language processing,2016,27,True
+Germany,Switzerland,Natural language processing,2025,47,False
+Germany,Switzerland,Natural language processing,2024,53,False
+Germany,Switzerland,Natural language processing,2018,31,True
+Germany,Switzerland,Natural language processing,2019,31,True
+Germany,Switzerland,Natural language processing,2023,77,True
+Germany,Switzerland,Natural language processing,2022,50,True
+Germany,Switzerland,Natural language processing,2021,66,True
+Germany,Switzerland,Natural language processing,2020,47,True
+Italy,Switzerland,Natural language processing,2023,26,True
+United Kingdom,Switzerland,Natural language processing,2019,46,True
+United Kingdom,Switzerland,Natural language processing,2021,72,True
+United Kingdom,Switzerland,Natural language processing,2024,35,False
+United Kingdom,Switzerland,Natural language processing,2020,56,True
+United Kingdom,Switzerland,Natural language processing,2023,65,True
+United Kingdom,Switzerland,Natural language processing,2022,44,True
+United States,Switzerland,Natural language processing,2021,66,True
+United States,Switzerland,Natural language processing,2024,47,False
+United States,Switzerland,Natural language processing,2022,64,True
+United States,Switzerland,Natural language processing,2023,90,True
+United States,Switzerland,Natural language processing,2025,37,False
+United States,Switzerland,Natural language processing,2019,49,True
+United States,Switzerland,Natural language processing,2020,53,True
+China,Taiwan,Natural language processing,2020,29,True
+China,Taiwan,Natural language processing,2022,28,True
+China,Taiwan,Natural language processing,2024,48,False
+China,Taiwan,Natural language processing,2021,29,True
+United States,Taiwan,Natural language processing,2020,33,True
+United States,Taiwan,Natural language processing,2022,35,True
+United States,Taiwan,Natural language processing,2021,32,True
+United States,Taiwan,Natural language processing,2023,39,True
+United States,Taiwan,Natural language processing,2024,54,False
+India,United Arab Emirates,Natural language processing,2023,29,True
+United States,United Arab Emirates,Natural language processing,2021,25,True
+United States,United Arab Emirates,Natural language processing,2023,38,True
+United States,United Arab Emirates,Natural language processing,2024,30,False
+United States,United Arab Emirates,Natural language processing,2022,28,True
+Australia,United Kingdom,Natural language processing,2024,48,False
+Australia,United Kingdom,Natural language processing,2015,35,True
+Australia,United Kingdom,Natural language processing,2023,78,True
+Australia,United Kingdom,Natural language processing,2020,36,True
+Australia,United Kingdom,Natural language processing,2016,26,True
+Australia,United Kingdom,Natural language processing,2022,46,True
+Australia,United Kingdom,Natural language processing,2021,46,True
+Australia,United Kingdom,Natural language processing,2018,29,True
+Australia,United Kingdom,Natural language processing,2019,31,True
+Austria,United Kingdom,Natural language processing,2023,28,True
+Belgium,United Kingdom,Natural language processing,2023,26,True
+Canada,United Kingdom,Natural language processing,2024,47,False
+Canada,United Kingdom,Natural language processing,2023,62,True
+Canada,United Kingdom,Natural language processing,2021,61,True
+Canada,United Kingdom,Natural language processing,2022,56,True
+Canada,United Kingdom,Natural language processing,2017,28,True
+Canada,United Kingdom,Natural language processing,2020,46,True
+Canada,United Kingdom,Natural language processing,2019,29,True
+China,United Kingdom,Natural language processing,2021,153,True
+China,United Kingdom,Natural language processing,2017,65,True
+China,United Kingdom,Natural language processing,2024,166,False
+China,United Kingdom,Natural language processing,2018,70,True
+China,United Kingdom,Natural language processing,2025,84,False
+China,United Kingdom,Natural language processing,2020,139,True
+China,United Kingdom,Natural language processing,2022,189,True
+China,United Kingdom,Natural language processing,2023,254,True
+China,United Kingdom,Natural language processing,2019,88,True
+China,United Kingdom,Natural language processing,2016,58,True
+China,United Kingdom,Natural language processing,2015,50,True
+Denmark,United Kingdom,Natural language processing,2020,30,True
+Denmark,United Kingdom,Natural language processing,2019,33,True
+France,United Kingdom,Natural language processing,2017,40,True
+France,United Kingdom,Natural language processing,2016,42,True
+France,United Kingdom,Natural language processing,2019,54,True
+France,United Kingdom,Natural language processing,2015,35,True
+France,United Kingdom,Natural language processing,2022,56,True
+France,United Kingdom,Natural language processing,2024,49,False
+France,United Kingdom,Natural language processing,2018,57,True
+France,United Kingdom,Natural language processing,2020,53,True
+France,United Kingdom,Natural language processing,2025,28,False
+France,United Kingdom,Natural language processing,2021,57,True
+France,United Kingdom,Natural language processing,2023,82,True
+Germany,United Kingdom,Natural language processing,2016,78,True
+Germany,United Kingdom,Natural language processing,2022,116,True
+Germany,United Kingdom,Natural language processing,2023,134,True
+Germany,United Kingdom,Natural language processing,2018,95,True
+Germany,United Kingdom,Natural language processing,2025,50,False
+Germany,United Kingdom,Natural language processing,2024,104,False
+Germany,United Kingdom,Natural language processing,2015,63,True
+Germany,United Kingdom,Natural language processing,2019,126,True
+Germany,United Kingdom,Natural language processing,2020,134,True
+Germany,United Kingdom,Natural language processing,2017,93,True
+Germany,United Kingdom,Natural language processing,2021,128,True
+India,United Kingdom,Natural language processing,2024,50,False
+India,United Kingdom,Natural language processing,2022,42,True
+India,United Kingdom,Natural language processing,2021,46,True
+India,United Kingdom,Natural language processing,2020,27,True
+India,United Kingdom,Natural language processing,2025,25,False
+India,United Kingdom,Natural language processing,2023,69,True
+Ireland,United Kingdom,Natural language processing,2023,29,True
+Ireland,United Kingdom,Natural language processing,2021,26,True
+Ireland,United Kingdom,Natural language processing,2022,30,True
+Israel,United Kingdom,Natural language processing,2023,29,True
+Israel,United Kingdom,Natural language processing,2020,38,True
+Israel,United Kingdom,Natural language processing,2021,26,True
+Italy,United Kingdom,Natural language processing,2021,58,True
+Italy,United Kingdom,Natural language processing,2025,39,False
+Italy,United Kingdom,Natural language processing,2022,38,True
+Italy,United Kingdom,Natural language processing,2023,60,True
+Italy,United Kingdom,Natural language processing,2016,39,True
+Italy,United Kingdom,Natural language processing,2018,36,True
+Italy,United Kingdom,Natural language processing,2024,61,False
+Italy,United Kingdom,Natural language processing,2020,44,True
+Italy,United Kingdom,Natural language processing,2019,35,True
+Japan,United Kingdom,Natural language processing,2018,27,True
+Japan,United Kingdom,Natural language processing,2022,25,True
+Japan,United Kingdom,Natural language processing,2020,31,True
+Japan,United Kingdom,Natural language processing,2023,42,True
+Japan,United Kingdom,Natural language processing,2019,34,True
+Japan,United Kingdom,Natural language processing,2021,42,True
+Japan,United Kingdom,Natural language processing,2017,36,True
+Netherlands,United Kingdom,Natural language processing,2019,93,True
+Netherlands,United Kingdom,Natural language processing,2020,82,True
+Netherlands,United Kingdom,Natural language processing,2023,73,True
+Netherlands,United Kingdom,Natural language processing,2025,32,False
+Netherlands,United Kingdom,Natural language processing,2024,55,False
+Netherlands,United Kingdom,Natural language processing,2016,39,True
+Netherlands,United Kingdom,Natural language processing,2018,75,True
+Netherlands,United Kingdom,Natural language processing,2017,50,True
+Netherlands,United Kingdom,Natural language processing,2022,75,True
+Netherlands,United Kingdom,Natural language processing,2021,92,True
+Pakistan,United Kingdom,Natural language processing,2024,30,False
+Saudi Arabia,United Kingdom,Natural language processing,2023,47,True
+Saudi Arabia,United Kingdom,Natural language processing,2024,38,False
+Saudi Arabia,United Kingdom,Natural language processing,2021,35,True
+Saudi Arabia,United Kingdom,Natural language processing,2022,41,True
+Singapore,United Kingdom,Natural language processing,2023,45,True
+Singapore,United Kingdom,Natural language processing,2024,30,False
+Spain,United Kingdom,Natural language processing,2017,35,True
+Spain,United Kingdom,Natural language processing,2018,43,True
+Spain,United Kingdom,Natural language processing,2024,47,False
+Spain,United Kingdom,Natural language processing,2025,27,False
+Spain,United Kingdom,Natural language processing,2019,47,True
+Spain,United Kingdom,Natural language processing,2021,48,True
+Spain,United Kingdom,Natural language processing,2022,47,True
+Spain,United Kingdom,Natural language processing,2016,32,True
+Spain,United Kingdom,Natural language processing,2020,38,True
+Spain,United Kingdom,Natural language processing,2015,43,True
+Spain,United Kingdom,Natural language processing,2023,49,True
+Sweden,United Kingdom,Natural language processing,2018,30,True
+Sweden,United Kingdom,Natural language processing,2023,27,True
+Switzerland,United Kingdom,Natural language processing,2024,35,False
+Switzerland,United Kingdom,Natural language processing,2022,44,True
+Switzerland,United Kingdom,Natural language processing,2023,65,True
+Switzerland,United Kingdom,Natural language processing,2021,72,True
+Switzerland,United Kingdom,Natural language processing,2020,56,True
+Switzerland,United Kingdom,Natural language processing,2019,46,True
+United States,United Kingdom,Natural language processing,2015,125,True
+United States,United Kingdom,Natural language processing,2023,335,True
+United States,United Kingdom,Natural language processing,2024,233,False
+United States,United Kingdom,Natural language processing,2025,118,False
+United States,United Kingdom,Natural language processing,2018,183,True
+United States,United Kingdom,Natural language processing,2016,195,True
+United States,United Kingdom,Natural language processing,2017,156,True
+United States,United Kingdom,Natural language processing,2019,218,True
+United States,United Kingdom,Natural language processing,2020,284,True
+United States,United Kingdom,Natural language processing,2022,300,True
+United States,United Kingdom,Natural language processing,2021,349,True
+Australia,United States,Natural language processing,2016,35,True
+Australia,United States,Natural language processing,2019,50,True
+Australia,United States,Natural language processing,2024,95,False
+Australia,United States,Natural language processing,2023,119,True
+Australia,United States,Natural language processing,2017,45,True
+Australia,United States,Natural language processing,2022,64,True
+Australia,United States,Natural language processing,2018,51,True
+Australia,United States,Natural language processing,2020,81,True
+Australia,United States,Natural language processing,2021,91,True
+Australia,United States,Natural language processing,2025,61,False
+Australia,United States,Natural language processing,2015,43,True
+Austria,United States,Natural language processing,2024,27,False
+Austria,United States,Natural language processing,2023,27,True
+Bangladesh,United States,Natural language processing,2023,28,True
+Bangladesh,United States,Natural language processing,2024,52,False
+Bangladesh,United States,Natural language processing,2025,37,False
+Belgium,United States,Natural language processing,2022,26,True
+Brazil,United States,Natural language processing,2018,26,True
+Brazil,United States,Natural language processing,2021,25,True
+Brazil,United States,Natural language processing,2019,25,True
+Brazil,United States,Natural language processing,2023,35,True
+Canada,United States,Natural language processing,2017,98,True
+Canada,United States,Natural language processing,2023,214,True
+Canada,United States,Natural language processing,2022,171,True
+Canada,United States,Natural language processing,2021,187,True
+Canada,United States,Natural language processing,2024,150,False
+Canada,United States,Natural language processing,2016,88,True
+Canada,United States,Natural language processing,2018,120,True
+Canada,United States,Natural language processing,2019,132,True
+Canada,United States,Natural language processing,2020,160,True
+Canada,United States,Natural language processing,2015,56,True
+Canada,United States,Natural language processing,2025,84,False
+China,United States,Natural language processing,2021,602,True
+China,United States,Natural language processing,2017,205,True
+China,United States,Natural language processing,2025,224,False
+China,United States,Natural language processing,2024,468,False
+China,United States,Natural language processing,2020,532,True
+China,United States,Natural language processing,2022,500,True
+China,United States,Natural language processing,2016,199,True
+China,United States,Natural language processing,2023,624,True
+China,United States,Natural language processing,2019,428,True
+China,United States,Natural language processing,2018,292,True
+China,United States,Natural language processing,2015,161,True
+Denmark,United States,Natural language processing,2023,38,True
+Denmark,United States,Natural language processing,2020,41,True
+Denmark,United States,Natural language processing,2021,36,True
+Denmark,United States,Natural language processing,2022,28,True
+Denmark,United States,Natural language processing,2019,43,True
+France,United States,Natural language processing,2018,69,True
+France,United States,Natural language processing,2022,65,True
+France,United States,Natural language processing,2015,44,True
+France,United States,Natural language processing,2017,63,True
+France,United States,Natural language processing,2016,58,True
+France,United States,Natural language processing,2024,66,False
+France,United States,Natural language processing,2025,36,False
+France,United States,Natural language processing,2019,69,True
+France,United States,Natural language processing,2023,98,True
+France,United States,Natural language processing,2021,89,True
+France,United States,Natural language processing,2020,81,True
+Germany,United States,Natural language processing,2022,175,True
+Germany,United States,Natural language processing,2023,226,True
+Germany,United States,Natural language processing,2016,103,True
+Germany,United States,Natural language processing,2025,77,False
+Germany,United States,Natural language processing,2018,143,True
+Germany,United States,Natural language processing,2020,186,True
+Germany,United States,Natural language processing,2017,137,True
+Germany,United States,Natural language processing,2024,151,False
+Germany,United States,Natural language processing,2019,150,True
+Germany,United States,Natural language processing,2021,203,True
+Germany,United States,Natural language processing,2015,79,True
+India,United States,Natural language processing,2022,153,True
+India,United States,Natural language processing,2017,60,True
+India,United States,Natural language processing,2016,60,True
+India,United States,Natural language processing,2019,102,True
+India,United States,Natural language processing,2018,82,True
+India,United States,Natural language processing,2023,204,True
+India,United States,Natural language processing,2025,98,False
+India,United States,Natural language processing,2024,177,False
+India,United States,Natural language processing,2021,198,True
+India,United States,Natural language processing,2020,136,True

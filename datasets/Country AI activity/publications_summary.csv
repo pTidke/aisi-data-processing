@@ -1,0 +1,1059 @@
+country,field,num_articles,num_citations
+Africa,AI Safety,766,6430
+Finland,AI Safety,275,12715
+Estonia,AI Safety,53,1108
+Ukraine,AI Safety,37,108
+Liechtenstein,AI Safety,18,1015
+Saudi Arabia,AI Safety,416,8676
+Brazil,AI Safety,534,10720
+Malaysia,AI Safety,272,2603
+Russia,AI Safety,179,2658
+China (mainland),AI Safety,9655,306188
+Pakistan,AI Safety,213,4396
+Greece,AI Safety,310,6089
+Argentina,AI Safety,49,1746
+ASEAN,AI Safety,1883,74104
+India,AI Safety,3324,37913
+Chile,AI Safety,81,998
+Nigeria,AI Safety,85,838
+Indonesia,AI Safety,170,926
+Austria,AI Safety,506,12343
+Czechia,AI Safety,153,3252
+Bulgaria,AI Safety,28,223
+United Kingdom,AI Safety,3966,194558
+South and Central America,AI Safety,777,15491
+Oceania,AI Safety,1999,96571
+Australia,AI Safety,1887,94132
+Japan,AI Safety,1403,38701
+Philippines,AI Safety,73,395
+NATO,AI Safety,32067,1696104
+Malta,AI Safety,37,998
+Asia,AI Safety,19251,544147
+Denmark,AI Safety,391,11527
+OECD,AI Safety,36916,1836259
+Mexico,AI Safety,129,4360
+Oman,AI Safety,31,84
+Europe,AI Safety,16033,613096
+South Korea,AI Safety,1319,69017
+Slovenia,AI Safety,48,2062
+Singapore,AI Safety,1148,68148
+Iraq,AI Safety,85,410
+Quad,AI Safety,24068,1404903
+Romania,AI Safety,125,3271
+EU,AI Safety,11775,409867
+Turkey,AI Safety,319,7004
+Canada,AI Safety,2233,95329
+Taiwan,AI Safety,355,10409
+Luxembourg,AI Safety,94,1713
+Italy,AI Safety,1579,42484
+Switzerland,AI Safety,880,51824
+France,AI Safety,1805,105247
+Sweden,AI Safety,703,18971
+New Zealand,AI Safety,136,3550
+Bangladesh,AI Safety,189,2144
+Norway,AI Safety,311,7252
+Belgium,AI Safety,452,15522
+North America and the Caribbean,AI Safety,20215,1349477
+Kazakhstan,AI Safety,30,194
+Portugal,AI Safety,285,3981
+Qatar,AI Safety,103,4707
+Tunisia,AI Safety,96,541
+Netherlands,AI Safety,1172,36837
+Spain,AI Safety,910,30511
+Vietnam,AI Safety,154,1890
+Sri Lanka,AI Safety,67,240
+Poland,AI Safety,215,6142
+Iran,AI Safety,187,2031
+Jordan,AI Safety,113,1267
+Algeria,AI Safety,86,677
+Global Partnership on Artificial Intelligence,AI Safety,38997,1852954
+Israel,AI Safety,605,43219
+Morocco,AI Safety,141,702
+United Arab Emirates,AI Safety,349,9928
+South Africa,AI Safety,126,1636
+Lebanon,AI Safety,50,1056
+United States,AI Safety,18386,1293867
+Germany,AI Safety,4017,155472
+Serbia,AI Safety,47,627
+Ireland,AI Safety,330,8857
+Egypt,AI Safety,148,1695
+Brunei Darussalam,AI Safety,16,75
+Five Eyes,AI Safety,24762,1532026
+Fiji,All,318,5943
+Saint Lucia,All,126,991
+Papua New Guinea,All,96,1234
+Italy,All,66946,1391220
+Israel,All,13534,655661
+Slovenia,All,3395,77926
+Uganda,All,528,7314
+Uruguay,All,574,6863
+Poland,All,21996,312208
+Afghanistan,All,272,3517
+South Korea,All,69436,1557998
+Madagascar,All,89,1112
+Sweden,All,19194,495789
+Jordan,All,5979,105777
+Argentina,All,2781,44551
+Guatemala,All,118,959
+Somalia,All,71,902
+EU,All,438904,9932750
+Cyprus,All,2858,57762
+Lithuania,All,1953,34232
+Ghana,All,1262,22845
+Asia,All,1348399,21676661
+United States,All,407233,17336997
+Africa,All,62911,857280
+Zambia,All,151,2373
+Gambia,All,28,266
+Malaysia,All,27909,400636
+Russia,All,33568,314820
+South Africa,All,7060,130835
+Chile,All,4244,60667
+Ethiopia,All,2374,34809
+Bhutan,All,56,1043
+Denmark,All,14308,341689
+Algeria,All,7891,79258
+Congo,All,142,1179
+Barbados,All,41,304
+Belgium,All,15886,408919
+Bosnia and Herzegovina,All,1098,11832
+Costa Rica,All,483,5219
+Colombia,All,6561,79323
+Thailand,All,11141,109438
+Paraguay,All,222,2299
+Canada,All,66640,2192740
+Cameroon,All,539,6720
+Georgia,All,333,4572
+Europe,All,629552,14854279
+Oman,All,2175,24007
+France,All,70041,1689966
+El Salvador,All,93,652
+United Kingdom,All,120942,4636545
+Nigeria,All,6259,73348
+Mozambique,All,69,775
+OECD,All,1172077,33028946
+Australia,All,55879,1960716
+Namibia,All,148,1732
+Maldives,All,55,690
+North Korea,All,78,410
+ASEAN,All,124301,2240443
+Indonesia,All,39105,266459
+Vietnam,All,12708,189389
+Netherlands,All,33023,1007783
+Luxembourg,All,2267,40183
+Singapore,All,29897,1284735
+Ireland,All,9645,229399
+Kuwait,All,1481,20834
+Sri Lanka,All,4012,32559
+Yemen,All,1159,21043
+Honduras,All,233,1287
+Botswana,All,295,3745
+Gabon,All,53,1282
+India,All,262404,2471433
+Japan,All,94360,1189375
+New Zealand,All,7214,167092
+Philippines,All,5468,39666
+Senegal,All,385,3343
+Kosovo,All,279,2729
+Malawi,All,117,1190
+Moldova,All,133,641
+Taiwan,All,30012,520705
+Nepal,All,860,12852
+North America and the Caribbean,All,474119,18901920
+United Arab Emirates,All,12885,321032
+Tunisia,All,7903,112558
+Ukraine,All,9226,61462
+Cambodia,All,187,2439
+Zimbabwe,All,224,1434
+Greece,All,15418,309327
+Armenia,All,420,8000
+Benin,All,175,1514
+Egypt,All,16103,266619
+Bangladesh,All,15461,231565
+Belarus,All,914,12995
+NATO,All,943037,28814490
+Five Eyes,All,613138,23411183
+Liechtenstein,All,98,2986
+Burkina Faso,All,132,949
+Iraq,All,12827,141069
+Mexico,All,12825,148644
+Brunei Darussalam,All,543,8097
+Nicaragua,All,18,434
+Kenya,All,1146,11066
+Azerbaijan,All,753,4915
+Trinidad and Tobago,All,185,1642
+Czechia,All,9852,196786
+Kazakhstan,All,3054,26293
+North Macedonia,All,862,10657
+Togo,All,31,529
+Finland,All,11972,350533
+Portugal,All,16232,290977
+China (mainland),All,641721,12537020
+Turkey,All,32138,462546
+Malta,All,836,14983
+Mauritius,All,291,2620
+Mali,All,41,835
+Spain,All,47445,1086689
+Norway,All,12767,286565
+Estonia,All,1909,44165
+Cuba,All,755,8614
+Syria,All,444,6448
+Switzerland,All,28237,1240246
+Latvia,All,1040,8720
+Bulgaria,All,3112,29686
+South and Central America,All,52047,655826
+Laos,All,24,356
+Iceland,All,825,30347
+Germany,All,105680,3179441
+Ecuador,All,3430,34801
+Croatia,All,3630,57222
+Panama,All,215,2185
+Côte d'Ivoire,All,146,1103
+Bolivia,All,84,975
+Pakistan,All,21328,450969
+Lebanon,All,2692,46290
+Oceania,All,62750,2108106
+Angola,All,90,1568
+Jamaica,All,67,376
+Montenegro,All,273,2233
+Saudi Arabia,All,29250,644642
+Rwanda,All,424,6415
+Tanzania,All,443,6657
+Global Partnership on Artificial Intelligence,All,1352899,34187933
+Austria,All,15255,415394
+Bahrain,All,1059,9408
+Myanmar,All,740,6043
+Grenada,All,39,469
+Brazil,All,31944,415533
+Uzbekistan,All,1666,8916
+Venezuela,All,500,6474
+Romania,All,11887,150583
+Qatar,All,4354,162850
+Slovakia,All,3731,45819
+Sudan,All,734,9462
+Libya,All,618,5448
+Kyrgyzstan,All,165,1405
+Iran,All,24324,409416
+Serbia,All,4022,58964
+Quad,All,792746,21912767
+Morocco,All,9389,101562
+Peru,All,2896,23976
+Hungary,All,6504,94973
+Mongolia,All,258,2030
+Albania,All,358,2528
+Canada,Computer Vision,17063,665420
+Taiwan,Computer Vision,10767,216707
+Russia,Computer Vision,7561,92700
+New Zealand,Computer Vision,1922,42545
+Zambia,Computer Vision,45,1050
+Mauritius,Computer Vision,77,1135
+Panama,Computer Vision,64,1037
+Morocco,Computer Vision,2646,26787
+India,Computer Vision,102085,956431
+South and Central America,Computer Vision,12897,208781
+Brazil,Computer Vision,7968,137936
+EU,Computer Vision,102958,3403683
+ASEAN,Computer Vision,39918,820814
+Mongolia,Computer Vision,81,465
+Netherlands,Computer Vision,7014,286691
+Rwanda,Computer Vision,139,1938
+Sweden,Computer Vision,3684,146911
+Estonia,Computer Vision,279,7008
+Syria,Computer Vision,117,1507
+Moldova,Computer Vision,23,50
+Singapore,Computer Vision,9489,521635
+Sudan,Computer Vision,238,3304
+Botswana,Computer Vision,63,460
+Asia,Computer Vision,502849,9475213
+Mexico,Computer Vision,3161,37512
+Lithuania,Computer Vision,478,10071
+Kenya,Computer Vision,263,2875
+Ecuador,Computer Vision,729,7897
+OECD,Computer Vision,293020,11986637
+Poland,Computer Vision,5133,74708
+Romania,Computer Vision,3121,45587
+Argentina,Computer Vision,591,10182
+Yemen,Computer Vision,333,5143
+Global Partnership on Artificial Intelligence,Computer Vision,374523,12551390
+Norway,Computer Vision,3196,76913
+Serbia,Computer Vision,834,13389
+Costa Rica,Computer Vision,143,1941
+Myanmar,Computer Vision,279,2415
+Paraguay,Computer Vision,73,560
+Chile,Computer Vision,836,13199
+Uzbekistan,Computer Vision,392,3588
+Malawi,Computer Vision,26,362
+Austria,Computer Vision,3418,149921
+Slovenia,Computer Vision,657,26710
+Kazakhstan,Computer Vision,695,6238
+Angola,Computer Vision,26,695
+Ukraine,Computer Vision,2310,24146
+Nigeria,Computer Vision,1221,12244
+Bulgaria,Computer Vision,601,4652
+Libya,Computer Vision,195,1588
+Latvia,Computer Vision,202,1243
+Oceania,Computer Vision,18361,872457
+Saudi Arabia,Computer Vision,8502,220711
+Spain,Computer Vision,11194,358053
+Iraq,Computer Vision,4861,49220
+Cuba,Computer Vision,186,3326
+Algeria,Computer Vision,2642,26830
+Liberia,Computer Vision,14,99
+Belgium,Computer Vision,3696,137826
+France,Computer Vision,18592,664171
+Five Eyes,Computer Vision,150106,8569598
+United Kingdom,Computer Vision,30896,1631749
+Uruguay,Computer Vision,134,2168
+Montenegro,Computer Vision,87,697
+United Arab Emirates,Computer Vision,3716,147128
+Portugal,Computer Vision,3526,73243
+Greece,Computer Vision,3290,88640
+Thailand,Computer Vision,3727,36039
+Switzerland,Computer Vision,7638,498181
+Iran,Computer Vision,6689,112851
+Uganda,Computer Vision,136,2255
+Armenia,Computer Vision,90,498
+United States,Computer Vision,94832,6403269
+Germany,Computer Vision,26550,1329152
+Australia,Computer Vision,16546,834789
+South Korea,Computer Vision,24491,672814
+Denmark,Computer Vision,2601,69099
+Philippines,Computer Vision,2175,17720
+Venezuela,Computer Vision,88,908
+North Macedonia,Computer Vision,106,1546
+Czechia,Computer Vision,2360,77972
+Trinidad and Tobago,Computer Vision,31,148
+Malaysia,Computer Vision,9084,123063
+Israel,Computer Vision,3061,174578
+Sri Lanka,Computer Vision,1101,9110
+Turkey,Computer Vision,9420,167460
+China (mainland),Computer Vision,271093,6251071
+Kuwait,Computer Vision,303,4441
+Belarus,Computer Vision,354,11264
+Pakistan,Computer Vision,7197,171965
+Indonesia,Computer Vision,12025,82174
+Africa,Computer Vision,18681,290079
+Oman,Computer Vision,496,4947
+Ireland,Computer Vision,1956,44218
+Nepal,Computer Vision,303,4575
+Quad,Computer Vision,229576,8205581
+Japan,Computer Vision,23991,414245
+Jordan,Computer Vision,1312,18561
+Croatia,Computer Vision,959,20144
+Tanzania,Computer Vision,129,3112
+Honduras,Computer Vision,54,335
+Finland,Computer Vision,2891,113908
+Slovakia,Computer Vision,804,8857
+Europe,Computer Vision,152852,5206625
+Luxembourg,Computer Vision,361,5924
+Egypt,Computer Vision,5314,98732
+Tunisia,Computer Vision,2818,60412
+Peru,Computer Vision,826,10088
+Brunei Darussalam,Computer Vision,133,2046
+South Africa,Computer Vision,1574,29016
+Bosnia and Herzegovina,Computer Vision,234,2889
+Qatar,Computer Vision,981,36396
+Congo,Computer Vision,24,221
+Italy,Computer Vision,13885,375247
+Vietnam,Computer Vision,3841,46958
+Hungary,Computer Vision,1383,20377
+Ethiopia,Computer Vision,738,13135
+Iceland,Computer Vision,361,20522
+Malta,Computer Vision,247,4154
+North America and the Caribbean,Computer Vision,112022,6874273
+Colombia,Computer Vision,1812,27334
+Côte d'Ivoire,Computer Vision,58,315
+Cyprus,Computer Vision,728,16176
+Cameroon,Computer Vision,126,1801
+Bahrain,Computer Vision,190,1604
+Afghanistan,Computer Vision,71,722
+Cambodia,Computer Vision,54,614
+Burkina Faso,Computer Vision,26,97
+NATO,Computer Vision,227135,10310461
+Bangladesh,Computer Vision,5866,88845
+Ghana,Computer Vision,387,5855
+Azerbaijan,Computer Vision,86,440
+Lebanon,Computer Vision,676,9970
+Senegal,Computer Vision,81,1099
+Fiji,Computer Vision,30,283
+Uzbekistan,Large language models,29,337
+Spain,Large language models,1231,31395
+Lithuania,Large language models,42,924
+Latvia,Large language models,30,655
+Norway,Large language models,332,7084
+United Kingdom,Large language models,6608,489546
+Taiwan,Large language models,1290,24598
+Qatar,Large language models,180,5732
+Mexico,Large language models,178,3206
+Luxembourg,Large language models,101,958
+Global Partnership on Artificial Intelligence,Large language models,61149,3312169
+Israel,Large language models,1029,154274
+Algeria,Large language models,91,839
+Iran,Large language models,460,13118
+Serbia,Large language models,60,593
+Africa,Large language models,1204,19204
+United States,Large language models,27157,2227107
+India,Large language models,4907,72739
+Ireland,Large language models,488,17397
+Poland,Large language models,420,23161
+Uganda,Large language models,24,602
+Oceania,Large language models,3420,125168
+Tunisia,Large language models,113,1324
+Sri Lanka,Large language models,123,700
+United Arab Emirates,Large language models,653,28954
+Iraq,Large language models,134,693
+Uruguay,Large language models,18,403
+Quad,Large language models,37670,2420088
+Belgium,Large language models,512,12886
+Greece,Large language models,428,12238
+Australia,Large language models,3221,119583
+Finland,Large language models,431,12768
+Switzerland,Large language models,1701,99856
+Chile,Large language models,109,1139
+OECD,Large language models,57731,3235752
+Austria,Large language models,419,12255
+China (mainland),Large language models,47394,1241828
+Japan,Large language models,4021,80571
+Turkey,Large language models,816,9858
+Bulgaria,Large language models,59,1232
+Germany,Large language models,4625,280341
+Portugal,Large language models,339,8773
+Cyprus,Large language models,51,931
+Nepal,Large language models,32,345
+North Macedonia,Large language models,24,296
+Five Eyes,Large language models,37460,2693147
+Bangladesh,Large language models,613,7241
+Colombia,Large language models,85,1121
+Ghana,Large language models,23,412
+Pakistan,Large language models,497,6780
+Hungary,Large language models,150,2042
+Syria,Large language models,16,197
+North America and the Caribbean,Large language models,29835,2323806
+ASEAN,Large language models,5354,176918
+France,Large language models,2380,91494
+Russia,Large language models,695,13753
+Peru,Large language models,34,406
+Denmark,Large language models,692,23437
+Brazil,Large language models,577,8232
+Egypt,Large language models,390,7903
+Thailand,Large language models,273,2075
+Kenya,Large language models,39,682
+Saudi Arabia,Large language models,1025,23005
+Slovenia,Large language models,117,1790
+Yemen,Large language models,38,836
+Indonesia,Large language models,748,6496
+South and Central America,Large language models,920,12623
+Malaysia,Large language models,432,5470
+Morocco,Large language models,199,1341
+Slovakia,Large language models,57,536
+Asia,Large language models,68785,1827334
+Croatia,Large language models,77,908
+New Zealand,Large language models,218,6479
+Armenia,Large language models,14,500
+South Korea,Large language models,4071,146383
+Czechia,Large language models,347,10046
+Estonia,Large language models,68,1680
+Ethiopia,Large language models,67,783
+EU,Large language models,15015,585698
+Canada,Large language models,3329,164993
+South Africa,Large language models,177,5713
+Netherlands,Large language models,1436,56624
+Sweden,Large language models,648,26450
+Lebanon,Large language models,55,2249
+Kuwait,Large language models,38,321
+Singapore,Large language models,3147,156564
+Vietnam,Large language models,653,7552
+Romania,Large language models,275,4635
+Jordan,Large language models,177,2265
+Oman,Large language models,36,226
+Kazakhstan,Large language models,107,631
+Europe,Large language models,23199,1033808
+Ukraine,Large language models,142,1018
+Philippines,Large language models,123,1516
+Iceland,Large language models,16,950
+Myanmar,Large language models,37,150
+Italy,Large language models,1884,48432
+Argentina,Large language models,64,1294
+NATO,Large language models,46608,2939065
+Egypt,Natural Language Processing,1481,23340
+Indonesia,Natural Language Processing,5345,43798
+United Kingdom,Natural Language Processing,14506,549149
+Singapore,Natural Language Processing,2999,157962
+Romania,Natural Language Processing,1264,20883
+Ireland,Natural Language Processing,1637,49272
+Taiwan,Natural Language Processing,2270,40773
+Iraq,Natural Language Processing,857,5728
+Bangladesh,Natural Language Processing,1961,24932
+Brunei Darussalam,Natural Language Processing,45,700
+Belgium,Natural Language Processing,1894,37727
+Mauritius,Natural Language Processing,32,183
+Global Partnership on Artificial Intelligence,Natural Language Processing,139400,4287167
+Ukraine,Natural Language Processing,905,5354
+Oman,Natural Language Processing,162,1372
+Bosnia and Herzegovina,Natural Language Processing,86,362
+Vietnam,Natural Language Processing,1492,17435
+Ghana,Natural Language Processing,94,2053
+Turkey,Natural Language Processing,2387,33775
+Iceland,Natural Language Processing,80,845
+France,Natural Language Processing,7745,169201
+Philippines,Natural Language Processing,521,3210
+Finland,Natural Language Processing,1460,35434
+Cameroon,Natural Language Processing,45,243
+Norway,Natural Language Processing,1406,31250
+Syria,Natural Language Processing,49,444
+Morocco,Natural Language Processing,1187,11844
+China (mainland),Natural Language Processing,47038,996862
+United Arab Emirates,Natural Language Processing,1136,28313
+Hungary,Natural Language Processing,686,8203
+New Zealand,Natural Language Processing,676,15755
+Algeria,Natural Language Processing,634,6421
+Colombia,Natural Language Processing,313,2880
+Belarus,Natural Language Processing,68,138
+Five Eyes,Natural Language Processing,69132,3198009
+Nepal,Natural Language Processing,102,1392
+South and Central America,Natural Language Processing,4631,47714
+Nigeria,Natural Language Processing,497,5713
+ASEAN,Natural Language Processing,13338,248193
+Netherlands,Natural Language Processing,4940,138166
+Botswana,Natural Language Processing,39,185
+Russia,Natural Language Processing,3947,31845
+Spain,Natural Language Processing,5408,108976
+Saudi Arabia,Natural Language Processing,2897,52614
+Israel,Natural Language Processing,2141,198038
+Pakistan,Natural Language Processing,1863,34552
+Czechia,Natural Language Processing,1492,31928
+Tunisia,Natural Language Processing,771,7822
+Bulgaria,Natural Language Processing,373,8145
+Switzerland,Natural Language Processing,3106,90674
+Sweden,Natural Language Processing,1938,39290
+Portugal,Natural Language Processing,1461,27361
+Azerbaijan,Natural Language Processing,118,671
+Georgia,Natural Language Processing,47,291
+Venezuela,Natural Language Processing,18,295
+Serbia,Natural Language Processing,355,2456
+Canada,Natural Language Processing,6423,225615
+Tanzania,Natural Language Processing,30,173
+Italy,Natural Language Processing,5301,116653
+Cyprus,Natural Language Processing,156,3501
+Mongolia,Natural Language Processing,56,610
+Ethiopia,Natural Language Processing,280,2791
+Malta,Natural Language Processing,140,4520
+Sudan,Natural Language Processing,89,988
+Myanmar,Natural Language Processing,196,1431
+Malaysia,Natural Language Processing,1997,21099
+Yemen,Natural Language Processing,205,3204
+EU,Natural Language Processing,48560,1055490
+Denmark,Natural Language Processing,1871,51130
+Poland,Natural Language Processing,2057,34592
+Luxembourg,Natural Language Processing,193,2712
+Chile,Natural Language Processing,404,4000
+Senegal,Natural Language Processing,43,485
+Costa Rica,Natural Language Processing,39,185
+Africa,Natural Language Processing,6152,73276
+Greece,Natural Language Processing,1222,31336
+Croatia,Natural Language Processing,455,5289
+North Macedonia,Natural Language Processing,162,1546
+United States,Natural Language Processing,48249,2604801
+Libya,Natural Language Processing,69,597
+Albania,Natural Language Processing,61,601
+NATO,Natural Language Processing,105492,3787140
+Iran,Natural Language Processing,1486,23821
+Quad,Natural Language Processing,81100,3006746
+Japan,Natural Language Processing,7906,127287
+India,Natural Language Processing,23059,267744
+Slovakia,Natural Language Processing,402,3579
+Ecuador,Natural Language Processing,179,1370
+Kuwait,Natural Language Processing,138,1845
+Germany,Natural Language Processing,13007,350668
+South Korea,Natural Language Processing,4152,83901
+Sri Lanka,Natural Language Processing,607,5735
+Lithuania,Natural Language Processing,264,2697
+Austria,Natural Language Processing,1282,27168
+Estonia,Natural Language Processing,288,6583
+Peru,Natural Language Processing,179,1400
+Uganda,Natural Language Processing,60,1050
+South Africa,Natural Language Processing,734,12852
+Slovenia,Natural Language Processing,552,13491
+Kazakhstan,Natural Language Processing,482,2609
+Cuba,Natural Language Processing,53,194
+Uzbekistan,Natural Language Processing,385,1351
+OECD,Natural Language Processing,123640,4116142
+Asia,Natural Language Processing,113521,2055113
+Europe,Natural Language Processing,69390,1564502
+Jordan,Natural Language Processing,881,17919
+Benin,Natural Language Processing,14,62
+North America and the Caribbean,Natural Language Processing,54251,2755462
+Mexico,Natural Language Processing,1102,21516
+Argentina,Natural Language Processing,371,4756
+Armenia,Natural Language Processing,75,1765
+Oceania,Natural Language Processing,5461,148445
+Australia,Natural Language Processing,4839,135063
+Brazil,Natural Language Processing,3147,32975
+Qatar,Natural Language Processing,659,37503
+Thailand,Natural Language Processing,1006,7005
+Lebanon,Natural Language Processing,218,5653
+Latvia,Natural Language Processing,177,1691
+Kenya,Natural Language Processing,118,1634
+Uruguay,Natural Language Processing,69,846
+Europe,Robotics,121981,2005660
+El Salvador,Robotics,48,451
+OECD,Robotics,232357,3870136
+Panama,Robotics,59,348
+Slovakia,Robotics,924,7888
+Cameroon,Robotics,50,662
+Global Partnership on Artificial Intelligence,Robotics,238081,3817304
+Oceania,Robotics,8675,189422
+Portugal,Robotics,3350,48200
+Morocco,Robotics,514,3851
+United Kingdom,Robotics,19461,439342
+Spain,Robotics,8669,168519
+Turkey,Robotics,4931,56044
+Oman,Robotics,183,1213
+Bosnia and Herzegovina,Robotics,202,1796
+Austria,Robotics,2830,45993
+Yemen,Robotics,56,528
+Denmark,Robotics,2928,41356
+North America and the Caribbean,Robotics,82683,1785393
+Romania,Robotics,2691,22510
+Syria,Robotics,74,574
+Cuba,Robotics,49,438
+Mauritius,Robotics,26,342
+Russia,Robotics,8067,38477
+Slovenia,Robotics,614,8523
+Hungary,Robotics,1317,13894
+Brazil,Robotics,5503,52347
+Iceland,Robotics,72,1882
+EU,Robotics,88323,1458149
+China (mainland),Robotics,103161,1245256
+Peru,Robotics,620,3993
+Myanmar,Robotics,68,526
+Fiji,Robotics,92,1249
+Australia,Robotics,7397,165809
+Canada,Robotics,10926,221633
+Mexico,Robotics,3478,32817
+United Arab Emirates,Robotics,1640,25427
+Israel,Robotics,1813,36506
+New Zealand,Robotics,1246,23481
+Tunisia,Robotics,858,8964
+Netherlands,Robotics,5512,122258
+Belarus,Robotics,164,370
+South and Central America,Robotics,9460,88603
+Quad,Robotics,126079,2041770
+Belgium,Robotics,2950,57765
+Thailand,Robotics,1358,11777
+Ecuador,Robotics,808,5515
+Iraq,Robotics,1211,12632
+Serbia,Robotics,559,5941
+Latvia,Robotics,172,1308
+Algeria,Robotics,1078,10476
+Kazakhstan,Robotics,609,6085
+Nigeria,Robotics,475,3090
+Lithuania,Robotics,268,2649
+Norway,Robotics,1984,35397
+South Africa,Robotics,723,8264
+Jordan,Robotics,404,4601
+South Korea,Robotics,13974,210855
+Costa Rica,Robotics,89,679
+Saudi Arabia,Robotics,1729,27588
+Sri Lanka,Robotics,500,4066
+Ethiopia,Robotics,139,1122
+Germany,Robotics,22798,437200
+Egypt,Robotics,1850,21140
+Bangladesh,Robotics,783,6744
+Zimbabwe,Robotics,36,104
+Singapore,Robotics,4946,116449
+Bulgaria,Robotics,629,5587
+Philippines,Robotics,523,3760
+North Macedonia,Robotics,87,1024
+Luxembourg,Robotics,426,5364
+Brunei Darussalam,Robotics,59,1060
+Nepal,Robotics,49,556
+Bahrain,Robotics,92,589
+Uzbekistan,Robotics,95,368
+NATO,Robotics,174921,3232400
+Japan,Robotics,33419,228555
+Taiwan,Robotics,4882,52714
+Colombia,Robotics,1294,13607
+Azerbaijan,Robotics,79,177
+Sweden,Robotics,4193,91579
+Ukraine,Robotics,1359,5869
+Qatar,Robotics,350,5601
+Lebanon,Robotics,389,5951
+Uruguay,Robotics,91,610
+Poland,Robotics,3783,34051
+Honduras,Robotics,88,460
+Malta,Robotics,81,709
+Liechtenstein,Robotics,16,284
+Asia,Robotics,208377,2196022
+ASEAN,Robotics,15858,199897
+Pakistan,Robotics,1652,21169
+Vietnam,Robotics,1946,18398
+Ireland,Robotics,1044,22565
+Cyprus,Robotics,401,7847
+India,Robotics,18571,140792
+Chile,Robotics,647,8975
+Iran,Robotics,3937,46226
+Estonia,Robotics,366,4774
+Italy,Robotics,17827,317802
+Czechia,Robotics,1697,24494
+Five Eyes,Robotics,103770,2252956
+Indonesia,Robotics,3804,18352
+Croatia,Robotics,737,8926
+United States,Robotics,69939,1585612
+Sudan,Robotics,69,639
+Kosovo,Robotics,50,300
+Finland,Robotics,1724,34120
+Argentina,Robotics,502,5424
+Switzerland,Robotics,5430,210782
+Africa,Robotics,5996,59449
+Kuwait,Robotics,173,1835
+Kenya,Robotics,70,505
+France,Robotics,12280,197892
+Malaysia,Robotics,3531,35175
+Greece,Robotics,2549,42460
+Venezuela,Robotics,116,1501
+Somalia,AI Safety,1,19
+Burkina Faso,AI Safety,1,1
+Papua New Guinea,AI Safety,1,1
+Cape Verde,AI Safety,1,2
+Congo,AI Safety,1,4
+Chad,AI Safety,1,0
+Bolivia,AI Safety,1,2
+Rwanda,AI Safety,1,2
+Georgia,AI Safety,1,105
+Belize,AI Safety,1,1
+Palau,All,1,2
+Guinea-Bissau,All,1,40
+Kiribati,All,1,8
+São Tomé and Príncipe,All,1,19
+Vanuatu,All,1,8
+Suriname,All,1,5
+Lesotho,Computer Vision,1,0
+South Sudan,Computer Vision,1,1
+Marshall Islands,Computer Vision,1,0
+Grenada,Computer Vision,1,2
+Kiribati,Computer Vision,1,8
+Vatican City,Computer Vision,1,21
+Bahamas,Computer Vision,1,3
+Seychelles,Computer Vision,1,0
+Vanuatu,Computer Vision,1,8
+Tonga,Computer Vision,1,8
+Belize,Computer Vision,1,6
+Djibouti,Computer Vision,1,19
+Burundi,Large language models,1,42
+Mozambique,Large language models,1,1
+Guinea,Large language models,1,3
+Bolivia,Large language models,1,1
+Tajikistan,Large language models,1,5
+El Salvador,Large language models,1,0
+Jamaica,Large language models,1,2
+Sierra Leone,Large language models,1,0
+Comoros,Large language models,1,0
+Paraguay,Large language models,1,2
+Papua New Guinea,Large language models,1,0
+Swaziland,Large language models,1,6
+Grenada,Large language models,1,0
+Venezuela,Large language models,1,1
+Eritrea,Large language models,1,2
+South Sudan,Natural Language Processing,1,0
+Gambia,Natural Language Processing,1,0
+Belize,Natural Language Processing,1,1
+Vatican City,Natural Language Processing,1,6
+Marshall Islands,Natural Language Processing,1,8
+Haiti,Natural Language Processing,1,77
+Chad,Natural Language Processing,1,27
+Sierra Leone,Natural Language Processing,1,0
+Guinea,Natural Language Processing,1,3
+Swaziland,Robotics,1,27
+Bahamas,Robotics,1,4
+Chad,Robotics,1,20
+Angola,Robotics,1,1
+Gambia,Robotics,1,27
+Burundi,Robotics,1,16
+Togo,Robotics,1,86
+Mauritania,Robotics,1,0
+Belize,Robotics,1,2
+Maldives,AI Safety,2,0
+Libya,AI Safety,2,0
+Angola,AI Safety,2,23
+Kyrgyzstan,AI Safety,2,7
+Swaziland,AI Safety,2,12
+Barbados,AI Safety,2,8
+Cambodia,AI Safety,2,15
+Madagascar,AI Safety,2,4
+Seychelles,All,2,17
+Marshall Islands,All,2,8
+Comoros,Computer Vision,2,23
+Dominica,Computer Vision,2,7
+Samoa,Computer Vision,2,24
+Namibia,Large language models,2,369
+Benin,Large language models,2,6
+Kosovo,Large language models,2,2
+Togo,Large language models,2,47
+Somalia,Large language models,2,61
+Kyrgyzstan,Large language models,2,4
+Fiji,Large language models,2,37
+Gabon,Large language models,2,106
+Nicaragua,Natural Language Processing,2,300
+Eritrea,Natural Language Processing,2,2
+Lesotho,Natural Language Processing,2,0
+Guatemala,Natural Language Processing,2,27
+Comoros,Natural Language Processing,2,18
+Cape Verde,Natural Language Processing,2,2
+Swaziland,Natural Language Processing,2,7
+Togo,Natural Language Processing,2,47
+Gabon,Natural Language Processing,2,106
+Grenada,Natural Language Processing,2,64
+Bahamas,Natural Language Processing,2,22
+Niger,Robotics,2,0
+Burkina Faso,Robotics,2,3
+Zambia,Robotics,2,0
+Tonga,Robotics,2,14
+Mali,Robotics,2,4
+Cape Verde,Robotics,2,2
+Antigua and Barbuda,Robotics,2,1
+San Marino,Robotics,2,0
+Saint Lucia,Robotics,2,6
+Malawi,Robotics,2,108
+Eritrea,Robotics,2,0
+Bhutan,Robotics,2,16
+Kosovo,AI Safety,3,39
+Saint Lucia,AI Safety,3,6
+Moldova,AI Safety,3,8
+Zimbabwe,AI Safety,3,35
+Tajikistan,AI Safety,3,8
+Sudan,AI Safety,3,1
+Malawi,AI Safety,3,5
+Mongolia,AI Safety,3,0
+Saint Vincent and the Grenadines,All,3,4
+Nicaragua,Computer Vision,3,4
+Guinea,Computer Vision,3,19
+Guyana,Computer Vision,3,2
+Swaziland,Computer Vision,3,119
+Monaco,Computer Vision,3,133
+Zambia,Large language models,3,13
+Angola,Large language models,3,67
+Moldova,Large language models,3,13
+Liechtenstein,Large language models,3,109
+Malawi,Large language models,3,214
+Mauritania,Natural Language Processing,3,9
+Tajikistan,Natural Language Processing,3,5
+Bolivia,Natural Language Processing,3,13
+Laos,Robotics,3,11
+Côte d'Ivoire,Robotics,3,19
+Gabon,Robotics,3,3
+Dominica,Robotics,3,2
+Maldives,Robotics,3,167
+Mauritius,AI Safety,4,10
+Albania,AI Safety,4,4
+Venezuela,AI Safety,4,51
+Congo,AI Safety,4,50
+Zambia,AI Safety,4,10
+Montenegro,AI Safety,4,31
+Costa Rica,AI Safety,4,108
+Equatorial Guinea,All,4,9
+Djibouti,All,4,48
+South Sudan,All,4,10
+Samoa,All,4,25
+Tajikistan,Computer Vision,4,66
+Equatorial Guinea,Computer Vision,4,9
+Cape Verde,Computer Vision,4,16
+Burkina Faso,Large language models,4,2
+Afghanistan,Large language models,4,7
+Albania,Large language models,4,8
+Congo,Large language models,4,8
+Barbados,Large language models,4,2
+Tanzania,Large language models,4,53
+Jamaica,Natural Language Processing,4,22
+El Salvador,Natural Language Processing,4,3
+Timor-Leste,Natural Language Processing,4,23
+Burundi,Natural Language Processing,4,46
+Mozambique,Natural Language Processing,4,40
+Tajikistan,Robotics,4,8
+Mozambique,Robotics,4,25
+Dominican Republic,Robotics,4,0
+Vatican City,Robotics,4,52
+Saint Kitts and Nevis,Robotics,4,5
+Congo,Robotics,4,25
+Armenia,AI Safety,5,4
+Tanzania,AI Safety,5,43
+Afghanistan,AI Safety,5,113
+Tonga,All,5,70
+Andorra,All,5,92
+Togo,Computer Vision,5,129
+Sierra Leone,Computer Vision,5,120
+Barbados,Computer Vision,5,118
+Georgia,Large language models,5,21
+Montenegro,Large language models,5,38
+Mauritius,Large language models,5,12
+Belarus,Large language models,5,81
+Maldives,Natural Language Processing,5,171
+Barbados,Natural Language Processing,5,64
+Monaco,Robotics,5,141
+Jamaica,Robotics,5,0
+Fiji,AI Safety,6,82
+Botswana,AI Safety,6,62
+Mauritania,Computer Vision,6,25
+Mali,Computer Vision,6,435
+Saint Kitts and Nevis,Computer Vision,6,26
+Eritrea,Computer Vision,6,57
+Mongolia,Large language models,6,14
+Senegal,Large language models,6,58
+Dominican Republic,Natural Language Processing,6,73
+Somalia,Natural Language Processing,6,132
+Trinidad and Tobago,Natural Language Processing,6,14
+Turkmenistan,Robotics,6,0
+Nepal,AI Safety,7,46
+Senegal,AI Safety,7,16
+Uruguay,AI Safety,7,16
+Gambia,Computer Vision,7,72
+Niger,Computer Vision,7,31
+Burundi,Computer Vision,7,470
+Haiti,Computer Vision,7,16
+Bhutan,Computer Vision,7,205
+Botswana,Large language models,7,44
+Cuba,Large language models,7,327
+Fiji,Natural Language Processing,7,150
+Madagascar,Natural Language Processing,7,40
+Angola,Natural Language Processing,7,103
+Cuba,AI Safety,8,178
+Syria,AI Safety,8,3
+Latvia,AI Safety,8,134
+Vatican City,All,8,103
+Chad,Computer Vision,8,16
+Maldives,Computer Vision,8,29
+Timor-Leste,Computer Vision,8,139
+Libya,Large language models,8,41
+Congo,Natural Language Processing,8,17
+Saint Lucia,Natural Language Processing,8,89
+Bhutan,Natural Language Processing,8,13
+Liechtenstein,Natural Language Processing,8,152
+Benin,Robotics,8,16
+Congo,Robotics,8,17
+Nicaragua,Robotics,8,27
+Iceland,AI Safety,9,189
+Ethiopia,AI Safety,9,22
+Turkmenistan,All,9,17
+Cape Verde,All,9,33
+Antigua and Barbuda,All,9,92
+Guinea,All,9,41
+Congo,Computer Vision,9,131
+Saint Lucia,Large language models,9,31
+Sudan,Large language models,9,46
+Bosnia and Herzegovina,Large language models,9,90
+Panama,Natural Language Processing,9,66
+Paraguay,Natural Language Processing,9,7
+Namibia,Natural Language Processing,9,655
+Namibia,Robotics,9,86
+Bosnia and Herzegovina,AI Safety,10,9
+Yemen,AI Safety,10,667
+Azerbaijan,AI Safety,10,40
+Dominica,All,10,64
+San Marino,All,10,54
+Rwanda,Large language models,10,191
+Brunei Darussalam,Large language models,10,79
+Papua New Guinea,Natural Language Processing,10,130
+Cameroon,AI Safety,11,40
+Peru,AI Safety,11,30
+Belize,All,11,95
+Jamaica,Computer Vision,11,74
+Cameroon,Large language models,11,167
+Costa Rica,Large language models,11,18
+Malawi,Natural Language Processing,11,227
+North Korea,Robotics,11,96
+Moldova,Robotics,11,21
+Papua New Guinea,Robotics,11,243
+Lesotho,All,12,108
+Laos,Computer Vision,12,213
+Zambia,Natural Language Processing,12,396
+Zimbabwe,Natural Language Processing,12,50
+Barbados,Robotics,12,48
+Kyrgyzstan,Robotics,12,7
+Uganda,AI Safety,13,45
+North Macedonia,AI Safety,13,226
+Monaco,All,13,439
+Bahamas,All,13,193
+Liechtenstein,Computer Vision,13,286
+Azerbaijan,Large language models,13,155
+Cambodia,Large language models,13,48
+Bahrain,Large language models,13,32
+Senegal,Robotics,13,32
+Afghanistan,Robotics,13,258
+Kenya,AI Safety,15,91
+Lithuania,AI Safety,15,188
+Haiti,All,15,207
+Comoros,All,15,140
+Honduras,Natural Language Processing,15,32
+Georgia,Robotics,15,73
+Ghana,AI Safety,17,460
+Eritrea,All,17,127
+Dominican Republic,Computer Vision,17,89
+Côte d'Ivoire,Natural Language Processing,17,221
+Burkina Faso,Natural Language Processing,17,64
+Tanzania,Robotics,17,196
+Trinidad and Tobago,Robotics,17,70
+Cambodia,Robotics,17,126
+Guatemala,Computer Vision,19,271
+Somalia,Computer Vision,19,208
+Bolivia,Computer Vision,19,125
+Gabon,Computer Vision,19,497
+Rwanda,Natural Language Processing,19,285
+Albania,Robotics,19,184
+Grenada,Robotics,19,243
+Kuwait,AI Safety,20,237
+Papua New Guinea,Computer Vision,20,198
+Mozambique,Computer Vision,20,318
+Bolivia,Robotics,20,215
+Montenegro,Robotics,20,145
+Uzbekistan,AI Safety,21,86
+Bahrain,AI Safety,21,39
+Saint Kitts and Nevis,All,21,130
+El Salvador,Computer Vision,21,111
+Uganda,Robotics,21,258
+Niger,All,22,111
+Guyana,All,22,50
+Sierra Leone,All,22,264
+Afghanistan,Natural Language Processing,22,155
+Moldova,Natural Language Processing,22,219
+Kyrgyzstan,Natural Language Processing,22,38
+Congo,All,25,247
+Chad,All,25,115
+Timor-Leste,All,25,271
+Saint Lucia,Computer Vision,25,78
+Madagascar,Computer Vision,25,668
+Rwanda,Robotics,25,313
+Mongolia,Robotics,25,213
+Liberia,All,27,191
+North Korea,Computer Vision,27,113
+Zimbabwe,Computer Vision,27,137
+Namibia,Computer Vision,27,366
+Cambodia,Natural Language Processing,27,498
+Ecuador,AI Safety,33,195
+Mauritania,All,33,125
+Kosovo,Computer Vision,33,151
+Georgia,Computer Vision,33,352
+Malta,Large language models,33,893
+Botswana,Robotics,33,369
+Slovakia,AI Safety,35,745
+Burundi,All,35,1001
+Montenegro,Natural Language Processing,35,100
+Armenia,Robotics,35,251
+Guatemala,Robotics,35,388
+Croatia,AI Safety,40,1273
+Tajikistan,All,40,241
+Swaziland,All,40,910
+Kyrgyzstan,Computer Vision,40,437
+Ecuador,Large language models,40,374
+Kosovo,Natural Language Processing,40,414
+Ghana,Robotics,40,547
+Paraguay,Robotics,40,488
+Colombia,AI Safety,65,1991
+Dominican Republic,All,65,672
+Albania,Computer Vision,65,452
+Benin,Computer Vision,65,374
+Nigeria,Large language models,65,1130
+Cyprus,AI Safety,76,997
+Hungary,AI Safety,76,656
+Thailand,AI Safety,76,337
+Bahrain,Natural Language Processing,76,865
+Libya,Robotics,76,440

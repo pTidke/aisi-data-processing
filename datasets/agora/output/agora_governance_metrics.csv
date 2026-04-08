@@ -1,0 +1,5 @@
+country,total_docs,enacted_docs,proposed_docs,defunct_docs,avg_tags_per_doc,annotated_docs,gov_focused,private_focused,maturity_ratio,thematic_breadth
+United States,882,390,94,398,4.7562358276643995,473,349,114,0.4421768707482993,76
+China,26,18,8,0,7.230769230769231,12,0,9,0.6923076923076923,46
+Multinational,20,17,3,0,14.7,12,7,2,0.85,63
+Other countries,18,10,8,0,10.444444444444445,10,6,4,0.5555555555555556,42

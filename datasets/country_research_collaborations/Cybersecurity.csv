@@ -1,0 +1,1709 @@
+country1,country2,field,year,num_articles,complete
+France,Algeria,Cybersecurity,2018,32,True
+France,Algeria,Cybersecurity,2017,27,True
+France,Algeria,Cybersecurity,2022,34,True
+France,Algeria,Cybersecurity,2019,42,True
+France,Algeria,Cybersecurity,2023,33,True
+France,Algeria,Cybersecurity,2021,40,True
+France,Algeria,Cybersecurity,2024,33,False
+United Arab Emirates,Algeria,Cybersecurity,2023,29,True
+United Kingdom,Algeria,Cybersecurity,2021,25,True
+Bangladesh,Australia,Cybersecurity,2024,29,False
+Bangladesh,Australia,Cybersecurity,2023,25,True
+Bangladesh,Australia,Cybersecurity,2020,29,True
+Canada,Australia,Cybersecurity,2020,30,True
+Canada,Australia,Cybersecurity,2021,35,True
+China,Australia,Cybersecurity,2023,347,True
+China,Australia,Cybersecurity,2025,200,False
+China,Australia,Cybersecurity,2018,250,True
+China,Australia,Cybersecurity,2015,92,True
+China,Australia,Cybersecurity,2021,352,True
+China,Australia,Cybersecurity,2022,308,True
+China,Australia,Cybersecurity,2019,260,True
+China,Australia,Cybersecurity,2016,150,True
+China,Australia,Cybersecurity,2024,353,False
+China,Australia,Cybersecurity,2020,326,True
+China,Australia,Cybersecurity,2017,155,True
+Germany,Australia,Cybersecurity,2020,26,True
+Germany,Australia,Cybersecurity,2024,30,False
+India,Australia,Cybersecurity,2019,35,True
+India,Australia,Cybersecurity,2021,83,True
+India,Australia,Cybersecurity,2023,79,True
+India,Australia,Cybersecurity,2020,79,True
+India,Australia,Cybersecurity,2022,70,True
+India,Australia,Cybersecurity,2024,61,False
+India,Australia,Cybersecurity,2025,29,False
+Japan,Australia,Cybersecurity,2020,27,True
+Malaysia,Australia,Cybersecurity,2024,31,False
+New Zealand,Australia,Cybersecurity,2021,31,True
+Pakistan,Australia,Cybersecurity,2024,26,False
+Pakistan,Australia,Cybersecurity,2021,34,True
+Pakistan,Australia,Cybersecurity,2020,27,True
+Pakistan,Australia,Cybersecurity,2022,41,True
+Pakistan,Australia,Cybersecurity,2023,36,True
+Saudi Arabia,Australia,Cybersecurity,2024,37,False
+Saudi Arabia,Australia,Cybersecurity,2025,30,False
+Saudi Arabia,Australia,Cybersecurity,2020,48,True
+Saudi Arabia,Australia,Cybersecurity,2021,47,True
+Saudi Arabia,Australia,Cybersecurity,2023,48,True
+Saudi Arabia,Australia,Cybersecurity,2022,54,True
+Singapore,Australia,Cybersecurity,2023,50,True
+Singapore,Australia,Cybersecurity,2024,38,False
+Singapore,Australia,Cybersecurity,2016,29,True
+Singapore,Australia,Cybersecurity,2018,37,True
+Singapore,Australia,Cybersecurity,2020,47,True
+Singapore,Australia,Cybersecurity,2022,28,True
+Singapore,Australia,Cybersecurity,2025,29,False
+Singapore,Australia,Cybersecurity,2021,32,True
+Singapore,Australia,Cybersecurity,2019,43,True
+South Korea,Australia,Cybersecurity,2022,32,True
+South Korea,Australia,Cybersecurity,2020,31,True
+South Korea,Australia,Cybersecurity,2021,35,True
+United Arab Emirates,Australia,Cybersecurity,2023,27,True
+United Kingdom,Australia,Cybersecurity,2022,48,True
+United Kingdom,Australia,Cybersecurity,2020,80,True
+United Kingdom,Australia,Cybersecurity,2019,62,True
+United Kingdom,Australia,Cybersecurity,2018,49,True
+United Kingdom,Australia,Cybersecurity,2021,61,True
+United Kingdom,Australia,Cybersecurity,2015,37,True
+United Kingdom,Australia,Cybersecurity,2017,46,True
+United Kingdom,Australia,Cybersecurity,2024,71,False
+United Kingdom,Australia,Cybersecurity,2023,67,True
+United Kingdom,Australia,Cybersecurity,2016,62,True
+United Kingdom,Australia,Cybersecurity,2025,34,False
+United States,Australia,Cybersecurity,2019,121,True
+United States,Australia,Cybersecurity,2021,130,True
+United States,Australia,Cybersecurity,2018,106,True
+United States,Australia,Cybersecurity,2017,99,True
+United States,Australia,Cybersecurity,2016,95,True
+United States,Australia,Cybersecurity,2025,41,False
+United States,Australia,Cybersecurity,2020,166,True
+United States,Australia,Cybersecurity,2015,51,True
+United States,Australia,Cybersecurity,2023,95,True
+United States,Australia,Cybersecurity,2022,101,True
+United States,Australia,Cybersecurity,2024,100,False
+Germany,Austria,Cybersecurity,2019,38,True
+Germany,Austria,Cybersecurity,2015,27,True
+Germany,Austria,Cybersecurity,2016,33,True
+Germany,Austria,Cybersecurity,2017,29,True
+Germany,Austria,Cybersecurity,2022,40,True
+Germany,Austria,Cybersecurity,2018,31,True
+Germany,Austria,Cybersecurity,2023,36,True
+Germany,Austria,Cybersecurity,2024,35,False
+Germany,Austria,Cybersecurity,2021,36,True
+Germany,Austria,Cybersecurity,2020,41,True
+United States,Austria,Cybersecurity,2021,27,True
+United States,Austria,Cybersecurity,2017,28,True
+United States,Austria,Cybersecurity,2020,43,True
+United States,Austria,Cybersecurity,2015,28,True
+United States,Austria,Cybersecurity,2018,26,True
+United States,Austria,Cybersecurity,2016,28,True
+United States,Austria,Cybersecurity,2023,25,True
+Australia,Bangladesh,Cybersecurity,2020,29,True
+Australia,Bangladesh,Cybersecurity,2024,29,False
+Australia,Bangladesh,Cybersecurity,2023,25,True
+United States,Bangladesh,Cybersecurity,2020,25,True
+United States,Bangladesh,Cybersecurity,2023,54,True
+United States,Bangladesh,Cybersecurity,2024,60,False
+United States,Bangladesh,Cybersecurity,2021,30,True
+United States,Bangladesh,Cybersecurity,2022,27,True
+United States,Bangladesh,Cybersecurity,2025,45,False
+France,Belgium,Cybersecurity,2019,31,True
+Germany,Belgium,Cybersecurity,2021,26,True
+Netherlands,Belgium,Cybersecurity,2020,27,True
+Netherlands,Belgium,Cybersecurity,2019,27,True
+Netherlands,Belgium,Cybersecurity,2021,27,True
+United Kingdom,Belgium,Cybersecurity,2020,36,True
+United Kingdom,Belgium,Cybersecurity,2018,26,True
+United Kingdom,Belgium,Cybersecurity,2021,32,True
+United Kingdom,Belgium,Cybersecurity,2023,25,True
+United Kingdom,Belgium,Cybersecurity,2019,35,True
+United States,Belgium,Cybersecurity,2021,27,True
+United States,Belgium,Cybersecurity,2020,33,True
+United States,Belgium,Cybersecurity,2017,25,True
+United States,Belgium,Cybersecurity,2019,29,True
+Portugal,Brazil,Cybersecurity,2020,39,True
+United States,Brazil,Cybersecurity,2019,25,True
+United States,Brazil,Cybersecurity,2020,41,True
+United States,Brazil,Cybersecurity,2021,29,True
+United States,Brazil,Cybersecurity,2018,27,True
+Australia,Canada,Cybersecurity,2020,30,True
+Australia,Canada,Cybersecurity,2021,35,True
+China,Canada,Cybersecurity,2018,122,True
+China,Canada,Cybersecurity,2023,203,True
+China,Canada,Cybersecurity,2019,133,True
+China,Canada,Cybersecurity,2017,64,True
+China,Canada,Cybersecurity,2020,177,True
+China,Canada,Cybersecurity,2015,73,True
+China,Canada,Cybersecurity,2016,58,True
+China,Canada,Cybersecurity,2025,60,False
+China,Canada,Cybersecurity,2022,190,True
+China,Canada,Cybersecurity,2021,201,True
+China,Canada,Cybersecurity,2024,167,False
+France,Canada,Cybersecurity,2021,31,True
+France,Canada,Cybersecurity,2024,29,False
+France,Canada,Cybersecurity,2020,32,True
+France,Canada,Cybersecurity,2022,33,True
+France,Canada,Cybersecurity,2023,29,True
+Germany,Canada,Cybersecurity,2021,27,True
+India,Canada,Cybersecurity,2021,44,True
+India,Canada,Cybersecurity,2020,32,True
+India,Canada,Cybersecurity,2023,57,True
+India,Canada,Cybersecurity,2022,59,True
+India,Canada,Cybersecurity,2024,48,False
+India,Canada,Cybersecurity,2019,25,True
+Iran,Canada,Cybersecurity,2020,28,True
+Japan,Canada,Cybersecurity,2021,28,True
+Lebanon,Canada,Cybersecurity,2023,39,True
+Saudi Arabia,Canada,Cybersecurity,2021,47,True
+Saudi Arabia,Canada,Cybersecurity,2024,34,False
+Saudi Arabia,Canada,Cybersecurity,2023,38,True
+Saudi Arabia,Canada,Cybersecurity,2022,46,True
+Saudi Arabia,Canada,Cybersecurity,2020,32,True
+Taiwan,Canada,Cybersecurity,2023,25,True
+Taiwan,Canada,Cybersecurity,2022,28,True
+United Arab Emirates,Canada,Cybersecurity,2023,32,True
+United Arab Emirates,Canada,Cybersecurity,2024,35,False
+United Arab Emirates,Canada,Cybersecurity,2022,27,True
+United Arab Emirates,Canada,Cybersecurity,2020,25,True
+United Kingdom,Canada,Cybersecurity,2018,33,True
+United Kingdom,Canada,Cybersecurity,2019,46,True
+United Kingdom,Canada,Cybersecurity,2021,51,True
+United Kingdom,Canada,Cybersecurity,2020,47,True
+United Kingdom,Canada,Cybersecurity,2024,46,False
+United Kingdom,Canada,Cybersecurity,2023,40,True
+United Kingdom,Canada,Cybersecurity,2022,34,True
+United States,Canada,Cybersecurity,2018,117,True
+United States,Canada,Cybersecurity,2017,101,True
+United States,Canada,Cybersecurity,2021,169,True
+United States,Canada,Cybersecurity,2016,91,True
+United States,Canada,Cybersecurity,2019,154,True
+United States,Canada,Cybersecurity,2023,155,True
+United States,Canada,Cybersecurity,2020,202,True
+United States,Canada,Cybersecurity,2025,86,False
+United States,Canada,Cybersecurity,2024,176,False
+United States,Canada,Cybersecurity,2022,162,True
+United States,Canada,Cybersecurity,2015,78,True
+Australia,China,Cybersecurity,2021,352,True
+Australia,China,Cybersecurity,2025,200,False
+Australia,China,Cybersecurity,2015,92,True
+Australia,China,Cybersecurity,2023,347,True
+Australia,China,Cybersecurity,2020,326,True
+Australia,China,Cybersecurity,2018,250,True
+Australia,China,Cybersecurity,2024,353,False
+Australia,China,Cybersecurity,2019,260,True
+Australia,China,Cybersecurity,2017,155,True
+Australia,China,Cybersecurity,2016,150,True
+Australia,China,Cybersecurity,2022,308,True
+Canada,China,Cybersecurity,2016,58,True
+Canada,China,Cybersecurity,2024,167,False
+Canada,China,Cybersecurity,2018,122,True
+Canada,China,Cybersecurity,2015,73,True
+Canada,China,Cybersecurity,2023,203,True
+Canada,China,Cybersecurity,2025,60,False
+Canada,China,Cybersecurity,2017,64,True
+Canada,China,Cybersecurity,2022,190,True
+Canada,China,Cybersecurity,2019,133,True
+Canada,China,Cybersecurity,2020,177,True
+Canada,China,Cybersecurity,2021,201,True
+Denmark,China,Cybersecurity,2021,25,True
+Denmark,China,Cybersecurity,2024,29,False
+Denmark,China,Cybersecurity,2023,25,True
+Finland,China,Cybersecurity,2023,31,True
+Finland,China,Cybersecurity,2022,27,True
+Finland,China,Cybersecurity,2018,27,True
+Finland,China,Cybersecurity,2020,28,True
+France,China,Cybersecurity,2021,35,True
+France,China,Cybersecurity,2023,33,True
+France,China,Cybersecurity,2019,32,True
+France,China,Cybersecurity,2018,33,True
+France,China,Cybersecurity,2024,35,False
+France,China,Cybersecurity,2020,41,True
+France,China,Cybersecurity,2017,25,True
+France,China,Cybersecurity,2022,34,True
+Germany,China,Cybersecurity,2023,45,True
+Germany,China,Cybersecurity,2021,38,True
+Germany,China,Cybersecurity,2024,45,False
+Germany,China,Cybersecurity,2019,25,True
+Germany,China,Cybersecurity,2022,38,True
+Germany,China,Cybersecurity,2020,34,True
+India,China,Cybersecurity,2017,36,True
+India,China,Cybersecurity,2022,151,True
+India,China,Cybersecurity,2023,134,True
+India,China,Cybersecurity,2015,28,True
+India,China,Cybersecurity,2024,147,False
+India,China,Cybersecurity,2020,125,True
+India,China,Cybersecurity,2025,69,False
+India,China,Cybersecurity,2018,49,True
+India,China,Cybersecurity,2019,65,True
+India,China,Cybersecurity,2021,121,True
+India,China,Cybersecurity,2016,40,True
+Italy,China,Cybersecurity,2023,43,True
+Italy,China,Cybersecurity,2024,39,False
+Italy,China,Cybersecurity,2020,28,True
+Italy,China,Cybersecurity,2022,43,True
+Japan,China,Cybersecurity,2023,114,True
+Japan,China,Cybersecurity,2015,45,True
+Japan,China,Cybersecurity,2025,51,False
+Japan,China,Cybersecurity,2022,108,True
+Japan,China,Cybersecurity,2020,115,True
+Japan,China,Cybersecurity,2017,42,True
+Japan,China,Cybersecurity,2024,110,False
+Japan,China,Cybersecurity,2016,39,True
+Japan,China,Cybersecurity,2021,117,True
+Japan,China,Cybersecurity,2018,62,True
+Japan,China,Cybersecurity,2019,84,True
+Jordan,China,Cybersecurity,2020,25,True
+Jordan,China,Cybersecurity,2021,32,True
+Lebanon,China,Cybersecurity,2023,42,True
+Malaysia,China,Cybersecurity,2025,25,False
+Malaysia,China,Cybersecurity,2021,35,True
+Malaysia,China,Cybersecurity,2024,55,False
+Malaysia,China,Cybersecurity,2022,34,True
+Malaysia,China,Cybersecurity,2023,34,True
+Netherlands,China,Cybersecurity,2022,31,True
+Netherlands,China,Cybersecurity,2021,27,True
+Norway,China,Cybersecurity,2023,26,True
+Norway,China,Cybersecurity,2021,33,True
+Norway,China,Cybersecurity,2019,30,True
+Norway,China,Cybersecurity,2020,25,True
+Pakistan,China,Cybersecurity,2019,47,True
+Pakistan,China,Cybersecurity,2024,108,False
+Pakistan,China,Cybersecurity,2023,104,True
+Pakistan,China,Cybersecurity,2018,45,True
+Pakistan,China,Cybersecurity,2022,116,True
+Pakistan,China,Cybersecurity,2021,111,True
+Pakistan,China,Cybersecurity,2025,53,False
+Pakistan,China,Cybersecurity,2020,85,True
+Qatar,China,Cybersecurity,2020,37,True
+Qatar,China,Cybersecurity,2021,31,True
+Qatar,China,Cybersecurity,2019,35,True
+Saudi Arabia,China,Cybersecurity,2024,156,False
+Saudi Arabia,China,Cybersecurity,2023,101,True
+Saudi Arabia,China,Cybersecurity,2022,101,True
+Saudi Arabia,China,Cybersecurity,2018,26,True
+Saudi Arabia,China,Cybersecurity,2021,94,True
+Saudi Arabia,China,Cybersecurity,2017,26,True
+Saudi Arabia,China,Cybersecurity,2020,83,True
+Saudi Arabia,China,Cybersecurity,2025,91,False
+Saudi Arabia,China,Cybersecurity,2019,43,True
+Singapore,China,Cybersecurity,2024,320,False
+Singapore,China,Cybersecurity,2021,201,True
+Singapore,China,Cybersecurity,2023,282,True
+Singapore,China,Cybersecurity,2018,143,True
+Singapore,China,Cybersecurity,2019,194,True
+Singapore,China,Cybersecurity,2025,181,False
+Singapore,China,Cybersecurity,2015,77,True
+Singapore,China,Cybersecurity,2020,226,True
+Singapore,China,Cybersecurity,2022,168,True
+Singapore,China,Cybersecurity,2017,110,True
+Singapore,China,Cybersecurity,2016,116,True
+South Korea,China,Cybersecurity,2025,30,False
+South Korea,China,Cybersecurity,2019,44,True
+South Korea,China,Cybersecurity,2023,63,True
+South Korea,China,Cybersecurity,2016,31,True
+South Korea,China,Cybersecurity,2022,56,True
+South Korea,China,Cybersecurity,2020,66,True
+South Korea,China,Cybersecurity,2018,46,True
+South Korea,China,Cybersecurity,2024,61,False
+South Korea,China,Cybersecurity,2015,33,True
+South Korea,China,Cybersecurity,2021,74,True
+Sweden,China,Cybersecurity,2022,28,True
+Sweden,China,Cybersecurity,2023,26,True
+Switzerland,China,Cybersecurity,2020,31,True
+Taiwan,China,Cybersecurity,2018,78,True
+Taiwan,China,Cybersecurity,2021,121,True
+Taiwan,China,Cybersecurity,2015,51,True
+Taiwan,China,Cybersecurity,2016,65,True
+Taiwan,China,Cybersecurity,2019,95,True
+Taiwan,China,Cybersecurity,2025,38,False
+Taiwan,China,Cybersecurity,2024,98,False
+Taiwan,China,Cybersecurity,2022,95,True
+Taiwan,China,Cybersecurity,2020,118,True
+Taiwan,China,Cybersecurity,2017,50,True
+Taiwan,China,Cybersecurity,2023,92,True
+United Arab Emirates,China,Cybersecurity,2024,54,False
+United Arab Emirates,China,Cybersecurity,2023,55,True
+United Arab Emirates,China,Cybersecurity,2020,42,True
+United Arab Emirates,China,Cybersecurity,2021,40,True
+United Arab Emirates,China,Cybersecurity,2022,56,True
+United Kingdom,China,Cybersecurity,2024,281,False
+United Kingdom,China,Cybersecurity,2017,94,True
+United Kingdom,China,Cybersecurity,2016,78,True
+United Kingdom,China,Cybersecurity,2023,249,True
+United Kingdom,China,Cybersecurity,2020,279,True
+United Kingdom,China,Cybersecurity,2019,175,True
+United Kingdom,China,Cybersecurity,2025,122,False
+United Kingdom,China,Cybersecurity,2015,45,True
+United Kingdom,China,Cybersecurity,2021,256,True
+United Kingdom,China,Cybersecurity,2022,251,True
+United Kingdom,China,Cybersecurity,2018,149,True
+United States,China,Cybersecurity,2023,723,True
+United States,China,Cybersecurity,2020,888,True
+United States,China,Cybersecurity,2015,333,True
+United States,China,Cybersecurity,2024,735,False
+United States,China,Cybersecurity,2016,456,True
+United States,China,Cybersecurity,2018,696,True
+United States,China,Cybersecurity,2022,675,True
+United States,China,Cybersecurity,2021,799,True
+United States,China,Cybersecurity,2025,306,False
+United States,China,Cybersecurity,2017,557,True
+United States,China,Cybersecurity,2019,758,True
+Greece,Cyprus,Cybersecurity,2023,25,True
+Greece,Cyprus,Cybersecurity,2021,35,True
+China,Denmark,Cybersecurity,2024,29,False
+China,Denmark,Cybersecurity,2023,25,True
+China,Denmark,Cybersecurity,2021,25,True
+United States,Denmark,Cybersecurity,2023,25,True
+United States,Denmark,Cybersecurity,2019,26,True
+United States,Denmark,Cybersecurity,2020,33,True
+United States,Denmark,Cybersecurity,2021,29,True
+India,Egypt,Cybersecurity,2023,27,True
+India,Egypt,Cybersecurity,2024,28,False
+India,Egypt,Cybersecurity,2022,44,True
+Pakistan,Egypt,Cybersecurity,2022,25,True
+Saudi Arabia,Egypt,Cybersecurity,2024,105,False
+Saudi Arabia,Egypt,Cybersecurity,2022,154,True
+Saudi Arabia,Egypt,Cybersecurity,2021,87,True
+Saudi Arabia,Egypt,Cybersecurity,2023,151,True
+Saudi Arabia,Egypt,Cybersecurity,2019,42,True
+Saudi Arabia,Egypt,Cybersecurity,2020,71,True
+Saudi Arabia,Egypt,Cybersecurity,2025,62,False
+United Kingdom,Egypt,Cybersecurity,2023,27,True
+United States,Egypt,Cybersecurity,2023,44,True
+United States,Egypt,Cybersecurity,2021,27,True
+United States,Egypt,Cybersecurity,2022,43,True
+United States,Egypt,Cybersecurity,2024,34,False
+India,Ethiopia,Cybersecurity,2023,42,True
+India,Ethiopia,Cybersecurity,2021,33,True
+India,Ethiopia,Cybersecurity,2022,84,True
+India,Ethiopia,Cybersecurity,2024,31,False
+Saudi Arabia,Ethiopia,Cybersecurity,2022,30,True
+China,Finland,Cybersecurity,2020,28,True
+China,Finland,Cybersecurity,2023,31,True
+China,Finland,Cybersecurity,2018,27,True
+China,Finland,Cybersecurity,2022,27,True
+United States,Finland,Cybersecurity,2018,29,True
+United States,Finland,Cybersecurity,2023,25,True
+Algeria,France,Cybersecurity,2017,27,True
+Algeria,France,Cybersecurity,2021,40,True
+Algeria,France,Cybersecurity,2023,33,True
+Algeria,France,Cybersecurity,2018,32,True
+Algeria,France,Cybersecurity,2019,42,True
+Algeria,France,Cybersecurity,2022,34,True
+Algeria,France,Cybersecurity,2024,33,False
+Belgium,France,Cybersecurity,2019,31,True
+Canada,France,Cybersecurity,2023,29,True
+Canada,France,Cybersecurity,2024,29,False
+Canada,France,Cybersecurity,2022,33,True
+Canada,France,Cybersecurity,2020,32,True
+Canada,France,Cybersecurity,2021,31,True
+China,France,Cybersecurity,2021,35,True
+China,France,Cybersecurity,2018,33,True
+China,France,Cybersecurity,2023,33,True
+China,France,Cybersecurity,2019,32,True
+China,France,Cybersecurity,2022,34,True
+China,France,Cybersecurity,2020,41,True
+China,France,Cybersecurity,2024,35,False
+China,France,Cybersecurity,2017,25,True
+Germany,France,Cybersecurity,2016,41,True
+Germany,France,Cybersecurity,2018,48,True
+Germany,France,Cybersecurity,2023,51,True
+Germany,France,Cybersecurity,2015,38,True
+Germany,France,Cybersecurity,2021,56,True
+Germany,France,Cybersecurity,2024,46,False
+Germany,France,Cybersecurity,2022,38,True
+Germany,France,Cybersecurity,2025,27,False
+Germany,France,Cybersecurity,2017,34,True
+Germany,France,Cybersecurity,2020,54,True
+Germany,France,Cybersecurity,2019,44,True
+India,France,Cybersecurity,2020,30,True
+India,France,Cybersecurity,2024,26,False
+India,France,Cybersecurity,2021,25,True
+Italy,France,Cybersecurity,2021,28,True
+Italy,France,Cybersecurity,2022,32,True
+Italy,France,Cybersecurity,2017,28,True
+Italy,France,Cybersecurity,2024,40,False
+Italy,France,Cybersecurity,2019,34,True
+Italy,France,Cybersecurity,2023,43,True
+Italy,France,Cybersecurity,2020,28,True
+Italy,France,Cybersecurity,2016,34,True
+Japan,France,Cybersecurity,2018,29,True
+Japan,France,Cybersecurity,2019,25,True
+Japan,France,Cybersecurity,2020,31,True
+Netherlands,France,Cybersecurity,2018,29,True
+Netherlands,France,Cybersecurity,2021,32,True
+Spain,France,Cybersecurity,2024,32,False
+Spain,France,Cybersecurity,2015,26,True
+Spain,France,Cybersecurity,2019,27,True
+Spain,France,Cybersecurity,2018,27,True
+Spain,France,Cybersecurity,2017,31,True
+Switzerland,France,Cybersecurity,2020,30,True
+Switzerland,France,Cybersecurity,2022,25,True
+Tunisia,France,Cybersecurity,2021,32,True
+Tunisia,France,Cybersecurity,2019,25,True
+Tunisia,France,Cybersecurity,2023,32,True
+Tunisia,France,Cybersecurity,2016,30,True
+Tunisia,France,Cybersecurity,2022,26,True
+Tunisia,France,Cybersecurity,2018,26,True
+United Kingdom,France,Cybersecurity,2023,33,True
+United Kingdom,France,Cybersecurity,2021,55,True
+United Kingdom,France,Cybersecurity,2024,44,False
+United Kingdom,France,Cybersecurity,2015,38,True
+United Kingdom,France,Cybersecurity,2017,48,True
+United Kingdom,France,Cybersecurity,2016,43,True
+United Kingdom,France,Cybersecurity,2018,47,True
+United Kingdom,France,Cybersecurity,2019,64,True
+United Kingdom,France,Cybersecurity,2022,36,True
+United Kingdom,France,Cybersecurity,2020,65,True
+United States,France,Cybersecurity,2016,70,True
+United States,France,Cybersecurity,2019,81,True
+United States,France,Cybersecurity,2017,80,True
+United States,France,Cybersecurity,2020,133,True
+United States,France,Cybersecurity,2018,95,True
+United States,France,Cybersecurity,2022,64,True
+United States,France,Cybersecurity,2024,55,False
+United States,France,Cybersecurity,2021,74,True
+United States,France,Cybersecurity,2025,28,False
+United States,France,Cybersecurity,2023,80,True
+United States,France,Cybersecurity,2015,66,True
+Australia,Germany,Cybersecurity,2020,26,True
+Australia,Germany,Cybersecurity,2024,30,False
+Austria,Germany,Cybersecurity,2023,36,True
+Austria,Germany,Cybersecurity,2022,40,True
+Austria,Germany,Cybersecurity,2019,38,True
+Austria,Germany,Cybersecurity,2016,33,True
+Austria,Germany,Cybersecurity,2024,35,False
+Austria,Germany,Cybersecurity,2020,41,True
+Austria,Germany,Cybersecurity,2015,27,True
+Austria,Germany,Cybersecurity,2017,29,True
+Austria,Germany,Cybersecurity,2021,36,True
+Austria,Germany,Cybersecurity,2018,31,True
+Belgium,Germany,Cybersecurity,2021,26,True
+Canada,Germany,Cybersecurity,2021,27,True
+China,Germany,Cybersecurity,2021,38,True
+China,Germany,Cybersecurity,2019,25,True
+China,Germany,Cybersecurity,2023,45,True
+China,Germany,Cybersecurity,2024,45,False
+China,Germany,Cybersecurity,2022,38,True
+China,Germany,Cybersecurity,2020,34,True
+France,Germany,Cybersecurity,2024,46,False
+France,Germany,Cybersecurity,2025,27,False
+France,Germany,Cybersecurity,2021,56,True
+France,Germany,Cybersecurity,2019,44,True
+France,Germany,Cybersecurity,2015,38,True
+France,Germany,Cybersecurity,2018,48,True
+France,Germany,Cybersecurity,2017,34,True
+France,Germany,Cybersecurity,2022,38,True
+France,Germany,Cybersecurity,2016,41,True
+France,Germany,Cybersecurity,2023,51,True
+France,Germany,Cybersecurity,2020,54,True
+India,Germany,Cybersecurity,2023,27,True
+India,Germany,Cybersecurity,2021,29,True
+India,Germany,Cybersecurity,2022,32,True
+Italy,Germany,Cybersecurity,2022,42,True
+Italy,Germany,Cybersecurity,2017,45,True
+Italy,Germany,Cybersecurity,2015,33,True
+Italy,Germany,Cybersecurity,2021,43,True
+Italy,Germany,Cybersecurity,2016,42,True
+Italy,Germany,Cybersecurity,2020,52,True
+Italy,Germany,Cybersecurity,2023,38,True
+Italy,Germany,Cybersecurity,2024,50,False
+Netherlands,Germany,Cybersecurity,2019,37,True
+Netherlands,Germany,Cybersecurity,2017,30,True
+Netherlands,Germany,Cybersecurity,2015,35,True
+Netherlands,Germany,Cybersecurity,2024,48,False
+Netherlands,Germany,Cybersecurity,2018,36,True
+Netherlands,Germany,Cybersecurity,2023,54,True
+Netherlands,Germany,Cybersecurity,2020,56,True
+Netherlands,Germany,Cybersecurity,2016,25,True
+Netherlands,Germany,Cybersecurity,2022,48,True
+Netherlands,Germany,Cybersecurity,2021,74,True
+Spain,Germany,Cybersecurity,2021,28,True
+Spain,Germany,Cybersecurity,2022,32,True
+Spain,Germany,Cybersecurity,2024,30,False
+Spain,Germany,Cybersecurity,2017,25,True
+Spain,Germany,Cybersecurity,2019,30,True
+Spain,Germany,Cybersecurity,2023,42,True
+Sweden,Germany,Cybersecurity,2021,27,True
+Sweden,Germany,Cybersecurity,2023,28,True
+Switzerland,Germany,Cybersecurity,2017,56,True
+Switzerland,Germany,Cybersecurity,2020,64,True
+Switzerland,Germany,Cybersecurity,2021,44,True
+Switzerland,Germany,Cybersecurity,2024,49,False
+Switzerland,Germany,Cybersecurity,2022,38,True
+Switzerland,Germany,Cybersecurity,2018,39,True
+Switzerland,Germany,Cybersecurity,2019,40,True
+Switzerland,Germany,Cybersecurity,2016,35,True
+Switzerland,Germany,Cybersecurity,2025,26,False
+Switzerland,Germany,Cybersecurity,2015,33,True
+Switzerland,Germany,Cybersecurity,2023,39,True
+United Kingdom,Germany,Cybersecurity,2022,73,True
+United Kingdom,Germany,Cybersecurity,2025,37,False
+United Kingdom,Germany,Cybersecurity,2019,82,True
+United Kingdom,Germany,Cybersecurity,2018,87,True
+United Kingdom,Germany,Cybersecurity,2024,67,False
+United Kingdom,Germany,Cybersecurity,2017,68,True
+United Kingdom,Germany,Cybersecurity,2020,86,True
+United Kingdom,Germany,Cybersecurity,2021,85,True
+United Kingdom,Germany,Cybersecurity,2016,88,True
+United Kingdom,Germany,Cybersecurity,2015,55,True
+United Kingdom,Germany,Cybersecurity,2023,64,True
+United States,Germany,Cybersecurity,2025,63,False
+United States,Germany,Cybersecurity,2024,112,False
+United States,Germany,Cybersecurity,2021,139,True
+United States,Germany,Cybersecurity,2015,126,True
+United States,Germany,Cybersecurity,2019,151,True
+United States,Germany,Cybersecurity,2020,177,True
+United States,Germany,Cybersecurity,2023,171,True
+United States,Germany,Cybersecurity,2017,136,True
+United States,Germany,Cybersecurity,2016,111,True
+United States,Germany,Cybersecurity,2018,135,True
+United States,Germany,Cybersecurity,2022,123,True
+Cyprus,Greece,Cybersecurity,2023,25,True
+Cyprus,Greece,Cybersecurity,2021,35,True
+Spain,Greece,Cybersecurity,2021,30,True
+Spain,Greece,Cybersecurity,2024,27,False
+United Kingdom,Greece,Cybersecurity,2024,33,False
+United Kingdom,Greece,Cybersecurity,2019,59,True
+United Kingdom,Greece,Cybersecurity,2022,39,True
+United Kingdom,Greece,Cybersecurity,2020,66,True
+United Kingdom,Greece,Cybersecurity,2017,31,True
+United Kingdom,Greece,Cybersecurity,2018,42,True
+United Kingdom,Greece,Cybersecurity,2016,27,True
+United Kingdom,Greece,Cybersecurity,2023,48,True
+United Kingdom,Greece,Cybersecurity,2015,32,True
+United Kingdom,Greece,Cybersecurity,2021,60,True
+United States,Greece,Cybersecurity,2015,31,True
+United States,Greece,Cybersecurity,2021,28,True
+United States,Greece,Cybersecurity,2019,33,True
+United States,Greece,Cybersecurity,2020,25,True
+Australia,India,Cybersecurity,2023,79,True
+Australia,India,Cybersecurity,2024,61,False
+Australia,India,Cybersecurity,2022,70,True
+Australia,India,Cybersecurity,2021,83,True
+Australia,India,Cybersecurity,2020,79,True
+Australia,India,Cybersecurity,2025,29,False
+Australia,India,Cybersecurity,2019,35,True
+Canada,India,Cybersecurity,2023,57,True
+Canada,India,Cybersecurity,2021,44,True
+Canada,India,Cybersecurity,2022,59,True
+Canada,India,Cybersecurity,2020,32,True
+Canada,India,Cybersecurity,2019,25,True
+Canada,India,Cybersecurity,2024,48,False
+China,India,Cybersecurity,2017,36,True
+China,India,Cybersecurity,2015,28,True
+China,India,Cybersecurity,2023,134,True
+China,India,Cybersecurity,2024,147,False
+China,India,Cybersecurity,2021,121,True
+China,India,Cybersecurity,2016,40,True
+China,India,Cybersecurity,2019,65,True
+China,India,Cybersecurity,2020,125,True
+China,India,Cybersecurity,2018,49,True
+China,India,Cybersecurity,2022,151,True
+China,India,Cybersecurity,2025,69,False
+Egypt,India,Cybersecurity,2023,27,True
+Egypt,India,Cybersecurity,2024,28,False
+Egypt,India,Cybersecurity,2022,44,True
+Ethiopia,India,Cybersecurity,2023,42,True
+Ethiopia,India,Cybersecurity,2022,84,True
+Ethiopia,India,Cybersecurity,2024,31,False
+Ethiopia,India,Cybersecurity,2021,33,True
+France,India,Cybersecurity,2020,30,True
+France,India,Cybersecurity,2021,25,True
+France,India,Cybersecurity,2024,26,False
+Germany,India,Cybersecurity,2021,29,True
+Germany,India,Cybersecurity,2022,32,True
+Germany,India,Cybersecurity,2023,27,True
+Iraq,India,Cybersecurity,2024,202,False
+Iraq,India,Cybersecurity,2023,92,True
+Iraq,India,Cybersecurity,2025,103,False
+Iraq,India,Cybersecurity,2022,42,True
+Ireland,India,Cybersecurity,2024,31,False
+Italy,India,Cybersecurity,2023,35,True
+Italy,India,Cybersecurity,2022,33,True
+Italy,India,Cybersecurity,2024,46,False
+Japan,India,Cybersecurity,2023,31,True
+Japan,India,Cybersecurity,2019,32,True
+Japan,India,Cybersecurity,2021,31,True
+Japan,India,Cybersecurity,2020,33,True
+Japan,India,Cybersecurity,2016,25,True
+Jordan,India,Cybersecurity,2023,55,True
+Jordan,India,Cybersecurity,2025,37,False
+Jordan,India,Cybersecurity,2024,63,False
+Jordan,India,Cybersecurity,2021,30,True
+Lebanon,India,Cybersecurity,2022,33,True
+Lebanon,India,Cybersecurity,2023,60,True
+Malaysia,India,Cybersecurity,2022,80,True
+Malaysia,India,Cybersecurity,2021,50,True
+Malaysia,India,Cybersecurity,2023,76,True
+Malaysia,India,Cybersecurity,2024,95,False
+Malaysia,India,Cybersecurity,2025,40,False
+Oman,India,Cybersecurity,2023,36,True
+Oman,India,Cybersecurity,2022,31,True
+Oman,India,Cybersecurity,2024,47,False
+Pakistan,India,Cybersecurity,2024,50,False
+Pakistan,India,Cybersecurity,2021,48,True
+Pakistan,India,Cybersecurity,2022,58,True
+Pakistan,India,Cybersecurity,2020,40,True
+Pakistan,India,Cybersecurity,2023,43,True
+Peru,India,Cybersecurity,2022,28,True
+Saudi Arabia,India,Cybersecurity,2018,25,True
+Saudi Arabia,India,Cybersecurity,2017,26,True
+Saudi Arabia,India,Cybersecurity,2015,28,True
+Saudi Arabia,India,Cybersecurity,2019,41,True
+Saudi Arabia,India,Cybersecurity,2021,190,True
+Saudi Arabia,India,Cybersecurity,2022,295,True
+Saudi Arabia,India,Cybersecurity,2023,240,True
+Saudi Arabia,India,Cybersecurity,2020,123,True
+Saudi Arabia,India,Cybersecurity,2024,287,False
+Saudi Arabia,India,Cybersecurity,2025,169,False
+Singapore,India,Cybersecurity,2022,29,True
+Singapore,India,Cybersecurity,2025,31,False
+Singapore,India,Cybersecurity,2019,37,True
+Singapore,India,Cybersecurity,2020,31,True
+Singapore,India,Cybersecurity,2024,33,False
+South Africa,India,Cybersecurity,2022,36,True
+South Korea,India,Cybersecurity,2021,91,True
+South Korea,India,Cybersecurity,2020,57,True
+South Korea,India,Cybersecurity,2023,68,True
+South Korea,India,Cybersecurity,2024,90,False
+South Korea,India,Cybersecurity,2025,46,False
+South Korea,India,Cybersecurity,2022,86,True
+South Korea,India,Cybersecurity,2018,32,True
+Spain,India,Cybersecurity,2022,25,True
+Taiwan,India,Cybersecurity,2024,59,False
+Taiwan,India,Cybersecurity,2020,60,True
+Taiwan,India,Cybersecurity,2023,53,True
+Taiwan,India,Cybersecurity,2021,80,True
+Taiwan,India,Cybersecurity,2025,25,False
+Taiwan,India,Cybersecurity,2022,82,True
+Turkey,India,Cybersecurity,2022,28,True
+Turkey,India,Cybersecurity,2023,26,True
+United Arab Emirates,India,Cybersecurity,2020,43,True
+United Arab Emirates,India,Cybersecurity,2022,65,True
+United Arab Emirates,India,Cybersecurity,2025,38,False
+United Arab Emirates,India,Cybersecurity,2021,55,True
+United Arab Emirates,India,Cybersecurity,2024,69,False
+United Arab Emirates,India,Cybersecurity,2023,67,True
+United Kingdom,India,Cybersecurity,2024,144,False
+United Kingdom,India,Cybersecurity,2020,76,True
+United Kingdom,India,Cybersecurity,2018,25,True
+United Kingdom,India,Cybersecurity,2021,82,True
+United Kingdom,India,Cybersecurity,2025,48,False
+United Kingdom,India,Cybersecurity,2023,100,True
+United Kingdom,India,Cybersecurity,2019,46,True
+United Kingdom,India,Cybersecurity,2022,92,True
+United States,India,Cybersecurity,2023,336,True
+United States,India,Cybersecurity,2015,68,True
+United States,India,Cybersecurity,2016,121,True
+United States,India,Cybersecurity,2021,199,True
+United States,India,Cybersecurity,2022,261,True
+United States,India,Cybersecurity,2017,147,True
+United States,India,Cybersecurity,2019,171,True
+United States,India,Cybersecurity,2020,200,True
+United States,India,Cybersecurity,2025,305,False
+United States,India,Cybersecurity,2018,114,True
+United States,India,Cybersecurity,2024,481,False
+Uzbekistan,India,Cybersecurity,2025,28,False
+Vietnam,India,Cybersecurity,2020,30,True
+Malaysia,Indonesia,Cybersecurity,2020,29,True
+Malaysia,Indonesia,Cybersecurity,2024,49,False
+Malaysia,Indonesia,Cybersecurity,2021,49,True
+Malaysia,Indonesia,Cybersecurity,2022,36,True
+Malaysia,Indonesia,Cybersecurity,2019,26,True
+Malaysia,Indonesia,Cybersecurity,2018,33,True
+Malaysia,Indonesia,Cybersecurity,2023,54,True
+Canada,Iran,Cybersecurity,2020,28,True
+United States,Iran,Cybersecurity,2020,25,True
+United States,Iran,Cybersecurity,2019,25,True
+India,Iraq,Cybersecurity,2022,42,True
+India,Iraq,Cybersecurity,2025,103,False
+India,Iraq,Cybersecurity,2023,92,True
+India,Iraq,Cybersecurity,2024,202,False
+Malaysia,Iraq,Cybersecurity,2024,43,False
+Malaysia,Iraq,Cybersecurity,2021,41,True
+Malaysia,Iraq,Cybersecurity,2023,57,True
+Malaysia,Iraq,Cybersecurity,2022,44,True
+Malaysia,Iraq,Cybersecurity,2020,29,True
+Saudi Arabia,Iraq,Cybersecurity,2024,32,False
+Saudi Arabia,Iraq,Cybersecurity,2022,31,True
+United States,Iraq,Cybersecurity,2024,45,False
+India,Ireland,Cybersecurity,2024,31,False
+United Kingdom,Ireland,Cybersecurity,2020,30,True
+United States,Ireland,Cybersecurity,2020,27,True
+United States,Israel,Cybersecurity,2016,61,True
+United States,Israel,Cybersecurity,2024,29,False
+United States,Israel,Cybersecurity,2022,39,True
+United States,Israel,Cybersecurity,2023,56,True
+United States,Israel,Cybersecurity,2017,82,True
+United States,Israel,Cybersecurity,2020,98,True
+United States,Israel,Cybersecurity,2018,95,True
+United States,Israel,Cybersecurity,2021,84,True
+United States,Israel,Cybersecurity,2015,59,True
+United States,Israel,Cybersecurity,2019,90,True
+China,Italy,Cybersecurity,2023,43,True
+China,Italy,Cybersecurity,2020,28,True
+China,Italy,Cybersecurity,2022,43,True
+China,Italy,Cybersecurity,2024,39,False
+France,Italy,Cybersecurity,2017,28,True
+France,Italy,Cybersecurity,2024,40,False
+France,Italy,Cybersecurity,2023,43,True
+France,Italy,Cybersecurity,2020,28,True
+France,Italy,Cybersecurity,2019,34,True
+France,Italy,Cybersecurity,2016,34,True
+France,Italy,Cybersecurity,2021,28,True
+France,Italy,Cybersecurity,2022,32,True
+Germany,Italy,Cybersecurity,2022,42,True
+Germany,Italy,Cybersecurity,2023,38,True
+Germany,Italy,Cybersecurity,2024,50,False
+Germany,Italy,Cybersecurity,2020,52,True
+Germany,Italy,Cybersecurity,2017,45,True
+Germany,Italy,Cybersecurity,2015,33,True
+Germany,Italy,Cybersecurity,2016,42,True
+Germany,Italy,Cybersecurity,2021,43,True
+India,Italy,Cybersecurity,2023,35,True
+India,Italy,Cybersecurity,2022,33,True
+India,Italy,Cybersecurity,2024,46,False
+Netherlands,Italy,Cybersecurity,2022,57,True
+Netherlands,Italy,Cybersecurity,2023,43,True
+Netherlands,Italy,Cybersecurity,2020,25,True
+Netherlands,Italy,Cybersecurity,2024,32,False
+Netherlands,Italy,Cybersecurity,2021,44,True
+Spain,Italy,Cybersecurity,2024,35,False
+Spain,Italy,Cybersecurity,2017,38,True
+Spain,Italy,Cybersecurity,2015,25,True
+Spain,Italy,Cybersecurity,2023,42,True
+Spain,Italy,Cybersecurity,2020,39,True
+Spain,Italy,Cybersecurity,2019,38,True
+Spain,Italy,Cybersecurity,2022,37,True
+Spain,Italy,Cybersecurity,2021,33,True
+United Kingdom,Italy,Cybersecurity,2019,51,True
+United Kingdom,Italy,Cybersecurity,2023,55,True
+United Kingdom,Italy,Cybersecurity,2020,51,True
+United Kingdom,Italy,Cybersecurity,2018,43,True
+United Kingdom,Italy,Cybersecurity,2017,56,True
+United Kingdom,Italy,Cybersecurity,2025,25,False
+United Kingdom,Italy,Cybersecurity,2016,43,True
+United Kingdom,Italy,Cybersecurity,2024,45,False
+United Kingdom,Italy,Cybersecurity,2022,46,True
+United Kingdom,Italy,Cybersecurity,2021,38,True
+United Kingdom,Italy,Cybersecurity,2015,34,True
+United States,Italy,Cybersecurity,2022,74,True
+United States,Italy,Cybersecurity,2020,71,True
+United States,Italy,Cybersecurity,2025,35,False
+United States,Italy,Cybersecurity,2016,59,True
+United States,Italy,Cybersecurity,2023,64,True
+United States,Italy,Cybersecurity,2024,79,False
+United States,Italy,Cybersecurity,2021,82,True
+United States,Italy,Cybersecurity,2018,67,True
+United States,Italy,Cybersecurity,2017,61,True
+United States,Italy,Cybersecurity,2019,80,True
+United States,Italy,Cybersecurity,2015,48,True
+Australia,Japan,Cybersecurity,2020,27,True
+Canada,Japan,Cybersecurity,2021,28,True
+China,Japan,Cybersecurity,2025,51,False
+China,Japan,Cybersecurity,2015,45,True
+China,Japan,Cybersecurity,2023,114,True
+China,Japan,Cybersecurity,2022,108,True
+China,Japan,Cybersecurity,2024,110,False
+China,Japan,Cybersecurity,2020,115,True
+China,Japan,Cybersecurity,2019,84,True
+China,Japan,Cybersecurity,2018,62,True
+China,Japan,Cybersecurity,2017,42,True
+China,Japan,Cybersecurity,2016,39,True
+China,Japan,Cybersecurity,2021,117,True
+France,Japan,Cybersecurity,2019,25,True
+France,Japan,Cybersecurity,2018,29,True
+France,Japan,Cybersecurity,2020,31,True
+India,Japan,Cybersecurity,2021,31,True
+India,Japan,Cybersecurity,2016,25,True
+India,Japan,Cybersecurity,2019,32,True
+India,Japan,Cybersecurity,2023,31,True
+India,Japan,Cybersecurity,2020,33,True
+United Kingdom,Japan,Cybersecurity,2022,25,True
+United Kingdom,Japan,Cybersecurity,2021,26,True
+United Kingdom,Japan,Cybersecurity,2020,29,True
+United States,Japan,Cybersecurity,2017,43,True
+United States,Japan,Cybersecurity,2015,41,True
+United States,Japan,Cybersecurity,2023,62,True
+United States,Japan,Cybersecurity,2016,33,True
+United States,Japan,Cybersecurity,2021,59,True
+United States,Japan,Cybersecurity,2018,47,True
+United States,Japan,Cybersecurity,2025,32,False
+United States,Japan,Cybersecurity,2022,42,True
+United States,Japan,Cybersecurity,2019,54,True
+United States,Japan,Cybersecurity,2024,55,False
+United States,Japan,Cybersecurity,2020,67,True
+Vietnam,Japan,Cybersecurity,2024,33,False
+China,Jordan,Cybersecurity,2021,32,True
+China,Jordan,Cybersecurity,2020,25,True
+India,Jordan,Cybersecurity,2023,55,True
+India,Jordan,Cybersecurity,2025,37,False
+India,Jordan,Cybersecurity,2021,30,True
+India,Jordan,Cybersecurity,2024,63,False
+Malaysia,Jordan,Cybersecurity,2023,32,True
+Malaysia,Jordan,Cybersecurity,2024,29,False
+Saudi Arabia,Jordan,Cybersecurity,2022,48,True
+Saudi Arabia,Jordan,Cybersecurity,2025,77,False
+Saudi Arabia,Jordan,Cybersecurity,2023,57,True
+Saudi Arabia,Jordan,Cybersecurity,2021,35,True
+Saudi Arabia,Jordan,Cybersecurity,2024,104,False
+United Arab Emirates,Jordan,Cybersecurity,2021,41,True
+United Arab Emirates,Jordan,Cybersecurity,2023,67,True
+United Arab Emirates,Jordan,Cybersecurity,2025,43,False
+United Arab Emirates,Jordan,Cybersecurity,2024,53,False
+United Arab Emirates,Jordan,Cybersecurity,2020,37,True
+United Arab Emirates,Jordan,Cybersecurity,2022,37,True
+United Kingdom,Jordan,Cybersecurity,2025,50,False
+United States,Jordan,Cybersecurity,2020,25,True
+United States,Jordan,Cybersecurity,2023,32,True
+United States,Jordan,Cybersecurity,2022,37,True
+Canada,Lebanon,Cybersecurity,2023,39,True
+China,Lebanon,Cybersecurity,2023,42,True
+India,Lebanon,Cybersecurity,2022,33,True
+India,Lebanon,Cybersecurity,2023,60,True
+Saudi Arabia,Lebanon,Cybersecurity,2023,33,True
+Taiwan,Lebanon,Cybersecurity,2023,45,True
+United States,Lebanon,Cybersecurity,2023,34,True
+Australia,Malaysia,Cybersecurity,2024,31,False
+China,Malaysia,Cybersecurity,2021,35,True
+China,Malaysia,Cybersecurity,2024,55,False
+China,Malaysia,Cybersecurity,2022,34,True
+China,Malaysia,Cybersecurity,2023,34,True
+China,Malaysia,Cybersecurity,2025,25,False
+India,Malaysia,Cybersecurity,2024,95,False
+India,Malaysia,Cybersecurity,2022,80,True
+India,Malaysia,Cybersecurity,2021,50,True
+India,Malaysia,Cybersecurity,2025,40,False
+India,Malaysia,Cybersecurity,2023,76,True
+Indonesia,Malaysia,Cybersecurity,2022,36,True
+Indonesia,Malaysia,Cybersecurity,2020,29,True
+Indonesia,Malaysia,Cybersecurity,2023,54,True
+Indonesia,Malaysia,Cybersecurity,2021,49,True
+Indonesia,Malaysia,Cybersecurity,2018,33,True
+Indonesia,Malaysia,Cybersecurity,2024,49,False
+Indonesia,Malaysia,Cybersecurity,2019,26,True
+Iraq,Malaysia,Cybersecurity,2024,43,False
+Iraq,Malaysia,Cybersecurity,2023,57,True
+Iraq,Malaysia,Cybersecurity,2020,29,True
+Iraq,Malaysia,Cybersecurity,2021,41,True
+Iraq,Malaysia,Cybersecurity,2022,44,True
+Jordan,Malaysia,Cybersecurity,2024,29,False
+Jordan,Malaysia,Cybersecurity,2023,32,True
+Pakistan,Malaysia,Cybersecurity,2024,90,False
+Pakistan,Malaysia,Cybersecurity,2023,51,True
+Pakistan,Malaysia,Cybersecurity,2020,30,True
+Pakistan,Malaysia,Cybersecurity,2025,33,False
+Pakistan,Malaysia,Cybersecurity,2021,47,True
+Pakistan,Malaysia,Cybersecurity,2022,75,True
+Saudi Arabia,Malaysia,Cybersecurity,2023,103,True
+Saudi Arabia,Malaysia,Cybersecurity,2019,31,True
+Saudi Arabia,Malaysia,Cybersecurity,2025,46,False
+Saudi Arabia,Malaysia,Cybersecurity,2021,83,True
+Saudi Arabia,Malaysia,Cybersecurity,2022,108,True
+Saudi Arabia,Malaysia,Cybersecurity,2020,45,True
+Saudi Arabia,Malaysia,Cybersecurity,2024,96,False
+United Arab Emirates,Malaysia,Cybersecurity,2023,35,True
+United Arab Emirates,Malaysia,Cybersecurity,2022,40,True
+United Arab Emirates,Malaysia,Cybersecurity,2024,41,False
+United Kingdom,Malaysia,Cybersecurity,2021,30,True
+United Kingdom,Malaysia,Cybersecurity,2022,34,True
+United Kingdom,Malaysia,Cybersecurity,2023,47,True
+United Kingdom,Malaysia,Cybersecurity,2024,56,False
+United States,Malaysia,Cybersecurity,2023,27,True
+United States,Malaysia,Cybersecurity,2024,29,False
+Belgium,Netherlands,Cybersecurity,2020,27,True
+Belgium,Netherlands,Cybersecurity,2019,27,True
+Belgium,Netherlands,Cybersecurity,2021,27,True
+China,Netherlands,Cybersecurity,2022,31,True
+China,Netherlands,Cybersecurity,2021,27,True
+France,Netherlands,Cybersecurity,2021,32,True
+France,Netherlands,Cybersecurity,2018,29,True
+Germany,Netherlands,Cybersecurity,2020,56,True
+Germany,Netherlands,Cybersecurity,2022,48,True
+Germany,Netherlands,Cybersecurity,2016,25,True
+Germany,Netherlands,Cybersecurity,2024,48,False
+Germany,Netherlands,Cybersecurity,2018,36,True
+Germany,Netherlands,Cybersecurity,2017,30,True
+Germany,Netherlands,Cybersecurity,2021,74,True
+Germany,Netherlands,Cybersecurity,2019,37,True
+Germany,Netherlands,Cybersecurity,2015,35,True
+Germany,Netherlands,Cybersecurity,2023,54,True
+Italy,Netherlands,Cybersecurity,2022,57,True
+Italy,Netherlands,Cybersecurity,2024,32,False
+Italy,Netherlands,Cybersecurity,2021,44,True
+Italy,Netherlands,Cybersecurity,2023,43,True
+Italy,Netherlands,Cybersecurity,2020,25,True
+United Kingdom,Netherlands,Cybersecurity,2023,29,True
+United Kingdom,Netherlands,Cybersecurity,2019,27,True
+United Kingdom,Netherlands,Cybersecurity,2024,27,False
+United Kingdom,Netherlands,Cybersecurity,2020,27,True
+United Kingdom,Netherlands,Cybersecurity,2021,45,True
+United Kingdom,Netherlands,Cybersecurity,2022,32,True
+United States,Netherlands,Cybersecurity,2018,45,True
+United States,Netherlands,Cybersecurity,2023,47,True
+United States,Netherlands,Cybersecurity,2016,38,True
+United States,Netherlands,Cybersecurity,2022,43,True
+United States,Netherlands,Cybersecurity,2020,60,True
+United States,Netherlands,Cybersecurity,2019,38,True
+United States,Netherlands,Cybersecurity,2017,30,True
+United States,Netherlands,Cybersecurity,2021,55,True
+United States,Netherlands,Cybersecurity,2015,25,True
+United States,Netherlands,Cybersecurity,2024,46,False
+Australia,New Zealand,Cybersecurity,2021,31,True
+United Kingdom,Nigeria,Cybersecurity,2024,25,False
+United States,Nigeria,Cybersecurity,2024,61,False
+United States,Nigeria,Cybersecurity,2023,26,True
+China,Norway,Cybersecurity,2023,26,True
+China,Norway,Cybersecurity,2021,33,True
+China,Norway,Cybersecurity,2020,25,True
+China,Norway,Cybersecurity,2019,30,True
+Pakistan,Norway,Cybersecurity,2022,27,True
+United States,Norway,Cybersecurity,2023,28,True
+United States,Norway,Cybersecurity,2021,29,True
+United States,Norway,Cybersecurity,2022,32,True
+India,Oman,Cybersecurity,2024,47,False
+India,Oman,Cybersecurity,2022,31,True
+India,Oman,Cybersecurity,2023,36,True
+Australia,Pakistan,Cybersecurity,2023,36,True
+Australia,Pakistan,Cybersecurity,2020,27,True
+Australia,Pakistan,Cybersecurity,2024,26,False
+Australia,Pakistan,Cybersecurity,2021,34,True
+Australia,Pakistan,Cybersecurity,2022,41,True
+China,Pakistan,Cybersecurity,2019,47,True
+China,Pakistan,Cybersecurity,2022,116,True
+China,Pakistan,Cybersecurity,2020,85,True
+China,Pakistan,Cybersecurity,2024,108,False
+China,Pakistan,Cybersecurity,2018,45,True
+China,Pakistan,Cybersecurity,2021,111,True
+China,Pakistan,Cybersecurity,2023,104,True
+China,Pakistan,Cybersecurity,2025,53,False
+Egypt,Pakistan,Cybersecurity,2022,25,True
+India,Pakistan,Cybersecurity,2021,48,True
+India,Pakistan,Cybersecurity,2022,58,True
+India,Pakistan,Cybersecurity,2024,50,False
+India,Pakistan,Cybersecurity,2023,43,True
+India,Pakistan,Cybersecurity,2020,40,True
+Malaysia,Pakistan,Cybersecurity,2022,75,True
+Malaysia,Pakistan,Cybersecurity,2020,30,True
+Malaysia,Pakistan,Cybersecurity,2023,51,True
+Malaysia,Pakistan,Cybersecurity,2025,33,False
+Malaysia,Pakistan,Cybersecurity,2021,47,True
+Malaysia,Pakistan,Cybersecurity,2024,90,False
+Norway,Pakistan,Cybersecurity,2022,27,True
+Qatar,Pakistan,Cybersecurity,2021,26,True
+Qatar,Pakistan,Cybersecurity,2022,28,True
+Saudi Arabia,Pakistan,Cybersecurity,2022,223,True
+Saudi Arabia,Pakistan,Cybersecurity,2018,36,True
+Saudi Arabia,Pakistan,Cybersecurity,2025,150,False
+Saudi Arabia,Pakistan,Cybersecurity,2024,233,False
+Saudi Arabia,Pakistan,Cybersecurity,2019,50,True
+Saudi Arabia,Pakistan,Cybersecurity,2017,31,True
+Saudi Arabia,Pakistan,Cybersecurity,2020,122,True
+Saudi Arabia,Pakistan,Cybersecurity,2023,203,True
+Saudi Arabia,Pakistan,Cybersecurity,2021,159,True
+South Korea,Pakistan,Cybersecurity,2023,53,True
+South Korea,Pakistan,Cybersecurity,2021,48,True
+South Korea,Pakistan,Cybersecurity,2024,59,False
+South Korea,Pakistan,Cybersecurity,2020,30,True
+South Korea,Pakistan,Cybersecurity,2022,82,True
+Taiwan,Pakistan,Cybersecurity,2022,26,True
+United Arab Emirates,Pakistan,Cybersecurity,2021,32,True
+United Arab Emirates,Pakistan,Cybersecurity,2024,56,False
+United Arab Emirates,Pakistan,Cybersecurity,2023,53,True
+United Arab Emirates,Pakistan,Cybersecurity,2022,47,True
+United Kingdom,Pakistan,Cybersecurity,2025,52,False
+United Kingdom,Pakistan,Cybersecurity,2018,34,True
+United Kingdom,Pakistan,Cybersecurity,2021,69,True
+United Kingdom,Pakistan,Cybersecurity,2024,93,False
+United Kingdom,Pakistan,Cybersecurity,2022,83,True
+United Kingdom,Pakistan,Cybersecurity,2020,64,True
+United Kingdom,Pakistan,Cybersecurity,2023,83,True
+United Kingdom,Pakistan,Cybersecurity,2019,54,True
+United States,Pakistan,Cybersecurity,2022,45,True
+United States,Pakistan,Cybersecurity,2018,39,True
+United States,Pakistan,Cybersecurity,2016,26,True
+United States,Pakistan,Cybersecurity,2024,70,False
+United States,Pakistan,Cybersecurity,2017,26,True
+United States,Pakistan,Cybersecurity,2023,45,True
+United States,Pakistan,Cybersecurity,2019,32,True
+United States,Pakistan,Cybersecurity,2021,40,True
+United States,Pakistan,Cybersecurity,2020,32,True
+India,Peru,Cybersecurity,2022,28,True
+Brazil,Portugal,Cybersecurity,2020,39,True
+China,Qatar,Cybersecurity,2021,31,True
+China,Qatar,Cybersecurity,2019,35,True
+China,Qatar,Cybersecurity,2020,37,True
+Pakistan,Qatar,Cybersecurity,2021,26,True
+Pakistan,Qatar,Cybersecurity,2022,28,True
+Saudi Arabia,Qatar,Cybersecurity,2023,36,True
+Saudi Arabia,Qatar,Cybersecurity,2022,29,True
+United States,Qatar,Cybersecurity,2019,54,True
+United States,Qatar,Cybersecurity,2022,30,True
+United States,Qatar,Cybersecurity,2018,27,True
+United States,Qatar,Cybersecurity,2023,28,True
+United States,Qatar,Cybersecurity,2021,41,True
+United States,Qatar,Cybersecurity,2020,61,True
+Australia,Saudi Arabia,Cybersecurity,2023,48,True
+Australia,Saudi Arabia,Cybersecurity,2025,30,False
+Australia,Saudi Arabia,Cybersecurity,2021,47,True
+Australia,Saudi Arabia,Cybersecurity,2024,37,False
+Australia,Saudi Arabia,Cybersecurity,2020,48,True
+Australia,Saudi Arabia,Cybersecurity,2022,54,True
+Canada,Saudi Arabia,Cybersecurity,2021,47,True
+Canada,Saudi Arabia,Cybersecurity,2024,34,False
+Canada,Saudi Arabia,Cybersecurity,2022,46,True
+Canada,Saudi Arabia,Cybersecurity,2023,38,True
+Canada,Saudi Arabia,Cybersecurity,2020,32,True
+China,Saudi Arabia,Cybersecurity,2018,26,True
+China,Saudi Arabia,Cybersecurity,2019,43,True
+China,Saudi Arabia,Cybersecurity,2024,156,False
+China,Saudi Arabia,Cybersecurity,2025,91,False
+China,Saudi Arabia,Cybersecurity,2023,101,True
+China,Saudi Arabia,Cybersecurity,2022,101,True
+China,Saudi Arabia,Cybersecurity,2017,26,True
+China,Saudi Arabia,Cybersecurity,2021,94,True
+China,Saudi Arabia,Cybersecurity,2020,83,True
+Egypt,Saudi Arabia,Cybersecurity,2025,62,False
+Egypt,Saudi Arabia,Cybersecurity,2021,87,True
+Egypt,Saudi Arabia,Cybersecurity,2019,42,True
+Egypt,Saudi Arabia,Cybersecurity,2020,71,True
+Egypt,Saudi Arabia,Cybersecurity,2024,105,False
+Egypt,Saudi Arabia,Cybersecurity,2023,151,True
+Egypt,Saudi Arabia,Cybersecurity,2022,154,True
+Ethiopia,Saudi Arabia,Cybersecurity,2022,30,True
+India,Saudi Arabia,Cybersecurity,2022,295,True
+India,Saudi Arabia,Cybersecurity,2018,25,True
+India,Saudi Arabia,Cybersecurity,2019,41,True
+India,Saudi Arabia,Cybersecurity,2017,26,True
+India,Saudi Arabia,Cybersecurity,2024,287,False
+India,Saudi Arabia,Cybersecurity,2021,190,True
+India,Saudi Arabia,Cybersecurity,2025,169,False
+India,Saudi Arabia,Cybersecurity,2023,240,True
+India,Saudi Arabia,Cybersecurity,2015,28,True
+India,Saudi Arabia,Cybersecurity,2020,123,True
+Iraq,Saudi Arabia,Cybersecurity,2024,32,False
+Iraq,Saudi Arabia,Cybersecurity,2022,31,True
+Jordan,Saudi Arabia,Cybersecurity,2022,48,True
+Jordan,Saudi Arabia,Cybersecurity,2021,35,True
+Jordan,Saudi Arabia,Cybersecurity,2025,77,False
+Jordan,Saudi Arabia,Cybersecurity,2024,104,False
+Jordan,Saudi Arabia,Cybersecurity,2023,57,True
+Lebanon,Saudi Arabia,Cybersecurity,2023,33,True
+Malaysia,Saudi Arabia,Cybersecurity,2020,45,True
+Malaysia,Saudi Arabia,Cybersecurity,2021,83,True
+Malaysia,Saudi Arabia,Cybersecurity,2024,96,False
+Malaysia,Saudi Arabia,Cybersecurity,2023,103,True
+Malaysia,Saudi Arabia,Cybersecurity,2025,46,False
+Malaysia,Saudi Arabia,Cybersecurity,2022,108,True
+Malaysia,Saudi Arabia,Cybersecurity,2019,31,True
+Pakistan,Saudi Arabia,Cybersecurity,2022,223,True
+Pakistan,Saudi Arabia,Cybersecurity,2023,203,True
+Pakistan,Saudi Arabia,Cybersecurity,2024,233,False
+Pakistan,Saudi Arabia,Cybersecurity,2019,50,True
+Pakistan,Saudi Arabia,Cybersecurity,2020,122,True
+Pakistan,Saudi Arabia,Cybersecurity,2021,159,True
+Pakistan,Saudi Arabia,Cybersecurity,2017,31,True
+Pakistan,Saudi Arabia,Cybersecurity,2018,36,True
+Pakistan,Saudi Arabia,Cybersecurity,2025,150,False
+Qatar,Saudi Arabia,Cybersecurity,2023,36,True
+Qatar,Saudi Arabia,Cybersecurity,2022,29,True
+South Korea,Saudi Arabia,Cybersecurity,2024,55,False
+South Korea,Saudi Arabia,Cybersecurity,2020,29,True
+South Korea,Saudi Arabia,Cybersecurity,2023,35,True
+South Korea,Saudi Arabia,Cybersecurity,2022,51,True
+South Korea,Saudi Arabia,Cybersecurity,2021,45,True
+South Korea,Saudi Arabia,Cybersecurity,2025,31,False
+Taiwan,Saudi Arabia,Cybersecurity,2024,28,False
+Taiwan,Saudi Arabia,Cybersecurity,2020,32,True
+Taiwan,Saudi Arabia,Cybersecurity,2021,27,True
+Taiwan,Saudi Arabia,Cybersecurity,2022,40,True
+Tunisia,Saudi Arabia,Cybersecurity,2021,39,True
+Tunisia,Saudi Arabia,Cybersecurity,2024,49,False
+Tunisia,Saudi Arabia,Cybersecurity,2023,55,True
+Tunisia,Saudi Arabia,Cybersecurity,2019,26,True
+Tunisia,Saudi Arabia,Cybersecurity,2022,45,True
+Tunisia,Saudi Arabia,Cybersecurity,2020,31,True
+United Arab Emirates,Saudi Arabia,Cybersecurity,2024,80,False
+United Arab Emirates,Saudi Arabia,Cybersecurity,2021,30,True
+United Arab Emirates,Saudi Arabia,Cybersecurity,2022,40,True
+United Arab Emirates,Saudi Arabia,Cybersecurity,2023,52,True
+United Arab Emirates,Saudi Arabia,Cybersecurity,2025,48,False
+United Kingdom,Saudi Arabia,Cybersecurity,2025,87,False
+United Kingdom,Saudi Arabia,Cybersecurity,2020,75,True
+United Kingdom,Saudi Arabia,Cybersecurity,2018,27,True
+United Kingdom,Saudi Arabia,Cybersecurity,2021,91,True
+United Kingdom,Saudi Arabia,Cybersecurity,2024,132,False
+United Kingdom,Saudi Arabia,Cybersecurity,2019,56,True
+United Kingdom,Saudi Arabia,Cybersecurity,2023,134,True
+United Kingdom,Saudi Arabia,Cybersecurity,2022,100,True
+United States,Saudi Arabia,Cybersecurity,2025,88,False
+United States,Saudi Arabia,Cybersecurity,2023,129,True
+United States,Saudi Arabia,Cybersecurity,2016,31,True
+United States,Saudi Arabia,Cybersecurity,2024,113,False
+United States,Saudi Arabia,Cybersecurity,2021,120,True
+United States,Saudi Arabia,Cybersecurity,2020,77,True
+United States,Saudi Arabia,Cybersecurity,2018,36,True
+United States,Saudi Arabia,Cybersecurity,2017,37,True
+United States,Saudi Arabia,Cybersecurity,2019,64,True
+United States,Saudi Arabia,Cybersecurity,2022,142,True
+Yemen,Saudi Arabia,Cybersecurity,2022,26,True
+Australia,Singapore,Cybersecurity,2019,43,True
+Australia,Singapore,Cybersecurity,2021,32,True
+Australia,Singapore,Cybersecurity,2025,29,False
+Australia,Singapore,Cybersecurity,2024,38,False
+Australia,Singapore,Cybersecurity,2016,29,True
+Australia,Singapore,Cybersecurity,2023,50,True
+Australia,Singapore,Cybersecurity,2020,47,True
+Australia,Singapore,Cybersecurity,2018,37,True
+Australia,Singapore,Cybersecurity,2022,28,True
+China,Singapore,Cybersecurity,2023,282,True
+China,Singapore,Cybersecurity,2017,110,True
+China,Singapore,Cybersecurity,2021,201,True
+China,Singapore,Cybersecurity,2022,168,True
+China,Singapore,Cybersecurity,2018,143,True
+China,Singapore,Cybersecurity,2024,320,False
+China,Singapore,Cybersecurity,2025,181,False
+China,Singapore,Cybersecurity,2016,116,True
+China,Singapore,Cybersecurity,2020,226,True
+China,Singapore,Cybersecurity,2015,77,True
+China,Singapore,Cybersecurity,2019,194,True
+India,Singapore,Cybersecurity,2025,31,False
+India,Singapore,Cybersecurity,2020,31,True
+India,Singapore,Cybersecurity,2024,33,False
+India,Singapore,Cybersecurity,2022,29,True
+India,Singapore,Cybersecurity,2019,37,True
+United Kingdom,Singapore,Cybersecurity,2019,36,True
+United Kingdom,Singapore,Cybersecurity,2023,36,True
+United Kingdom,Singapore,Cybersecurity,2024,33,False
+United Kingdom,Singapore,Cybersecurity,2021,34,True
+United Kingdom,Singapore,Cybersecurity,2020,33,True
+United Kingdom,Singapore,Cybersecurity,2022,25,True
+United States,Singapore,Cybersecurity,2024,100,False
+United States,Singapore,Cybersecurity,2025,37,False
+United States,Singapore,Cybersecurity,2020,86,True
+United States,Singapore,Cybersecurity,2023,92,True
+United States,Singapore,Cybersecurity,2017,45,True
+United States,Singapore,Cybersecurity,2021,96,True
+United States,Singapore,Cybersecurity,2018,62,True
+United States,Singapore,Cybersecurity,2022,68,True
+United States,Singapore,Cybersecurity,2015,39,True
+United States,Singapore,Cybersecurity,2016,40,True
+United States,Singapore,Cybersecurity,2019,76,True
+India,South Africa,Cybersecurity,2022,36,True
+Australia,South Korea,Cybersecurity,2022,32,True
+Australia,South Korea,Cybersecurity,2020,31,True
+Australia,South Korea,Cybersecurity,2021,35,True
+China,South Korea,Cybersecurity,2024,61,False
+China,South Korea,Cybersecurity,2020,66,True
+China,South Korea,Cybersecurity,2023,63,True
+China,South Korea,Cybersecurity,2022,56,True
+China,South Korea,Cybersecurity,2025,30,False
+China,South Korea,Cybersecurity,2019,44,True
+China,South Korea,Cybersecurity,2015,33,True
+China,South Korea,Cybersecurity,2018,46,True
+China,South Korea,Cybersecurity,2021,74,True
+China,South Korea,Cybersecurity,2016,31,True
+India,South Korea,Cybersecurity,2020,57,True
+India,South Korea,Cybersecurity,2018,32,True
+India,South Korea,Cybersecurity,2023,68,True
+India,South Korea,Cybersecurity,2024,90,False
+India,South Korea,Cybersecurity,2022,86,True
+India,South Korea,Cybersecurity,2025,46,False
+India,South Korea,Cybersecurity,2021,91,True
+Pakistan,South Korea,Cybersecurity,2021,48,True
+Pakistan,South Korea,Cybersecurity,2023,53,True
+Pakistan,South Korea,Cybersecurity,2024,59,False
+Pakistan,South Korea,Cybersecurity,2022,82,True
+Pakistan,South Korea,Cybersecurity,2020,30,True
+Saudi Arabia,South Korea,Cybersecurity,2025,31,False
+Saudi Arabia,South Korea,Cybersecurity,2020,29,True
+Saudi Arabia,South Korea,Cybersecurity,2022,51,True
+Saudi Arabia,South Korea,Cybersecurity,2023,35,True
+Saudi Arabia,South Korea,Cybersecurity,2021,45,True
+Saudi Arabia,South Korea,Cybersecurity,2024,55,False
+United Kingdom,South Korea,Cybersecurity,2020,29,True
+United Kingdom,South Korea,Cybersecurity,2024,30,False
+United Kingdom,South Korea,Cybersecurity,2022,27,True
+United Kingdom,South Korea,Cybersecurity,2021,32,True
+United States,South Korea,Cybersecurity,2021,130,True
+United States,South Korea,Cybersecurity,2023,128,True
+United States,South Korea,Cybersecurity,2025,68,False
+United States,South Korea,Cybersecurity,2024,124,False
+United States,South Korea,Cybersecurity,2016,61,True
+United States,South Korea,Cybersecurity,2018,87,True
+United States,South Korea,Cybersecurity,2017,68,True
+United States,South Korea,Cybersecurity,2019,99,True
+United States,South Korea,Cybersecurity,2020,137,True
+United States,South Korea,Cybersecurity,2022,127,True
+United States,South Korea,Cybersecurity,2015,67,True
+France,Spain,Cybersecurity,2019,27,True
+France,Spain,Cybersecurity,2015,26,True
+France,Spain,Cybersecurity,2024,32,False
+France,Spain,Cybersecurity,2018,27,True
+France,Spain,Cybersecurity,2017,31,True
+Germany,Spain,Cybersecurity,2022,32,True
+Germany,Spain,Cybersecurity,2024,30,False
+Germany,Spain,Cybersecurity,2017,25,True
+Germany,Spain,Cybersecurity,2019,30,True
+Germany,Spain,Cybersecurity,2023,42,True
+Germany,Spain,Cybersecurity,2021,28,True
+Greece,Spain,Cybersecurity,2021,30,True
+Greece,Spain,Cybersecurity,2024,27,False
+India,Spain,Cybersecurity,2022,25,True
+Italy,Spain,Cybersecurity,2021,33,True
+Italy,Spain,Cybersecurity,2017,38,True
+Italy,Spain,Cybersecurity,2019,38,True
+Italy,Spain,Cybersecurity,2022,37,True
+Italy,Spain,Cybersecurity,2023,42,True
+Italy,Spain,Cybersecurity,2015,25,True
+Italy,Spain,Cybersecurity,2024,35,False
+Italy,Spain,Cybersecurity,2020,39,True
+United Kingdom,Spain,Cybersecurity,2022,36,True
+United Kingdom,Spain,Cybersecurity,2024,34,False
+United Kingdom,Spain,Cybersecurity,2016,26,True
+United Kingdom,Spain,Cybersecurity,2020,33,True
+United Kingdom,Spain,Cybersecurity,2018,33,True
+United Kingdom,Spain,Cybersecurity,2021,41,True
+United Kingdom,Spain,Cybersecurity,2019,35,True
+United Kingdom,Spain,Cybersecurity,2023,46,True
+United Kingdom,Spain,Cybersecurity,2017,29,True
+United States,Spain,Cybersecurity,2020,50,True
+United States,Spain,Cybersecurity,2022,45,True
+United States,Spain,Cybersecurity,2018,50,True
+United States,Spain,Cybersecurity,2024,44,False
+United States,Spain,Cybersecurity,2021,41,True
+United States,Spain,Cybersecurity,2023,50,True
+United States,Spain,Cybersecurity,2015,27,True
+United States,Spain,Cybersecurity,2025,33,False
+United States,Spain,Cybersecurity,2019,44,True
+United States,Spain,Cybersecurity,2017,32,True
+United States,Spain,Cybersecurity,2016,40,True
+China,Sweden,Cybersecurity,2023,26,True
+China,Sweden,Cybersecurity,2022,28,True
+Germany,Sweden,Cybersecurity,2021,27,True
+Germany,Sweden,Cybersecurity,2023,28,True
+United Kingdom,Sweden,Cybersecurity,2023,26,True
+United Kingdom,Sweden,Cybersecurity,2021,30,True
+United States,Sweden,Cybersecurity,2020,30,True
+United States,Sweden,Cybersecurity,2021,25,True
+United States,Sweden,Cybersecurity,2019,25,True
+United States,Sweden,Cybersecurity,2023,28,True
+United States,Sweden,Cybersecurity,2016,28,True
+China,Switzerland,Cybersecurity,2020,31,True
+France,Switzerland,Cybersecurity,2020,30,True
+France,Switzerland,Cybersecurity,2022,25,True
+Germany,Switzerland,Cybersecurity,2015,33,True
+Germany,Switzerland,Cybersecurity,2022,38,True
+Germany,Switzerland,Cybersecurity,2021,44,True
+Germany,Switzerland,Cybersecurity,2020,64,True
+Germany,Switzerland,Cybersecurity,2016,35,True
+Germany,Switzerland,Cybersecurity,2018,39,True
+Germany,Switzerland,Cybersecurity,2023,39,True
+Germany,Switzerland,Cybersecurity,2025,26,False
+Germany,Switzerland,Cybersecurity,2017,56,True
+Germany,Switzerland,Cybersecurity,2024,49,False
+Germany,Switzerland,Cybersecurity,2019,40,True
+United Kingdom,Switzerland,Cybersecurity,2020,61,True
+United Kingdom,Switzerland,Cybersecurity,2019,46,True
+United Kingdom,Switzerland,Cybersecurity,2018,37,True
+United Kingdom,Switzerland,Cybersecurity,2021,33,True
+United Kingdom,Switzerland,Cybersecurity,2022,31,True
+United Kingdom,Switzerland,Cybersecurity,2023,31,True
+United Kingdom,Switzerland,Cybersecurity,2024,33,False
+United Kingdom,Switzerland,Cybersecurity,2017,31,True
+United States,Switzerland,Cybersecurity,2016,62,True
+United States,Switzerland,Cybersecurity,2015,59,True
+United States,Switzerland,Cybersecurity,2023,53,True
+United States,Switzerland,Cybersecurity,2021,68,True
+United States,Switzerland,Cybersecurity,2018,50,True
+United States,Switzerland,Cybersecurity,2022,51,True
+United States,Switzerland,Cybersecurity,2024,60,False
+United States,Switzerland,Cybersecurity,2020,83,True
+United States,Switzerland,Cybersecurity,2019,67,True
+United States,Switzerland,Cybersecurity,2017,57,True
+Canada,Taiwan,Cybersecurity,2022,28,True
+Canada,Taiwan,Cybersecurity,2023,25,True
+China,Taiwan,Cybersecurity,2016,65,True
+China,Taiwan,Cybersecurity,2024,98,False
+China,Taiwan,Cybersecurity,2020,118,True
+China,Taiwan,Cybersecurity,2015,51,True
+China,Taiwan,Cybersecurity,2017,50,True
+China,Taiwan,Cybersecurity,2025,38,False
+China,Taiwan,Cybersecurity,2022,95,True
+China,Taiwan,Cybersecurity,2019,95,True
+China,Taiwan,Cybersecurity,2023,92,True
+China,Taiwan,Cybersecurity,2018,78,True
+China,Taiwan,Cybersecurity,2021,121,True
+India,Taiwan,Cybersecurity,2025,25,False
+India,Taiwan,Cybersecurity,2023,53,True
+India,Taiwan,Cybersecurity,2024,59,False
+India,Taiwan,Cybersecurity,2022,82,True
+India,Taiwan,Cybersecurity,2020,60,True
+India,Taiwan,Cybersecurity,2021,80,True
+Lebanon,Taiwan,Cybersecurity,2023,45,True
+Pakistan,Taiwan,Cybersecurity,2022,26,True
+Saudi Arabia,Taiwan,Cybersecurity,2022,40,True
+Saudi Arabia,Taiwan,Cybersecurity,2020,32,True
+Saudi Arabia,Taiwan,Cybersecurity,2021,27,True
+Saudi Arabia,Taiwan,Cybersecurity,2024,28,False
+United States,Taiwan,Cybersecurity,2021,80,True
+United States,Taiwan,Cybersecurity,2017,25,True
+United States,Taiwan,Cybersecurity,2023,57,True
+United States,Taiwan,Cybersecurity,2019,32,True
+United States,Taiwan,Cybersecurity,2022,56,True
+United States,Taiwan,Cybersecurity,2024,72,False
+United States,Taiwan,Cybersecurity,2020,57,True
+France,Tunisia,Cybersecurity,2021,32,True
+France,Tunisia,Cybersecurity,2018,26,True
+France,Tunisia,Cybersecurity,2016,30,True
+France,Tunisia,Cybersecurity,2019,25,True
+France,Tunisia,Cybersecurity,2022,26,True
+France,Tunisia,Cybersecurity,2023,32,True
+Saudi Arabia,Tunisia,Cybersecurity,2024,49,False
+Saudi Arabia,Tunisia,Cybersecurity,2021,39,True
+Saudi Arabia,Tunisia,Cybersecurity,2019,26,True
+Saudi Arabia,Tunisia,Cybersecurity,2022,45,True
+Saudi Arabia,Tunisia,Cybersecurity,2020,31,True
+Saudi Arabia,Tunisia,Cybersecurity,2023,55,True
+India,Turkey,Cybersecurity,2023,26,True
+India,Turkey,Cybersecurity,2022,28,True
+United Kingdom,Turkey,Cybersecurity,2023,25,True
+United States,Turkey,Cybersecurity,2023,28,True
+United States,Turkey,Cybersecurity,2024,29,False
+United States,Turkey,Cybersecurity,2021,32,True
+United States,Turkey,Cybersecurity,2020,34,True
+Algeria,United Arab Emirates,Cybersecurity,2023,29,True
+Australia,United Arab Emirates,Cybersecurity,2023,27,True
+Canada,United Arab Emirates,Cybersecurity,2023,32,True
+Canada,United Arab Emirates,Cybersecurity,2020,25,True
+Canada,United Arab Emirates,Cybersecurity,2022,27,True
+Canada,United Arab Emirates,Cybersecurity,2024,35,False
+China,United Arab Emirates,Cybersecurity,2024,54,False
+China,United Arab Emirates,Cybersecurity,2020,42,True
+China,United Arab Emirates,Cybersecurity,2022,56,True
+China,United Arab Emirates,Cybersecurity,2023,55,True
+China,United Arab Emirates,Cybersecurity,2021,40,True
+India,United Arab Emirates,Cybersecurity,2020,43,True
+India,United Arab Emirates,Cybersecurity,2024,69,False
+India,United Arab Emirates,Cybersecurity,2022,65,True
+India,United Arab Emirates,Cybersecurity,2025,38,False
+India,United Arab Emirates,Cybersecurity,2021,55,True
+India,United Arab Emirates,Cybersecurity,2023,67,True
+Jordan,United Arab Emirates,Cybersecurity,2022,37,True
+Jordan,United Arab Emirates,Cybersecurity,2021,41,True
+Jordan,United Arab Emirates,Cybersecurity,2024,53,False
+Jordan,United Arab Emirates,Cybersecurity,2020,37,True
+Jordan,United Arab Emirates,Cybersecurity,2023,67,True
+Jordan,United Arab Emirates,Cybersecurity,2025,43,False
+Malaysia,United Arab Emirates,Cybersecurity,2022,40,True
+Malaysia,United Arab Emirates,Cybersecurity,2023,35,True
+Malaysia,United Arab Emirates,Cybersecurity,2024,41,False
+Pakistan,United Arab Emirates,Cybersecurity,2022,47,True
+Pakistan,United Arab Emirates,Cybersecurity,2024,56,False
+Pakistan,United Arab Emirates,Cybersecurity,2023,53,True
+Pakistan,United Arab Emirates,Cybersecurity,2021,32,True
+Saudi Arabia,United Arab Emirates,Cybersecurity,2024,80,False
+Saudi Arabia,United Arab Emirates,Cybersecurity,2025,48,False
+Saudi Arabia,United Arab Emirates,Cybersecurity,2022,40,True
+Saudi Arabia,United Arab Emirates,Cybersecurity,2023,52,True
+Saudi Arabia,United Arab Emirates,Cybersecurity,2021,30,True
+United Kingdom,United Arab Emirates,Cybersecurity,2022,42,True
+United Kingdom,United Arab Emirates,Cybersecurity,2019,36,True
+United Kingdom,United Arab Emirates,Cybersecurity,2025,35,False
+United Kingdom,United Arab Emirates,Cybersecurity,2023,63,True
+United Kingdom,United Arab Emirates,Cybersecurity,2024,52,False
+United Kingdom,United Arab Emirates,Cybersecurity,2021,39,True
+United States,United Arab Emirates,Cybersecurity,2025,43,False
+United States,United Arab Emirates,Cybersecurity,2018,33,True
+United States,United Arab Emirates,Cybersecurity,2021,56,True
+United States,United Arab Emirates,Cybersecurity,2022,76,True
+United States,United Arab Emirates,Cybersecurity,2019,55,True
+United States,United Arab Emirates,Cybersecurity,2017,29,True
+United States,United Arab Emirates,Cybersecurity,2024,80,False
+United States,United Arab Emirates,Cybersecurity,2020,57,True
+United States,United Arab Emirates,Cybersecurity,2023,83,True
+United States,United Arab Emirates,Cybersecurity,2015,36,True
+United States,United Arab Emirates,Cybersecurity,2016,33,True
+Algeria,United Kingdom,Cybersecurity,2021,25,True
+Australia,United Kingdom,Cybersecurity,2024,71,False
+Australia,United Kingdom,Cybersecurity,2022,48,True
+Australia,United Kingdom,Cybersecurity,2015,37,True
+Australia,United Kingdom,Cybersecurity,2018,49,True
+Australia,United Kingdom,Cybersecurity,2023,67,True
+Australia,United Kingdom,Cybersecurity,2017,46,True
+Australia,United Kingdom,Cybersecurity,2019,62,True
+Australia,United Kingdom,Cybersecurity,2016,62,True
+Australia,United Kingdom,Cybersecurity,2021,61,True
+Australia,United Kingdom,Cybersecurity,2025,34,False
+Australia,United Kingdom,Cybersecurity,2020,80,True
+Belgium,United Kingdom,Cybersecurity,2018,26,True
+Belgium,United Kingdom,Cybersecurity,2020,36,True
+Belgium,United Kingdom,Cybersecurity,2019,35,True
+Belgium,United Kingdom,Cybersecurity,2021,32,True
+Belgium,United Kingdom,Cybersecurity,2023,25,True
+Canada,United Kingdom,Cybersecurity,2024,46,False
+Canada,United Kingdom,Cybersecurity,2020,47,True
+Canada,United Kingdom,Cybersecurity,2022,34,True
+Canada,United Kingdom,Cybersecurity,2018,33,True
+Canada,United Kingdom,Cybersecurity,2023,40,True
+Canada,United Kingdom,Cybersecurity,2019,46,True
+Canada,United Kingdom,Cybersecurity,2021,51,True
+China,United Kingdom,Cybersecurity,2025,122,False
+China,United Kingdom,Cybersecurity,2020,279,True
+China,United Kingdom,Cybersecurity,2022,251,True
+China,United Kingdom,Cybersecurity,2019,175,True
+China,United Kingdom,Cybersecurity,2015,45,True
+China,United Kingdom,Cybersecurity,2021,256,True
+China,United Kingdom,Cybersecurity,2023,249,True
+China,United Kingdom,Cybersecurity,2016,78,True
+China,United Kingdom,Cybersecurity,2024,281,False
+China,United Kingdom,Cybersecurity,2017,94,True
+China,United Kingdom,Cybersecurity,2018,149,True
+Egypt,United Kingdom,Cybersecurity,2023,27,True
+France,United Kingdom,Cybersecurity,2017,48,True
+France,United Kingdom,Cybersecurity,2019,64,True
+France,United Kingdom,Cybersecurity,2022,36,True
+France,United Kingdom,Cybersecurity,2016,43,True
+France,United Kingdom,Cybersecurity,2015,38,True
+France,United Kingdom,Cybersecurity,2024,44,False
+France,United Kingdom,Cybersecurity,2020,65,True
+France,United Kingdom,Cybersecurity,2021,55,True
+France,United Kingdom,Cybersecurity,2018,47,True
+France,United Kingdom,Cybersecurity,2023,33,True
+Germany,United Kingdom,Cybersecurity,2021,85,True
+Germany,United Kingdom,Cybersecurity,2024,67,False
+Germany,United Kingdom,Cybersecurity,2023,64,True
+Germany,United Kingdom,Cybersecurity,2019,82,True
+Germany,United Kingdom,Cybersecurity,2025,37,False
+Germany,United Kingdom,Cybersecurity,2017,68,True
+Germany,United Kingdom,Cybersecurity,2015,55,True
+Germany,United Kingdom,Cybersecurity,2020,86,True
+Germany,United Kingdom,Cybersecurity,2016,88,True
+Germany,United Kingdom,Cybersecurity,2018,87,True
+Germany,United Kingdom,Cybersecurity,2022,73,True
+Greece,United Kingdom,Cybersecurity,2023,48,True
+Greece,United Kingdom,Cybersecurity,2020,66,True
+Greece,United Kingdom,Cybersecurity,2015,32,True
+Greece,United Kingdom,Cybersecurity,2019,59,True
+Greece,United Kingdom,Cybersecurity,2016,27,True
+Greece,United Kingdom,Cybersecurity,2017,31,True
+Greece,United Kingdom,Cybersecurity,2022,39,True
+Greece,United Kingdom,Cybersecurity,2024,33,False
+Greece,United Kingdom,Cybersecurity,2018,42,True
+Greece,United Kingdom,Cybersecurity,2021,60,True
+India,United Kingdom,Cybersecurity,2025,48,False
+India,United Kingdom,Cybersecurity,2023,100,True
+India,United Kingdom,Cybersecurity,2022,92,True
+India,United Kingdom,Cybersecurity,2018,25,True
+India,United Kingdom,Cybersecurity,2021,82,True
+India,United Kingdom,Cybersecurity,2020,76,True
+India,United Kingdom,Cybersecurity,2024,144,False
+India,United Kingdom,Cybersecurity,2019,46,True
+Ireland,United Kingdom,Cybersecurity,2020,30,True
+Italy,United Kingdom,Cybersecurity,2018,43,True
+Italy,United Kingdom,Cybersecurity,2022,46,True
+Italy,United Kingdom,Cybersecurity,2025,25,False
+Italy,United Kingdom,Cybersecurity,2024,45,False
+Italy,United Kingdom,Cybersecurity,2019,51,True
+Italy,United Kingdom,Cybersecurity,2017,56,True
+Italy,United Kingdom,Cybersecurity,2015,34,True
+Italy,United Kingdom,Cybersecurity,2023,55,True
+Italy,United Kingdom,Cybersecurity,2020,51,True
+Italy,United Kingdom,Cybersecurity,2021,38,True
+Italy,United Kingdom,Cybersecurity,2016,43,True
+Japan,United Kingdom,Cybersecurity,2020,29,True
+Japan,United Kingdom,Cybersecurity,2022,25,True
+Japan,United Kingdom,Cybersecurity,2021,26,True
+Jordan,United Kingdom,Cybersecurity,2025,50,False
+Malaysia,United Kingdom,Cybersecurity,2022,34,True
+Malaysia,United Kingdom,Cybersecurity,2024,56,False
+Malaysia,United Kingdom,Cybersecurity,2023,47,True
+Malaysia,United Kingdom,Cybersecurity,2021,30,True
+Netherlands,United Kingdom,Cybersecurity,2021,45,True
+Netherlands,United Kingdom,Cybersecurity,2019,27,True
+Netherlands,United Kingdom,Cybersecurity,2023,29,True
+Netherlands,United Kingdom,Cybersecurity,2024,27,False
+Netherlands,United Kingdom,Cybersecurity,2022,32,True
+Netherlands,United Kingdom,Cybersecurity,2020,27,True
+Nigeria,United Kingdom,Cybersecurity,2024,25,False
+Pakistan,United Kingdom,Cybersecurity,2024,93,False
+Pakistan,United Kingdom,Cybersecurity,2019,54,True
+Pakistan,United Kingdom,Cybersecurity,2020,64,True
+Pakistan,United Kingdom,Cybersecurity,2022,83,True
+Pakistan,United Kingdom,Cybersecurity,2018,34,True
+Pakistan,United Kingdom,Cybersecurity,2025,52,False
+Pakistan,United Kingdom,Cybersecurity,2023,83,True
+Pakistan,United Kingdom,Cybersecurity,2021,69,True
+Saudi Arabia,United Kingdom,Cybersecurity,2021,91,True
+Saudi Arabia,United Kingdom,Cybersecurity,2020,75,True
+Saudi Arabia,United Kingdom,Cybersecurity,2024,132,False
+Saudi Arabia,United Kingdom,Cybersecurity,2019,56,True
+Saudi Arabia,United Kingdom,Cybersecurity,2018,27,True
+Saudi Arabia,United Kingdom,Cybersecurity,2022,100,True
+Saudi Arabia,United Kingdom,Cybersecurity,2023,134,True
+Saudi Arabia,United Kingdom,Cybersecurity,2025,87,False
+Singapore,United Kingdom,Cybersecurity,2023,36,True
+Singapore,United Kingdom,Cybersecurity,2022,25,True
+Singapore,United Kingdom,Cybersecurity,2019,36,True
+Singapore,United Kingdom,Cybersecurity,2021,34,True
+Singapore,United Kingdom,Cybersecurity,2020,33,True
+Singapore,United Kingdom,Cybersecurity,2024,33,False
+South Korea,United Kingdom,Cybersecurity,2020,29,True
+South Korea,United Kingdom,Cybersecurity,2021,32,True
+South Korea,United Kingdom,Cybersecurity,2022,27,True
+South Korea,United Kingdom,Cybersecurity,2024,30,False
+Spain,United Kingdom,Cybersecurity,2017,29,True
+Spain,United Kingdom,Cybersecurity,2023,46,True
+Spain,United Kingdom,Cybersecurity,2016,26,True
+Spain,United Kingdom,Cybersecurity,2021,41,True
+Spain,United Kingdom,Cybersecurity,2022,36,True
+Spain,United Kingdom,Cybersecurity,2020,33,True
+Spain,United Kingdom,Cybersecurity,2018,33,True
+Spain,United Kingdom,Cybersecurity,2024,34,False
+Spain,United Kingdom,Cybersecurity,2019,35,True
+Sweden,United Kingdom,Cybersecurity,2023,26,True
+Sweden,United Kingdom,Cybersecurity,2021,30,True
+Switzerland,United Kingdom,Cybersecurity,2024,33,False
+Switzerland,United Kingdom,Cybersecurity,2018,37,True
+Switzerland,United Kingdom,Cybersecurity,2021,33,True
+Switzerland,United Kingdom,Cybersecurity,2017,31,True
+Switzerland,United Kingdom,Cybersecurity,2020,61,True
+Switzerland,United Kingdom,Cybersecurity,2023,31,True
+Switzerland,United Kingdom,Cybersecurity,2019,46,True
+Switzerland,United Kingdom,Cybersecurity,2022,31,True
+Turkey,United Kingdom,Cybersecurity,2023,25,True
+United Arab Emirates,United Kingdom,Cybersecurity,2019,36,True
+United Arab Emirates,United Kingdom,Cybersecurity,2025,35,False
+United Arab Emirates,United Kingdom,Cybersecurity,2024,52,False
+United Arab Emirates,United Kingdom,Cybersecurity,2022,42,True
+United Arab Emirates,United Kingdom,Cybersecurity,2021,39,True
+United Arab Emirates,United Kingdom,Cybersecurity,2023,63,True
+United States,United Kingdom,Cybersecurity,2024,205,False
+United States,United Kingdom,Cybersecurity,2017,143,True
+United States,United Kingdom,Cybersecurity,2023,207,True
+United States,United Kingdom,Cybersecurity,2015,111,True
+United States,United Kingdom,Cybersecurity,2020,228,True
+United States,United Kingdom,Cybersecurity,2019,197,True
+United States,United Kingdom,Cybersecurity,2016,123,True
+United States,United Kingdom,Cybersecurity,2021,190,True
+United States,United Kingdom,Cybersecurity,2025,83,False
+United States,United Kingdom,Cybersecurity,2018,164,True
+United States,United Kingdom,Cybersecurity,2022,177,True
+Australia,United States,Cybersecurity,2021,130,True
+Australia,United States,Cybersecurity,2016,95,True
+Australia,United States,Cybersecurity,2020,166,True
+Australia,United States,Cybersecurity,2024,100,False
+Australia,United States,Cybersecurity,2017,99,True
+Australia,United States,Cybersecurity,2025,41,False
+Australia,United States,Cybersecurity,2023,95,True
+Australia,United States,Cybersecurity,2019,121,True
+Australia,United States,Cybersecurity,2015,51,True
+Australia,United States,Cybersecurity,2018,106,True
+Australia,United States,Cybersecurity,2022,101,True
+Austria,United States,Cybersecurity,2015,28,True
+Austria,United States,Cybersecurity,2021,27,True
+Austria,United States,Cybersecurity,2017,28,True
+Austria,United States,Cybersecurity,2016,28,True
+Austria,United States,Cybersecurity,2020,43,True
+Austria,United States,Cybersecurity,2023,25,True
+Austria,United States,Cybersecurity,2018,26,True
+Bangladesh,United States,Cybersecurity,2021,30,True
+Bangladesh,United States,Cybersecurity,2022,27,True
+Bangladesh,United States,Cybersecurity,2023,54,True
+Bangladesh,United States,Cybersecurity,2025,45,False
+Bangladesh,United States,Cybersecurity,2024,60,False
+Bangladesh,United States,Cybersecurity,2020,25,True
+Belgium,United States,Cybersecurity,2019,29,True
+Belgium,United States,Cybersecurity,2021,27,True
+Belgium,United States,Cybersecurity,2017,25,True
+Belgium,United States,Cybersecurity,2020,33,True
+Brazil,United States,Cybersecurity,2018,27,True
+Brazil,United States,Cybersecurity,2021,29,True
+Brazil,United States,Cybersecurity,2019,25,True
+Brazil,United States,Cybersecurity,2020,41,True
+Canada,United States,Cybersecurity,2022,162,True
+Canada,United States,Cybersecurity,2021,169,True
+Canada,United States,Cybersecurity,2023,155,True
+Canada,United States,Cybersecurity,2017,101,True
+Canada,United States,Cybersecurity,2025,86,False
+Canada,United States,Cybersecurity,2020,202,True
+Canada,United States,Cybersecurity,2018,117,True
+Canada,United States,Cybersecurity,2019,154,True
+Canada,United States,Cybersecurity,2015,78,True
+Canada,United States,Cybersecurity,2016,91,True
+Canada,United States,Cybersecurity,2024,176,False
+China,United States,Cybersecurity,2015,333,True
+China,United States,Cybersecurity,2016,456,True
+China,United States,Cybersecurity,2018,696,True
+China,United States,Cybersecurity,2019,758,True
+China,United States,Cybersecurity,2025,306,False
+China,United States,Cybersecurity,2021,799,True
+China,United States,Cybersecurity,2020,888,True
+China,United States,Cybersecurity,2023,723,True
+China,United States,Cybersecurity,2024,735,False
+China,United States,Cybersecurity,2022,675,True
+China,United States,Cybersecurity,2017,557,True
+Denmark,United States,Cybersecurity,2020,33,True
+Denmark,United States,Cybersecurity,2019,26,True
+Denmark,United States,Cybersecurity,2023,25,True
+Denmark,United States,Cybersecurity,2021,29,True
+Egypt,United States,Cybersecurity,2021,27,True
+Egypt,United States,Cybersecurity,2022,43,True
+Egypt,United States,Cybersecurity,2023,44,True
+Egypt,United States,Cybersecurity,2024,34,False
+Finland,United States,Cybersecurity,2018,29,True
+Finland,United States,Cybersecurity,2023,25,True
+France,United States,Cybersecurity,2025,28,False
+France,United States,Cybersecurity,2021,74,True
+France,United States,Cybersecurity,2024,55,False
+France,United States,Cybersecurity,2018,95,True
+France,United States,Cybersecurity,2020,133,True
+France,United States,Cybersecurity,2023,80,True
+France,United States,Cybersecurity,2019,81,True
+France,United States,Cybersecurity,2015,66,True
+France,United States,Cybersecurity,2022,64,True
+France,United States,Cybersecurity,2017,80,True
+France,United States,Cybersecurity,2016,70,True
+Germany,United States,Cybersecurity,2017,136,True
+Germany,United States,Cybersecurity,2024,112,False
+Germany,United States,Cybersecurity,2023,171,True
+Germany,United States,Cybersecurity,2019,151,True
+Germany,United States,Cybersecurity,2015,126,True
+Germany,United States,Cybersecurity,2025,63,False
+Germany,United States,Cybersecurity,2022,123,True
+Germany,United States,Cybersecurity,2020,177,True
+Germany,United States,Cybersecurity,2021,139,True
+Germany,United States,Cybersecurity,2018,135,True
+Germany,United States,Cybersecurity,2016,111,True
+Greece,United States,Cybersecurity,2020,25,True
+Greece,United States,Cybersecurity,2015,31,True
+Greece,United States,Cybersecurity,2019,33,True
+Greece,United States,Cybersecurity,2021,28,True
+India,United States,Cybersecurity,2024,481,False
+India,United States,Cybersecurity,2025,305,False
+India,United States,Cybersecurity,2018,114,True
+India,United States,Cybersecurity,2016,121,True
+India,United States,Cybersecurity,2019,171,True
+India,United States,Cybersecurity,2020,200,True
+India,United States,Cybersecurity,2021,199,True
+India,United States,Cybersecurity,2017,147,True
+India,United States,Cybersecurity,2023,336,True
+India,United States,Cybersecurity,2015,68,True
+India,United States,Cybersecurity,2022,261,True
+Iran,United States,Cybersecurity,2019,25,True
+Iran,United States,Cybersecurity,2020,25,True
+Iraq,United States,Cybersecurity,2024,45,False
+Ireland,United States,Cybersecurity,2020,27,True
+Israel,United States,Cybersecurity,2019,90,True
+Israel,United States,Cybersecurity,2023,56,True
+Israel,United States,Cybersecurity,2020,98,True
+Israel,United States,Cybersecurity,2017,82,True
+Israel,United States,Cybersecurity,2021,84,True
+Israel,United States,Cybersecurity,2015,59,True
+Israel,United States,Cybersecurity,2016,61,True
+Israel,United States,Cybersecurity,2024,29,False
+Israel,United States,Cybersecurity,2018,95,True
+Israel,United States,Cybersecurity,2022,39,True
+Italy,United States,Cybersecurity,2015,48,True

@@ -1,0 +1,452 @@
+Name,Country,log_pubs,log_cit,Publications: AI publications,Publications: Citations to AI research,Patents: AI patents,is_genai,is_top20
+Accenture,Ireland,6.12,8.976,454,7912,502,False,False
+Cognizant,United States,5.193,9.376,179,11795,83,False,False
+Amazon,United States,8.299,11.895,4019,146538,2168,False,True
+IBM,United States,8.991,12.737,8030,340174,9077,False,True
+Microsoft,United States,9.2,13.713,9900,902230,4281,True,True
+Alphabet (including Google),United States,9.217,13.976,10067,1174586,4783,False,True
+Oracle,United States,5.638,8.975,280,7902,452,False,False
+Deloitte Touche Tohmatsu,United Kingdom,5.252,8.178,190,3559,6,False,False
+Apple,United States,6.275,10.343,530,31040,836,False,False
+Cisco Systems,United States,5.656,9.023,285,8294,1059,False,False
+EPAM Systems,United States,3.045,5.464,20,235,0,False,False
+DXC Technology,United States,3.526,7.961,33,2865,5,False,False
+Intel,United States,7.768,11.865,2363,142202,2350,False,True
+Wells Fargo,United States,4.19,6.488,65,656,293,False,False
+Ernst & Young,United Kingdom,4.382,6.896,79,987,10,False,False
+AT&T,United States,5.094,10.979,162,58641,586,False,False
+Nokia,Finland,6.875,10.227,967,27642,1298,False,False
+SAP,Germany,5.663,9.426,287,12411,1003,False,False
+Citi,United States,4.043,6.271,56,528,54,False,False
+Bank of America,United States,3.296,6.275,26,530,1605,False,False
+Siemens,Germany,7.763,11.174,2351,71228,3170,False,True
+Huawei,China,8.495,12.002,4891,163117,5535,False,True
+Verizon,United States,3.761,6.878,42,970,173,False,False
+Capital One,United States,4.29,7.222,72,1368,1585,False,False
+Salesforce,United States,6.205,10.621,494,41002,775,False,False
+Lockheed Martin,United States,5.673,8.422,290,4547,29,False,False
+Qualcomm,United States,6.349,10.313,571,30123,2299,False,False
+Meta,United States,8.097,12.916,3283,406572,1081,True,True
+Adobe,United States,7.778,12.029,2386,167501,1780,True,True
+Nvidia,United States,7.74,12.289,2297,217288,1696,False,True
+Northrop Grumman,United States,4.898,8.226,133,3735,51,False,False
+Morgan Stanley,United States,3.258,6.454,25,634,47,False,False
+UnitedHealth Group,United States,3.219,5.182,24,177,416,False,False
+Comcast,United States,4.304,8.614,73,5509,88,False,False
+Boeing,United States,5.438,8.825,229,6799,564,False,False
+American Express,United States,3.611,5.694,36,296,76,False,False
+Mastercard,United States,4.06,5.553,57,257,277,False,False
+Barclays,United Kingdom,3.091,5.684,21,293,4,False,False
+Samsung,South Korea,8.048,11.427,3125,91731,8193,False,True
+Ford Motor Company,United States,6.073,9.39,433,11967,1011,False,False
+Fujitsu,Japan,6.645,9.399,768,12075,2103,False,False
+General Motors,United States,5.849,9.606,346,14853,1118,False,False
+PayPal,United States,3.829,6.34,45,566,466,False,False
+Visa,United States,4.913,8.655,135,5736,385,False,False
+Honeywell International,United States,4.836,7.61,125,2017,440,False,False
+HP,United States,5.375,9.438,215,12556,291,False,False
+Hewlett Packard Enterprise,United States,4.673,7.515,106,1834,440,False,False
+Fiserv,United States,0.693,0.0,1,0,5,False,False
+S&P Global,United States,3.434,5.631,30,278,30,False,False
+Booz Allen Hamilton,United States,5.176,8.986,176,7986,43,False,False
+Advanced Micro Devices,United States,5.05,8.104,155,3306,432,False,False
+Walmart,United States,5.455,8.997,233,8079,552,False,False
+Goldman Sachs,United States,3.332,6.583,27,722,29,False,False
+ServiceNow,United States,4.143,7.911,62,2725,305,False,False
+Bosch,Germany,7.306,10.869,1488,52524,3653,False,True
+T-Mobile,United States,2.398,4.248,10,69,266,False,False
+Uber,United States,5.257,10.04,191,22922,0,False,False
+The Bank Of New York Mellon,United States,2.708,4.796,14,120,40,False,False
+IQVIA,United States,4.977,8.29,144,3984,51,False,False
+Philips,Netherlands,6.961,10.508,1054,36605,1496,False,True
+Automatic Data Processing,United States,1.792,2.89,5,17,98,False,False
+Intuit,United States,4.382,7.952,79,2841,632,False,False
+Leidos Holdings,United States,4.977,9.276,144,10679,19,False,False
+Tencent,China,8.427,12.187,4566,196259,11250,True,True
+U.S. Bancorp,United States,1.386,3.135,3,22,10,False,False
+Expedia Group,United States,3.784,6.579,43,719,21,False,False
+Charter Communications,United States,1.946,3.807,6,44,59,False,False
+Broadcom,United States,3.401,6.607,29,739,160,False,False
+GE Healthcare,United States,5.673,9.077,290,8747,672,False,False
+Synopsys,United States,4.779,7.415,118,1659,110,False,False
+Motorola Solutions,United States,3.526,6.833,33,927,106,False,False
+Baidu,China,7.747,11.929,2314,151534,11714,True,True
+Tesla,United States,2.996,7.038,19,1138,52,False,False
+Target,United States,3.258,6.415,25,610,67,False,False
+Autodesk,United States,4.99,8.895,146,7294,161,False,False
+Roche,Switzerland,6.18,9.322,482,11184,346,False,False
+Juniper Networks,United States,2.485,4.654,11,104,174,False,False
+Ebay,United States,5.403,9.115,221,9086,234,False,False
+Palo Alto Networks,United States,3.219,6.385,24,592,135,False,False
+Kaiser Permanente,United States,5.838,9.189,342,9790,1,False,False
+Lumen Technologies,United States,0.693,4.533,1,92,52,False,False
+Akamai Technologies,United States,2.485,5.635,11,279,31,False,False
+Nike,United States,1.609,5.142,4,170,8,False,False
+PNC Financial Services,United States,1.099,0.693,2,1,23,False,False
+GE Aerospace,United States,5.945,9.661,381,15686,561,False,False
+McKinsey & Company,United States,3.555,7.173,34,1303,29,False,False
+Deere,United States,3.367,6.279,28,532,241,False,False
+Home Depot,United States,3.714,6.136,40,461,36,False,False
+CVS Health,United States,3.871,6.804,47,900,43,False,False
+J.P. Morgan,United States,5.529,8.37,251,4314,525,False,False
+L3Harris Technologies,United States,3.664,5.781,38,323,39,False,False
+Humana,United States,2.303,5.784,9,324,15,False,False
+Centene,United States,1.099,0.693,2,1,2,False,False
+Johnson & Johnson,United States,4.804,9.011,121,8194,300,False,False
+United Parcel Service,United States,1.946,5.252,6,190,19,False,False
+Electronic Arts,United States,4.29,7.61,72,2017,133,False,False
+Caterpillar,United States,3.332,6.431,27,620,144,False,False
+Experian,United States,2.773,5.756,15,315,16,False,False
+Micron Technology,United States,3.091,5.142,21,170,532,False,False
+Bmw,Germany,6.438,9.342,624,11410,438,False,False
+ABB,Switzerland,6.068,9.191,431,9809,247,False,False
+Netapp,United States,3.258,6.519,25,677,46,False,False
+NXP Semiconductors,Netherlands,5.063,7.253,157,1412,91,False,False
+Thermo Fisher Scientific,United States,3.97,6.997,52,1092,123,False,False
+ExxonMobil,United States,3.989,6.762,53,863,79,False,False
+PepsiCo,United States,1.792,3.584,5,35,14,False,False
+Spotify,Sweden,4.852,8.221,127,3718,96,False,False
+Procter & Gamble,United States,3.584,5.956,35,385,73,False,False
+Abbott,United States,2.708,5.855,14,348,84,False,False
+Fortinet,United States,1.386,3.219,3,24,0,False,False
+Discover Financial Services,United States,2.996,4.762,19,116,0,False,False
+Cadence Design Systems,United States,4.443,6.567,84,710,62,False,False
+AP Moller - Maersk,Denmark,2.197,4.357,8,77,11,False,False
+State Street,United States,2.565,4.635,12,102,7,False,False
+Medtronic,United States,5.247,8.235,189,3770,430,False,False
+Netflix,United States,5.075,9.214,159,10039,81,False,False
+Allstate,United States,2.996,4.564,19,95,120,False,False
+Lenovo,China,5.872,9.481,354,13112,339,False,False
+Blackrock,United States,3.219,5.697,24,297,11,False,False
+Johnson Controls,Ireland,3.178,6.692,23,805,273,False,False
+Aptiv,Ireland,4.727,7.569,112,1937,319,False,False
+Emerson Electric Company,United States,2.639,5.182,13,177,58,False,False
+MetLife,United States,0.693,2.89,1,17,0,False,False
+Disney,United States,6.129,10.45,458,34550,365,False,False
+Western Digital,United States,4.043,6.658,56,778,137,False,False
+Astrazeneca,United Kingdom,6.157,9.69,471,16151,22,False,False
+Deutsche Telekom,Germany,3.738,7.98,41,2921,95,False,False
+Texas Instruments,United States,4.575,7.757,96,2337,93,False,False
+Truist Financial,United States,1.099,0.0,2,0,0,False,False
+Equinix,United States,1.609,3.367,4,28,11,False,False
+Delta Air Lines,United States,0.0,5.583,0,265,1,False,False
+Fedex,United States,1.386,4.736,3,113,6,False,False
+Elevance Health,United States,3.761,5.875,42,355,21,False,False
+F5 Networks,United States,1.792,4.159,5,63,23,False,False
+Rockwell Automation,United States,3.497,6.56,32,705,161,False,False
+Chevron,United States,4.043,6.439,56,625,73,False,False
+Airbnb,United States,3.638,7.235,37,1386,67,False,False
+Arm,United Kingdom,4.248,8.007,69,3002,257,False,False
+American Airlines Group,United States,0.693,3.497,1,32,4,False,False
+Jacobs Engineering Group,United States,3.912,6.611,49,742,1,False,False
+Databricks,United States,2.773,7.85,15,2566,11,False,False
+Pfizer,United States,5.226,8.789,185,6560,12,False,False
+Applied Materials,United States,3.664,6.301,38,544,422,False,False
+Garmin,United States,1.386,4.489,3,88,7,False,False
+Splunk,United States,2.996,5.787,19,325,1,False,False
+FactSet,United States,1.099,3.526,2,33,1,False,False
+Snap,United States,5.714,10.51,302,36694,514,False,False
+Trimble,United States,2.565,4.977,12,144,25,False,False
+3M,United States,3.258,6.096,25,443,128,False,False
+PTC,United States,2.944,5.855,18,348,6,False,False
+Lowe's,United States,2.773,4.779,15,118,3,False,False
+Willis Towers Watson,United Kingdom,1.386,4.477,3,87,0,False,False
+JD.com,China,6.608,10.853,740,51668,793,True,False
+Gartner,United States,1.609,2.565,4,12,1,False,False
+Eli Lilly And Company,United States,4.89,7.831,132,2517,9,False,False
+Alibaba,China,8.351,11.966,4233,157365,2406,True,True
+Sanofi,France,4.836,7.858,125,2585,51,False,False
+Warner Bros. Discovery,United States,1.099,2.398,2,10,12,False,False
+Baker Hughes,United States,4.344,6.489,76,657,94,False,False
+Xerox,United States,5.094,10.165,162,25974,177,False,False
+Keysight Technologies,United States,3.367,5.855,28,348,20,False,False
+Boston Consulting Group,United States,3.714,7.035,40,1135,28,False,False
+Arista Networks,United States,1.792,2.565,5,12,19,False,False
+ZTE,China,5.024,7.982,151,2927,720,False,False
+Global Payments,United States,0.693,0.0,1,0,4,False,False
+KPMG,United States,3.892,6.641,48,765,48,False,False
+Cardinal Health,United States,2.639,4.745,13,114,2,False,False
+Eaton Corporation,Ireland,3.135,6.314,22,551,40,False,False
+Nasdaq,United States,1.099,0.0,2,0,24,False,False
+Best Buy,United States,0.693,0.693,1,1,3,False,False
+AbbVie,United States,4.143,6.719,62,827,3,False,False
+Prudential Financial,United States,1.099,2.303,2,9,1,False,False
+Principal Financial Group,United States,1.099,0.693,2,1,1,False,False
+McKesson,United States,3.045,4.19,20,65,13,False,False
+American International Group,United States,2.303,4.663,9,105,5,False,False
+Analog Devices,United States,3.784,6.658,43,778,81,False,False
+Microchip Technology,United States,2.639,5.231,13,186,153,False,False
+Zebra Technologies,United States,3.091,6.021,21,411,100,False,False
+Dish Network,United States,1.099,4.369,2,78,63,False,False
+Southwest Airlines,United States,1.386,3.367,3,28,0,False,False
+Pinterest,United States,4.533,9.005,92,8144,40,False,False
+Intercontinental Exchange,United States,1.386,3.332,3,27,1,False,False
+Fair Isaac,United States,2.303,4.205,9,66,60,False,False
+Agilent Technologies,United States,3.526,6.912,33,1003,13,False,False
+Merck,United States,5.412,9.182,223,9720,55,False,False
+Cummins,United States,3.332,5.485,27,240,38,False,False
+Twitter,United States,4.82,10.048,123,23106,50,False,False
+Becton Dickinson,United States,1.946,3.871,6,47,110,False,False
+Didi Chuxing,China,5.762,9.381,317,11859,546,False,False
+Starbucks,United States,1.386,3.401,3,29,9,False,False
+HCA Healthcare,United States,3.045,5.974,20,392,0,False,False
+Sony,Japan,6.526,10.046,682,23056,1860,False,False
+Elsevier,Netherlands,4.804,7.413,121,1657,28,False,False
+Stryker,United States,4.477,7.068,87,1173,89,False,False
+Citadel,United States,3.784,7.093,43,1202,0,False,False
+Duke Energy,United States,1.946,4.7,6,109,2,False,False
+KLA-Tencor,United States,3.258,5.727,25,306,227,False,False
+Macy's,United States,0.693,0.693,1,1,1,False,False
+Dropbox,United States,1.099,3.638,2,37,77,False,False
+Seagate Technology,United States,3.526,5.673,33,290,38,False,False
+Lyft,United States,3.761,8.366,42,4296,107,False,False
+Synchrony Financial,United States,0.693,4.585,1,97,3,False,False
+Zillow,United States,3.932,7.421,50,1670,15,False,False
+Fifth Third Bancorp,United States,1.609,6.178,4,481,1,False,False
+Philip Morris International,United States,2.303,4.673,9,106,4,False,False
+Coca-Cola,United States,1.792,4.844,5,126,1,False,False
+Coupang,South Korea,2.773,4.564,15,95,122,False,False
+Align Technology,United States,1.946,4.682,6,107,85,False,False
+Verisk Analytics,United States,3.434,8.177,30,3558,0,False,False
+Msci,United States,1.099,3.829,2,45,0,False,False
+Bristol-Myers Squibb,United States,4.615,8.525,100,5040,19,False,False
+General Dynamics,United States,4.043,6.636,56,761,13,False,False
+Boston Scientific,United States,2.639,4.852,13,127,132,False,False
+Baxter International,United States,2.708,6.321,14,555,84,False,False
+Nordstrom,United States,1.099,3.611,2,36,0,False,False
+Huntington Bancshares,United States,1.386,4.977,3,144,1,False,False
+Amgen,United States,4.443,8.416,84,4516,33,False,False
+Swiss Re,Switzerland,3.401,7.077,29,1184,20,False,False
+Marriott International,United States,0.693,1.609,1,4,0,False,False
+SVB Financial,United States,0.693,0.0,1,0,1,False,False
+Ansys,United States,4.19,6.842,65,935,37,False,False
+CME Group,United States,1.946,5.756,6,315,8,False,False
+J. B. Hunt Transport Services,United States,0.693,0.0,1,0,0,False,False
+PG&E Corporation,United States,1.946,4.554,6,94,3,False,False
+Laboratory Corporation of America,United States,2.303,4.762,9,116,27,False,False
+Foxconn,Taiwan,3.689,7.29,39,1464,403,False,False
+Jabil,United States,1.099,1.099,2,2,10,False,False
+Halliburton,United States,3.912,6.089,49,440,407,False,False
+Ingersoll Rand,United States,1.099,4.382,2,79,11,False,False
+Kuaishou,China,6.071,9.894,432,19820,197,False,False
+Keycorp,United States,1.099,2.398,2,10,0,False,False
+Sherwin-Williams,United States,0.693,1.792,1,5,3,False,False
+McDonald's,United States,1.386,3.135,3,22,0,False,False
+Southern Company,United States,2.565,5.817,12,335,0,False,False
+Wabtec Corporation,United States,0.693,1.099,1,2,29,False,False
+NEC,Japan,7.136,11.232,1255,75510,2510,False,True
+Exelon,United States,0.0,1.609,0,4,2,False,False
+Illumina,United States,2.944,7.868,18,2611,147,False,False
+Etsy,United States,3.584,6.72,35,828,18,False,False
+TE Connectivity,Switzerland,1.386,3.401,3,29,26,False,False
+Maxar Technologies,United States,2.996,5.924,19,373,30,False,False
+Franklin Templeton,United States,0.693,0.693,1,1,0,False,False
+Franklin Resources,United States,0.693,0.693,1,1,0,False,False
+Regions Financial,United States,0.693,1.792,1,5,1,False,False
+Whirlpool,United States,3.045,6.021,20,411,9,False,False
+Axon Enterprise,United States,2.303,5.124,9,167,7,False,False
+CoStar Group,United States,0.693,3.434,1,30,0,False,False
+Quest Diagnostics,United States,2.639,4.977,13,144,2,False,False
+Intuitive Surgical,United States,5.464,8.504,235,4935,53,False,False
+GE Vernova,United States,1.792,2.833,5,16,67,False,False
+Gen Digital,United States,0.693,1.099,1,2,0,False,False
+General Mills,United States,2.398,6.163,10,474,1,False,False
+American Electric Power,United States,1.386,4.673,3,106,0,False,False
+Ecolab,United States,0.693,4.007,1,54,3,False,False
+Nissan Motor Corporation,Japan,4.317,7.418,74,1664,145,False,False
+Aecom,United States,3.466,5.481,31,239,4,False,False
+Cigna,United States,2.079,4.454,7,85,85,False,False
+Scale AI,United States,2.079,6.443,7,627,9,False,False
+Davita,United States,0.693,1.099,1,2,0,False,False
+DexCom,United States,1.386,4.248,3,69,62,False,False
+Gilead Sciences,United States,3.466,6.075,31,434,0,False,False
+Lam Research,United States,3.045,6.105,20,447,43,False,False
+Toyota,Japan,7.67,11.888,2143,145444,2491,False,True
+Kimberly-Clark,United States,1.609,1.946,4,6,10,False,False
+Corning Incorporated,United States,2.708,6.075,14,434,17,False,False
+ON Semiconductor,United States,3.258,4.852,25,127,17,False,False
+Resmed,United States,2.565,5.814,12,334,114,False,False
+OpenAI,United States,5.118,12.302,166,220191,28,True,False
+Bloomberg,United States,5.159,8.64,173,5650,4,False,False
+Mondelez International,United States,0.693,1.792,1,5,2,False,False
+Dow,United States,3.332,6.229,27,506,22,False,False
+ConocoPhillips,United States,2.996,5.075,19,159,19,False,False
+Yum! Brands,United States,0.693,2.079,1,7,0,False,False
+Corteva,United States,3.091,5.303,21,200,14,False,False
+PPG Industries,United States,0.693,4.407,1,81,13,False,False
+IFlyTek,China,6.052,9.541,424,13916,953,True,False
+Colgate-Palmolive,United States,2.565,3.466,12,31,10,False,False
+NOV,United States,2.303,5.298,9,199,2,False,False
+Ameren,United States,1.099,1.099,2,2,0,False,False
+DTE Energy,United States,1.946,4.382,6,79,0,False,False
+Walgreens Boots Alliance,United States,1.609,3.714,4,40,0,False,False
+Xcel Energy,United States,0.693,1.792,1,5,0,False,False
+Marathon Petroleum,United States,0.693,1.386,1,3,2,False,False
+Teradyne,United States,1.609,2.565,4,12,16,False,False
+Jane Street,United States,1.386,1.609,3,4,0,False,False
+Stanley Black & Decker,United States,1.946,6.279,6,532,9,False,False
+Biogen,United States,3.611,7.158,36,1283,6,False,False
+DuPont,United States,1.792,2.996,5,19,2,False,False
+Panasonic,Japan,5.869,9.039,353,8427,791,False,False
+Enphase Energy,United States,1.386,1.946,3,6,0,False,False
+Carrier Global,United States,1.609,4.078,4,58,56,False,False
+Nio,China,1.099,2.773,2,15,13,False,False
+Mettler Toledo,United States,1.386,3.738,3,41,12,False,False
+Xylem,United States,2.89,4.997,17,147,5,False,False
+Qihoo 360,China,4.443,8.657,84,5749,259,False,False
+Regeneron Pharmaceuticals,United States,3.466,6.021,31,411,19,False,False
+Waters Corporation,United States,1.946,3.85,6,46,11,False,False
+Parker-Hannifin,United States,2.565,5.598,12,269,2,False,False
+Consolidated Edison,United States,1.609,5.743,4,311,0,False,False
+Supermicro,United States,1.609,4.868,4,129,4,False,False
+Qorvo,United States,1.386,3.219,3,24,2,False,False
+NRG Energy,United States,1.099,3.135,2,22,6,False,False
+Centerpoint Energy,United States,0.693,4.304,1,73,0,False,False
+Archer Daniels Midland,United States,1.792,3.466,5,31,0,False,False
+Idexx Laboratories,United States,2.485,4.949,11,140,17,False,False
+Norfolk Southern,United States,1.386,3.497,3,32,2,False,False
+Verisign,United States,0.693,5.398,1,220,10,False,False
+Avery Dennison,United States,0.693,1.386,1,3,1,False,False
+Anduril Industries,United States,1.099,5.136,2,169,14,False,False
+Fox Corporation,United States,1.099,0.0,2,0,7,False,False
+Occidental Petroleum,United States,2.079,3.466,7,31,0,False,False
+Sensetime,China,7.228,11.803,1377,133690,1602,True,True
+Hikvision,China,5.903,9.745,365,17064,994,False,False
+Dayforce,United States,1.099,4.635,2,102,0,False,False
+Illinois Tool Works,United States,0.693,2.303,1,9,22,False,False
+Zimmer Biomet,United States,2.565,4.844,12,126,17,False,False
+RTX,United States,4.564,7.278,95,1447,367,False,False
+Kellogg,United States,1.099,3.497,2,32,1,False,False
+Edwards Lifesciences,United States,3.045,6.645,20,768,19,False,False
+Moody's,United States,2.398,4.963,10,142,0,False,False
+NortonLifeLock,United States,3.611,7.337,36,1535,107,False,False
+Paccar,United States,1.386,1.386,3,3,5,False,False
+Datarobot,United States,2.639,5.106,13,164,43,False,False
+Tyson Foods,United States,0.693,0.693,1,1,1,False,False
+Genuine Parts,United States,1.099,1.386,2,3,0,False,False
+American Tower,United States,1.386,3.135,3,22,0,False,False
+Kraft Heinz,United States,1.386,2.079,3,7,4,False,False
+Linde,Ireland,2.485,3.784,11,43,3,False,False
+TechnipFMC,United Kingdom,3.135,5.342,22,208,5,False,False
+Viatris,United States,1.099,4.949,2,140,0,False,False
+Verizon Media,United States,3.258,6.052,25,424,0,False,False
+Charles River Laboratories,United States,3.367,5.677,28,291,2,False,False
+Bio-Rad Laboratories,United States,0.693,0.693,1,1,5,False,False
+Skyworks Solutions,United States,2.565,5.056,12,156,8,False,False
+Ping An,China,3.219,6.001,24,403,2620,False,False
+Zoetis,United States,2.197,3.638,8,37,2,False,False
+BYD,China,4.317,6.608,74,740,141,False,False
+Dentsply Sirona,United States,1.099,2.944,2,18,37,False,False
+Revvity,United States,2.773,5.796,15,328,11,False,False
+Blackstone,United States,0.693,0.0,1,0,0,False,False
+PSEG,United States,1.386,3.258,3,25,0,False,False
+Volkswagen,Germany,5.894,8.955,362,7743,47,False,False
+Steris,United States,1.099,3.555,2,34,1,False,False
+Moderna Therapeutics,United States,2.079,4.454,7,85,1,False,False
+Activision Blizzard,United States,2.565,4.673,12,106,0,False,False
+Xiaohongshu (Little Red Book),China,4.174,7.227,64,1375,86,False,False
+Duolingo,United States,3.555,7.679,34,2162,1,False,False
+Schlumberger,United States,5.425,8.026,226,3058,455,False,False
+Under Armour,United States,1.792,3.807,5,44,8,False,False
+Nextera Energy,United States,0.693,3.219,1,24,0,False,False
+Bunge,United States,1.386,1.609,3,4,0,False,False
+Appier,Taiwan,1.099,4.394,2,80,0,False,False
+Empower AI,United States,0.693,2.303,1,9,0,False,False
+Sealed Air,United States,0.693,3.85,1,46,3,False,False
+Danaher,United States,2.079,5.553,7,257,178,False,False
+LVMH Moet Hennessy-Louis Vuitton,France,1.946,2.944,6,18,1,False,False
+Weyerhaeuser,United States,0.693,1.099,1,2,0,False,False
+Huntington Ingalls Industries,United States,1.792,1.099,5,2,0,False,False
+Pony.AI,China,3.434,7.622,30,2041,64,False,False
+AES,United States,1.386,2.708,3,14,7,False,False
+Hologic,United States,2.079,4.277,7,71,44,False,False
+Sempra Energy,United States,1.099,4.078,2,58,0,False,False
+Vertex Pharmaceuticals,United States,1.386,2.996,3,19,0,False,False
+Bridgewater Associates,United States,1.099,4.331,2,75,0,False,False
+Conagra Brands,United States,0.693,0.0,1,0,0,False,False
+Tusimple,United States,4.585,9.161,97,9520,147,False,False
+Devon Energy,United States,1.099,3.85,2,46,0,False,False
+Generac,United States,0.693,0.0,1,0,0,False,False
+Cerebras Systems,United States,3.555,6.612,34,743,15,False,False
+Harley-Davidson,United States,0.0,2.89,0,17,1,False,False
+DJI,China,4.489,8.344,88,4205,178,False,False
+Marathon Oil,United States,0.0,2.833,0,16,0,False,False
+Take-Two Interactive,United States,1.609,4.779,4,118,3,False,False
+Booking.com,United States,1.099,1.609,2,4,0,False,False
+Constellation Brands,United States,0.693,3.85,1,46,0,False,False
+Xiaopeng Motors,China,3.761,7.026,42,1125,129,False,False
+Dataminr,United States,3.714,7.171,40,1300,0,False,False
+Celanese,United States,0.693,2.079,1,7,0,False,False
+Freeport-Mcmoran,United States,1.099,2.89,2,17,5,False,False
+APA Corporation,United States,1.386,3.434,3,30,0,False,False
+First Solar,United States,1.099,1.386,2,3,0,False,False
+Ametek,United States,1.099,1.099,2,2,3,False,False
+Textron,United States,2.197,4.331,8,75,20,False,False
+Altria Group,United States,0.693,2.398,1,10,4,False,False
+Graphcore,United Kingdom,2.485,5.762,11,317,40,False,False
+Canadian Pacific,Canada,0.0,3.135,0,22,0,False,False
+Howmet Aerospace,United States,0.693,1.386,1,3,0,False,False
+FMC Corporation,United States,1.099,5.288,2,197,7,False,False
+Citizens Financial Group,United States,1.099,2.833,2,16,6,False,False
+American Water Works,United States,1.792,2.079,5,7,0,False,False
+China Mobile Communications,China,6.861,9.211,953,10002,3952,False,False
+Hess Corporation,United States,1.946,5.088,6,161,1,False,False
+Ginkgo Bioworks,United States,1.099,5.525,2,250,19,False,False
+Horizon Robotics,China,5.293,9.884,198,19616,185,False,False
+Teleflex,United States,0.693,2.639,1,13,1,False,False
+Hormel Foods,United States,0.693,0.0,1,0,0,False,False
+Omnicom Group,United States,1.386,1.946,3,6,0,False,False
+Pioneer Natural Resources,United States,1.946,4.812,6,122,0,False,False
+Carnival,United States,0.693,1.946,1,6,0,False,False
+AI21 Labs,Israel,1.099,4.575,2,96,4,True,False
+Catalent,United States,1.099,2.639,2,13,0,False,False
+Teledyne Technologies,United States,3.258,6.571,25,713,42,False,False
+Ball,United States,3.401,6.457,29,636,4,False,False
+Mosaic Company,United States,1.386,3.466,3,31,0,False,False
+Anthropic,United States,2.639,7.027,13,1126,0,True,False
+Perrigo,Ireland,0.693,1.386,1,3,0,False,False
+Incyte,United States,2.773,6.856,15,949,0,False,False
+Nordson Corporation,United States,0.693,0.0,1,0,4,False,False
+Prologis,United States,1.609,3.497,4,32,0,False,False
+Broadridge Financial Solutions,United States,2.197,5.717,8,303,16,False,False
+Monolithic Power Systems,United States,0.693,0.0,1,0,0,False,False
+Cambricon,China,3.332,6.509,27,670,1061,False,False
+BlackSky Global,United States,1.792,2.833,5,16,0,False,False
+Mitsubishi,Japan,7.048,10.572,1150,39040,1257,False,True
+4Thparadigm,China,2.565,6.646,12,769,389,False,False
+Stability AI,United Kingdom,2.833,6.628,16,755,1,True,False
+Avalonbay Communities,United States,0.693,2.565,1,12,0,False,False
+Edison International,United States,1.946,2.89,6,17,0,False,False
+Helmerich & Payne,United States,1.099,0.693,2,1,1,False,False
+Idex Corporation,United States,0.693,2.89,1,17,1,False,False
+Bitmain Technologies,China,1.609,3.258,4,25,20,False,False
+Tamr,United States,0.0,3.178,0,23,5,False,False
+xAI,United States,2.079,5.521,7,249,4,True,False
+Character.ai,United States,0.693,1.609,1,4,1,True,False
+Adept,United States,0.693,2.708,1,14,0,True,False
+Affectiva,United States,2.996,7.018,19,1116,8,False,False
+Deepglint,China,3.401,7.159,29,1284,34,False,False
+Aleph Alpha,Germany,0.693,4.605,1,99,1,True,False
+Aibee,China,3.584,8.139,35,3425,45,False,False
+Midjourney,United States,2.485,5.557,11,258,3,True,False
+Zymergen,United States,1.609,3.989,4,53,4,False,False
+Mininglamp,China,4.357,7.818,77,2483,302,False,False
+Valero Energy,United States,1.946,2.079,6,7,0,False,False
+Mistral,France,2.079,4.127,7,61,0,True,False
+Agari Data,United States,1.386,3.091,3,21,0,False,False
+Air Products & Chemicals,United States,0.0,1.946,0,6,7,False,False
+Yaskawa,Japan,4.234,6.828,68,922,39,False,False
+Cooper Companies,United States,0.693,0.693,1,1,6,False,False
+Paramount Global,United States,0.693,0.693,1,1,10,False,False
+Fortune Brands Home & Security,United States,2.303,2.708,9,14,0,False,False
+Celepixel,China,1.386,4.836,3,125,0,False,False
+Honda,Japan,6.725,10.069,832,23602,718,False,False
+Dahua Technology,China,4.727,7.428,112,1681,1040,False,False
+Megvii,China,5.999,11.071,402,64291,605,True,False
+Royal Dutch Shell,Netherlands,4.942,8.061,139,3168,73,False,False
+Deepblue Technology,China,4.407,7.471,81,1756,130,False,False
+Enflame,China,2.708,4.796,14,120,105,False,False
+Cloudwalk,China,3.97,8.312,52,4072,99,True,False
+Zhipu AI,China,4.522,7.75,91,2320,108,True,False
+Constellation Energy,United States,0.0,1.609,0,4,0,False,False
+Ahi Fintech,China,1.386,1.099,3,2,0,False,False

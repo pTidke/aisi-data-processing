@@ -1,0 +1,714 @@
+[
+  {
+    "country": "United States",
+    "n_partners": 73,
+    "total_volume": 582270,
+    "n_fields": 8,
+    "avg_per_partner": 7976,
+    "is_top15": true
+  },
+  {
+    "country": "China",
+    "n_partners": 65,
+    "total_volume": 515432,
+    "n_fields": 8,
+    "avg_per_partner": 7930,
+    "is_top15": true
+  },
+  {
+    "country": "United Kingdom",
+    "n_partners": 64,
+    "total_volume": 297774,
+    "n_fields": 8,
+    "avg_per_partner": 4653,
+    "is_top15": true
+  },
+  {
+    "country": "Germany",
+    "n_partners": 54,
+    "total_volume": 210592,
+    "n_fields": 8,
+    "avg_per_partner": 3900,
+    "is_top15": true
+  },
+  {
+    "country": "France",
+    "n_partners": 49,
+    "total_volume": 143909,
+    "n_fields": 8,
+    "avg_per_partner": 2937,
+    "is_top15": true
+  },
+  {
+    "country": "Canada",
+    "n_partners": 50,
+    "total_volume": 132668,
+    "n_fields": 8,
+    "avg_per_partner": 2653,
+    "is_top15": true
+  },
+  {
+    "country": "Australia",
+    "n_partners": 46,
+    "total_volume": 132319,
+    "n_fields": 8,
+    "avg_per_partner": 2876,
+    "is_top15": true
+  },
+  {
+    "country": "Italy",
+    "n_partners": 46,
+    "total_volume": 123268,
+    "n_fields": 8,
+    "avg_per_partner": 2680,
+    "is_top15": true
+  },
+  {
+    "country": "India",
+    "n_partners": 66,
+    "total_volume": 115913,
+    "n_fields": 8,
+    "avg_per_partner": 1756,
+    "is_top15": true
+  },
+  {
+    "country": "Japan",
+    "n_partners": 38,
+    "total_volume": 91684,
+    "n_fields": 8,
+    "avg_per_partner": 2413,
+    "is_top15": true
+  },
+  {
+    "country": "Spain",
+    "n_partners": 47,
+    "total_volume": 87063,
+    "n_fields": 7,
+    "avg_per_partner": 1852,
+    "is_top15": true
+  },
+  {
+    "country": "Netherlands",
+    "n_partners": 33,
+    "total_volume": 81721,
+    "n_fields": 8,
+    "avg_per_partner": 2476,
+    "is_top15": true
+  },
+  {
+    "country": "Switzerland",
+    "n_partners": 31,
+    "total_volume": 78054,
+    "n_fields": 8,
+    "avg_per_partner": 2518,
+    "is_top15": true
+  },
+  {
+    "country": "Singapore",
+    "n_partners": 23,
+    "total_volume": 77146,
+    "n_fields": 8,
+    "avg_per_partner": 3354,
+    "is_top15": true
+  },
+  {
+    "country": "Saudi Arabia",
+    "n_partners": 47,
+    "total_volume": 72208,
+    "n_fields": 7,
+    "avg_per_partner": 1536,
+    "is_top15": true
+  },
+  {
+    "country": "South Korea",
+    "n_partners": 38,
+    "total_volume": 67950,
+    "n_fields": 8,
+    "avg_per_partner": 1788,
+    "is_top15": false
+  },
+  {
+    "country": "Pakistan",
+    "n_partners": 35,
+    "total_volume": 42599,
+    "n_fields": 7,
+    "avg_per_partner": 1217,
+    "is_top15": false
+  },
+  {
+    "country": "Belgium",
+    "n_partners": 26,
+    "total_volume": 39426,
+    "n_fields": 6,
+    "avg_per_partner": 1516,
+    "is_top15": false
+  },
+  {
+    "country": "Taiwan",
+    "n_partners": 26,
+    "total_volume": 37821,
+    "n_fields": 7,
+    "avg_per_partner": 1455,
+    "is_top15": false
+  },
+  {
+    "country": "Sweden",
+    "n_partners": 32,
+    "total_volume": 35741,
+    "n_fields": 7,
+    "avg_per_partner": 1117,
+    "is_top15": false
+  },
+  {
+    "country": "Malaysia",
+    "n_partners": 34,
+    "total_volume": 34231,
+    "n_fields": 7,
+    "avg_per_partner": 1007,
+    "is_top15": false
+  },
+  {
+    "country": "Austria",
+    "n_partners": 26,
+    "total_volume": 29926,
+    "n_fields": 6,
+    "avg_per_partner": 1151,
+    "is_top15": false
+  },
+  {
+    "country": "Brazil",
+    "n_partners": 24,
+    "total_volume": 26190,
+    "n_fields": 6,
+    "avg_per_partner": 1091,
+    "is_top15": false
+  },
+  {
+    "country": "United Arab Emirates",
+    "n_partners": 32,
+    "total_volume": 26002,
+    "n_fields": 7,
+    "avg_per_partner": 813,
+    "is_top15": false
+  },
+  {
+    "country": "Denmark",
+    "n_partners": 23,
+    "total_volume": 21538,
+    "n_fields": 6,
+    "avg_per_partner": 936,
+    "is_top15": false
+  },
+  {
+    "country": "Iran",
+    "n_partners": 27,
+    "total_volume": 21342,
+    "n_fields": 5,
+    "avg_per_partner": 790,
+    "is_top15": false
+  },
+  {
+    "country": "Egypt",
+    "n_partners": 25,
+    "total_volume": 21224,
+    "n_fields": 6,
+    "avg_per_partner": 849,
+    "is_top15": false
+  },
+  {
+    "country": "Norway",
+    "n_partners": 32,
+    "total_volume": 20851,
+    "n_fields": 4,
+    "avg_per_partner": 652,
+    "is_top15": false
+  },
+  {
+    "country": "Israel",
+    "n_partners": 16,
+    "total_volume": 19933,
+    "n_fields": 8,
+    "avg_per_partner": 1246,
+    "is_top15": false
+  },
+  {
+    "country": "Finland",
+    "n_partners": 29,
+    "total_volume": 18410,
+    "n_fields": 6,
+    "avg_per_partner": 635,
+    "is_top15": false
+  },
+  {
+    "country": "Portugal",
+    "n_partners": 21,
+    "total_volume": 16894,
+    "n_fields": 5,
+    "avg_per_partner": 804,
+    "is_top15": false
+  },
+  {
+    "country": "Poland",
+    "n_partners": 31,
+    "total_volume": 16276,
+    "n_fields": 3,
+    "avg_per_partner": 525,
+    "is_top15": false
+  },
+  {
+    "country": "Turkey",
+    "n_partners": 34,
+    "total_volume": 15556,
+    "n_fields": 5,
+    "avg_per_partner": 458,
+    "is_top15": false
+  },
+  {
+    "country": "Greece",
+    "n_partners": 21,
+    "total_volume": 14924,
+    "n_fields": 5,
+    "avg_per_partner": 711,
+    "is_top15": false
+  },
+  {
+    "country": "Russia",
+    "n_partners": 29,
+    "total_volume": 13672,
+    "n_fields": 5,
+    "avg_per_partner": 471,
+    "is_top15": false
+  },
+  {
+    "country": "Ireland",
+    "n_partners": 21,
+    "total_volume": 12391,
+    "n_fields": 6,
+    "avg_per_partner": 590,
+    "is_top15": false
+  },
+  {
+    "country": "Vietnam",
+    "n_partners": 20,
+    "total_volume": 10734,
+    "n_fields": 4,
+    "avg_per_partner": 537,
+    "is_top15": false
+  },
+  {
+    "country": "Bangladesh",
+    "n_partners": 13,
+    "total_volume": 9294,
+    "n_fields": 4,
+    "avg_per_partner": 715,
+    "is_top15": false
+  },
+  {
+    "country": "Iraq",
+    "n_partners": 15,
+    "total_volume": 8866,
+    "n_fields": 4,
+    "avg_per_partner": 591,
+    "is_top15": false
+  },
+  {
+    "country": "Indonesia",
+    "n_partners": 12,
+    "total_volume": 8726,
+    "n_fields": 5,
+    "avg_per_partner": 727,
+    "is_top15": false
+  },
+  {
+    "country": "Czechia",
+    "n_partners": 20,
+    "total_volume": 7956,
+    "n_fields": 2,
+    "avg_per_partner": 398,
+    "is_top15": false
+  },
+  {
+    "country": "Tunisia",
+    "n_partners": 7,
+    "total_volume": 7720,
+    "n_fields": 4,
+    "avg_per_partner": 1103,
+    "is_top15": false
+  },
+  {
+    "country": "Mexico",
+    "n_partners": 13,
+    "total_volume": 7130,
+    "n_fields": 4,
+    "avg_per_partner": 548,
+    "is_top15": false
+  },
+  {
+    "country": "New Zealand",
+    "n_partners": 9,
+    "total_volume": 7068,
+    "n_fields": 4,
+    "avg_per_partner": 785,
+    "is_top15": false
+  },
+  {
+    "country": "Romania",
+    "n_partners": 11,
+    "total_volume": 6853,
+    "n_fields": 5,
+    "avg_per_partner": 623,
+    "is_top15": false
+  },
+  {
+    "country": "Jordan",
+    "n_partners": 15,
+    "total_volume": 6038,
+    "n_fields": 3,
+    "avg_per_partner": 403,
+    "is_top15": false
+  },
+  {
+    "country": "Algeria",
+    "n_partners": 8,
+    "total_volume": 5148,
+    "n_fields": 4,
+    "avg_per_partner": 644,
+    "is_top15": false
+  },
+  {
+    "country": "Qatar",
+    "n_partners": 13,
+    "total_volume": 5125,
+    "n_fields": 3,
+    "avg_per_partner": 394,
+    "is_top15": false
+  },
+  {
+    "country": "Thailand",
+    "n_partners": 12,
+    "total_volume": 4717,
+    "n_fields": 2,
+    "avg_per_partner": 393,
+    "is_top15": false
+  },
+  {
+    "country": "Lebanon",
+    "n_partners": 16,
+    "total_volume": 4554,
+    "n_fields": 3,
+    "avg_per_partner": 285,
+    "is_top15": false
+  },
+  {
+    "country": "South Africa",
+    "n_partners": 13,
+    "total_volume": 3722,
+    "n_fields": 2,
+    "avg_per_partner": 286,
+    "is_top15": false
+  },
+  {
+    "country": "Colombia",
+    "n_partners": 11,
+    "total_volume": 3320,
+    "n_fields": 2,
+    "avg_per_partner": 302,
+    "is_top15": false
+  },
+  {
+    "country": "Hungary",
+    "n_partners": 15,
+    "total_volume": 2988,
+    "n_fields": 1,
+    "avg_per_partner": 199,
+    "is_top15": false
+  },
+  {
+    "country": "Ethiopia",
+    "n_partners": 5,
+    "total_volume": 2828,
+    "n_fields": 3,
+    "avg_per_partner": 566,
+    "is_top15": false
+  },
+  {
+    "country": "Nigeria",
+    "n_partners": 9,
+    "total_volume": 2724,
+    "n_fields": 2,
+    "avg_per_partner": 303,
+    "is_top15": false
+  },
+  {
+    "country": "Chile",
+    "n_partners": 8,
+    "total_volume": 2558,
+    "n_fields": 1,
+    "avg_per_partner": 320,
+    "is_top15": false
+  },
+  {
+    "country": "Morocco",
+    "n_partners": 6,
+    "total_volume": 2488,
+    "n_fields": 3,
+    "avg_per_partner": 415,
+    "is_top15": false
+  },
+  {
+    "country": "Cyprus",
+    "n_partners": 10,
+    "total_volume": 1856,
+    "n_fields": 2,
+    "avg_per_partner": 186,
+    "is_top15": false
+  },
+  {
+    "country": "Ecuador",
+    "n_partners": 3,
+    "total_volume": 1690,
+    "n_fields": 2,
+    "avg_per_partner": 563,
+    "is_top15": false
+  },
+  {
+    "country": "Serbia",
+    "n_partners": 11,
+    "total_volume": 1300,
+    "n_fields": 1,
+    "avg_per_partner": 118,
+    "is_top15": false
+  },
+  {
+    "country": "Ukraine",
+    "n_partners": 8,
+    "total_volume": 1296,
+    "n_fields": 1,
+    "avg_per_partner": 162,
+    "is_top15": false
+  },
+  {
+    "country": "Yemen",
+    "n_partners": 6,
+    "total_volume": 1221,
+    "n_fields": 3,
+    "avg_per_partner": 204,
+    "is_top15": false
+  },
+  {
+    "country": "Slovakia",
+    "n_partners": 9,
+    "total_volume": 1204,
+    "n_fields": 1,
+    "avg_per_partner": 134,
+    "is_top15": false
+  },
+  {
+    "country": "Oman",
+    "n_partners": 6,
+    "total_volume": 1196,
+    "n_fields": 3,
+    "avg_per_partner": 199,
+    "is_top15": false
+  },
+  {
+    "country": "Luxembourg",
+    "n_partners": 8,
+    "total_volume": 1142,
+    "n_fields": 1,
+    "avg_per_partner": 143,
+    "is_top15": false
+  },
+  {
+    "country": "Slovenia",
+    "n_partners": 6,
+    "total_volume": 1134,
+    "n_fields": 1,
+    "avg_per_partner": 189,
+    "is_top15": false
+  },
+  {
+    "country": "Argentina",
+    "n_partners": 3,
+    "total_volume": 890,
+    "n_fields": 1,
+    "avg_per_partner": 297,
+    "is_top15": false
+  },
+  {
+    "country": "Philippines",
+    "n_partners": 4,
+    "total_volume": 812,
+    "n_fields": 2,
+    "avg_per_partner": 203,
+    "is_top15": false
+  },
+  {
+    "country": "Ghana",
+    "n_partners": 4,
+    "total_volume": 680,
+    "n_fields": 2,
+    "avg_per_partner": 170,
+    "is_top15": false
+  },
+  {
+    "country": "Peru",
+    "n_partners": 6,
+    "total_volume": 656,
+    "n_fields": 2,
+    "avg_per_partner": 109,
+    "is_top15": false
+  },
+  {
+    "country": "Sri Lanka",
+    "n_partners": 3,
+    "total_volume": 444,
+    "n_fields": 1,
+    "avg_per_partner": 148,
+    "is_top15": false
+  },
+  {
+    "country": "Bahrain",
+    "n_partners": 2,
+    "total_volume": 284,
+    "n_fields": 1,
+    "avg_per_partner": 142,
+    "is_top15": false
+  },
+  {
+    "country": "Croatia",
+    "n_partners": 4,
+    "total_volume": 280,
+    "n_fields": 1,
+    "avg_per_partner": 70,
+    "is_top15": false
+  },
+  {
+    "country": "Nepal",
+    "n_partners": 2,
+    "total_volume": 242,
+    "n_fields": 1,
+    "avg_per_partner": 121,
+    "is_top15": false
+  },
+  {
+    "country": "Estonia",
+    "n_partners": 2,
+    "total_volume": 232,
+    "n_fields": 1,
+    "avg_per_partner": 116,
+    "is_top15": false
+  },
+  {
+    "country": "Kuwait",
+    "n_partners": 3,
+    "total_volume": 232,
+    "n_fields": 1,
+    "avg_per_partner": 77,
+    "is_top15": false
+  },
+  {
+    "country": "Kazakhstan",
+    "n_partners": 3,
+    "total_volume": 230,
+    "n_fields": 1,
+    "avg_per_partner": 77,
+    "is_top15": false
+  },
+  {
+    "country": "Bulgaria",
+    "n_partners": 3,
+    "total_volume": 194,
+    "n_fields": 1,
+    "avg_per_partner": 65,
+    "is_top15": false
+  },
+  {
+    "country": "Uzbekistan",
+    "n_partners": 2,
+    "total_volume": 194,
+    "n_fields": 1,
+    "avg_per_partner": 97,
+    "is_top15": false
+  },
+  {
+    "country": "Sudan",
+    "n_partners": 1,
+    "total_volume": 126,
+    "n_fields": 1,
+    "avg_per_partner": 126,
+    "is_top15": false
+  },
+  {
+    "country": "Iceland",
+    "n_partners": 1,
+    "total_volume": 124,
+    "n_fields": 2,
+    "avg_per_partner": 124,
+    "is_top15": false
+  },
+  {
+    "country": "Lithuania",
+    "n_partners": 2,
+    "total_volume": 114,
+    "n_fields": 1,
+    "avg_per_partner": 57,
+    "is_top15": false
+  },
+  {
+    "country": "Honduras",
+    "n_partners": 1,
+    "total_volume": 110,
+    "n_fields": 1,
+    "avg_per_partner": 110,
+    "is_top15": false
+  },
+  {
+    "country": "Rwanda",
+    "n_partners": 1,
+    "total_volume": 78,
+    "n_fields": 1,
+    "avg_per_partner": 78,
+    "is_top15": false
+  },
+  {
+    "country": "Kenya",
+    "n_partners": 1,
+    "total_volume": 76,
+    "n_fields": 1,
+    "avg_per_partner": 76,
+    "is_top15": false
+  },
+  {
+    "country": "Venezuela",
+    "n_partners": 1,
+    "total_volume": 66,
+    "n_fields": 1,
+    "avg_per_partner": 66,
+    "is_top15": false
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "n_partners": 1,
+    "total_volume": 66,
+    "n_fields": 1,
+    "avg_per_partner": 66,
+    "is_top15": false
+  },
+  {
+    "country": "Brunei",
+    "n_partners": 1,
+    "total_volume": 64,
+    "n_fields": 1,
+    "avg_per_partner": 64,
+    "is_top15": false
+  },
+  {
+    "country": "Belarus",
+    "n_partners": 1,
+    "total_volume": 50,
+    "n_fields": 1,
+    "avg_per_partner": 50,
+    "is_top15": false
+  }
+]

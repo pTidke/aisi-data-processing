@@ -1,0 +1,794 @@
+[
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Agriculture",
+    "patents":65
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Banking and Finance",
+    "patents":73
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Business",
+    "patents":202
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Energy Management",
+    "patents":45
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Industry and Manufacturing",
+    "patents":79
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Life Sciences",
+    "patents":391
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Personal Devices and Computing",
+    "patents":521
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Physical Sciences and Engineering",
+    "patents":80
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Security",
+    "patents":88
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Telecommunications",
+    "patents":217
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Australia",
+    "field":"Transportation",
+    "patents":100
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Agriculture",
+    "patents":621
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Banking and Finance",
+    "patents":1275
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Business",
+    "patents":5397
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Energy Management",
+    "patents":2796
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Industry and Manufacturing",
+    "patents":2016
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Life Sciences",
+    "patents":3574
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Personal Devices and Computing",
+    "patents":20733
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Physical Sciences and Engineering",
+    "patents":1336
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Security",
+    "patents":1321
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Telecommunications",
+    "patents":4969
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"China",
+    "field":"Transportation",
+    "patents":2133
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Agriculture",
+    "patents":6
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Banking and Finance",
+    "patents":33
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Business",
+    "patents":178
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Energy Management",
+    "patents":10
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Industry and Manufacturing",
+    "patents":29
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Life Sciences",
+    "patents":113
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Personal Devices and Computing",
+    "patents":477
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Physical Sciences and Engineering",
+    "patents":13
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Security",
+    "patents":40
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Telecommunications",
+    "patents":134
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"India",
+    "field":"Transportation",
+    "patents":36
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Agriculture",
+    "patents":96
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Banking and Finance",
+    "patents":207
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Business",
+    "patents":633
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Energy Management",
+    "patents":292
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Industry and Manufacturing",
+    "patents":649
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Life Sciences",
+    "patents":1294
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Personal Devices and Computing",
+    "patents":2889
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Physical Sciences and Engineering",
+    "patents":246
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Security",
+    "patents":259
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Telecommunications",
+    "patents":988
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Japan",
+    "field":"Transportation",
+    "patents":1244
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Agriculture",
+    "patents":5
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Banking and Finance",
+    "patents":41
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Business",
+    "patents":73
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Energy Management",
+    "patents":6
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Industry and Manufacturing",
+    "patents":20
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Life Sciences",
+    "patents":118
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Personal Devices and Computing",
+    "patents":186
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Physical Sciences and Engineering",
+    "patents":31
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Security",
+    "patents":42
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Telecommunications",
+    "patents":86
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"Singapore",
+    "field":"Transportation",
+    "patents":28
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Agriculture",
+    "patents":147
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Banking and Finance",
+    "patents":230
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Business",
+    "patents":1123
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Energy Management",
+    "patents":439
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Industry and Manufacturing",
+    "patents":491
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Life Sciences",
+    "patents":1276
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Personal Devices and Computing",
+    "patents":2767
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Physical Sciences and Engineering",
+    "patents":309
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Security",
+    "patents":434
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Telecommunications",
+    "patents":1526
+  },
+  {
+    "region":"Asia-Pacific",
+    "country":"South Korea",
+    "field":"Transportation",
+    "patents":733
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Agriculture",
+    "patents":68
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Banking and Finance",
+    "patents":107
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Business",
+    "patents":297
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Energy Management",
+    "patents":59
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Industry and Manufacturing",
+    "patents":112
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Life Sciences",
+    "patents":535
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Personal Devices and Computing",
+    "patents":764
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Physical Sciences and Engineering",
+    "patents":146
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Security",
+    "patents":119
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Telecommunications",
+    "patents":300
+  },
+  {
+    "region":"Americas",
+    "country":"Canada",
+    "field":"Transportation",
+    "patents":190
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Agriculture",
+    "patents":406
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Banking and Finance",
+    "patents":1675
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Business",
+    "patents":5310
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Energy Management",
+    "patents":661
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Industry and Manufacturing",
+    "patents":1206
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Life Sciences",
+    "patents":4867
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Personal Devices and Computing",
+    "patents":18456
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Physical Sciences and Engineering",
+    "patents":869
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Security",
+    "patents":2367
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Telecommunications",
+    "patents":8036
+  },
+  {
+    "region":"Americas",
+    "country":"United States",
+    "field":"Transportation",
+    "patents":4160
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Agriculture",
+    "patents":22
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Banking and Finance",
+    "patents":34
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Business",
+    "patents":95
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Energy Management",
+    "patents":35
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Industry and Manufacturing",
+    "patents":57
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Life Sciences",
+    "patents":324
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Personal Devices and Computing",
+    "patents":520
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Physical Sciences and Engineering",
+    "patents":30
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Security",
+    "patents":59
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Telecommunications",
+    "patents":212
+  },
+  {
+    "region":"Other",
+    "country":"European Patent Organization",
+    "field":"Transportation",
+    "patents":119
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Agriculture",
+    "patents":12
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Banking and Finance",
+    "patents":61
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Business",
+    "patents":97
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Energy Management",
+    "patents":66
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Industry and Manufacturing",
+    "patents":133
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Life Sciences",
+    "patents":170
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Personal Devices and Computing",
+    "patents":452
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Physical Sciences and Engineering",
+    "patents":48
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Security",
+    "patents":56
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Telecommunications",
+    "patents":222
+  },
+  {
+    "region":"Europe",
+    "country":"Germany",
+    "field":"Transportation",
+    "patents":546
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Agriculture",
+    "patents":5
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Banking and Finance",
+    "patents":18
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Business",
+    "patents":57
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Energy Management",
+    "patents":6
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Industry and Manufacturing",
+    "patents":18
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Life Sciences",
+    "patents":100
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Personal Devices and Computing",
+    "patents":293
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Physical Sciences and Engineering",
+    "patents":24
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Security",
+    "patents":54
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Telecommunications",
+    "patents":106
+  },
+  {
+    "region":"Europe",
+    "country":"Russia",
+    "field":"Transportation",
+    "patents":61
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Agriculture",
+    "patents":13
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Banking and Finance",
+    "patents":40
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Business",
+    "patents":130
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Energy Management",
+    "patents":27
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Industry and Manufacturing",
+    "patents":57
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Life Sciences",
+    "patents":178
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Personal Devices and Computing",
+    "patents":436
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Physical Sciences and Engineering",
+    "patents":76
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Security",
+    "patents":80
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Telecommunications",
+    "patents":190
+  },
+  {
+    "region":"Europe",
+    "country":"United Kingdom",
+    "field":"Transportation",
+    "patents":120
+  }
+]

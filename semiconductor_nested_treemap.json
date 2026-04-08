@@ -1,0 +1,496 @@
+[
+  {
+    "name": "Tool Resource",
+    "value": 287.74,
+    "children": [
+      {
+        "name": "Lithography tools",
+        "value": 29.1,
+        "children": [
+          {
+            "name": "Netherlands",
+            "value": 22.84,
+            "share_pct": 78.5
+          },
+          {
+            "name": "Japan",
+            "value": 5.06,
+            "share_pct": 17.4
+          },
+          {
+            "name": "Austria",
+            "value": 0.47,
+            "share_pct": 1.6
+          },
+          {
+            "name": "Germany",
+            "value": 0.29,
+            "share_pct": 1.0
+          },
+          {
+            "name": "United States",
+            "value": 0.23,
+            "share_pct": 0.8
+          },
+          {
+            "name": "Others",
+            "value": 0.2,
+            "share_pct": 0.7
+          }
+        ]
+      },
+      {
+        "name": "Etch and clean tools",
+        "value": 24.7,
+        "children": [
+          {
+            "name": "United States",
+            "value": 12.33,
+            "share_pct": 49.9
+          },
+          {
+            "name": "Japan",
+            "value": 9.31,
+            "share_pct": 37.7
+          },
+          {
+            "name": "China",
+            "value": 2.1,
+            "share_pct": 8.5
+          },
+          {
+            "name": "South Korea",
+            "value": 0.69,
+            "share_pct": 2.8
+          },
+          {
+            "name": "Taiwan",
+            "value": 0.05,
+            "share_pct": 0.2
+          },
+          {
+            "name": "Others",
+            "value": 0.22,
+            "share_pct": 0.9
+          }
+        ]
+      },
+      {
+        "name": "Deposition tools",
+        "value": 24.1,
+        "children": [
+          {
+            "name": "United States",
+            "value": 14.82,
+            "share_pct": 61.5
+          },
+          {
+            "name": "Japan",
+            "value": 3.66,
+            "share_pct": 15.2
+          },
+          {
+            "name": "Netherlands",
+            "value": 2.58,
+            "share_pct": 10.7
+          },
+          {
+            "name": "China",
+            "value": 1.78,
+            "share_pct": 7.4
+          },
+          {
+            "name": "South Korea",
+            "value": 0.77,
+            "share_pct": 3.2
+          },
+          {
+            "name": "Others",
+            "value": 0.48,
+            "share_pct": 2.0
+          }
+        ]
+      },
+      {
+        "name": "Dry etching and cleaning tools",
+        "value": 19.1,
+        "children": [
+          {
+            "name": "United States",
+            "value": 11.06,
+            "share_pct": 57.9
+          },
+          {
+            "name": "Japan",
+            "value": 5.46,
+            "share_pct": 28.6
+          },
+          {
+            "name": "China",
+            "value": 2.08,
+            "share_pct": 10.9
+          },
+          {
+            "name": "South Korea",
+            "value": 0.32,
+            "share_pct": 1.7
+          },
+          {
+            "name": "Netherlands",
+            "value": 0.04,
+            "share_pct": 0.2
+          },
+          {
+            "name": "Others",
+            "value": 0.13,
+            "share_pct": 0.7
+          }
+        ]
+      },
+      {
+        "name": "Dry etch tools",
+        "value": 18.5,
+        "children": [
+          {
+            "name": "United States",
+            "value": 10.86,
+            "share_pct": 58.7
+          },
+          {
+            "name": "Japan",
+            "value": 5.35,
+            "share_pct": 28.9
+          },
+          {
+            "name": "China",
+            "value": 1.98,
+            "share_pct": 10.7
+          },
+          {
+            "name": "South Korea",
+            "value": 0.18,
+            "share_pct": 1.0
+          },
+          {
+            "name": "United Kingdom",
+            "value": 0.02,
+            "share_pct": 0.1
+          },
+          {
+            "name": "Others",
+            "value": 0.11,
+            "share_pct": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Other Markets",
+        "value": 172.24,
+        "children": [
+          {
+            "name": "Various",
+            "value": 172.24,
+            "share_pct": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Process",
+    "value": 614.1,
+    "children": [
+      {
+        "name": "Chip design",
+        "value": 574.1,
+        "children": [
+          {
+            "name": "United States",
+            "value": 373.17,
+            "share_pct": 65.0
+          },
+          {
+            "name": "Taiwan",
+            "value": 63.15,
+            "share_pct": 11.0
+          },
+          {
+            "name": "Europe",
+            "value": 51.67,
+            "share_pct": 9.0
+          },
+          {
+            "name": "China",
+            "value": 28.71,
+            "share_pct": 5.0
+          },
+          {
+            "name": "Japan",
+            "value": 22.96,
+            "share_pct": 4.0
+          },
+          {
+            "name": "Others",
+            "value": 34.45,
+            "share_pct": 6.0
+          }
+        ]
+      },
+      {
+        "name": "Fabrication materials",
+        "value": 40.0,
+        "children": [
+          {
+            "name": "Others",
+            "value": 40.0,
+            "share_pct": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Design Resource",
+    "value": 648.0,
+    "children": [
+      {
+        "name": "Logic chip design",
+        "value": 255.7,
+        "children": [
+          {
+            "name": "Others",
+            "value": 255.7,
+            "share_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "DAO chip design",
+        "value": 188.7,
+        "children": [
+          {
+            "name": "United States",
+            "value": 77.37,
+            "share_pct": 41.0
+          },
+          {
+            "name": "Japan",
+            "value": 33.97,
+            "share_pct": 18.0
+          },
+          {
+            "name": "Europe",
+            "value": 32.08,
+            "share_pct": 17.0
+          },
+          {
+            "name": "China",
+            "value": 16.98,
+            "share_pct": 9.0
+          },
+          {
+            "name": "Taiwan",
+            "value": 9.44,
+            "share_pct": 5.0
+          },
+          {
+            "name": "Others",
+            "value": 18.87,
+            "share_pct": 10.0
+          }
+        ]
+      },
+      {
+        "name": "Memory chip design",
+        "value": 129.8,
+        "children": [
+          {
+            "name": "South Korea",
+            "value": 77.88,
+            "share_pct": 60.0
+          },
+          {
+            "name": "United States",
+            "value": 32.45,
+            "share_pct": 25.0
+          },
+          {
+            "name": "Japan",
+            "value": 9.09,
+            "share_pct": 7.0
+          },
+          {
+            "name": "Taiwan",
+            "value": 5.19,
+            "share_pct": 4.0
+          },
+          {
+            "name": "China",
+            "value": 3.89,
+            "share_pct": 3.0
+          },
+          {
+            "name": "Others",
+            "value": 1.3,
+            "share_pct": 1.0
+          }
+        ]
+      },
+      {
+        "name": "Advanced CPUs",
+        "value": 56.2,
+        "children": [
+          {
+            "name": "Others",
+            "value": 56.2,
+            "share_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "Discrete GPUs",
+        "value": 11.9,
+        "children": [
+          {
+            "name": "Others",
+            "value": 11.9,
+            "share_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "Other Markets",
+        "value": 5.7,
+        "children": [
+          {
+            "name": "Various",
+            "value": 5.7,
+            "share_pct": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Material Resource",
+    "value": 55.6,
+    "children": [
+      {
+        "name": "ATP materials",
+        "value": 24.0,
+        "children": [
+          {
+            "name": "Others",
+            "value": 24.0,
+            "share_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "Wafer",
+        "value": 10.9,
+        "children": [
+          {
+            "name": "Japan",
+            "value": 6.1,
+            "share_pct": 56.0
+          },
+          {
+            "name": "Taiwan",
+            "value": 1.74,
+            "share_pct": 16.0
+          },
+          {
+            "name": "Germany",
+            "value": 1.53,
+            "share_pct": 14.0
+          },
+          {
+            "name": "South Korea",
+            "value": 1.09,
+            "share_pct": 10.0
+          },
+          {
+            "name": "China",
+            "value": 0.44,
+            "share_pct": 4.0
+          }
+        ]
+      },
+      {
+        "name": "Electronic gases",
+        "value": 6.0,
+        "children": [
+          {
+            "name": "Others",
+            "value": 6.0,
+            "share_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "Photomasks",
+        "value": 4.0,
+        "children": [
+          {
+            "name": "Japan",
+            "value": 2.12,
+            "share_pct": 53.0
+          },
+          {
+            "name": "United States",
+            "value": 1.6,
+            "share_pct": 40.0
+          },
+          {
+            "name": "Taiwan",
+            "value": 0.28,
+            "share_pct": 7.0
+          }
+        ]
+      },
+      {
+        "name": "Core intellectual property",
+        "value": 3.9,
+        "children": [
+          {
+            "name": "United States",
+            "value": 2.03,
+            "share_pct": 52.0
+          },
+          {
+            "name": "United Kingdom",
+            "value": 1.68,
+            "share_pct": 43.0
+          },
+          {
+            "name": "China",
+            "value": 0.08,
+            "share_pct": 2.0
+          },
+          {
+            "name": "Taiwan",
+            "value": 0.04,
+            "share_pct": 1.0
+          },
+          {
+            "name": "Others",
+            "value": 0.08,
+            "share_pct": 2.0
+          }
+        ]
+      },
+      {
+        "name": "Other Markets",
+        "value": 6.8,
+        "children": [
+          {
+            "name": "Various",
+            "value": 6.8,
+            "share_pct": 100.0
+          }
+        ]
+      }
+    ]
+  }
+]

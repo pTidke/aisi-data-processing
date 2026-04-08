@@ -1,0 +1,613 @@
+{
+  "name": "Global AI Patents",
+  "children": [
+    {
+      "name": "Asia-Pacific",
+      "children": [
+        {
+          "name": "Australia",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 521
+            },
+            {
+              "name": "Life Sciences",
+              "value": 391
+            },
+            {
+              "name": "Telecommunications",
+              "value": 217
+            },
+            {
+              "name": "Business",
+              "value": 202
+            },
+            {
+              "name": "Transportation",
+              "value": 100
+            },
+            {
+              "name": "Security",
+              "value": 88
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 80
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 79
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 73
+            },
+            {
+              "name": "Agriculture",
+              "value": 65
+            },
+            {
+              "name": "Energy Management",
+              "value": 45
+            }
+          ]
+        },
+        {
+          "name": "China",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 20733
+            },
+            {
+              "name": "Business",
+              "value": 5397
+            },
+            {
+              "name": "Telecommunications",
+              "value": 4969
+            },
+            {
+              "name": "Life Sciences",
+              "value": 3574
+            },
+            {
+              "name": "Energy Management",
+              "value": 2796
+            },
+            {
+              "name": "Transportation",
+              "value": 2133
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 2016
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 1336
+            },
+            {
+              "name": "Security",
+              "value": 1321
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 1275
+            },
+            {
+              "name": "Agriculture",
+              "value": 621
+            }
+          ]
+        },
+        {
+          "name": "India",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 477
+            },
+            {
+              "name": "Business",
+              "value": 178
+            },
+            {
+              "name": "Telecommunications",
+              "value": 134
+            },
+            {
+              "name": "Life Sciences",
+              "value": 113
+            },
+            {
+              "name": "Security",
+              "value": 40
+            },
+            {
+              "name": "Transportation",
+              "value": 36
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 33
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 29
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 13
+            },
+            {
+              "name": "Energy Management",
+              "value": 10
+            },
+            {
+              "name": "Agriculture",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Japan",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 2889
+            },
+            {
+              "name": "Life Sciences",
+              "value": 1294
+            },
+            {
+              "name": "Transportation",
+              "value": 1244
+            },
+            {
+              "name": "Telecommunications",
+              "value": 988
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 649
+            },
+            {
+              "name": "Business",
+              "value": 633
+            },
+            {
+              "name": "Energy Management",
+              "value": 292
+            },
+            {
+              "name": "Security",
+              "value": 259
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 246
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 207
+            },
+            {
+              "name": "Agriculture",
+              "value": 96
+            }
+          ]
+        },
+        {
+          "name": "Singapore",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 186
+            },
+            {
+              "name": "Life Sciences",
+              "value": 118
+            },
+            {
+              "name": "Telecommunications",
+              "value": 86
+            },
+            {
+              "name": "Business",
+              "value": 73
+            },
+            {
+              "name": "Security",
+              "value": 42
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 41
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 31
+            },
+            {
+              "name": "Transportation",
+              "value": 28
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 20
+            },
+            {
+              "name": "Energy Management",
+              "value": 6
+            },
+            {
+              "name": "Agriculture",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "South Korea",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 2767
+            },
+            {
+              "name": "Telecommunications",
+              "value": 1526
+            },
+            {
+              "name": "Life Sciences",
+              "value": 1276
+            },
+            {
+              "name": "Business",
+              "value": 1123
+            },
+            {
+              "name": "Transportation",
+              "value": 733
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 491
+            },
+            {
+              "name": "Energy Management",
+              "value": 439
+            },
+            {
+              "name": "Security",
+              "value": 434
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 309
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 230
+            },
+            {
+              "name": "Agriculture",
+              "value": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "children": [
+        {
+          "name": "Canada",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 764
+            },
+            {
+              "name": "Life Sciences",
+              "value": 535
+            },
+            {
+              "name": "Telecommunications",
+              "value": 300
+            },
+            {
+              "name": "Business",
+              "value": 297
+            },
+            {
+              "name": "Transportation",
+              "value": 190
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 146
+            },
+            {
+              "name": "Security",
+              "value": 119
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 112
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 107
+            },
+            {
+              "name": "Agriculture",
+              "value": 68
+            },
+            {
+              "name": "Energy Management",
+              "value": 59
+            }
+          ]
+        },
+        {
+          "name": "United States",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 18456
+            },
+            {
+              "name": "Telecommunications",
+              "value": 8036
+            },
+            {
+              "name": "Business",
+              "value": 5310
+            },
+            {
+              "name": "Life Sciences",
+              "value": 4867
+            },
+            {
+              "name": "Transportation",
+              "value": 4160
+            },
+            {
+              "name": "Security",
+              "value": 2367
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 1675
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 1206
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 869
+            },
+            {
+              "name": "Energy Management",
+              "value": 661
+            },
+            {
+              "name": "Agriculture",
+              "value": 406
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "children": [
+        {
+          "name": "European Patent Organization",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 520
+            },
+            {
+              "name": "Life Sciences",
+              "value": 324
+            },
+            {
+              "name": "Telecommunications",
+              "value": 212
+            },
+            {
+              "name": "Transportation",
+              "value": 119
+            },
+            {
+              "name": "Business",
+              "value": 95
+            },
+            {
+              "name": "Security",
+              "value": 59
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 57
+            },
+            {
+              "name": "Energy Management",
+              "value": 35
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 34
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 30
+            },
+            {
+              "name": "Agriculture",
+              "value": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "children": [
+        {
+          "name": "Germany",
+          "children": [
+            {
+              "name": "Transportation",
+              "value": 546
+            },
+            {
+              "name": "Personal Devices and Computing",
+              "value": 452
+            },
+            {
+              "name": "Telecommunications",
+              "value": 222
+            },
+            {
+              "name": "Life Sciences",
+              "value": 170
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 133
+            },
+            {
+              "name": "Business",
+              "value": 97
+            },
+            {
+              "name": "Energy Management",
+              "value": 66
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 61
+            },
+            {
+              "name": "Security",
+              "value": 56
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 48
+            },
+            {
+              "name": "Agriculture",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "name": "Russia",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 293
+            },
+            {
+              "name": "Telecommunications",
+              "value": 106
+            },
+            {
+              "name": "Life Sciences",
+              "value": 100
+            },
+            {
+              "name": "Transportation",
+              "value": 61
+            },
+            {
+              "name": "Business",
+              "value": 57
+            },
+            {
+              "name": "Security",
+              "value": 54
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 24
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 18
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 18
+            },
+            {
+              "name": "Energy Management",
+              "value": 6
+            },
+            {
+              "name": "Agriculture",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "United Kingdom",
+          "children": [
+            {
+              "name": "Personal Devices and Computing",
+              "value": 436
+            },
+            {
+              "name": "Telecommunications",
+              "value": 190
+            },
+            {
+              "name": "Life Sciences",
+              "value": 178
+            },
+            {
+              "name": "Business",
+              "value": 130
+            },
+            {
+              "name": "Transportation",
+              "value": 120
+            },
+            {
+              "name": "Security",
+              "value": 80
+            },
+            {
+              "name": "Physical Sciences and Engineering",
+              "value": 76
+            },
+            {
+              "name": "Industry and Manufacturing",
+              "value": 57
+            },
+            {
+              "name": "Banking and Finance",
+              "value": 40
+            },
+            {
+              "name": "Energy Management",
+              "value": 27
+            },
+            {
+              "name": "Agriculture",
+              "value": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
